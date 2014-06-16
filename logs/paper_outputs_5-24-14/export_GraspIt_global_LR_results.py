@@ -1,0 +1,1 @@
+../../export_GraspIt_global_LR_results.py

@@ -1,0 +1,664 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+binThreshold:15
+
+Completed iteration:1
+Prediction points:13
+  TP     FP     TN     FN
+     4     0     1     8
+
+Precision / Recall
+    1.0000    0.3333
+
+
+Completed iteration:2
+Prediction points:12
+  TP     FP     TN     FN
+     6     4     0     2
+
+Precision / Recall
+    0.6000    0.7500
+
+
+Completed iteration:3
+Prediction points:31
+  TP     FP     TN     FN
+     0     2     4    25
+
+Precision / Recall
+     0     0
+
+
+Completed iteration:4
+Prediction points:24
+  TP     FP     TN     FN
+     6     4     3    11
+
+Precision / Recall
+    0.6000    0.3529
+
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:6
+Prediction points:19
+  TP     FP     TN     FN
+     0     2     4    13
+
+Precision / Recall
+     0     0
+
+
+Completed iteration:7
+Prediction points:25
+  TP     FP     TN     FN
+     1     0     3    21
+
+Precision / Recall
+    1.0000    0.0455
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:10
+Prediction points:15
+  TP     FP     TN     FN
+     4     0     4     7
+
+Precision / Recall
+    1.0000    0.3636
+
+
+Completed iteration:11
+Prediction points:36
+  TP     FP     TN     FN
+     5     2     5    24
+
+Precision / Recall
+    0.7143    0.1724
+
+
+Completed iteration:12
+Prediction points:16
+  TP     FP     TN     FN
+     1     0     1    14
+
+Precision / Recall
+    1.0000    0.0667
+
+
+Completed iteration:13
+Prediction points:22
+  TP     FP     TN     FN
+     7     5     5     5
+
+Precision / Recall
+    0.5833    0.5833
+
+
+Completed iteration:14
+Prediction points:19
+  TP     FP     TN     FN
+     6     2     3     8
+
+Precision / Recall
+    0.7500    0.4286
+
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:16
+Prediction points:35
+  TP     FP     TN     FN
+     3     0     8    24
+
+Precision / Recall
+    1.0000    0.1111
+
+
+Completed iteration:17
+Prediction points:10
+  TP     FP     TN     FN
+     4     1     4     1
+
+Precision / Recall
+    0.8000    0.8000
+
+
+Completed iteration:18
+Prediction points:18
+  TP     FP     TN     FN
+     3     5     3     7
+
+Precision / Recall
+    0.3750    0.3000
+
+
+Completed iteration:19
+Prediction points:28
+  TP     FP     TN     FN
+     0     1     7    20
+
+Precision / Recall
+     0     0
+
+
+Completed iteration:20
+Prediction points:28
+  TP     FP     TN     FN
+     2     2     4    20
+
+Precision / Recall
+    0.5000    0.0909
+
+
+Completed iteration:21
+Prediction points:20
+  TP     FP     TN     FN
+     6     2     4     8
+
+Precision / Recall
+    0.7500    0.4286
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:25
+Prediction points:11
+  TP     FP     TN     FN
+     1     2     2     6
+
+Precision / Recall
+    0.3333    0.1429
+
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:27
+Prediction points:30
+  TP     FP     TN     FN
+     2     2     8    18
+
+Precision / Recall
+    0.5000    0.1000
+
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:29
+Prediction points:17
+  TP     FP     TN     FN
+     3     0     3    11
+
+Precision / Recall
+    1.0000    0.2143
+
+
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+AUC ave err std
+    0.4886
+
+    0.1327
+
+    0.1327
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6400    0.2019
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:13
+Prediction points:12
+  TP     FP     TN     FN
+     2     0     1     9
+
+Precision / Recall
+    1.0000    0.1818
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:19
+Prediction points:12
+  TP     FP     TN     FN
+     4     3     3     2
+
+Precision / Recall
+    0.5714    0.6667
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:22
+Prediction points:16
+  TP     FP     TN     FN
+     1     0     4    11
+
+Precision / Recall
+    1.0000    0.0833
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:29
+Prediction points:18
+  TP     FP     TN     FN
+     1     0     6    11
+
+Precision / Recall
+    1.0000    0.0833
+
+
+Completed iteration:30
+Prediction points:11
+  TP     FP     TN     FN
+     6     2     3     0
+
+Precision / Recall
+    0.7500    1.0000
+
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+AUC ave err std
+    0.6115
+
+    0.1078
+
+    0.1078
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6602    0.2138
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:4
+Prediction points:15
+  TP     FP     TN     FN
+     1     0     5     9
+
+Precision / Recall
+    1.0000    0.1000
+
+
+Completed iteration:5
+Prediction points:12
+  TP     FP     TN     FN
+     6     4     1     1
+
+Precision / Recall
+    0.6000    0.8571
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:25
+Prediction points:12
+  TP     FP     TN     FN
+     8     1     1     2
+
+Precision / Recall
+    0.8889    0.8000
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+AUC ave err std
+    0.5762
+
+    0.0648
+
+    0.0648
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6909    0.2368
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:4
+Prediction points:11
+  TP     FP     TN     FN
+     7     1     2     1
+
+Precision / Recall
+    0.8750    0.8750
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:16
+Prediction points:10
+  TP     FP     TN     FN
+     0     1     1     8
+
+Precision / Recall
+     0     0
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:20
+Prediction points:17
+  TP     FP     TN     FN
+     4     0     5     8
+
+Precision / Recall
+    1.0000    0.3333
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:23
+Prediction points:15
+  TP     FP     TN     FN
+     5     5     4     1
+
+Precision / Recall
+    0.5000    0.8333
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:30
+Prediction points:13
+  TP     FP     TN     FN
+     3     2     2     6
+
+Precision / Recall
+    0.6000    0.3333
+
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+AUC ave err std
+    0.5486
+
+    0.2110
+
+    0.2110
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6803    0.2776
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:7
+Prediction points:12
+  TP     FP     TN     FN
+     1     0     3     8
+
+Precision / Recall
+    1.0000    0.1111
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:14
+Prediction points:10
+  TP     FP     TN     FN
+     2     2     2     4
+
+Precision / Recall
+    0.5000    0.3333
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:24
+Prediction points:20
+  TP     FP     TN     FN
+     8     2     4     6
+
+Precision / Recall
+    0.8000    0.5714
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+AUC ave err std
+    0.5304
+
+    0.1035
+
+    0.1035
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6797    0.2979
+
+    TPR       FPR       TNR       FNR       cutoff
+computation time (s)
+  557.0780
+

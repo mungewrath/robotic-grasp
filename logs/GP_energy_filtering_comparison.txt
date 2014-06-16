@@ -1,0 +1,262 @@
+--- 10x10 ---
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+AUC ave err std
+    0.5590
+
+    0.0237
+
+    0.0237
+
+Precision / Recall macro
+    0.7312    0.9363
+
+Precision / Recall micro
+    0.7314    0.9388
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+AUC ave err std
+    0.5673
+
+    0.0303
+
+    0.0303
+
+Precision / Recall macro
+    0.7183    0.9647
+
+Precision / Recall micro
+    0.7187    0.9649
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+AUC ave err std
+    0.5606
+
+    0.0394
+
+    0.0394
+
+Precision / Recall macro
+    0.7178    0.9363
+
+Precision / Recall micro
+    0.7145    0.9357
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+AUC ave err std
+    0.5241
+
+    0.0775
+
+    0.0775
+
+Precision / Recall macro
+    0.6910    0.7989
+
+Precision / Recall micro
+    0.7031    0.8559
+	
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+AUC ave err std
+    0.5293
+
+    0.1521
+
+    0.1521
+
+Precision / Recall macro
+    0.6904    0.6698
+
+Precision / Recall micro
+    0.7204    0.8088
+	
+	
+Overall results (hybrid)
+Confidence threshold=1
+Filtered datapoints
+AUC ave err std
+    0.4952
+
+    0.1764
+
+    0.1764
+
+Precision / Recall macro
+    0.6250    0.5390
+
+Precision / Recall micro
+    0.6970    0.6487
+	
+	
+--- 20x20 ---
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+AUC ave err std
+    0.5609
+
+    0.0238
+
+    0.0238
+
+Precision / Recall macro
+    0.7318    0.9404
+
+Precision / Recall micro
+    0.7313    0.9431
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+AUC ave err std
+    0.5676
+
+    0.0317
+
+    0.0317
+
+Precision / Recall macro
+    0.7156    0.9641
+
+Precision / Recall micro
+    0.7163    0.9643
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+AUC ave err std
+    0.5525
+
+    0.0528
+
+    0.0528
+
+Precision / Recall macro
+    0.7059    0.9226
+
+Precision / Recall micro
+    0.7110    0.9373
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+AUC ave err std
+    0.5323
+
+    0.0535
+
+    0.0535
+
+Precision / Recall macro
+    0.6977    0.8544
+
+Precision / Recall micro
+    0.7078    0.8702
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+AUC ave err std
+    0.5323
+
+    0.0535
+
+    0.0535
+
+Precision / Recall macro
+    0.6977    0.8544
+
+Precision / Recall micro
+    0.7078    0.8702
+	
+	
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+AUC ave err std
+    0.5441
+
+    0.0813
+
+    0.0813
+
+Precision / Recall macro
+    0.7582    0.7047
+
+Precision / Recall micro
+    0.7366    0.7095
+
+	
+Overall results (hybrid)
+Confidence threshold=1
+Filtered datapoints
+AUC ave err std
+    0.5202
+
+    0.1157
+
+    0.1157
+
+Precision / Recall macro
+    0.6771    0.6753
+
+Precision / Recall micro
+    0.6957    0.6694
+
+	
+--- physical baseline ---
+Baseline
+AUC ave err std
+    0.6630
+
+    0.0447
+
+    0.0447
+
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1483    0.2105    0.2800
+    0.0314    0.0325    0.0294
+    0.0314    0.0325    0.0294
+
+Overall results
+Precision / Recall macro
+    0.7771    0.7471
+
+Precision / Recall micro
+    0.7773    0.7482
+
+
+--- energy baseline ---
+Overall results (hybrid)
+All datapoints used
+AUC ave err std
+    0.5589
+
+    0.0238
+
+    0.0238
+
+Precision / Recall macro
+    0.7284    0.9363
+
+Precision / Recall micro
+    0.7283    0.9359

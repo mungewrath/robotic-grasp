@@ -1,0 +1,77 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+binThreshold:10
+
+Number of bins: 41Average bin size: 5.951220e+00Completed iteration:1
+Prediction points:49
+  TP     FP     TN     FN
+    13     4    10    22
+
+Precision / Recall
+    0.7647    0.3714
+
+
+Number of bins: 40Average bin size: 6.100000e+00Completed iteration:2
+Prediction points:37
+  TP     FP     TN     FN
+     7     4    12    14
+
+Precision / Recall
+    0.6364    0.3333
+
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('infExact', 'Z:\RobotGrasp2\inf\infExact.m', 23)" style="font-weight:bold">infExact</a> (<a href="matlab: opentoline('Z:\RobotGrasp2\inf\infExact.m',23,0)">line 23</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('gp', 'Z:\RobotGrasp2\gp.m', 112)" style="font-weight:bold">gp</a> (<a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',112,0)">line 112</a>)
+      [post nlZ dnlZ] = inf(hyp, mean, cov, lik, x, y);
+
+In <a href="matlab:helpUtils.errorDocCallback('minimize', 'Z:\RobotGrasp2\util\minimize.m', 141)" style="font-weight:bold">minimize</a> (<a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,0)">line 141</a>)
+    [f3 df3] = feval(f, rewrap(Z,X+x3*s), varargin{:});
+
+In <a href="matlab:helpUtils.errorDocCallback('GP_GraspIt_TP_hybrid_kdtree', 'Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m', 268)" style="font-weight:bold">GP_GraspIt_TP_hybrid_kdtree</a> (<a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',268,0)">line 268</a>)
+        hyp = minimize(hyp, @gp, -1000, inffunc, meanfunc, covfunc, likfunc, trainData, trainy);
+
+In <a href="matlab:helpUtils.errorDocCallback('runBatchEnergyHybrid', 'Z:\Thesis\runBatchEnergyHybrid.m', 5)" style="font-weight:bold">runBatchEnergyHybrid</a> (<a href="matlab: opentoline('Z:\Thesis\runBatchEnergyHybrid.m',5,0)">line 5</a>)
+        GP_GraspIt_TP_hybrid_kdtree(energycutoffBase,binThreshold);
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+runBatchEnergyHybrid
+    30
+
+    10
+
+[Warning: Directory access failure: Z:\Thesis\thesisStartup.m] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',13,1)">GP_GraspIt_TP_hybrid_kdtree at 13</a>
+  In <a href="matlab: opentoline('Z:\Thesis\runBatchEnergyHybrid.m',5,1)">runBatchEnergyHybrid at 5</a>] 
+[Warning: Directory access failure: Z:\Thesis\thesisCleanup.m] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',14,1)">GP_GraspIt_TP_hybrid_kdtree at 14</a>
+  In <a href="matlab: opentoline('Z:\Thesis\runBatchEnergyHybrid.m',5,1)">runBatchEnergyHybrid at 5</a>] 

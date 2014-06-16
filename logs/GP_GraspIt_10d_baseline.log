@@ -1,0 +1,16 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+binThreshold:20
+energy base:30
+using confidence:1
+if system_dependent('IsDebugMode')==1, dbquit; end
+GP_GraspIt_TP_10d_hybrid_kdtree(30, 20)
+[Warning: Directory access failure: Z:\Thesis\thesisStartup.m] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_10d_hybrid_kdtree.m',8,1)">GP_GraspIt_TP_10d_hybrid_kdtree at 8</a>] 
+[Warning: Directory access failure: Z:\Thesis\thesisCleanup.m] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_10d_hybrid_kdtree.m',9,1)">GP_GraspIt_TP_10d_hybrid_kdtree at 9</a>] 

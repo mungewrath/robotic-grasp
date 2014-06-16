@@ -1,0 +1,943 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+binThreshold:20
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Completed iteration:1
+Prediction points:13
+  TP     FP     TN     FN
+     4     0     1     8
+
+Precision / Recall
+    1.0000    0.3333
+
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Completed iteration:2
+Prediction points:12
+  TP     FP     TN     FN
+     6     4     0     2
+
+Precision / Recall
+    0.6000    0.7500
+
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:3
+Prediction points:18
+  TP     FP     TN     FN
+     0     2     3    13
+
+Precision / Recall
+     0     0
+
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:6
+Prediction points:19
+  TP     FP     TN     FN
+     0     2     4    13
+
+Precision / Recall
+     0     0
+
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:7
+Prediction points:25
+  TP     FP     TN     FN
+     1     0     3    21
+
+Precision / Recall
+    1.0000    0.0455
+
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Completed iteration:10
+Prediction points:11
+  TP     FP     TN     FN
+     4     0     3     4
+
+Precision / Recall
+    1.0000    0.5000
+
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Completed iteration:11
+Prediction points:19
+  TP     FP     TN     FN
+     5     2     4     8
+
+Precision / Recall
+    0.7143    0.3846
+
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:12
+Prediction points:16
+  TP     FP     TN     FN
+     1     0     1    14
+
+Precision / Recall
+    1.0000    0.0667
+
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Completed iteration:13
+Prediction points:17
+  TP     FP     TN     FN
+     7     5     3     2
+
+Precision / Recall
+    0.5833    0.7778
+
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Completed iteration:14
+Prediction points:19
+  TP     FP     TN     FN
+     6     2     3     8
+
+Precision / Recall
+    0.7500    0.4286
+
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Completed iteration:15
+Prediction points:19
+  TP     FP     TN     FN
+     8     9     2     0
+
+Precision / Recall
+    0.4706    1.0000
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Completed iteration:16
+Prediction points:41
+  TP     FP     TN     FN
+     3     0     8    30
+
+Precision / Recall
+    1.0000    0.0909
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Completed iteration:17
+Prediction points:22
+  TP     FP     TN     FN
+     2     1     4    15
+
+Precision / Recall
+    0.6667    0.1176
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Completed iteration:18
+Prediction points:18
+  TP     FP     TN     FN
+     3     5     3     7
+
+Precision / Recall
+    0.3750    0.3000
+
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Completed iteration:19
+Prediction points:26
+  TP     FP     TN     FN
+     0     1     6    19
+
+Precision / Recall
+     0     0
+
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Completed iteration:20
+Prediction points:18
+  TP     FP     TN     FN
+     1     1     2    14
+
+Precision / Recall
+    0.5000    0.0667
+
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Completed iteration:21
+Prediction points:18
+  TP     FP     TN     FN
+     2     0     4    12
+
+Precision / Recall
+    1.0000    0.1429
+
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Completed iteration:25
+Prediction points:19
+  TP     FP     TN     FN
+     9     3     4     3
+
+Precision / Recall
+    0.7500    0.7500
+
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Completed iteration:27
+Prediction points:22
+  TP     FP     TN     FN
+     1     1     6    14
+
+Precision / Recall
+    0.5000    0.0667
+
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Completed iteration:29
+Prediction points:17
+  TP     FP     TN     FN
+     3     0     3    11
+
+Precision / Recall
+    1.0000    0.2143
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+AUC ave err std
+    0.5063
+
+    0.1228
+
+    0.1228
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6346    0.2324
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Completed iteration:8
+Prediction points:17
+  TP     FP     TN     FN
+     2     1     1    13
+
+Precision / Recall
+    0.6667    0.1333
+
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Completed iteration:9
+Prediction points:16
+  TP     FP     TN     FN
+     1     1     6     8
+
+Precision / Recall
+    0.5000    0.1111
+
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Completed iteration:13
+Prediction points:12
+  TP     FP     TN     FN
+     2     0     1     9
+
+Precision / Recall
+    1.0000    0.1818
+
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:19
+Prediction points:12
+  TP     FP     TN     FN
+     4     3     3     2
+
+Precision / Recall
+    0.5714    0.6667
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Completed iteration:29
+Prediction points:18
+  TP     FP     TN     FN
+     1     0     6    11
+
+Precision / Recall
+    1.0000    0.0833
+
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+AUC ave err std
+    0.5033
+
+    0.1126
+
+    0.1126
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6408    0.2237
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Completed iteration:4
+Prediction points:15
+  TP     FP     TN     FN
+     1     0     5     9
+
+Precision / Recall
+    1.0000    0.1000
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Completed iteration:5
+Prediction points:12
+  TP     FP     TN     FN
+     6     4     1     1
+
+Precision / Recall
+    0.6000    0.8571
+
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 18
+Average bin size: 1.355556e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+AUC ave err std
+    0.5393
+
+    0.0152
+
+    0.0152
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6404    0.2340
+
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:4
+Prediction points:11
+  TP     FP     TN     FN
+     7     1     2     1
+
+Precision / Recall
+    0.8750    0.8750
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Completed iteration:20
+Prediction points:17
+  TP     FP     TN     FN
+     4     0     5     8
+
+Precision / Recall
+    1.0000    0.3333
+
+
+Number of bins: 19
+Average bin size: 1.284211e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Completed iteration:23
+Prediction points:13
+  TP     FP     TN     FN
+     5     4     3     1
+
+Precision / Recall
+    0.5556    0.8333
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:30
+Prediction points:13
+  TP     FP     TN     FN
+     3     2     2     6
+
+Precision / Recall
+    0.6000    0.3333
+
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+AUC ave err std
+    0.6213
+
+    0.1488
+
+    0.1488
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6569    0.2795
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:7
+Prediction points:12
+  TP     FP     TN     FN
+     1     0     3     8
+
+Precision / Recall
+    1.0000    0.1111
+
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 20
+Average bin size: 1.220000e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Completed iteration:24
+Prediction points:20
+  TP     FP     TN     FN
+     8     2     4     6
+
+Precision / Recall
+    0.8000    0.5714
+
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 21
+Average bin size: 1.161905e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Not enough valid test points; skipping iteration.
+
+Number of bins: 22
+Average bin size: 1.109091e+01
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+AUC ave err std
+    0.5873
+
+    0.0449
+
+    0.0449
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.6667    0.3034
+
+    TPR       FPR       TNR       FNR       cutoff
+computation time (s)
+  648.2580
+

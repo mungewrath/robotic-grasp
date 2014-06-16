@@ -1,0 +1,1778 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+binThreshold:15
+energy base:40
+using confidence:1
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:1
+Prediction points:234
+  TP     FP     TN     FN
+   172    47     7     8
+
+Precision / Recall
+    0.7854    0.9556
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:2
+Prediction points:228
+  TP     FP     TN     FN
+   166    59     0     3
+
+Precision / Recall
+    0.7378    0.9822
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:3
+Prediction points:226
+  TP     FP     TN     FN
+   163    57     2     4
+
+Precision / Recall
+    0.7409    0.9760
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:4
+Prediction points:228
+  TP     FP     TN     FN
+   156    61     8     3
+
+Precision / Recall
+    0.7189    0.9811
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:5
+Prediction points:238
+  TP     FP     TN     FN
+   152    68    11     7
+
+Precision / Recall
+    0.6909    0.9560
+
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Completed iteration:6
+Prediction points:229
+  TP     FP     TN     FN
+   150    55    13    11
+
+Precision / Recall
+    0.7317    0.9317
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:7
+Prediction points:214
+  TP     FP     TN     FN
+   161    48     1     4
+
+Precision / Recall
+    0.7703    0.9758
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:8
+Prediction points:232
+  TP     FP     TN     FN
+   167    54     4     7
+
+Precision / Recall
+    0.7557    0.9598
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:9
+Prediction points:227
+  TP     FP     TN     FN
+   156    70     1     0
+
+Precision / Recall
+    0.6903    1.0000
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:10
+Prediction points:237
+  TP     FP     TN     FN
+   156    63    12     6
+
+Precision / Recall
+    0.7123    0.9630
+
+
+Number of bins: 33
+Average bin size: 7.393939e+00
+Completed iteration:11
+Prediction points:235
+  TP     FP     TN     FN
+   155    63    12     5
+
+Precision / Recall
+    0.7110    0.9688
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:12
+Prediction points:232
+  TP     FP     TN     FN
+   168    57     3     4
+
+Precision / Recall
+    0.7467    0.9767
+
+
+Number of bins: 24
+Average bin size: 1.016667e+01
+Completed iteration:13
+Prediction points:229
+  TP     FP     TN     FN
+   157    65     2     5
+
+Precision / Recall
+    0.7072    0.9691
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:14
+Prediction points:217
+  TP     FP     TN     FN
+   162    55     0     0
+
+Precision / Recall
+    0.7465    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:15
+Prediction points:219
+  TP     FP     TN     FN
+   159    54     4     2
+
+Precision / Recall
+    0.7465    0.9876
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:16
+Prediction points:240
+  TP     FP     TN     FN
+   166    61     8     5
+
+Precision / Recall
+    0.7313    0.9708
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:17
+Prediction points:220
+  TP     FP     TN     FN
+   156    63     1     0
+
+Precision / Recall
+    0.7123    1.0000
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:18
+Prediction points:203
+  TP     FP     TN     FN
+   152    48     0     3
+
+Precision / Recall
+    0.7600    0.9806
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:19
+Prediction points:229
+  TP     FP     TN     FN
+   167    60     2     0
+
+Precision / Recall
+    0.7357    1.0000
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:20
+Prediction points:243
+  TP     FP     TN     FN
+   169    58     9     7
+
+Precision / Recall
+    0.7445    0.9602
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:21
+Prediction points:227
+  TP     FP     TN     FN
+   159    64     2     2
+
+Precision / Recall
+    0.7130    0.9876
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:22
+Prediction points:221
+  TP     FP     TN     FN
+   155    61     3     2
+
+Precision / Recall
+    0.7176    0.9873
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:23
+Prediction points:228
+  TP     FP     TN     FN
+   147    62    12     7
+
+Precision / Recall
+    0.7033    0.9545
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:24
+Prediction points:234
+  TP     FP     TN     FN
+   173    51     5     5
+
+Precision / Recall
+    0.7723    0.9719
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:25
+Prediction points:219
+  TP     FP     TN     FN
+   160    58     0     1
+
+Precision / Recall
+    0.7339    0.9938
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:26
+Prediction points:214
+  TP     FP     TN     FN
+   153    57     2     2
+
+Precision / Recall
+    0.7286    0.9871
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:27
+Prediction points:213
+  TP     FP     TN     FN
+   153    55     0     5
+
+Precision / Recall
+    0.7356    0.9684
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:28
+Prediction points:206
+  TP     FP     TN     FN
+   144    56     2     4
+
+Precision / Recall
+    0.7200    0.9730
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:29
+Prediction points:222
+  TP     FP     TN     FN
+   147    64     3     8
+
+Precision / Recall
+    0.6967    0.9484
+
+
+Number of bins: 33
+Average bin size: 7.393939e+00
+Completed iteration:30
+Prediction points:228
+  TP     FP     TN     FN
+   171    54     1     2
+
+Precision / Recall
+    0.7600    0.9884
+
+[Warning: Duplicate data points have been detected and removed - corresponding values have been
+averaged.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',184,1)">griddata>useScatteredInterp at 184</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',125,1)">griddata at 125</a>
+  In <a href="matlab: opentoline('Z:\Thesis\generateContour.m',43,1)">generateContour at 43</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',425,1)">GP_GraspIt_TP_hybrid_kdtree at 425</a>
+  In <a href="matlab: opentoline('Z:\Thesis\runBatchEnergyHybrid.m',5,1)">runBatchEnergyHybrid at 5</a>] 
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+AUC ave err std
+    0.4714
+
+    0.0506
+
+    0.0506
+
+Precision / Recall macro
+    0.7319    0.9752
+
+Precision / Recall micro
+    0.7319    0.9751
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:1
+Prediction points:208
+  TP     FP     TN     FN
+   135    53    18     2
+
+Precision / Recall
+    0.7181    0.9854
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:2
+Prediction points:189
+  TP     FP     TN     FN
+   132    57     0     0
+
+Precision / Recall
+    0.6984    1.0000
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:3
+Prediction points:188
+  TP     FP     TN     FN
+   130    58     0     0
+
+Precision / Recall
+    0.6915    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:4
+Prediction points:206
+  TP     FP     TN     FN
+   142    60     2     2
+
+Precision / Recall
+    0.7030    0.9861
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:5
+Prediction points:231
+  TP     FP     TN     FN
+   159    68     0     4
+
+Precision / Recall
+    0.7004    0.9755
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:6
+Prediction points:201
+  TP     FP     TN     FN
+   145    43     4     9
+
+Precision / Recall
+    0.7713    0.9416
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:7
+Prediction points:202
+  TP     FP     TN     FN
+   145    54     2     1
+
+Precision / Recall
+    0.7286    0.9932
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:8
+Prediction points:218
+  TP     FP     TN     FN
+   154    58     3     3
+
+Precision / Recall
+    0.7264    0.9809
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:9
+Prediction points:169
+  TP     FP     TN     FN
+   114    55     0     0
+
+Precision / Recall
+    0.6746    1.0000
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:10
+Prediction points:219
+  TP     FP     TN     FN
+   156    63     0     0
+
+Precision / Recall
+    0.7123    1.0000
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:11
+Prediction points:196
+  TP     FP     TN     FN
+   136    51     3     6
+
+Precision / Recall
+    0.7273    0.9577
+
+
+Number of bins: 33
+Average bin size: 7.393939e+00
+Completed iteration:12
+Prediction points:161
+  TP     FP     TN     FN
+   112    45     0     4
+
+Precision / Recall
+    0.7134    0.9655
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:13
+Prediction points:197
+  TP     FP     TN     FN
+   139    56     1     1
+
+Precision / Recall
+    0.7128    0.9929
+
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Completed iteration:14
+Prediction points:219
+  TP     FP     TN     FN
+   159    54     3     3
+
+Precision / Recall
+    0.7465    0.9815
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:15
+Prediction points:225
+  TP     FP     TN     FN
+   143    68     6     8
+
+Precision / Recall
+    0.6777    0.9470
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:16
+Prediction points:212
+  TP     FP     TN     FN
+   152    55     2     3
+
+Precision / Recall
+    0.7343    0.9806
+
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Completed iteration:17
+Prediction points:208
+  TP     FP     TN     FN
+   144    55     5     4
+
+Precision / Recall
+    0.7236    0.9730
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:18
+Prediction points:199
+  TP     FP     TN     FN
+   149    45     4     1
+
+Precision / Recall
+    0.7680    0.9933
+
+
+Number of bins: 33
+Average bin size: 7.393939e+00
+Completed iteration:19
+Prediction points:176
+  TP     FP     TN     FN
+   115    52     3     6
+
+Precision / Recall
+    0.6886    0.9504
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:20
+Prediction points:211
+  TP     FP     TN     FN
+   146    47    13     5
+
+Precision / Recall
+    0.7565    0.9669
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:21
+Prediction points:205
+  TP     FP     TN     FN
+   144    56     2     3
+
+Precision / Recall
+    0.7200    0.9796
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:22
+Prediction points:197
+  TP     FP     TN     FN
+   138    58     1     0
+
+Precision / Recall
+    0.7041    1.0000
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:23
+Prediction points:202
+  TP     FP     TN     FN
+   140    48     8     6
+
+Precision / Recall
+    0.7447    0.9589
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:24
+Prediction points:205
+  TP     FP     TN     FN
+   149    56     0     0
+
+Precision / Recall
+    0.7268    1.0000
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:25
+Prediction points:209
+  TP     FP     TN     FN
+   148    58     3     0
+
+Precision / Recall
+    0.7184    1.0000
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:26
+Prediction points:200
+  TP     FP     TN     FN
+   135    50     7     8
+
+Precision / Recall
+    0.7297    0.9441
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:27
+Prediction points:171
+  TP     FP     TN     FN
+   111    53     3     4
+
+Precision / Recall
+    0.6768    0.9652
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:28
+Prediction points:218
+  TP     FP     TN     FN
+   150    59     7     2
+
+Precision / Recall
+    0.7177    0.9868
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:29
+Prediction points:200
+  TP     FP     TN     FN
+   128    62     3     7
+
+Precision / Recall
+    0.6737    0.9481
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:30
+Prediction points:219
+  TP     FP     TN     FN
+   160    54     2     3
+
+Precision / Recall
+    0.7477    0.9816
+
+[Warning: Duplicate data points have been detected and removed - corresponding values have been
+averaged.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',184,1)">griddata>useScatteredInterp at 184</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',125,1)">griddata at 125</a>
+  In <a href="matlab: opentoline('Z:\Thesis\generateContour.m',43,1)">generateContour at 43</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',425,1)">GP_GraspIt_TP_hybrid_kdtree at 425</a>
+  In <a href="matlab: opentoline('Z:\Thesis\runBatchEnergyHybrid.m',5,1)">runBatchEnergyHybrid at 5</a>] 
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+AUC ave err std
+    0.4695
+
+    0.0569
+
+    0.0569
+
+Precision / Recall macro
+    0.7178    0.9779
+
+Precision / Recall micro
+    0.7183    0.9779
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:1
+Prediction points:165
+  TP     FP     TN     FN
+   100    54     9     2
+
+Precision / Recall
+    0.6494    0.9804
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:2
+Prediction points:164
+  TP     FP     TN     FN
+   103    45    10     6
+
+Precision / Recall
+    0.6959    0.9450
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:3
+Prediction points:152
+  TP     FP     TN     FN
+   102    36    10     4
+
+Precision / Recall
+    0.7391    0.9623
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:4
+Prediction points:147
+  TP     FP     TN     FN
+   107    40     0     0
+
+Precision / Recall
+    0.7279    1.0000
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:5
+Prediction points:144
+  TP     FP     TN     FN
+    96    44     2     2
+
+Precision / Recall
+    0.6857    0.9796
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:6
+Prediction points:102
+  TP     FP     TN     FN
+    69    28     2     3
+
+Precision / Recall
+    0.7113    0.9583
+
+
+Number of bins: 33
+Average bin size: 7.393939e+00
+Completed iteration:7
+Prediction points:146
+  TP     FP     TN     FN
+   112    32     0     2
+
+Precision / Recall
+    0.7778    0.9825
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:8
+Prediction points:148
+  TP     FP     TN     FN
+    89    48     9     2
+
+Precision / Recall
+    0.6496    0.9780
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:9
+Prediction points:129
+  TP     FP     TN     FN
+    99    30     0     0
+
+Precision / Recall
+    0.7674    1.0000
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:10
+Prediction points:142
+  TP     FP     TN     FN
+    88    47     2     5
+
+Precision / Recall
+    0.6519    0.9462
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:11
+Prediction points:140
+  TP     FP     TN     FN
+    90    38     7     5
+
+Precision / Recall
+    0.7031    0.9474
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:12
+Prediction points:184
+  TP     FP     TN     FN
+   131    42     9     2
+
+Precision / Recall
+    0.7572    0.9850
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:13
+Prediction points:158
+  TP     FP     TN     FN
+   105    52     1     0
+
+Precision / Recall
+    0.6688    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:14
+Prediction points:155
+  TP     FP     TN     FN
+   109    46     0     0
+
+Precision / Recall
+    0.7032    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:15
+Prediction points:162
+  TP     FP     TN     FN
+   121    40     0     1
+
+Precision / Recall
+    0.7516    0.9918
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:16
+Prediction points:124
+  TP     FP     TN     FN
+    90    33     1     0
+
+Precision / Recall
+    0.7317    1.0000
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:17
+Prediction points:123
+  TP     FP     TN     FN
+    77    40     2     4
+
+Precision / Recall
+    0.6581    0.9506
+
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Completed iteration:18
+Prediction points:161
+  TP     FP     TN     FN
+   102    53     0     6
+
+Precision / Recall
+    0.6581    0.9444
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:19
+Prediction points:149
+  TP     FP     TN     FN
+   112    36     0     1
+
+Precision / Recall
+    0.7568    0.9912
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:20
+Prediction points:169
+  TP     FP     TN     FN
+   112    52     3     2
+
+Precision / Recall
+    0.6829    0.9825
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:21
+Prediction points:177
+  TP     FP     TN     FN
+   124    46     3     4
+
+Precision / Recall
+    0.7294    0.9688
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:22
+Prediction points:151
+  TP     FP     TN     FN
+   103    41     3     4
+
+Precision / Recall
+    0.7153    0.9626
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:23
+Prediction points:151
+  TP     FP     TN     FN
+   111    39     0     1
+
+Precision / Recall
+    0.7400    0.9911
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:24
+Prediction points:177
+  TP     FP     TN     FN
+   118    51     4     4
+
+Precision / Recall
+    0.6982    0.9672
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:25
+Prediction points:133
+  TP     FP     TN     FN
+    99    34     0     0
+
+Precision / Recall
+    0.7444    1.0000
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:26
+Prediction points:157
+  TP     FP     TN     FN
+   110    40     4     3
+
+Precision / Recall
+    0.7333    0.9735
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:27
+Prediction points:132
+  TP     FP     TN     FN
+    86    45     1     0
+
+Precision / Recall
+    0.6565    1.0000
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:28
+Prediction points:126
+  TP     FP     TN     FN
+    90    36     0     0
+
+Precision / Recall
+    0.7143    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:29
+Prediction points:160
+  TP     FP     TN     FN
+   113    44     2     1
+
+Precision / Recall
+    0.7197    0.9912
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:30
+Prediction points:165
+  TP     FP     TN     FN
+   114    38     8     5
+
+Precision / Recall
+    0.7500    0.9580
+
+[Warning: Duplicate data points have been detected and removed - corresponding values have been
+averaged.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',184,1)">griddata>useScatteredInterp at 184</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',125,1)">griddata at 125</a>
+  In <a href="matlab: opentoline('Z:\Thesis\generateContour.m',43,1)">generateContour at 43</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',425,1)">GP_GraspIt_TP_hybrid_kdtree at 425</a>
+  In <a href="matlab: opentoline('Z:\Thesis\runBatchEnergyHybrid.m',5,1)">runBatchEnergyHybrid at 5</a>] 
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+AUC ave err std
+    0.4808
+
+    0.0800
+
+    0.0800
+
+Precision / Recall macro
+    0.7110    0.9779
+
+Precision / Recall micro
+    0.7114    0.9781
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:1
+Prediction points:79
+  TP     FP     TN     FN
+    43    24     9     3
+
+Precision / Recall
+    0.6418    0.9348
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:2
+Prediction points:59
+  TP     FP     TN     FN
+    36    19     2     2
+
+Precision / Recall
+    0.6545    0.9474
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:3
+Prediction points:93
+  TP     FP     TN     FN
+    66    26     1     0
+
+Precision / Recall
+    0.7174    1.0000
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:4
+Prediction points:76
+  TP     FP     TN     FN
+    52    22     2     0
+
+Precision / Recall
+    0.7027    1.0000
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:5
+Prediction points:108
+  TP     FP     TN     FN
+    76    32     0     0
+
+Precision / Recall
+    0.7037    1.0000
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:6
+Prediction points:102
+  TP     FP     TN     FN
+    69    32     1     0
+
+Precision / Recall
+    0.6832    1.0000
+
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Completed iteration:7
+Prediction points:76
+  TP     FP     TN     FN
+    56    17     1     2
+
+Precision / Recall
+    0.7671    0.9655
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:8
+Prediction points:107
+  TP     FP     TN     FN
+    77    28     2     0
+
+Precision / Recall
+    0.7333    1.0000
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:9
+Prediction points:87
+  TP     FP     TN     FN
+    50    18    12     7
+
+Precision / Recall
+    0.7353    0.8772
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:10
+Prediction points:101
+  TP     FP     TN     FN
+    72    27     2     0
+
+Precision / Recall
+    0.7273    1.0000
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:11
+Prediction points:46
+  TP     FP     TN     FN
+    29    17     0     0
+
+Precision / Recall
+    0.6304    1.0000
+
+
+Number of bins: 33
+Average bin size: 7.393939e+00
+Completed iteration:12
+Prediction points:110
+  TP     FP     TN     FN
+    61    29    14     6
+
+Precision / Recall
+    0.6778    0.9104
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:13
+Prediction points:101
+  TP     FP     TN     FN
+    71    30     0     0
+
+Precision / Recall
+    0.7030    1.0000
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:14
+Prediction points:100
+  TP     FP     TN     FN
+    77    23     0     0
+
+Precision / Recall
+    0.7700    1.0000
+
+
+Number of bins: 23
+Average bin size: 1.060870e+01
+Completed iteration:15
+Prediction points:64
+  TP     FP     TN     FN
+    40    24     0     0
+
+Precision / Recall
+    0.6250    1.0000
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:16
+Prediction points:106
+  TP     FP     TN     FN
+    77    29     0     0
+
+Precision / Recall
+    0.7264    1.0000
+
+
+Number of bins: 33
+Average bin size: 7.393939e+00
+Completed iteration:17
+Prediction points:103
+  TP     FP     TN     FN
+    64    24     9     6
+
+Precision / Recall
+    0.7273    0.9143
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:18
+Prediction points:110
+  TP     FP     TN     FN
+    64    38     6     2
+
+Precision / Recall
+    0.6275    0.9697
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:19
+Prediction points:100
+  TP     FP     TN     FN
+    73    27     0     0
+
+Precision / Recall
+    0.7300    1.0000
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:20
+Prediction points:86
+  TP     FP     TN     FN
+    43    30     9     4
+
+Precision / Recall
+    0.5890    0.9149
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:21
+Prediction points:87
+  TP     FP     TN     FN
+    50    27     9     1
+
+Precision / Recall
+    0.6494    0.9804
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:22
+Prediction points:86
+  TP     FP     TN     FN
+    60    22     1     3
+
+Precision / Recall
+    0.7317    0.9524
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:23
+Prediction points:85
+  TP     FP     TN     FN
+    44    34     2     5
+
+Precision / Recall
+    0.5641    0.8980
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:24
+Prediction points:57
+  TP     FP     TN     FN
+    32    14     9     2
+
+Precision / Recall
+    0.6957    0.9412
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:25
+Prediction points:107
+  TP     FP     TN     FN
+    76    26     4     1
+
+Precision / Recall
+    0.7451    0.9870
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:26
+Prediction points:97
+  TP     FP     TN     FN
+    67    26     0     4
+
+Precision / Recall
+    0.7204    0.9437
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:27
+Prediction points:119
+  TP     FP     TN     FN
+    77    34     2     6
+
+Precision / Recall
+    0.6937    0.9277
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:28
+Prediction points:87
+  TP     FP     TN     FN
+    64    22     0     1
+
+Precision / Recall
+    0.7442    0.9846
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:29
+Prediction points:107
+  TP     FP     TN     FN
+    64    37     3     3
+
+Precision / Recall
+    0.6337    0.9552
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:30
+Prediction points:82
+  TP     FP     TN     FN
+    55    22     1     4
+
+Precision / Recall
+    0.7143    0.9322
+
+[Warning: Duplicate data points have been detected and removed - corresponding values have been
+averaged.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',184,1)">griddata>useScatteredInterp at 184</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',125,1)">griddata at 125</a>
+  In <a href="matlab: opentoline('Z:\Thesis\generateContour.m',43,1)">generateContour at 43</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',425,1)">GP_GraspIt_TP_hybrid_kdtree at 425</a>
+  In <a href="matlab: opentoline('Z:\Thesis\runBatchEnergyHybrid.m',5,1)">runBatchEnergyHybrid at 5</a>] 
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+AUC ave err std
+    0.4976
+
+    0.0735
+
+    0.0735
+
+Precision / Recall macro
+    0.6922    0.9646
+
+Precision / Recall micro
+    0.6959    0.9664
+
+
+Number of bins: 35
+Average bin size: 6.971429e+00
+Completed iteration:1
+Prediction points:63
+  TP     FP     TN     FN
+    31    25     7     0
+
+Precision / Recall
+    0.5536    1.0000
+
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:3
+Prediction points:78
+  TP     FP     TN     FN
+    45    19     9     5
+
+Precision / Recall
+    0.7031    0.9000
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:4
+Prediction points:13
+  TP     FP     TN     FN
+     6     7     0     0
+
+Precision / Recall
+    0.4615    1.0000
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:5
+Prediction points:30
+  TP     FP     TN     FN
+    14     9     2     5
+
+Precision / Recall
+    0.6087    0.7368
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:6
+Prediction points:76
+  TP     FP     TN     FN
+    41    12    12    11
+
+Precision / Recall
+    0.7736    0.7885
+
+
+Number of bins: 26
+Average bin size: 9.384615e+00
+Completed iteration:7
+Prediction points:12
+  TP     FP     TN     FN
+     8     4     0     0
+
+Precision / Recall
+    0.6667    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:8
+Prediction points:38
+  TP     FP     TN     FN
+    15    12    11     0
+
+Precision / Recall
+    0.5556    1.0000
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:9
+Prediction points:11
+  TP     FP     TN     FN
+     8     3     0     0
+
+Precision / Recall
+    0.7273    1.0000
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:10
+Prediction points:30
+  TP     FP     TN     FN
+    19    10     1     0
+
+Precision / Recall
+    0.6552    1.0000
+
+
+Number of bins: 27
+Average bin size: 9.037037e+00
+Completed iteration:11
+Prediction points:23
+  TP     FP     TN     FN
+    19     4     0     0
+
+Precision / Recall
+    0.8261    1.0000
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:12
+Prediction points:31
+  TP     FP     TN     FN
+    15     5     9     2
+
+Precision / Recall
+    0.7500    0.8824
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:13
+Prediction points:68
+  TP     FP     TN     FN
+    47    21     0     0
+
+Precision / Recall
+    0.6912    1.0000
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:14
+Prediction points:51
+  TP     FP     TN     FN
+    27    14    10     0
+
+Precision / Recall
+    0.6585    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:15
+Prediction points:33
+  TP     FP     TN     FN
+    20    13     0     0
+
+Precision / Recall
+    0.6061    1.0000
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:16
+Prediction points:48
+  TP     FP     TN     FN
+    34    12     1     1
+
+Precision / Recall
+    0.7391    0.9714
+
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:17
+Prediction points:27
+  TP     FP     TN     FN
+    13    11     1     2
+
+Precision / Recall
+    0.5417    0.8667
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:18
+Prediction points:47
+  TP     FP     TN     FN
+    24    14     3     6
+
+Precision / Recall
+    0.6316    0.8000
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:19
+Prediction points:58
+  TP     FP     TN     FN
+    42    11     3     2
+
+Precision / Recall
+    0.7925    0.9545
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:20
+Prediction points:44
+  TP     FP     TN     FN
+    28    13     3     0
+
+Precision / Recall
+    0.6829    1.0000
+
+
+Number of bins: 33
+Average bin size: 7.393939e+00
+Completed iteration:21
+Prediction points:51
+  TP     FP     TN     FN
+    34    17     0     0
+
+Precision / Recall
+    0.6667    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:22
+Prediction points:19
+  TP     FP     TN     FN
+    11     3     4     1
+
+Precision / Recall
+    0.7857    0.9167
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Completed iteration:24
+Prediction points:42
+  TP     FP     TN     FN
+    28    14     0     0
+
+Precision / Recall
+    0.6667    1.0000
+
+
+Number of bins: 31
+Average bin size: 7.870968e+00
+Completed iteration:25
+Prediction points:25
+  TP     FP     TN     FN
+    17     8     0     0
+
+Precision / Recall
+    0.6800    1.0000
+
+
+Number of bins: 28
+Average bin size: 8.714286e+00
+Not enough valid test points; skipping iteration.
+
+Number of bins: 32
+Average bin size: 7.625000e+00
+Completed iteration:27
+Prediction points:21
+  TP     FP     TN     FN
+    14     3     1     3
+
+Precision / Recall
+    0.8235    0.8235
+
+
+Number of bins: 29
+Average bin size: 8.413793e+00
+Completed iteration:28
+Prediction points:39
+  TP     FP     TN     FN
+    28    11     0     0
+
+Precision / Recall
+    0.7179    1.0000
+
+
+Number of bins: 30
+Average bin size: 8.133333e+00
+Completed iteration:29
+Prediction points:11
+  TP     FP     TN     FN
+     7     4     0     0
+
+Precision / Recall
+    0.6364    1.0000
+
+
+Number of bins: 25
+Average bin size: 9.760000e+00
+Completed iteration:30
+Prediction points:53
+  TP     FP     TN     FN
+    24    10    14     5
+
+Precision / Recall
+    0.7059    0.8276
+
+[Warning: Duplicate data points have been detected and removed - corresponding values have been
+averaged.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',184,1)">griddata>useScatteredInterp at 184</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\polyfun\griddata.m',125,1)">griddata at 125</a>
+  In <a href="matlab: opentoline('Z:\Thesis\generateContour.m',43,1)">generateContour at 43</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',425,1)">GP_GraspIt_TP_hybrid_kdtree at 425</a>
+  In <a href="matlab: opentoline('Z:\Thesis\runBatchEnergyHybrid.m',5,1)">runBatchEnergyHybrid at 5</a>] 
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+AUC ave err std
+    0.5881
+
+    0.1230
+
+    0.1230
+
+Precision / Recall macro
+    0.6749    0.9419
+
+Precision / Recall micro
+    0.6755    0.9341
+
+    TPR       FPR       TNR       FNR       cutoff
+computation time (s)
+   2.0486e+03
+

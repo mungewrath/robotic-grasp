@@ -1,0 +1,117 @@
+GraspIt_LR_global(30,30)
+{Error using <a href="matlab:helpUtils.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'Z:\Thesis\kd_global_GP_egy_30_bin_30.mat': no such file or directory.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('plotCompositeROC', 'Z:\Thesis\plotCompositeROC.m', 14)" style="font-weight:bold">plotCompositeROC</a> (<a href="matlab: opentoline('Z:\Thesis\plotCompositeROC.m',14,0)">line 14</a>)
+        load(files{i},'-mat');
+
+Error in <a href="matlab:helpUtils.errorDocCallback('plotFinalROCs', 'Z:\plotFinalROCs.m', 17)" style="font-weight:bold">plotFinalROCs</a> (<a href="matlab: opentoline('Z:\plotFinalROCs.m',17,0)">line 17</a>)
+fig = plotCompositeROC(files,labels,sprintf('Comparison of classifier ROCs\nbinSize=%d,energy=%d',binSize,energy));
+} 
+plotFinalROCs
+[Warning: Directory access failure: Z:\Thesis\thesisStartup.m] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\plotFinalROCs.m',1,1)">plotFinalROCs at 1</a>] 
+[Warning: Directory access failure: Z:\Thesis\thesisCleanup.m] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\plotFinalROCs.m',2,1)">plotFinalROCs at 2</a>] 
+{Error using <a href="matlab:helpUtils.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'Z:\Thesis\rocdumps\kd_GP_egy_30_bin_30.mat': no such file or directory.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('plotCompositeROC', 'Z:\Thesis\plotCompositeROC.m', 14)" style="font-weight:bold">plotCompositeROC</a> (<a href="matlab: opentoline('Z:\Thesis\plotCompositeROC.m',14,0)">line 14</a>)
+        load(files{i},'-mat');
+
+Error in <a href="matlab:helpUtils.errorDocCallback('plotFinalROCs', 'Z:\plotFinalROCs.m', 17)" style="font-weight:bold">plotFinalROCs</a> (<a href="matlab: opentoline('Z:\plotFinalROCs.m',17,0)">line 17</a>)
+fig = plotCompositeROC(files,labels,sprintf('Comparison of classifier ROCs\nbinSize=%d,energy=%d',binSize,energy));
+} 
+plotFinalROCs
+[Warning: Directory access failure: Z:\Thesis\thesisStartup.m] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\plotFinalROCs.m',1,1)">plotFinalROCs at 1</a>] 
+[Warning: Directory access failure: Z:\Thesis\thesisCleanup.m] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\plotFinalROCs.m',2,1)">plotFinalROCs at 2</a>] 
+computation time (s)
+    0.4590
+
+computation time (s)
+    0.4320
+
+{Reference to a cleared variable name.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('loadContour', 'Z:\Thesis\loadContour.m', 11)" style="font-weight:bold">loadContour</a> (<a href="matlab: opentoline('Z:\Thesis\loadContour.m',11,0)">line 11</a>)
+load(strcat(dir,name),'-mat');
+} 
+<a href="matlab: opentoline('Z:\Thesis\loadContour.m',11,1)">11  </a>load(strcat(dir,name),'-mat');
+if system_dependent('IsDebugMode')==1, dbquit; end
+loadContour('kd_global_GP_egy_20_bin_10_conf_0.mat')
+<a href="matlab: opentoline('Z:\Thesis\loadContour.m',9,1)">9   </a>load(strcat(dir,name),'-mat');
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Error using <a href="matlab:helpUtils.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'Z:\contourdumps\kd_global_GP_egy_20_bin_10_conf_0.mat': no such file or directory.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('loadContour', 'Z:\Thesis\loadContour.m', 9)" style="font-weight:bold">loadContour</a> (<a href="matlab: opentoline('Z:\Thesis\loadContour.m',9,0)">line 9</a>)
+load(strcat(dir,name),'-mat');
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+loadContour('kd_global_GP_egy_20_bin_10_conf_0.mat')
+<a href="matlab: opentoline('Z:\Thesis\loadContour.m',9,1)">9   </a>load(strcat(dir,name),'-mat');
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+loadContour('kd_global_GP_egy_30_bin_30_conf_0.mat')
+<a href="matlab: opentoline('Z:\Thesis\loadContour.m',9,1)">9   </a>load(strcat(dir,name),'-mat');
+if system_dependent('IsDebugMode')==1, dbcont; end
+loadContour('kd_global_LR_energy_30_bin_30_conf_0.mat')
+if system_dependent('IsDebugMode')==1, dbquit; end
+loadContour('kd_global_LR_energy_30_bin_30_conf_0.mat',sprintf('Areas of high test precision\nGlobal LR, no filtering'))
+{Error using <a href="matlab:helpUtils.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'Areas of high test precision
+Global LR, no filteringkd_global_LR_energy_30_bin_30_conf_0.mat': no such file or directory.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('loadContour', 'Z:\Thesis\loadContour.m', 9)" style="font-weight:bold">loadContour</a> (<a href="matlab: opentoline('Z:\Thesis\loadContour.m',9,0)">line 9</a>)
+load(strcat(dir,name),'-mat');
+} 
+<a href="matlab: opentoline('Z:\Thesis\loadContour.m',9,1)">9   </a>load(strcat(dir,name),'-mat');
+if system_dependent('IsDebugMode')==1, dbquit; end
+loadContour('kd_global_LR_energy_30_bin_30_conf_0.mat',sprintf('Areas of high test precision\nGlobal LR, no filtering'))
+loadContour('kd_global_GP_egy_30_bin_30_conf_0.mat',sprintf('Areas of high test precision\nGlobal GP, no filtering'))
+loadContour('kd_LR_egy_30_bin_30_conf_0.mat',sprintf('Areas of high test precision\nLocal LR, no filtering'))
+loadContour('kd_LR_egy_30_bin_30_conf_8.mat',sprintf('Areas of high test precision\nLocal LR, confidence=.8'))
+loadContour('kd_global_LR_energy_30_bin_30_conf_8.mat',sprintf('Areas of high test precision\nGlobal LR, confidence=.8'))
+loadContour('kd_global_GP_egy_30_bin_30_conf_8.mat',sprintf('Areas of high test precision\nGlobal GP, confidence=.8'))
+GraspIt_LR_global(30,30)
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('plotCompositeROC', 'Z:\Thesis\plotCompositeROC.m', 16)" style="font-weight:bold">plotCompositeROC</a> (<a href="matlab: opentoline('Z:\Thesis\plotCompositeROC.m',16,0)">line 16</a>)
+        plot(ave(:,1).*100,ave(:,2).*100,'k','linewidth',2,'color',colors{i});
+
+Error in <a href="matlab:helpUtils.errorDocCallback('plotFinalROCs', 'Z:\plotFinalROCs.m', 24)" style="font-weight:bold">plotFinalROCs</a> (<a href="matlab: opentoline('Z:\plotFinalROCs.m',24,0)">line 24</a>)
+fig = plotCompositeROC(files,labels,sprintf('Comparison of classifier ROCs\nbinSize=%d,energy=%d',binSize,energy));
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+plotCompositeROC
+{Error using <a href="matlab:helpUtils.errorDocCallback('plotCompositeROC', 'Z:\Thesis\plotCompositeROC.m', 7)" style="font-weight:bold">plotCompositeROC</a> (<a href="matlab: opentoline('Z:\Thesis\plotCompositeROC.m',7,0)">line 7</a>)
+Not enough input arguments.
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+plotFinalROCs
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Bad property value found.
+Object Name: line
+Property Name: 'Color'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('plotCompositeROC', 'Z:\Thesis\plotCompositeROC.m', 16)" style="font-weight:bold">plotCompositeROC</a> (<a href="matlab: opentoline('Z:\Thesis\plotCompositeROC.m',16,0)">line 16</a>)
+        plot(ave(:,1).*100,ave(:,2).*100,'k','linewidth',2,'color',colors{i});
+
+Error in <a href="matlab:helpUtils.errorDocCallback('plotFinalROCs', 'Z:\plotFinalROCs.m', 24)" style="font-weight:bold">plotFinalROCs</a> (<a href="matlab: opentoline('Z:\plotFinalROCs.m',24,0)">line 24</a>)
+fig = plotCompositeROC(files,labels,sprintf('Comparison of classifier ROCs\nbinSize=%d,energy=%d',binSize,energy));
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+plotFinalROCs
+computation time (s)
+    0.4730
+

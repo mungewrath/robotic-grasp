@@ -1,0 +1,1 @@
+../../export_GraspIt_global_GP_results.py

@@ -1,0 +1,1 @@
+grasp 44 from gamepad, 47 from im, and 62 from spaceball were removed due to -9999 energy values

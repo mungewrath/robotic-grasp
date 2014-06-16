@@ -1,0 +1,313 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+{Undefined function or variable 'binThreshold'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('GraspIt_LR_global', 'Z:\Thesis\GraspIt_LR_global.m', 144)" style="font-weight:bold">GraspIt_LR_global</a> (<a href="matlab: opentoline('Z:\Thesis\GraspIt_LR_global.m',144,0)">line 144</a>)
+disp(strcat('binThreshold:',num2str(binThreshold)));
+} 
+GraspIt_LR_global(30)
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+energy base:30
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Undefined function or variable 'leafTrainingIndices'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('GraspIt_LR_global', 'Z:\Thesis\GraspIt_LR_global.m', 186)" style="font-weight:bold">GraspIt_LR_global</a> (<a href="matlab: opentoline('Z:\Thesis\GraspIt_LR_global.m',186,0)">line 186</a>)
+    B = glmfit(trainData(leafTrainingIndices,:), [trainy(leafTrainingIndices)
+    ones(sum(leafTrainingIndices),1)], 'binomial', 'link', 'logit');
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+GraspIt_LR_global(30)
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+energy base:30
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+GraspIt_LR_global(30)
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+energy base:30
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Completed iteration:1
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Prediction points:244
+if system_dependent('IsDebugMode')==1, dbstep; end
+  TP     FP     TN     FN
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+    79    21    37   107
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+Precision / Recall
+if system_dependent('IsDebugMode')==1, dbstep; end
+    0.7900    0.4247
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+Completed iteration:2
+Prediction points:244
+  TP     FP     TN     FN
+    80    21    51    92
+
+Precision / Recall
+    0.7921    0.4651
+
+Completed iteration:3
+Prediction points:244
+  TP     FP     TN     FN
+    73    22    48   101
+
+Precision / Recall
+    0.7684    0.4195
+
+Completed iteration:4
+Prediction points:244
+  TP     FP     TN     FN
+    67    35    39   103
+
+Precision / Recall
+    0.6569    0.3941
+
+Completed iteration:5
+Prediction points:244
+  TP     FP     TN     FN
+    70    28    53    93
+
+Precision / Recall
+    0.7143    0.4294
+
+Completed iteration:6
+Prediction points:244
+  TP     FP     TN     FN
+    65    27    45   107
+
+Precision / Recall
+    0.7065    0.3779
+
+Completed iteration:7
+Prediction points:244
+  TP     FP     TN     FN
+    72    18    50   104
+
+Precision / Recall
+    0.8000    0.4091
+
+Completed iteration:8
+Prediction points:244
+  TP     FP     TN     FN
+    71    21    48   104
+
+Precision / Recall
+    0.7717    0.4057
+
+Completed iteration:9
+Prediction points:244
+  TP     FP     TN     FN
+    70    29    56    89
+
+Precision / Recall
+    0.7071    0.4403
+
+Completed iteration:10
+Prediction points:244
+  TP     FP     TN     FN
+    63    31    45   105
+
+Precision / Recall
+    0.6702    0.3750
+
+Completed iteration:11
+Prediction points:244
+  TP     FP     TN     FN
+    68    21    55   100
+
+Precision / Recall
+    0.7640    0.4048
+
+Completed iteration:12
+Prediction points:244
+  TP     FP     TN     FN
+    57    27    44   116
+
+Precision / Recall
+    0.6786    0.3295
+
+Completed iteration:13
+Prediction points:244
+  TP     FP     TN     FN
+    96    28    51    69
+
+Precision / Recall
+    0.7742    0.5818
+
+Completed iteration:14
+Prediction points:244
+  TP     FP     TN     FN
+    83    24    47    90
+
+Precision / Recall
+    0.7757    0.4798
+
+Completed iteration:15
+Prediction points:244
+  TP     FP     TN     FN
+    72    23    45   104
+
+Precision / Recall
+    0.7579    0.4091
+
+Completed iteration:16
+Prediction points:244
+  TP     FP     TN     FN
+    73    25    45   101
+
+Precision / Recall
+    0.7449    0.4195
+
+Completed iteration:17
+Prediction points:244
+  TP     FP     TN     FN
+    64    22    56   102
+
+Precision / Recall
+    0.7442    0.3855
+
+Completed iteration:18
+Prediction points:244
+  TP     FP     TN     FN
+    78    28    42    96
+
+Precision / Recall
+    0.7358    0.4483
+
+Completed iteration:19
+Prediction points:244
+  TP     FP     TN     FN
+    76    26    44    98
+
+Precision / Recall
+    0.7451    0.4368
+
+Completed iteration:20
+Prediction points:244
+  TP     FP     TN     FN
+    54    20    48   122
+
+Precision / Recall
+    0.7297    0.3068
+
+Completed iteration:21
+Prediction points:244
+  TP     FP     TN     FN
+    82    18    62    82
+
+Precision / Recall
+    0.8200    0.5000
+
+Completed iteration:22
+Prediction points:244
+  TP     FP     TN     FN
+    76    24    53    91
+
+Precision / Recall
+    0.7600    0.4551
+
+Completed iteration:23
+Prediction points:244
+  TP     FP     TN     FN
+    87    27    51    79
+
+Precision / Recall
+    0.7632    0.5241
+
+Completed iteration:24
+Prediction points:244
+  TP     FP     TN     FN
+    65    24    41   114
+
+Precision / Recall
+    0.7303    0.3631
+
+Completed iteration:25
+Prediction points:244
+  TP     FP     TN     FN
+    53    25    49   117
+
+Precision / Recall
+    0.6795    0.3118
+
+Completed iteration:26
+Prediction points:244
+  TP     FP     TN     FN
+    65    28    50   101
+
+Precision / Recall
+    0.6989    0.3916
+
+Completed iteration:27
+Prediction points:244
+  TP     FP     TN     FN
+    69    17    54   104
+
+Precision / Recall
+    0.8023    0.3988
+
+Completed iteration:28
+Prediction points:244
+  TP     FP     TN     FN
+    78    28    49    89
+
+Precision / Recall
+    0.7358    0.4671
+
+Completed iteration:29
+Prediction points:244
+  TP     FP     TN     FN
+    62    35    41   106
+
+Precision / Recall
+    0.6392    0.3690
+
+Completed iteration:30
+Prediction points:244
+  TP     FP     TN     FN
+    57    17    48   122
+
+Precision / Recall
+    0.7703    0.3184
+
+AUC ave err std
+    0.5829
+
+    0.0508
+
+    0.0508
+
+Precision / Recall macro
+    0.7409    0.4147
+
+Precision / Recall micro
+    0.7417    0.4140
+
+computation time (s)
+   39.9360
+

@@ -1,0 +1,3000 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+
+Completed iteration:1
+Prediction points:210
+  TP     FP     TN     FN
+   154    43     6     7
+
+Precision / Recall
+    0.7817    0.9565
+
+
+Completed iteration:2
+Prediction points:205
+  TP     FP     TN     FN
+   138    55    10     2
+
+Precision / Recall
+    0.7150    0.9857
+
+
+Completed iteration:3
+Prediction points:211
+  TP     FP     TN     FN
+   145    47    13     6
+
+Precision / Recall
+    0.7552    0.9603
+
+
+Completed iteration:4
+Prediction points:178
+  TP     FP     TN     FN
+   119    44     8     7
+
+Precision / Recall
+    0.7301    0.9444
+
+
+Completed iteration:5
+Prediction points:201
+  TP     FP     TN     FN
+   131    59     8     3
+
+Precision / Recall
+    0.6895    0.9776
+
+
+Completed iteration:6
+Prediction points:199
+  TP     FP     TN     FN
+   130    43    14    12
+
+Precision / Recall
+    0.7514    0.9155
+
+
+Completed iteration:7
+Prediction points:203
+  TP     FP     TN     FN
+   138    44    15     6
+
+Precision / Recall
+    0.7582    0.9583
+
+
+Completed iteration:8
+Prediction points:197
+  TP     FP     TN     FN
+   133    40    15     9
+
+Precision / Recall
+    0.7688    0.9366
+
+
+Completed iteration:9
+Prediction points:208
+  TP     FP     TN     FN
+   136    64     6     2
+
+Precision / Recall
+    0.6800    0.9855
+
+
+Completed iteration:10
+Prediction points:205
+  TP     FP     TN     FN
+   137    53    10     5
+
+Precision / Recall
+    0.7211    0.9648
+
+
+Completed iteration:11
+Prediction points:215
+  TP     FP     TN     FN
+   138    61    12     4
+
+Precision / Recall
+    0.6935    0.9718
+
+
+Completed iteration:12
+Prediction points:187
+  TP     FP     TN     FN
+   118    34    16    19
+
+Precision / Recall
+    0.7763    0.8613
+
+
+Completed iteration:13
+Prediction points:199
+  TP     FP     TN     FN
+   132    50    11     6
+
+Precision / Recall
+    0.7253    0.9565
+
+
+Completed iteration:14
+Prediction points:189
+  TP     FP     TN     FN
+   130    45    10     4
+
+Precision / Recall
+    0.7429    0.9701
+
+
+Completed iteration:15
+Prediction points:217
+  TP     FP     TN     FN
+   157    47    11     2
+
+Precision / Recall
+    0.7696    0.9874
+
+
+Completed iteration:16
+Prediction points:214
+  TP     FP     TN     FN
+   131    51    11    21
+
+Precision / Recall
+    0.7198    0.8618
+
+
+Completed iteration:17
+Prediction points:192
+  TP     FP     TN     FN
+   127    52     8     5
+
+Precision / Recall
+    0.7095    0.9621
+
+
+Completed iteration:18
+Prediction points:64
+  TP     FP     TN     FN
+    35    16     4     9
+
+Precision / Recall
+    0.6863    0.7955
+
+
+Completed iteration:19
+Prediction points:213
+  TP     FP     TN     FN
+   148    55     7     3
+
+Precision / Recall
+    0.7291    0.9801
+
+
+Completed iteration:20
+Prediction points:197
+  TP     FP     TN     FN
+   136    47    10     4
+
+Precision / Recall
+    0.7432    0.9714
+
+
+Completed iteration:21
+Prediction points:196
+  TP     FP     TN     FN
+   134    49    10     3
+
+Precision / Recall
+    0.7322    0.9781
+
+
+Completed iteration:22
+Prediction points:209
+  TP     FP     TN     FN
+   137    57     9     6
+
+Precision / Recall
+    0.7062    0.9580
+
+
+Completed iteration:23
+Prediction points:197
+  TP     FP     TN     FN
+   131    53     8     5
+
+Precision / Recall
+    0.7120    0.9632
+
+
+Completed iteration:24
+Prediction points:199
+  TP     FP     TN     FN
+   127    38    14    20
+
+Precision / Recall
+    0.7697    0.8639
+
+
+Completed iteration:25
+Prediction points:204
+  TP     FP     TN     FN
+   114    53    10    27
+
+Precision / Recall
+    0.6826    0.8085
+
+
+Completed iteration:26
+Prediction points:180
+  TP     FP     TN     FN
+   114    52    10     4
+
+Precision / Recall
+    0.6867    0.9661
+
+
+Completed iteration:27
+Prediction points:219
+  TP     FP     TN     FN
+   151    53    11     4
+
+Precision / Recall
+    0.7402    0.9742
+
+
+Completed iteration:28
+Prediction points:191
+  TP     FP     TN     FN
+   120    52    10     9
+
+Precision / Recall
+    0.6977    0.9302
+
+
+Completed iteration:29
+Prediction points:202
+  TP     FP     TN     FN
+   135    55     8     4
+
+Precision / Recall
+    0.7105    0.9712
+
+
+Completed iteration:30
+Prediction points:206
+  TP     FP     TN     FN
+   146    44    11     5
+
+Precision / Recall
+    0.7684    0.9669
+
+Overall results (hybrid)
+Filtered datapoints
+Precision / Recall macro
+    0.7284    0.9428
+
+Precision / Recall micro
+    0.7293    0.9462
+
+
+Completed iteration:1
+Prediction points:208
+  TP     FP     TN     FN
+   140    50    17     1
+
+Precision / Recall
+    0.7368    0.9929
+
+
+Completed iteration:2
+Prediction points:206
+  TP     FP     TN     FN
+   133    61    11     1
+
+Precision / Recall
+    0.6856    0.9925
+
+
+Completed iteration:3
+Prediction points:186
+  TP     FP     TN     FN
+   123    48    12     3
+
+Precision / Recall
+    0.7193    0.9762
+
+
+Completed iteration:4
+Prediction points:189
+  TP     FP     TN     FN
+   128    48     8     5
+
+Precision / Recall
+    0.7273    0.9624
+
+
+Completed iteration:5
+Prediction points:200
+  TP     FP     TN     FN
+   136    55     7     2
+
+Precision / Recall
+    0.7120    0.9855
+
+
+Completed iteration:6
+Prediction points:218
+  TP     FP     TN     FN
+   149    55    10     4
+
+Precision / Recall
+    0.7304    0.9739
+
+
+Completed iteration:7
+Prediction points:191
+  TP     FP     TN     FN
+   126    47    13     5
+
+Precision / Recall
+    0.7283    0.9618
+
+
+Completed iteration:8
+Prediction points:212
+  TP     FP     TN     FN
+   138    60     7     7
+
+Precision / Recall
+    0.6970    0.9517
+
+
+Completed iteration:9
+Prediction points:191
+  TP     FP     TN     FN
+   127    55     7     2
+
+Precision / Recall
+    0.6978    0.9845
+
+
+Completed iteration:10
+Prediction points:204
+  TP     FP     TN     FN
+   133    58     9     4
+
+Precision / Recall
+    0.6963    0.9708
+
+
+Completed iteration:11
+Prediction points:194
+  TP     FP     TN     FN
+   121    57     9     7
+
+Precision / Recall
+    0.6798    0.9453
+
+
+Completed iteration:12
+Prediction points:199
+  TP     FP     TN     FN
+   126    53    16     4
+
+Precision / Recall
+    0.7039    0.9692
+
+
+Completed iteration:13
+Prediction points:200
+  TP     FP     TN     FN
+   113    52    15    20
+
+Precision / Recall
+    0.6848    0.8496
+
+
+Completed iteration:14
+Prediction points:205
+  TP     FP     TN     FN
+   144    54     7     0
+
+Precision / Recall
+    0.7273    1.0000
+
+
+Completed iteration:15
+Prediction points:221
+  TP     FP     TN     FN
+   142    62    11     6
+
+Precision / Recall
+    0.6961    0.9595
+
+
+Completed iteration:16
+Prediction points:201
+  TP     FP     TN     FN
+   144    48     8     1
+
+Precision / Recall
+    0.7500    0.9931
+
+
+Completed iteration:17
+Prediction points:206
+  TP     FP     TN     FN
+   136    62     5     3
+
+Precision / Recall
+    0.6869    0.9784
+
+
+Completed iteration:18
+Prediction points:181
+  TP     FP     TN     FN
+   126    45     7     3
+
+Precision / Recall
+    0.7368    0.9767
+
+
+Completed iteration:19
+Prediction points:213
+  TP     FP     TN     FN
+   139    51    16     7
+
+Precision / Recall
+    0.7316    0.9521
+
+
+Completed iteration:20
+Prediction points:176
+  TP     FP     TN     FN
+   118    42    16     0
+
+Precision / Recall
+    0.7375    1.0000
+
+
+Completed iteration:21
+Prediction points:179
+  TP     FP     TN     FN
+   117    51     7     4
+
+Precision / Recall
+    0.6964    0.9669
+
+
+Completed iteration:22
+Prediction points:200
+  TP     FP     TN     FN
+   130    54     9     7
+
+Precision / Recall
+    0.7065    0.9489
+
+
+Completed iteration:23
+Prediction points:185
+  TP     FP     TN     FN
+   127    47     7     4
+
+Precision / Recall
+    0.7299    0.9695
+
+
+Completed iteration:24
+Prediction points:208
+  TP     FP     TN     FN
+   138    50    12     8
+
+Precision / Recall
+    0.7340    0.9452
+
+
+Completed iteration:25
+Prediction points:162
+  TP     FP     TN     FN
+   108    45     8     1
+
+Precision / Recall
+    0.7059    0.9908
+
+
+Completed iteration:26
+Prediction points:219
+  TP     FP     TN     FN
+   153    50    10     6
+
+Precision / Recall
+    0.7537    0.9623
+
+
+Completed iteration:27
+Prediction points:183
+  TP     FP     TN     FN
+   118    50    12     3
+
+Precision / Recall
+    0.7024    0.9752
+
+
+Completed iteration:28
+Prediction points:186
+  TP     FP     TN     FN
+   117    53    13     3
+
+Precision / Recall
+    0.6882    0.9750
+
+
+Completed iteration:29
+Prediction points:203
+  TP     FP     TN     FN
+   129    57    12     5
+
+Precision / Recall
+    0.6935    0.9627
+
+
+Completed iteration:30
+Prediction points:202
+  TP     FP     TN     FN
+   144    50     6     2
+
+Precision / Recall
+    0.7423    0.9863
+
+Overall results (hybrid)
+Filtered datapoints
+Precision / Recall macro
+    0.7139    0.9686
+
+Precision / Recall micro
+    0.7142    0.9684
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:2
+Prediction points:217
+  TP     FP     TN     FN
+   142    61     7     7
+
+Precision / Recall
+    0.6995    0.9530
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:5
+Prediction points:206
+  TP     FP     TN     FN
+   136    58     8     4
+
+Precision / Recall
+    0.7010    0.9714
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:8
+Prediction points:169
+  TP     FP     TN     FN
+     1     0    62   106
+
+Precision / Recall
+    1.0000    0.0093
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:11
+Prediction points:196
+  TP     FP     TN     FN
+     1     3    47   145
+
+Precision / Recall
+    0.2500    0.0068
+
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:13
+Prediction points:205
+  TP     FP     TN     FN
+   134    56    10     5
+
+Precision / Recall
+    0.7053    0.9640
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:14
+Prediction points:203
+  TP     FP     TN     FN
+   137    61     5     0
+
+Precision / Recall
+    0.6919    1.0000
+
+
+Completed iteration:15
+Prediction points:172
+  TP     FP     TN     FN
+   123    37    10     2
+
+Precision / Recall
+    0.7688    0.9840
+
+
+Completed iteration:16
+Prediction points:193
+  TP     FP     TN     FN
+     1     0    51   141
+
+Precision / Recall
+    1.0000    0.0070
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:17
+Prediction points:200
+  TP     FP     TN     FN
+     1     0    73   126
+
+Precision / Recall
+    1.0000    0.0079
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:18
+Prediction points:198
+  TP     FP     TN     FN
+     0     1    61   136
+
+Precision / Recall
+     0     0
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:22
+Prediction points:182
+  TP     FP     TN     FN
+   112    49    14     7
+
+Precision / Recall
+    0.6957    0.9412
+
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:24
+Prediction points:207
+  TP     FP     TN     FN
+   132    60     8     7
+
+Precision / Recall
+    0.6875    0.9496
+
+
+Completed iteration:25
+Prediction points:210
+  TP     FP     TN     FN
+   149    39    15     7
+
+Precision / Recall
+    0.7926    0.9551
+
+
+Completed iteration:26
+Prediction points:186
+  TP     FP     TN     FN
+   126    50     8     2
+
+Precision / Recall
+    0.7159    0.9844
+
+
+Completed iteration:27
+Prediction points:199
+  TP     FP     TN     FN
+   109    43    20    27
+
+Precision / Recall
+    0.7171    0.8015
+
+
+Completed iteration:28
+Prediction points:187
+  TP     FP     TN     FN
+   118    60     4     5
+
+Precision / Recall
+    0.6629    0.9593
+
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:30
+Prediction points:190
+  TP     FP     TN     FN
+     0     2    56   132
+
+Precision / Recall
+     0     0
+
+Overall results (hybrid)
+Filtered datapoints
+Precision / Recall macro
+    0.6806    0.7713
+
+Precision / Recall micro
+    0.7142    0.7739
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:2
+Prediction points:211
+  TP     FP     TN     FN
+     0     1    65   145
+
+Precision / Recall
+     0     0
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:5
+Prediction points:202
+  TP     FP     TN     FN
+     0     3    61   138
+
+Precision / Recall
+     0     0
+
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:7
+Prediction points:211
+  TP     FP     TN     FN
+     2     5    59   145
+
+Precision / Recall
+    0.2857    0.0136
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:9
+Prediction points:196
+  TP     FP     TN     FN
+     2     0    60   134
+
+Precision / Recall
+    1.0000    0.0147
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:12
+Prediction points:212
+  TP     FP     TN     FN
+   141    51    15     5
+
+Precision / Recall
+    0.7344    0.9658
+
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:14
+Prediction points:161
+  TP     FP     TN     FN
+   102    47     9     3
+
+Precision / Recall
+    0.6846    0.9714
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:21
+Prediction points:196
+  TP     FP     TN     FN
+   132    58     4     2
+
+Precision / Recall
+    0.6947    0.9851
+
+
+Completed iteration:22
+Prediction points:212
+  TP     FP     TN     FN
+   143    57     8     4
+
+Precision / Recall
+    0.7150    0.9728
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:24
+Prediction points:213
+  TP     FP     TN     FN
+   151    58     3     1
+
+Precision / Recall
+    0.7225    0.9934
+
+
+Completed iteration:25
+Prediction points:176
+  TP     FP     TN     FN
+     1     1    48   126
+
+Precision / Recall
+    0.5000    0.0079
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:30
+Prediction points:218
+  TP     FP     TN     FN
+     2     0    75   141
+
+Precision / Recall
+    1.0000    0.0140
+
+Overall results (hybrid)
+Filtered datapoints
+Precision / Recall macro
+    0.6553    0.6141
+
+Precision / Recall micro
+    0.7150    0.6117
+
+
+Completed iteration:1
+Prediction points:207
+  TP     FP     TN     FN
+   128    49    20    10
+
+Precision / Recall
+    0.7232    0.9275
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:3
+Prediction points:212
+  TP     FP     TN     FN
+   144    54     9     5
+
+Precision / Recall
+    0.7273    0.9664
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:4
+Prediction points:217
+  TP     FP     TN     FN
+     0     2    62   153
+
+Precision / Recall
+     0     0
+
+
+Completed iteration:5
+Prediction points:217
+  TP     FP     TN     FN
+     0     1    76   140
+
+Precision / Recall
+     0     0
+
+
+Completed iteration:6
+Prediction points:225
+  TP     FP     TN     FN
+   152    63     3     7
+
+Precision / Recall
+    0.7070    0.9560
+
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:10
+Prediction points:224
+  TP     FP     TN     FN
+   137    82     3     2
+
+Precision / Recall
+    0.6256    0.9856
+
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:21
+Prediction points:219
+  TP     FP     TN     FN
+   155    61     1     2
+
+Precision / Recall
+    0.7176    0.9873
+
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:23
+Prediction points:201
+  TP     FP     TN     FN
+   132    54    11     4
+
+Precision / Recall
+    0.7097    0.9706
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:27
+Prediction points:220
+  TP     FP     TN     FN
+   154    65     1     0
+
+Precision / Recall
+    0.7032    1.0000
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:29
+Prediction points:215
+  TP     FP     TN     FN
+     1     2    63   149
+
+Precision / Recall
+    0.3333    0.0067
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Filtered datapoints
+Precision / Recall macro
+    0.6154    0.5543
+
+Precision / Recall micro
+    0.7078    0.5550
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:2
+Prediction points:216
+  TP     FP     TN     FN
+     7     2    57   150
+
+Precision / Recall
+    0.7778    0.0446
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:3
+Prediction points:209
+  TP     FP     TN     FN
+   151    53     5     0
+
+Precision / Recall
+    0.7402    1.0000
+
+
+Completed iteration:4
+Prediction points:209
+  TP     FP     TN     FN
+   135    54    16     4
+
+Precision / Recall
+    0.7143    0.9712
+
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:7
+Prediction points:202
+  TP     FP     TN     FN
+     0     1    60   141
+
+Precision / Recall
+     0     0
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:10
+Prediction points:221
+  TP     FP     TN     FN
+   153    59     2     7
+
+Precision / Recall
+    0.7217    0.9563
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:11
+Prediction points:207
+  TP     FP     TN     FN
+   147    55     2     3
+
+Precision / Recall
+    0.7277    0.9800
+
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:13
+Prediction points:188
+  TP     FP     TN     FN
+   121    52     7     8
+
+Precision / Recall
+    0.6994    0.9380
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:20
+Prediction points:10
+  TP     FP     TN     FN
+     8     1     0     1
+
+Precision / Recall
+    0.8889    0.8889
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:21
+Prediction points:208
+  TP     FP     TN     FN
+   142    62     2     2
+
+Precision / Recall
+    0.6961    0.9861
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:23
+Prediction points:204
+  TP     FP     TN     FN
+   134    66     0     4
+
+Precision / Recall
+    0.6700    0.9710
+
+
+Completed iteration:24
+Prediction points:203
+  TP     FP     TN     FN
+   139    62     1     1
+
+Precision / Recall
+    0.6915    0.9929
+
+
+Completed iteration:25
+Prediction points:215
+  TP     FP     TN     FN
+   142    68     1     4
+
+Precision / Recall
+    0.6762    0.9726
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:27
+Prediction points:182
+  TP     FP     TN     FN
+   125    52     4     1
+
+Precision / Recall
+    0.7062    0.9921
+
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:29
+Prediction points:214
+  TP     FP     TN     FN
+   139    69     2     4
+
+Precision / Recall
+    0.6683    0.9720
+
+
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Filtered datapoints
+Precision / Recall macro
+    0.6941    0.6797
+
+Precision / Recall micro
+    0.7079    0.6769
+
+
+Completed iteration:1
+Prediction points:200
+  TP     FP     TN     FN
+   126    68     2     4
+
+Precision / Recall
+    0.6495    0.9692
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:2
+Prediction points:201
+  TP     FP     TN     FN
+     0     1    65   135
+
+Precision / Recall
+     0     0
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:5
+Prediction points:196
+  TP     FP     TN     FN
+   124    69     2     1
+
+Precision / Recall
+    0.6425    0.9920
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:6
+Prediction points:211
+  TP     FP     TN     FN
+   146    61     3     1
+
+Precision / Recall
+    0.7053    0.9932
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:8
+Prediction points:224
+  TP     FP     TN     FN
+   159    60     3     2
+
+Precision / Recall
+    0.7260    0.9876
+
+
+Completed iteration:9
+Prediction points:204
+  TP     FP     TN     FN
+   132    68     3     1
+
+Precision / Recall
+    0.6600    0.9925
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:12
+Prediction points:228
+  TP     FP     TN     FN
+   150    75     2     1
+
+Precision / Recall
+    0.6667    0.9934
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:13
+Prediction points:199
+  TP     FP     TN     FN
+   137    55     2     5
+
+Precision / Recall
+    0.7135    0.9648
+
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:17
+Prediction points:214
+  TP     FP     TN     FN
+     2     0    64   148
+
+Precision / Recall
+    1.0000    0.0133
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:18
+Prediction points:22
+  TP     FP     TN     FN
+     0     1     4    17
+
+Precision / Recall
+     0     0
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:21
+Prediction points:211
+  TP     FP     TN     FN
+   148    58     3     2
+
+Precision / Recall
+    0.7184    0.9867
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:22
+Prediction points:207
+  TP     FP     TN     FN
+   138    68     1     0
+
+Precision / Recall
+    0.6699    1.0000
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:25
+Prediction points:217
+  TP     FP     TN     FN
+   146    64     1     6
+
+Precision / Recall
+    0.6952    0.9605
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:26
+Prediction points:16
+  TP     FP     TN     FN
+    11     4     1     0
+
+Precision / Recall
+    0.7333    1.0000
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Not enough valid test points; skipping iteration.
+
+Completed iteration:28
+Prediction points:216
+  TP     FP     TN     FN
+     2     0    61   153
+
+Precision / Recall
+    1.0000    0.0129
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',236,1)">GP_GraspIt_TP_hybrid at 236</a>] 
+
+Completed iteration:29
+Prediction points:201
+  TP     FP     TN     FN
+   146    52     2     1
+
+Precision / Recall
+    0.7374    0.9932
+
+
+Completed iteration:30
+Prediction points:228
+  TP     FP     TN     FN
+   158    60     8     2
+
+Precision / Recall
+    0.7248    0.9875
+
+Overall results (hybrid)
+Filtered datapoints
+Precision / Recall macro
+    0.6696    0.7838
+
+Precision / Recall micro
+    0.7030    0.7951
+
+    TPR       FPR       TNR       FNR       cutoff
+computation time (s)
+  826.0930
+

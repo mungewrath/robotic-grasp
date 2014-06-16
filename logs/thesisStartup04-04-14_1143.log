@@ -1,0 +1,41 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('GP_GraspIt_TP_hybrid', 'Z:\Thesis\GP_GraspIt_TP_hybrid.m', 301)" style="font-weight:bold">GP_GraspIt_TP_hybrid</a> (<a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',301,0)">line 301</a>)
+Assertion failed.
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+GP_GraspIt_TP_hybrid
+[Warning: Directory access failure: Z:\Thesis\thesisStartup.m] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',10,1)">GP_GraspIt_TP_hybrid at 10</a>] 
+[Warning: Directory access failure: Z:\Thesis\thesisCleanup.m] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',11,1)">GP_GraspIt_TP_hybrid at 11</a>] 

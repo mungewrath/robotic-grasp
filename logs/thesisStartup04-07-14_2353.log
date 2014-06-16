@@ -1,0 +1,118 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+
+Completed iteration:1
+Prediction points:219
+  TP     FP     TN     FN
+   160    45     7     7
+
+Precision / Recall
+    0.7805    0.9581
+
+
+Completed iteration:2
+Prediction points:237
+  TP     FP     TN     FN
+   166    57    11     3
+
+Precision / Recall
+    0.7444    0.9822
+
+
+Completed iteration:3
+Prediction points:232
+  TP     FP     TN     FN
+   157    56    13     6
+
+Precision / Recall
+    0.7371    0.9632
+
+
+Completed iteration:4
+Prediction points:228
+  TP     FP     TN     FN
+   145    62    10    11
+
+Precision / Recall
+    0.7005    0.9295
+
+
+Completed iteration:5
+Prediction points:241
+  TP     FP     TN     FN
+   154    72     9     6
+
+Precision / Recall
+    0.6814    0.9625
+
+
+Completed iteration:6
+Prediction points:221
+  TP     FP     TN     FN
+   138    50    16    17
+
+Precision / Recall
+    0.7340    0.8903
+
+
+Completed iteration:7
+Prediction points:224
+  TP     FP     TN     FN
+   150    48    18     8
+
+Precision / Recall
+    0.7576    0.9494
+
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('sq_dist', 'Z:\RobotGrasp2\util\sq_dist.m', 46)" style="font-weight:bold">sq_dist</a> (<a href="matlab: opentoline('Z:\RobotGrasp2\util\sq_dist.m',46,0)">line 46</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('covSEard', 'Z:\RobotGrasp2\cov\covSEard.m', 35)" style="font-weight:bold">covSEard</a> (<a href="matlab: opentoline('Z:\RobotGrasp2\cov\covSEard.m',35,0)">line 35</a>)
+    K = sq_dist(diag(1./ell)*x');
+
+In <a href="matlab:helpUtils.errorDocCallback('infExact', 'Z:\RobotGrasp2\inf\infExact.m', 18)" style="font-weight:bold">infExact</a> (<a href="matlab: opentoline('Z:\RobotGrasp2\inf\infExact.m',18,0)">line 18</a>)
+K = feval(cov{:}, hyp.cov, x);                      % evaluate covariance matrix
+
+In <a href="matlab:helpUtils.errorDocCallback('gp', 'Z:\RobotGrasp2\gp.m', 112)" style="font-weight:bold">gp</a> (<a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',112,0)">line 112</a>)
+      [post nlZ dnlZ] = inf(hyp, mean, cov, lik, x, y);
+
+In <a href="matlab:helpUtils.errorDocCallback('minimize', 'Z:\RobotGrasp2\util\minimize.m', 97)" style="font-weight:bold">minimize</a> (<a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,0)">line 97</a>)
+        [f3 df3] = feval(f, rewrap(Z,X+x3*s), varargin{:});
+
+In <a href="matlab:helpUtils.errorDocCallback('GP_GraspIt_TP_hybrid_kdtree', 'Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m', 256)" style="font-weight:bold">GP_GraspIt_TP_hybrid_kdtree</a> (<a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',256,0)">line 256</a>)
+        hyp = minimize(hyp, @gp, -1000, inffunc, meanfunc, covfunc, likfunc, trainData, trainy);
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+GP_GraspIt_TP_hybrid_kdtree
+[Warning: Directory access failure: Z:\Thesis\thesisStartup.m] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',12,1)">GP_GraspIt_TP_hybrid_kdtree at 12</a>] 
+[Warning: Directory access failure: Z:\Thesis\thesisCleanup.m] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid_kdtree.m',13,1)">GP_GraspIt_TP_hybrid_kdtree at 13</a>] 

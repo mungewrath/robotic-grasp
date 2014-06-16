@@ -1,0 +1,4298 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+binThreshold:60
+energy base:60
+using confidence:1
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 0 points
+Sample indices for node 3: 715, 209
+  TP  /  FP  /  TN  /  FN  :
+  22      9      0      0
+
+Sample indices for node 9: 596, 563
+  TP  /  FP  /  TN  /  FN  :
+  23      9      0      1
+
+Sample indices for node 10: 62, 368
+  TP  /  FP  /  TN  /  FN  :
+  26      5      4      9
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     31.00000     33.00000     44.00000
+    PointArng  -3205.67383    -56.62715    -22.41511
+    Extension  -1941.47014   -176.72865    -17.83841
+       Spread  -1564.64303    378.23944    101.35466
+        Limit   -499.72621   -122.97798     52.68275
+      PerpSym    472.71740   -172.45283     36.67627
+  ParallelSym   -542.20042    440.10457    -88.29676
+    OrthoNorm   -720.91395   -138.17931     35.14785
+       Volume    413.84660   -155.64198     45.33896
+ GraspIt_Volu   6487.04985  -1265.29620     29.43928
+ GraspIt_Epsi   -105.40325    148.10955    -29.42642
+    Precision      0.95000      0.83871      0.82353
+ 
+Completed iteration:1
+Prediction points:244
+  TP     FP     TN     FN
+   167    44    14    19
+
+Precision / Recall
+    0.7915    0.8978
+
+Number of bins: 9
+Average bin size: 3.822222e+01
+Eliminated 0 points
+Sample indices for node 3: 52, 65
+  TP  /  FP  /  TN  /  FN  :
+  15      11      0      0
+
+Sample indices for node 9: 735, 643
+  TP  /  FP  /  TN  /  FN  :
+  28      12      0      0
+
+Sample indices for node 10: 71, 269
+  TP  /  FP  /  TN  /  FN  :
+  28      7      2      5
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     26.00000     40.00000     42.00000
+    PointArng   -846.03195 -6.15209e-13    -25.79120
+    Extension   -620.92673  1.53037e-12   -384.79450
+       Spread   -200.24693 -7.62568e-13   -324.74176
+        Limit     76.87927  6.45531e-13    148.34101
+      PerpSym    280.77130 -3.33573e-13    131.60337
+  ParallelSym   -246.98979  2.05518e-12     55.67086
+    OrthoNorm   -266.09324 -1.17651e-12    -94.55546
+       Volume     83.89809  6.56844e-12    291.39660
+ GraspIt_Volu     12.20003 -1.47289e-12   -119.54295
+ GraspIt_Epsi     81.53181 -3.35813e-13     87.86954
+    Precision      1.00000      0.88889      0.80000
+ 
+Completed iteration:2
+Prediction points:244
+  TP     FP     TN     FN
+   160    55    17    12
+
+Precision / Recall
+    0.7442    0.9302
+
+Number of bins: 8
+Average bin size: 4.062500e+01
+Eliminated 7 points
+Sample indices for node 3: 366, 209
+  TP  /  FP  /  TN  /  FN  :
+  20      11      0      0
+
+Sample indices for node 9: 572, 601
+  TP  /  FP  /  TN  /  FN  :
+  21      14      1      3
+
+Sample indices for node 10: 177, 331
+  TP  /  FP  /  TN  /  FN  :
+  26      1      1      4
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     31.00000     39.00000     32.00000
+    PointArng    102.94621    -11.79104   -261.21541
+    Extension   -678.33112    -58.75726    497.97545
+       Spread    -89.46930    -57.28154  -1056.70300
+        Limit    105.76566     32.28482    151.55158
+      PerpSym    -35.83540      3.73134    404.18908
+  ParallelSym    324.28014    -26.69638   -401.93321
+    OrthoNorm    -68.55374    -15.01576   -179.22140
+       Volume    537.67273     63.81324     37.25501
+ GraspIt_Volu   -478.10169     36.12621    187.09293
+ GraspIt_Epsi    137.95144     -6.03755     49.19653
+    Precision      0.96296      0.86842      0.85000
+ 
+Completed iteration:3
+Prediction points:237
+  TP     FP     TN     FN
+   157    55    11    14
+
+Precision / Recall
+    0.7406    0.9181
+
+Number of bins: 9
+Average bin size: 3.744444e+01
+Eliminated 0 points
+Sample indices for node 3: 636, 700
+  TP  /  FP  /  TN  /  FN  :
+  14      9      0      0
+
+Sample indices for node 19: 616, 581
+  TP  /  FP  /  TN  /  FN  :
+  7      1      0      1
+
+Sample indices for node 20: 670, 728
+  TP  /  FP  /  TN  /  FN  :
+  10      13      0      0
+
+ 
+Best Nodes = 
+                         3           19           20
+     NodeSize     23.00000      9.00000     23.00000
+    PointArng     48.68878    -91.98012    -13.26190
+    Extension     97.51214    -33.50391   -170.63353
+       Spread     62.62003     90.90775     40.02710
+        Limit    -10.70679     19.85090    -25.54496
+      PerpSym      2.35075    -19.64664      6.32389
+  ParallelSym    -51.61771    -27.54998   -434.10680
+    OrthoNorm   -104.05380    -69.95416     -3.24388
+       Volume    -94.96733     22.12436    -66.54801
+ GraspIt_Volu     -6.68317     13.03440    -17.77262
+ GraspIt_Epsi     -2.91782    -29.00709      2.08758
+    Precision      0.97619      0.88000      0.87500
+ 
+Completed iteration:4
+Prediction points:244
+  TP     FP     TN     FN
+   159    56    18    11
+
+Precision / Recall
+    0.7395    0.9353
+
+Number of bins: 7
+Average bin size: 47
+Eliminated 0 points
+Sample indices for node 3: 197, 204
+  TP  /  FP  /  TN  /  FN  :
+  21      11      0      0
+
+Sample indices for node 9: 670, 568
+  TP  /  FP  /  TN  /  FN  :
+  16      15      0      1
+
+Sample indices for node 10: 3, 82
+  TP  /  FP  /  TN  /  FN  :
+  19      8      0      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     32.00000     32.00000     30.00000
+    PointArng    534.90333     26.54918 -4.07797e-12
+    Extension   3839.79459    137.58702  3.75135e-12
+       Spread  -3167.74632    160.43215 -5.19121e-13
+        Limit      3.65172     32.85672 -5.78209e-13
+      PerpSym    325.57160      0.64817  6.24515e-14
+  ParallelSym   -169.44973    -45.24530 -5.63199e-13
+    OrthoNorm  -1385.27116   -129.63363  7.75314e-14
+       Volume    214.94732    -94.10258  5.79277e-14
+ GraspIt_Volu    -13.39861     18.72926  9.31780e-14
+ GraspIt_Epsi     82.16709    -89.38765 -2.61214e-13
+    Precision      0.77273      0.76667      0.73529
+ 
+Completed iteration:5
+Prediction points:244
+  TP     FP     TN     FN
+   148    66    15    15
+
+Precision / Recall
+    0.6916    0.9080
+
+Number of bins: 8
+Average bin size: 43
+Eliminated 0 points
+Sample indices for node 3: 350, 65
+  TP  /  FP  /  TN  /  FN  :
+  17      7      0      0
+
+Sample indices for node 9: 694, 600
+  TP  /  FP  /  TN  /  FN  :
+  18      11      0      0
+
+Sample indices for node 10: 14, 180
+  TP  /  FP  /  TN  /  FN  :
+  21      8      1      7
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     24.00000     29.00000     37.00000
+    PointArng   -314.69525    -16.96508    105.22985
+    Extension    434.43223     31.77393   1232.40820
+       Spread   -306.71712    -80.51732  -1370.53267
+        Limit    -55.94340      3.23720     89.51275
+      PerpSym      3.51845     20.67736    358.22060
+  ParallelSym    -49.88345   -136.43258   -588.78506
+    OrthoNorm    -12.05039      1.91716    399.08419
+       Volume    263.24903     14.30838    254.12885
+ GraspIt_Volu   -739.13699     42.17967    575.58327
+ GraspIt_Epsi    -58.73719    -90.15198      7.84971
+    Precision      0.90244      0.90000      0.85714
+ 
+Completed iteration:6
+Prediction points:244
+  TP     FP     TN     FN
+   153    53    19    19
+
+Precision / Recall
+    0.7427    0.8895
+
+Number of bins: 7
+Average bin size: 4.871429e+01
+Eliminated 0 points
+Sample indices for node 3: 284, 659
+  TP  /  FP  /  TN  /  FN  :
+  19      10      0      0
+
+Sample indices for node 9: 539, 610
+  TP  /  FP  /  TN  /  FN  :
+  24      8      1      1
+
+Sample indices for node 10: 80, 190
+  TP  /  FP  /  TN  /  FN  :
+  21      6      1      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     29.00000     34.00000     31.00000
+    PointArng   -230.14524 -4.69526e+15   -260.81950
+    Extension   -737.29533 -2.75294e+14    555.49766
+       Spread   -322.13457 -5.11893e+14   -719.43963
+        Limit     17.42394  8.44047e+14   -418.45830
+      PerpSym     48.86195  2.01729e+14    115.35278
+  ParallelSym   -145.62290 -1.19957e+15     62.50087
+    OrthoNorm    -72.64819 -2.18919e+14    338.61474
+       Volume    309.05170  1.35585e+15    201.01380
+ GraspIt_Volu   -193.88891  6.67598e+14    605.29436
+ GraspIt_Epsi     -9.44773 -1.04598e+15     34.92325
+    Precision      0.89130      0.82759      0.81250
+ 
+Completed iteration:7
+Prediction points:244
+  TP     FP     TN     FN
+   163    45    23    13
+
+Precision / Recall
+    0.7837    0.9261
+
+Number of bins: 8
+Average bin size: 4.187500e+01
+Eliminated 0 points
+Sample indices for node 3: 366, 284
+  TP  /  FP  /  TN  /  FN  :
+  17      10      0      0
+
+Sample indices for node 9: 602, 458
+  TP  /  FP  /  TN  /  FN  :
+  20      13      2      0
+
+Sample indices for node 10: 269, 211
+  TP  /  FP  /  TN  /  FN  :
+  22      6      3      10
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     27.00000     35.00000     41.00000
+    PointArng   -243.74904    168.31222   -444.70512
+    Extension    -39.23734   -337.27283   1538.08769
+       Spread   -105.36855     99.37412  -1289.28607
+        Limit   -104.81909     33.06847    130.18917
+      PerpSym    247.77094     31.20114    159.55407
+  ParallelSym   -231.55976    114.37951   -141.58944
+    OrthoNorm     70.52814     11.61626   -632.50778
+       Volume   -508.59985     64.54525   1241.35970
+ GraspIt_Volu   -355.79987     -2.25946    742.74741
+ GraspIt_Epsi     38.08987    -25.79062    -65.25487
+    Precision      1.00000      0.90909      0.90000
+ 
+Completed iteration:8
+Prediction points:244
+  TP     FP     TN     FN
+   155    53    16    20
+
+Precision / Recall
+    0.7452    0.8857
+
+Number of bins: 7
+Average bin size: 4.728571e+01
+Eliminated 0 points
+Sample indices for node 3: 134, 204
+  TP  /  FP  /  TN  /  FN  :
+  21      15      0      0
+
+Sample indices for node 9: 604, 590
+  TP  /  FP  /  TN  /  FN  :
+  14      14      0      1
+
+Sample indices for node 10: 210, 102
+  TP  /  FP  /  TN  /  FN  :
+  28      11      2      4
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     36.00000     29.00000     45.00000
+    PointArng    -21.74630   -318.17776   -529.25100
+    Extension     78.93212    -32.12826   -306.46349
+       Spread    -10.25654    -62.24316   -331.24030
+        Limit      9.66421     85.91968     82.41978
+      PerpSym    -36.01651     11.34042    179.79462
+  ParallelSym     -6.63809    -98.86830   -226.45883
+    OrthoNorm    -27.90801     40.03222   -106.27748
+       Volume    620.57379     89.69050     34.45246
+ GraspIt_Volu   -193.09096     17.01547     51.36847
+ GraspIt_Epsi    -76.00543    -24.24876     83.48537
+    Precision      0.91176      0.80769      0.77778
+ 
+Completed iteration:9
+Prediction points:244
+  TP     FP     TN     FN
+   148    65    20    11
+
+Precision / Recall
+    0.6948    0.9308
+
+Number of bins: 7
+Average bin size: 4.857143e+01
+Eliminated 0 points
+Sample indices for node 3: 721, 433
+  TP  /  FP  /  TN  /  FN  :
+  19      9      0      0
+
+Sample indices for node 9: 730, 670
+  TP  /  FP  /  TN  /  FN  :
+  20      15      1      1
+
+Sample indices for node 10: 17, 252
+  TP  /  FP  /  TN  /  FN  :
+  25      4      2      4
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     28.00000     37.00000     35.00000
+    PointArng     -8.29105    110.06298 -2.97412e-13
+    Extension    -36.59924  -1395.71698 -1.05863e-12
+       Spread    160.02517   -244.90043  5.73015e-14
+        Limit     14.54369     74.91154 -1.44536e-12
+      PerpSym    -27.96598    215.51814 -7.04167e-13
+  ParallelSym    -11.39066    -96.25300  6.01895e-13
+    OrthoNorm   -113.44816    144.21288 -1.87793e-13
+       Volume    644.32272    263.55085 -9.47710e-13
+ GraspIt_Volu    -83.31211    229.70472 -5.19643e-14
+ GraspIt_Epsi    -77.47162     11.98547 -3.20135e-13
+    Precision      0.94872      0.86207      0.67857
+ 
+Completed iteration:10
+Prediction points:244
+  TP     FP     TN     FN
+   153    57    19    15
+
+Precision / Recall
+    0.7286    0.9107
+
+Number of bins: 8
+Average bin size: 4.225000e+01
+Eliminated 0 points
+Sample indices for node 3: 711, 290
+  TP  /  FP  /  TN  /  FN  :
+  14      9      0      0
+
+Sample indices for node 9: 259, 569
+  TP  /  FP  /  TN  /  FN  :
+  16      3      1      1
+
+Sample indices for node 10: 83, 485
+  TP  /  FP  /  TN  /  FN  :
+  26      9      1      2
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     23.00000     21.00000     38.00000
+    PointArng      1.77028    -60.57616   -428.22505
+    Extension    -97.97479   -701.61480    712.06828
+       Spread     97.16765   -322.46878   -494.94703
+        Limit     46.77745     68.75475    187.48032
+      PerpSym    -44.08938     61.43890      3.59354
+  ParallelSym    -17.23097    -29.02336     41.38693
+    OrthoNorm    -63.41097    238.20421   -393.11588
+       Volume     21.27983    205.45557   1367.19054
+ GraspIt_Volu   -342.90823     -3.01280     48.97911
+ GraspIt_Epsi   -123.61418     11.35185     26.88189
+    Precision      1.00000      0.89655      0.86667
+ 
+Completed iteration:11
+Prediction points:244
+  TP     FP     TN     FN
+   156    56    20    12
+
+Precision / Recall
+    0.7358    0.9286
+
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 8 points
+Sample indices for node 3: 557, 665
+  TP  /  FP  /  TN  /  FN  :
+  19      7      0      0
+
+Sample indices for node 9: 643, 685
+  TP  /  FP  /  TN  /  FN  :
+  25      17      0      0
+
+Sample indices for node 10: 332, 10
+  TP  /  FP  /  TN  /  FN  :
+  21      8      1      6
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     26.00000     42.00000     36.00000
+    PointArng   -547.88071    -78.47201   -682.95658
+    Extension    262.42488    -26.36069    -80.02794
+       Spread   -774.73041    321.88281   -805.89843
+        Limit    122.39118     48.90419   -234.86606
+      PerpSym    207.73132     62.26865    125.19526
+  ParallelSym   -352.68407   -109.85356   -117.63032
+    OrthoNorm   -328.27131     22.38488    110.79251
+       Volume    265.14598     35.49616   -549.64297
+ GraspIt_Volu    367.08429     24.52632    911.55799
+ GraspIt_Epsi     16.53091    -29.29223    144.45432
+    Precision      0.90909      0.86364      0.85417
+ 
+Completed iteration:12
+Prediction points:236
+  TP     FP     TN     FN
+   157    51    15    13
+
+Precision / Recall
+    0.7548    0.9235
+
+Number of bins: 7
+Average bin size: 4.728571e+01
+Eliminated 0 points
+Sample indices for node 3: 340, 87
+  TP  /  FP  /  TN  /  FN  :
+  13      10      0      0
+
+Sample indices for node 9: 610, 604
+  TP  /  FP  /  TN  /  FN  :
+  27      16      2      2
+
+Sample indices for node 10: 159, 210
+  TP  /  FP  /  TN  /  FN  :
+  23      5      0      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     23.00000     47.00000     31.00000
+    PointArng  -2452.17739     31.38150   -383.57415
+    Extension  -1014.58029   -144.58345    789.87359
+       Spread   -291.58789   -235.56990  -1013.72225
+        Limit   -481.09718    194.83878    162.17224
+      PerpSym    464.53659    -41.74768    360.80409
+  ParallelSym   -384.88781   -171.57000   -344.52189
+    OrthoNorm     52.32176    112.37114   -281.49166
+       Volume   -353.04037    359.25030    225.19056
+ GraspIt_Volu   6354.69498   -327.49048    412.42703
+ GraspIt_Epsi   -115.97938    136.24697     17.23943
+    Precision      0.96552      0.82143      0.76190
+ 
+Completed iteration:13
+Prediction points:244
+  TP     FP     TN     FN
+   149    58    21    16
+
+Precision / Recall
+    0.7198    0.9030
+
+Number of bins: 8
+Average bin size: 43
+Eliminated 0 points
+Sample indices for node 3: 213, 709
+  TP  /  FP  /  TN  /  FN  :
+  19      9      0      0
+
+Sample indices for node 9: 563, 732
+  TP  /  FP  /  TN  /  FN  :
+  22      7      0      0
+
+Sample indices for node 10: 228, 82
+  TP  /  FP  /  TN  /  FN  :
+  21      3      0      2
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     28.00000     29.00000     26.00000
+    PointArng   -616.51880 -6.05490e-12    136.15173
+    Extension    316.52135  8.43142e-12     59.87583
+       Spread   -184.48437  3.56375e-12   -165.28207
+        Limit    -28.65825 -1.26026e-12     54.55794
+      PerpSym    360.31888 -1.38458e-12     67.76375
+  ParallelSym   -337.65414 -2.01248e-12   -142.32653
+    OrthoNorm    -21.61535 -5.94696e-13     -6.90730
+       Volume    -56.23784  1.11756e-11      5.80219
+ GraspIt_Volu    362.61701 -1.67829e-12   -121.70228
+ GraspIt_Epsi    -57.68956 -4.87483e-13     58.43011
+    Precision      1.00000      0.92857      0.87500
+ 
+Completed iteration:14
+Prediction points:244
+  TP     FP     TN     FN
+   166    60    11     7
+
+Precision / Recall
+    0.7345    0.9595
+
+Number of bins: 8
+Average bin size: 4.137500e+01
+Eliminated 0 points
+Sample indices for node 3: 65, 16
+  TP  /  FP  /  TN  /  FN  :
+  25      4      0      0
+
+Sample indices for node 9: 732, 691
+  TP  /  FP  /  TN  /  FN  :
+  23      13      0      1
+
+Sample indices for node 10: 199, 343
+  TP  /  FP  /  TN  /  FN  :
+  20      8      1      2
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     29.00000     37.00000     31.00000
+    PointArng   -698.28775     -2.85340     11.81390
+    Extension  -1284.71671     -4.46927   -179.12121
+       Spread   -908.82991      2.26384   -232.04525
+        Limit    223.32193     -5.84892    136.07550
+      PerpSym    474.58104     14.90459    -65.92350
+  ParallelSym   -432.02808    -60.77933    -62.08443
+    OrthoNorm   -190.76709      3.35297   -144.40266
+       Volume    144.33960     -7.34729    899.94655
+ GraspIt_Volu    680.18548      3.67173   -818.35574
+ GraspIt_Epsi    -31.78905     -1.64621   -124.45971
+    Precision      0.93750      0.90000      0.86957
+ 
+Completed iteration:15
+Prediction points:244
+  TP     FP     TN     FN
+   168    47    21     8
+
+Precision / Recall
+    0.7814    0.9545
+
+Number of bins: 8
+Average bin size: 4.237500e+01
+Eliminated 0 points
+Sample indices for node 3: 59, 76
+  TP  /  FP  /  TN  /  FN  :
+  20      8      0      0
+
+Sample indices for node 9: 649, 602
+  TP  /  FP  /  TN  /  FN  :
+  30      12      0      2
+
+Sample indices for node 10: 218, 395
+  TP  /  FP  /  TN  /  FN  :
+  16      4      7      4
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     28.00000     44.00000     31.00000
+    PointArng   -337.91253 -4.73920e-13    239.07518
+    Extension   1080.87706 -4.97934e-13  -1138.38671
+       Spread   -563.86472  1.60824e-12   -274.41515
+        Limit     74.10077 -1.01966e-13    189.38941
+      PerpSym     54.50784  8.63908e-13    179.61041
+  ParallelSym     28.35502 -7.13261e-13     55.63217
+    OrthoNorm    712.37975 -6.35195e-13     94.64202
+       Volume    569.28205 -2.16073e-12     56.88927
+ GraspIt_Volu    -11.43045 -8.76980e-13     50.55852
+ GraspIt_Epsi     19.06999  2.41831e-14     46.65390
+    Precision      0.87500      0.81395      0.80000
+ 
+Completed iteration:16
+Prediction points:244
+  TP     FP     TN     FN
+   165    55    15     9
+
+Precision / Recall
+    0.7500    0.9483
+
+Number of bins: 8
+Average bin size: 4.225000e+01
+Eliminated 0 points
+Sample indices for node 3: 201, 134
+  TP  /  FP  /  TN  /  FN  :
+  18      13      0      0
+
+Sample indices for node 9: 523, 679
+  TP  /  FP  /  TN  /  FN  :
+  25      14      1      1
+
+Sample indices for node 10: 202, 274
+  TP  /  FP  /  TN  /  FN  :
+  20      11      1      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     31.00000     41.00000     35.00000
+    PointArng    138.77173     55.73154   -917.46582
+    Extension   -127.75120    -68.01046    -78.46763
+       Spread    -30.81437     79.16233    460.74581
+        Limit    114.37773     37.19219   -189.10762
+      PerpSym    -63.79132      3.96459   -165.80772
+  ParallelSym    595.61015    -60.98180    -11.01581
+    OrthoNorm   -509.98050    -18.47816   -477.27425
+       Volume   1823.60579    -55.87304   -122.87852
+ GraspIt_Volu     69.02318     10.96435   -114.42512
+ GraspIt_Epsi     17.74878    -62.98788   -144.70432
+    Precision      0.90909      0.83784      0.72000
+ 
+Completed iteration:17
+Prediction points:244
+  TP     FP     TN     FN
+   149    65    13    17
+
+Precision / Recall
+    0.6963    0.8976
+
+Number of bins: 7
+Average bin size: 4.671429e+01
+Eliminated 0 points
+Sample indices for node 3: 409, 512
+  TP  /  FP  /  TN  /  FN  :
+  15      6      0      0
+
+Sample indices for node 9: 639, 669
+  TP  /  FP  /  TN  /  FN  :
+  24      15      0      1
+
+Sample indices for node 10: 27, 105
+  TP  /  FP  /  TN  /  FN  :
+  27      7      0      2
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     21.00000     40.00000     36.00000
+    PointArng   -400.51090     63.56326  4.82413e-13
+    Extension    151.93271    388.52473  1.91769e-12
+       Spread   -438.39360   -265.37751  2.10358e-13
+        Limit   -192.94298      1.19103  9.08320e-14
+      PerpSym    -64.30207     36.74191 -3.65654e-13
+  ParallelSym     44.62840    -91.75029  1.96177e-13
+    OrthoNorm    326.43808    -78.39242  1.77949e-14
+       Volume  -1391.81410     62.69782  6.61893e-14
+ GraspIt_Volu   -242.99223   -250.23547  4.29332e-15
+ GraspIt_Epsi    -37.69138     16.85777  1.24526e-13
+    Precision      0.88235      0.79412      0.79310
+ 
+Completed iteration:18
+Prediction points:244
+  TP     FP     TN     FN
+   155    53    17    19
+
+Precision / Recall
+    0.7452    0.8908
+
+Number of bins: 8
+Average bin size: 4.250000e+01
+Eliminated 0 points
+Sample indices for node 3: 356, 208
+  TP  /  FP  /  TN  /  FN  :
+  17      13      0      0
+
+Sample indices for node 9: 654, 600
+  TP  /  FP  /  TN  /  FN  :
+  23      10      0      0
+
+Sample indices for node 10: 455, 107
+  TP  /  FP  /  TN  /  FN  :
+  20      3      0      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     30.00000     33.00000     26.00000
+    PointArng    257.56029    -53.54615   1248.40399
+    Extension   1032.99771    -50.62120      0.90484
+       Spread   -107.81857    -79.85616   1873.22691
+        Limit    327.03945     63.65583    109.78834
+      PerpSym     83.58899      7.63484    539.27732
+  ParallelSym     -7.79800    -61.12880   -602.88807
+    OrthoNorm    -88.97221   -168.50134   -120.55669
+       Volume    240.78827    672.70378    248.44209
+ GraspIt_Volu   -202.53671   -153.78372    309.82881
+ GraspIt_Epsi    153.27101    -47.85638   -377.62307
+    Precision      0.86957      0.86957      0.85000
+ 
+Completed iteration:19
+Prediction points:244
+  TP     FP     TN     FN
+   166    57    13     8
+
+Precision / Recall
+    0.7444    0.9540
+
+Number of bins: 8
+Average bin size: 4.112500e+01
+Eliminated 0 points
+Sample indices for node 3: 557, 226
+  TP  /  FP  /  TN  /  FN  :
+  20      10      0      0
+
+Sample indices for node 9: 675, 677
+  TP  /  FP  /  TN  /  FN  :
+  22      11      1      0
+
+Sample indices for node 10: 415, 62
+  TP  /  FP  /  TN  /  FN  :
+  23      6      0      5
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     30.00000     34.00000     34.00000
+    PointArng     38.04707    -27.64321    129.21686
+    Extension   -172.84648   -403.60150    -40.43575
+       Spread     38.06918   -154.17256   -541.13676
+        Limit     39.66522     59.76482    202.91949
+      PerpSym     21.32057    251.75155      5.22639
+  ParallelSym     57.92580   -111.80797   -127.39329
+    OrthoNorm     21.42181   -300.87082   -100.22373
+       Volume    463.41822    524.83876    424.38084
+ GraspIt_Volu     33.18174    271.94632   -236.68064
+ GraspIt_Epsi    -38.68414      5.89438    123.54637
+    Precision      0.95238      0.80952      0.79310
+ 
+Completed iteration:20
+Prediction points:244
+  TP     FP     TN     FN
+   164    58    10    12
+
+Precision / Recall
+    0.7387    0.9318
+
+Number of bins: 7
+Average bin size: 4.585714e+01
+Eliminated 0 points
+Sample indices for node 3: 223, 356
+  TP  /  FP  /  TN  /  FN  :
+  9      12      0      0
+
+Sample indices for node 9: 640, 591
+  TP  /  FP  /  TN  /  FN  :
+  23      10      0      0
+
+Sample indices for node 10: 25, 108
+  TP  /  FP  /  TN  /  FN  :
+  29      5      4      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     21.00000     33.00000     41.00000
+    PointArng    158.12660  -5589.32304    -14.25184
+    Extension  -2011.65720  -1335.17618    -30.03947
+       Spread   1025.56436  -3300.65279      3.47396
+        Limit    -61.33956   -411.35412     54.88828
+      PerpSym   -305.05984    753.00398     -4.92525
+  ParallelSym   -177.03900  -1061.44255    -53.50250
+    OrthoNorm   -271.20848  -1187.25973    -41.98137
+       Volume   -105.24214   1405.82706     31.95568
+ GraspIt_Volu  -1636.06461  13806.40106     47.96220
+ GraspIt_Epsi     95.62461   -283.54360    -39.07052
+    Precision      0.85294      0.83333      0.78947
+ 
+Completed iteration:21
+Prediction points:244
+  TP     FP     TN     FN
+   156    56    24     8
+
+Precision / Recall
+    0.7358    0.9512
+
+Number of bins: 9
+Average bin size: 38
+Eliminated 0 points
+Sample indices for node 3: 16, 4
+  TP  /  FP  /  TN  /  FN  :
+  14      10      0      0
+
+Sample indices for node 9: 626, 680
+  TP  /  FP  /  TN  /  FN  :
+  27      11      2      0
+
+Sample indices for node 10: 188, 71
+  TP  /  FP  /  TN  /  FN  :
+  29      11      2      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     24.00000     40.00000     45.00000
+    PointArng   -558.03843     80.76189      7.32271
+    Extension    467.30853   -236.62640    -28.56627
+       Spread   -262.85996     22.53412    142.96505
+        Limit    -25.79695     36.66251     28.27521
+      PerpSym    374.18228     10.50267    -13.08163
+  ParallelSym   -355.52653    112.59059    -34.67984
+    OrthoNorm    -16.92474     41.64283    -52.00254
+       Volume    600.54561    388.44983     32.10425
+ GraspIt_Volu  -1096.20166     -9.12688     30.44490
+ GraspIt_Epsi      3.12802    -41.11953    -37.53285
+    Precision      1.00000      0.94118      0.90909
+ 
+Completed iteration:22
+Prediction points:244
+  TP     FP     TN     FN
+   156    58    19    11
+
+Precision / Recall
+    0.7290    0.9341
+
+Number of bins: 8
+Average bin size: 4.125000e+01
+Eliminated 0 points
+Sample indices for node 3: 87, 471
+  TP  /  FP  /  TN  /  FN  :
+  15      10      0      0
+
+Sample indices for node 9: 640, 694
+  TP  /  FP  /  TN  /  FN  :
+  21      15      1      2
+
+Sample indices for node 10: 331, 256
+  TP  /  FP  /  TN  /  FN  :
+  31      7      0      0
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     25.00000     39.00000     38.00000
+    PointArng   -978.81218    368.72933    584.71014
+    Extension   -496.17313   -123.51010   3712.04775
+       Spread   -529.46291    745.15694   -941.64352
+        Limit   -189.36231   -126.85562     -9.36379
+      PerpSym    114.85648    342.87882    243.89311
+  ParallelSym   -102.34367   -345.88026   -163.91575
+    OrthoNorm    170.10322   -744.46247    399.20352
+       Volume    729.74103   -351.01819   -152.34520
+ GraspIt_Volu   2526.28740    185.44467     18.41066
+ GraspIt_Epsi    -78.65974   -268.68324    135.77188
+    Precision      0.93103      0.84211      0.81818
+ 
+Completed iteration:23
+Prediction points:244
+  TP     FP     TN     FN
+   146    59    19    20
+
+Precision / Recall
+    0.7122    0.8795
+
+Number of bins: 9
+Average bin size: 38
+Eliminated 0 points
+Sample indices for node 3: 6, 181
+  TP  /  FP  /  TN  /  FN  :
+  18      8      0      0
+
+Sample indices for node 9: 530, 528
+  TP  /  FP  /  TN  /  FN  :
+  30      18      0      0
+
+Sample indices for node 10: 385, 343
+  TP  /  FP  /  TN  /  FN  :
+  36      7      0      1
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     26.00000     48.00000     44.00000
+    PointArng     -3.52449    -43.30042    -66.30738
+    Extension     72.97063    -16.46249   -595.43752
+       Spread    146.56619    260.78041   -150.19599
+        Limit     45.71680     32.76544     16.93704
+      PerpSym    -28.98691     30.62320     87.02158
+  ParallelSym    -26.29238    -87.91791    135.74752
+    OrthoNorm   -187.02975    -50.59432    241.10225
+       Volume    431.35485     52.27587   -452.69430
+ GraspIt_Volu  -1534.62946     26.34002    114.38784
+ GraspIt_Epsi   -144.84769    -33.76317     10.16065
+    Precision      1.00000      0.94444      0.91304
+ 
+Completed iteration:24
+Prediction points:244
+  TP     FP     TN     FN
+   169    50    15    10
+
+Precision / Recall
+    0.7717    0.9441
+
+Number of bins: 8
+Average bin size: 4.112500e+01
+Eliminated 0 points
+Sample indices for node 3: 185, 45
+  TP  /  FP  /  TN  /  FN  :
+  13      10      0      0
+
+Sample indices for node 9: 687, 604
+  TP  /  FP  /  TN  /  FN  :
+  25      12      1      0
+
+Sample indices for node 10: 432, 371
+  TP  /  FP  /  TN  /  FN  :
+  20      7      1      5
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     23.00000     38.00000     33.00000
+    PointArng    105.87958   -291.28188    418.70488
+    Extension   -252.03711    105.55974     -6.09099
+       Spread   -172.35492   -588.17060     54.22694
+        Limit     66.29465    -15.80330     29.24996
+      PerpSym     65.24495    227.29386     78.19790
+  ParallelSym     20.95167   -210.38717   -233.50448
+    OrthoNorm    -30.16219    -42.34902   -260.71151
+       Volume    406.01268    689.84148     76.47121
+ GraspIt_Volu   -206.37296    288.40847     88.14856
+ GraspIt_Epsi    -19.52473    127.89190   -301.93211
+    Precision      0.95455      0.81818      0.75758
+ 
+Completed iteration:25
+Prediction points:244
+  TP     FP     TN     FN
+   155    59    15    15
+
+Precision / Recall
+    0.7243    0.9118
+
+Number of bins: 8
+Average bin size: 42
+Eliminated 0 points
+Sample indices for node 3: 557, 522
+  TP  /  FP  /  TN  /  FN  :
+  15      11      0      0
+
+Sample indices for node 9: 427, 595
+  TP  /  FP  /  TN  /  FN  :
+  24      13      0      0
+
+Sample indices for node 10: 225, 443
+  TP  /  FP  /  TN  /  FN  :
+  26      6      2      2
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     26.00000     37.00000     36.00000
+    PointArng   -582.44212    -99.07818  -1314.98839
+    Extension    175.38296   -952.93215    525.58585
+       Spread  -1121.51058    -19.92850  -1119.87805
+        Limit   -204.35957    -25.87089    137.04784
+      PerpSym     62.41952     55.95441   -113.70151
+  ParallelSym    -76.47102    147.74087    145.41786
+    OrthoNorm    348.88647     87.18409    800.58429
+       Volume   -141.08840     12.62403   4074.49130
+ GraspIt_Volu   -274.57510   -438.06292    631.38124
+ GraspIt_Epsi     77.29503     63.58016     41.87673
+    Precision      0.84091      0.81250      0.80000
+ 
+Completed iteration:26
+Prediction points:244
+  TP     FP     TN     FN
+   156    58    20    10
+
+Precision / Recall
+    0.7290    0.9398
+
+Number of bins: 7
+Average bin size: 4.714286e+01
+Eliminated 0 points
+Sample indices for node 3: 449, 665
+  TP  /  FP  /  TN  /  FN  :
+  16      11      0      0
+
+Sample indices for node 9: 650, 590
+  TP  /  FP  /  TN  /  FN  :
+  23      13      0      1
+
+Sample indices for node 10: 357, 455
+  TP  /  FP  /  TN  /  FN  :
+  22      4      1      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     27.00000     37.00000     30.00000
+    PointArng    104.54893    437.97930   -331.42663
+    Extension   -110.62290  -1828.28346    291.31274
+       Spread     24.85054   -401.52807   -433.61892
+        Limit     37.46824    -37.77930   -105.73097
+      PerpSym     16.84553   -362.91528    120.75167
+  ParallelSym    -43.53531   -965.05127    -31.41587
+    OrthoNorm   -129.13001   -299.37991    948.16699
+       Volume    206.90715    377.41941    485.26807
+ GraspIt_Volu    -85.12811  -2313.09189    -45.68065
+ GraspIt_Epsi    -48.28898    194.65240     28.88471
+    Precision      0.87879      0.84615      0.84211
+ 
+Completed iteration:27
+Prediction points:244
+  TP     FP     TN     FN
+   165    57    14     8
+
+Precision / Recall
+    0.7432    0.9538
+
+Number of bins: 7
+Average bin size: 4.685714e+01
+Eliminated 0 points
+Sample indices for node 3: 512, 51
+  TP  /  FP  /  TN  /  FN  :
+  14      11      0      0
+
+Sample indices for node 9: 545, 692
+  TP  /  FP  /  TN  /  FN  :
+  18      12      0      1
+
+Sample indices for node 10: 180, 19
+  TP  /  FP  /  TN  /  FN  :
+  21      8      0      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     25.00000     31.00000     32.00000
+    PointArng      4.79633   -499.03963     -7.55532
+    Extension   -168.97100  -3993.48379    -99.37206
+       Spread     67.72127  -1227.41449     22.72743
+        Limit     16.71501    239.82925    -47.66528
+      PerpSym     11.14863    720.84098     16.01118
+  ParallelSym    -61.61326   -190.51641    119.39801
+    OrthoNorm    -14.78913   -308.91842    -65.04660
+       Volume    302.46743   -447.17983    -13.47113
+ GraspIt_Volu     39.60838     95.44029   -306.92568
+ GraspIt_Epsi    -48.23551    372.54852      9.40061
+    Precision      0.85294      0.83333      0.72414
+ 
+Completed iteration:28
+Prediction points:244
+  TP     FP     TN     FN
+   154    63    14    13
+
+Precision / Recall
+    0.7097    0.9222
+
+Number of bins: 8
+Average bin size: 42
+Eliminated 0 points
+Sample indices for node 3: 134, 185
+  TP  /  FP  /  TN  /  FN  :
+  21      10      0      0
+
+Sample indices for node 9: 629, 427
+  TP  /  FP  /  TN  /  FN  :
+  21      17      0      0
+
+Sample indices for node 10: 15, 274
+  TP  /  FP  /  TN  /  FN  :
+  17      6      0      5
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     31.00000     38.00000     28.00000
+    PointArng     32.90046    -80.47652     49.99128
+    Extension     38.37970     22.55704     24.89666
+       Spread     15.91443    -69.69026    447.91909
+        Limit      2.45594    -10.27950     29.14613
+      PerpSym      6.93841    -46.42116     13.04000
+  ParallelSym    -65.84855    -32.96368   -115.32730
+    OrthoNorm    -19.38264     -9.51485     -1.56067
+       Volume    -31.26704    -22.64502      7.73288
+ GraspIt_Volu    -14.78807    -34.30674     40.53819
+ GraspIt_Epsi      3.23684     -1.90097    -78.22237
+    Precision      0.85366      0.83333      0.74074
+ 
+Completed iteration:29
+Prediction points:244
+  TP     FP     TN     FN
+   154    68     8    14
+
+Precision / Recall
+    0.6937    0.9167
+
+Number of bins: 7
+Average bin size: 4.785714e+01
+Eliminated 0 points
+Sample indices for node 3: 284, 409
+  TP  /  FP  /  TN  /  FN  :
+  21      10      0      0
+
+Sample indices for node 9: 538, 255
+  TP  /  FP  /  TN  /  FN  :
+  28      16      0      0
+
+Sample indices for node 10: 70, 439
+  TP  /  FP  /  TN  /  FN  :
+  21      4      2      6
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     31.00000     44.00000     33.00000
+    PointArng   -392.14694      9.95683     20.40160
+    Extension   -229.43417    -83.02782   -258.94695
+       Spread   -234.92641    113.70117   -203.93875
+        Limit    162.32799     42.41481    123.11394
+      PerpSym    297.15567     -3.81988    151.27704
+  ParallelSym   -298.17706    -44.62822   -269.60582
+    OrthoNorm    -58.80969     14.21387    112.77859
+       Volume    440.29482    -20.15591    207.33814
+ GraspIt_Volu    396.24111    -34.55836     34.91935
+ GraspIt_Epsi      1.20837   -104.04816     70.82184
+    Precision      0.90476      0.87500      0.84000
+ 
+Completed iteration:30
+Prediction points:244
+  TP     FP     TN     FN
+   159    50    15    20
+
+Precision / Recall
+    0.7608    0.8883
+
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+AUC ave err std
+    0.5783
+
+    0.0293
+
+    0.0293
+
+Precision / Recall macro
+    0.7371    0.9222
+
+Precision / Recall micro
+    0.7370    0.9222
+
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 65 points
+Sample indices for node 10: 109, 105
+  TP  /  FP  /  TN  /  FN  :
+  28      7      0      2
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     37.00000
+    PointArng    -61.84035
+    Extension   -207.36519
+       Spread   -184.19633
+        Limit     66.86265
+      PerpSym     69.34827
+  ParallelSym    102.59847
+    OrthoNorm   -134.88972
+       Volume    292.07484
+ GraspIt_Volu   -147.71059
+ GraspIt_Epsi    -20.59266
+    Precision      0.79310
+ 
+Completed iteration:1
+Prediction points:179
+  TP     FP     TN     FN
+   115    38    21     5
+
+Precision / Recall
+    0.7516    0.9583
+
+Number of bins: 7
+Average bin size: 49
+Eliminated 57 points
+Sample indices for node 9: 687, 587
+  TP  /  FP  /  TN  /  FN  :
+  23      16      0      0
+
+Sample indices for node 10: 198, 483
+  TP  /  FP  /  TN  /  FN  :
+  16      8      1      4
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     39.00000     29.00000
+    PointArng   -223.41143     14.68167
+    Extension    474.41532    393.26411
+       Spread   -878.14691   -172.49399
+        Limit     50.59210     37.57876
+      PerpSym    115.43138    -34.71838
+  ParallelSym   -118.16333     28.98296
+    OrthoNorm     66.98737     10.05691
+       Volume     92.24493    148.02252
+ GraspIt_Volu      2.32862   -377.07460
+ GraspIt_Epsi    108.58674     91.99367
+    Precision      0.68750      0.66667
+ 
+Completed iteration:2
+Prediction points:187
+  TP     FP     TN     FN
+   112    51    15     9
+
+Precision / Recall
+    0.6871    0.9256
+
+Number of bins: 7
+Average bin size: 47
+Eliminated 38 points
+Sample indices for node 9: 587, 682
+  TP  /  FP  /  TN  /  FN  :
+  19      15      0      1
+
+Sample indices for node 10: 182, 82
+  TP  /  FP  /  TN  /  FN  :
+  21      7      2      3
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     35.00000     33.00000
+    PointArng -2.35199e-12    -73.87381
+    Extension  2.09353e-12    -11.73602
+       Spread -2.44585e-13     -9.35481
+        Limit -4.56385e-13      0.76954
+      PerpSym -1.02389e-13     17.23598
+  ParallelSym -6.40528e-13    -69.11611
+    OrthoNorm  1.02612e-13     38.00989
+       Volume -2.66143e-14     -8.71689
+ GraspIt_Volu  8.55365e-15     26.78653
+ GraspIt_Epsi  3.54341e-14    -16.82930
+    Precision      0.79310      0.78125
+ 
+Completed iteration:3
+Prediction points:206
+  TP     FP     TN     FN
+   127    44    20    15
+
+Precision / Recall
+    0.7427    0.8944
+
+Number of bins: 7
+Average bin size: 4.742857e+01
+Eliminated 24 points
+Sample indices for node 9: 731, 535
+  TP  /  FP  /  TN  /  FN  :
+  17      12      0      0
+
+Sample indices for node 10: 14, 23
+  TP  /  FP  /  TN  /  FN  :
+  21      9      1      1
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     29.00000     32.00000
+    PointArng    -26.76526   -895.13756
+    Extension    -20.80299    667.71439
+       Spread    -33.43623  -2120.05351
+        Limit     38.19848    131.04051
+      PerpSym     36.05287    521.41062
+  ParallelSym    -80.15732   -426.35812
+    OrthoNorm     33.34950   -977.43525
+       Volume     34.87287    854.84412
+ GraspIt_Volu     50.59175     40.90662
+ GraspIt_Epsi    -25.33248     26.09264
+    Precision      0.79412      0.73077
+ 
+Completed iteration:4
+Prediction points:220
+  TP     FP     TN     FN
+   141    48    21    10
+
+Precision / Recall
+    0.7460    0.9338
+
+Number of bins: 8
+Average bin size: 4.187500e+01
+Eliminated 25 points
+Sample indices for node 9: 554, 720
+  TP  /  FP  /  TN  /  FN  :
+  23      17      0      0
+
+Sample indices for node 10: 220, 27
+  TP  /  FP  /  TN  /  FN  :
+  24      9      0      2
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     40.00000     35.00000
+    PointArng   -237.03015 -2.84349e-12
+    Extension   -418.76224 -2.27908e-12
+       Spread   -337.89582 -2.97764e-13
+        Limit    520.72242 -1.43397e-12
+      PerpSym    183.39686 -2.25302e-13
+  ParallelSym    -21.30614  2.50013e-12
+    OrthoNorm    102.33718  6.31176e-13
+       Volume   1739.38927 -4.68467e-13
+ GraspIt_Volu    157.27487 -6.93467e-13
+ GraspIt_Epsi      7.61431  3.82661e-13
+    Precision      0.82353      0.79487
+ 
+Completed iteration:5
+Prediction points:219
+  TP     FP     TN     FN
+   143    54    13     9
+
+Precision / Recall
+    0.7259    0.9408
+
+Number of bins: 8
+Average bin size: 41
+Eliminated 14 points
+Sample indices for node 3: 715, 390
+  TP  /  FP  /  TN  /  FN  :
+  20      13      0      0
+
+Sample indices for node 9: 534, 558
+  TP  /  FP  /  TN  /  FN  :
+  21      15      0      0
+
+Sample indices for node 10: 88, 106
+  TP  /  FP  /  TN  /  FN  :
+  27      4      1      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     33.00000     36.00000     35.00000
+    PointArng      3.65626    -79.79356     -8.97984
+    Extension   -190.42387    -23.41514    934.00311
+       Spread     51.80839     40.72211   -147.71800
+        Limit     31.98844     49.96365    123.35525
+      PerpSym     11.21133     45.64292     36.63057
+  ParallelSym    -59.93569    -97.76736    198.24615
+    OrthoNorm    -30.20843     -3.35622   -240.90917
+       Volume    316.55191     30.96173    -46.86257
+ GraspIt_Volu     49.38827     43.66022   -286.73635
+ GraspIt_Epsi    -38.32750    -19.45008    163.51694
+    Precision      0.90625      0.89474      0.87097
+ 
+Completed iteration:6
+Prediction points:230
+  TP     FP     TN     FN
+   152    50    17    11
+
+Precision / Recall
+    0.7525    0.9325
+
+Number of bins: 7
+Average bin size: 4.828571e+01
+Eliminated 80 points
+Sample indices for node 3: 710, 197
+  TP  /  FP  /  TN  /  FN  :
+  13      8      0      0
+
+Sample indices for node 10: 47, 15
+  TP  /  FP  /  TN  /  FN  :
+  20      4      0      2
+
+ 
+Best Nodes = 
+                         3           10
+     NodeSize     21.00000     26.00000
+    PointArng     47.78388   -166.97361
+    Extension    -66.39533      0.16854
+       Spread    174.52670     -0.61574
+        Limit     39.62640      7.05007
+      PerpSym    -36.61742    -31.11201
+  ParallelSym     -8.23055    -27.92070
+    OrthoNorm   -136.97044    -10.85295
+       Volume    550.63094     53.52598
+ GraspIt_Volu   -211.21460    -16.02206
+ GraspIt_Epsi    -90.89573     -5.71019
+    Precision      0.88000      0.66667
+ 
+Completed iteration:7
+Prediction points:164
+  TP     FP     TN     FN
+   105    33    18     8
+
+Precision / Recall
+    0.7609    0.9292
+
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 0 points
+Sample indices for node 3: 714, 512
+  TP  /  FP  /  TN  /  FN  :
+  17      12      0      0
+
+Sample indices for node 9: 628, 649
+  TP  /  FP  /  TN  /  FN  :
+  26      14      1      0
+
+Sample indices for node 10: 269, 274
+  TP  /  FP  /  TN  /  FN  :
+  17      3      1      8
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     29.00000     41.00000     29.00000
+    PointArng   -487.26453  -4338.35622    301.43045
+    Extension    -27.84362   1648.47658    122.88286
+       Spread    -98.58947  -1804.56395   -320.87338
+        Limit     90.54781   1330.47718    137.00761
+      PerpSym     23.18732    767.21060    -86.86088
+  ParallelSym   -109.32402  -1473.21544    391.89312
+    OrthoNorm   -164.05125  -1832.65443    136.05831
+       Volume    131.61737  12098.69592    248.99593
+ GraspIt_Volu     46.89979  15998.89698   -880.09755
+ GraspIt_Epsi    -96.86051   -109.17849    112.42206
+    Precision      0.90909      0.87097      0.85000
+ 
+Completed iteration:8
+Prediction points:244
+  TP     FP     TN     FN
+   145    57    17    25
+
+Precision / Recall
+    0.7178    0.8529
+
+Number of bins: 8
+Average bin size: 4.162500e+01
+Eliminated 50 points
+Sample indices for node 3: 50, 636
+  TP  /  FP  /  TN  /  FN  :
+  8      9      0      0
+
+Sample indices for node 9: 694, 633
+  TP  /  FP  /  TN  /  FN  :
+  25      18      1      1
+
+Sample indices for node 10: 10, 70
+  TP  /  FP  /  TN  /  FN  :
+  22      10      1      4
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     17.00000     45.00000     37.00000
+    PointArng   -217.48890   2435.28388     25.06964
+    Extension   -311.16332      1.42479    615.36703
+       Spread   -333.88410   1784.69524     52.12505
+        Limit     20.94789    110.29251    -54.21471
+      PerpSym     44.43600    769.74661     24.71631
+  ParallelSym    192.85535   -862.64538   -224.11699
+    OrthoNorm    224.24980   -113.78925    -79.55726
+       Volume    172.84762    512.51384    -14.03494
+ GraspIt_Volu   -174.87240    361.78889   -450.26320
+ GraspIt_Epsi     12.26312   -620.62233     -3.29005
+    Precision      0.88095      0.82353      0.68750
+ 
+Completed iteration:9
+Prediction points:194
+  TP     FP     TN     FN
+   113    49    11    21
+
+Precision / Recall
+    0.6975    0.8433
+
+Number of bins: 7
+Average bin size: 46
+Eliminated 20 points
+Sample indices for node 9: 610, 458
+  TP  /  FP  /  TN  /  FN  :
+  13      9      1      2
+
+Sample indices for node 10: 196, 214
+  TP  /  FP  /  TN  /  FN  :
+  30      6      2      5
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     25.00000     43.00000
+    PointArng    137.77505   -187.98036
+    Extension   -187.30729    -16.10385
+       Spread    129.87151    -35.14878
+        Limit     89.64748   -274.20857
+      PerpSym    -13.84625   -112.11856
+  ParallelSym    170.55434    -52.08186
+    OrthoNorm    -81.16635   -162.49498
+       Volume    100.66613   -255.69799
+ GraspIt_Volu   -350.53033   -107.70735
+ GraspIt_Epsi     61.19146   -105.21151
+    Precision      0.83333      0.65517
+ 
+Completed iteration:10
+Prediction points:224
+  TP     FP     TN     FN
+   133    51    18    22
+
+Precision / Recall
+    0.7228    0.8581
+
+Number of bins: 7
+Average bin size: 4.657143e+01
+Eliminated 41 points
+Sample indices for node 3: 101, 714
+  TP  /  FP  /  TN  /  FN  :
+  11      13      0      0
+
+Sample indices for node 9: 728, 681
+  TP  /  FP  /  TN  /  FN  :
+  18      12      1      2
+
+Sample indices for node 10: 186, 109
+  TP  /  FP  /  TN  /  FN  :
+  22      5      1      4
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     24.00000     33.00000     32.00000
+    PointArng    370.63283   -353.19087    -19.59832
+    Extension    -42.04524   -177.86841    134.43151
+       Spread    -14.60795    -73.73551    219.83943
+        Limit     92.70855     21.23543    -73.73469
+      PerpSym     62.75841    108.47293   -100.61741
+  ParallelSym   -151.08013    -96.33515    183.53585
+    OrthoNorm   -295.66513     84.62133    -23.95278
+       Volume    332.42442    116.76912    -11.18032
+ GraspIt_Volu   -465.87934      8.63953   -557.36644
+ GraspIt_Epsi    -41.65085      4.50736     83.67585
+    Precision      0.92683      0.83333      0.81481
+ 
+Completed iteration:11
+Prediction points:203
+  TP     FP     TN     FN
+   131    53     9    10
+
+Precision / Recall
+    0.7120    0.9291
+
+Number of bins: 9
+Average bin size: 3.677778e+01
+Eliminated 20 points
+Sample indices for node 3: 50, 340
+  TP  /  FP  /  TN  /  FN  :
+  16      13      0      0
+
+Sample indices for node 9: 692, 581
+  TP  /  FP  /  TN  /  FN  :
+  26      11      2      2
+
+Sample indices for node 10: 331, 219
+  TP  /  FP  /  TN  /  FN  :
+  19      7      0      0
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     29.00000     41.00000     26.00000
+    PointArng     67.79790   -815.00267    -49.20250
+    Extension   -270.24230   -997.95245     -0.42290
+       Spread     13.53204   -758.77666     -2.51105
+        Limit     28.17594    272.30773     -1.98977
+      PerpSym     45.05740    395.48095     -4.85295
+  ParallelSym    100.79104   1134.73306    -56.54351
+    OrthoNorm     64.11766    171.69501     -0.62649
+       Volume     97.40668    519.66848     -1.11858
+ GraspIt_Volu     99.31923    508.54183      3.16178
+ GraspIt_Epsi    -25.20449    140.05312     -1.73213
+    Precision      1.00000      0.92857      0.87097
+ 
+Completed iteration:12
+Prediction points:224
+  TP     FP     TN     FN
+   142    44    28    10
+
+Precision / Recall
+    0.7634    0.9342
+
+Number of bins: 8
+Average bin size: 4.187500e+01
+Eliminated 92 points
+Sample indices for node 10: 114, 69
+  TP  /  FP  /  TN  /  FN  :
+  21      8      1      5
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     35.00000
+    PointArng    171.54257
+    Extension     -3.98023
+       Spread    -58.23359
+        Limit    -60.94940
+      PerpSym     45.89384
+  ParallelSym    -60.81198
+    OrthoNorm     10.28569
+       Volume   -149.32242
+ GraspIt_Volu     18.27737
+ GraspIt_Epsi    -24.23535
+    Precision      0.83333
+ 
+Completed iteration:13
+Prediction points:152
+  TP     FP     TN     FN
+    95    24    22    11
+
+Precision / Recall
+    0.7983    0.8962
+
+Number of bins: 7
+Average bin size: 4.728571e+01
+Eliminated 0 points
+Sample indices for node 3: 700, 444
+  TP  /  FP  /  TN  /  FN  :
+  19      8      0      0
+
+Sample indices for node 9: 626, 584
+  TP  /  FP  /  TN  /  FN  :
+  23      7      1      1
+
+Sample indices for node 10: 198, 177
+  TP  /  FP  /  TN  /  FN  :
+  33      9      1      4
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     27.00000     32.00000     47.00000
+    PointArng    -46.65399      4.31379      0.79217
+    Extension    145.23636    -64.75025     61.67434
+       Spread     35.39548     -2.79770     28.80505
+        Limit     60.03365     27.44697      3.44648
+      PerpSym      7.20428    114.74657     -7.06070
+  ParallelSym    -61.34497      6.68415   -361.93483
+    OrthoNorm   -137.31885    -29.91771     15.40864
+       Volume    271.50513    -24.35001      8.43658
+ GraspIt_Volu     -3.35611   -241.88535     -4.52995
+ GraspIt_Epsi    -85.67720     28.53383     -9.61490
+    Precision      0.91892      0.78571      0.76667
+ 
+Completed iteration:14
+Prediction points:244
+  TP     FP     TN     FN
+   165    53    16    10
+
+Precision / Recall
+    0.7569    0.9429
+
+Number of bins: 8
+Average bin size: 4.275000e+01
+Eliminated 85 points
+Sample indices for node 10: 331, 207
+  TP  /  FP  /  TN  /  FN  :
+  18      10      1      2
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     31.00000
+    PointArng  1.21832e-12
+    Extension -5.29496e-13
+       Spread -1.36349e-13
+        Limit -2.97437e-13
+      PerpSym -3.95257e-13
+  ParallelSym  1.96854e-13
+    OrthoNorm -8.33967e-14
+       Volume  1.71904e-13
+ GraspIt_Volu  4.46192e-15
+ GraspIt_Epsi -8.25970e-14
+    Precision      0.69231
+ 
+Completed iteration:15
+Prediction points:159
+  TP     FP     TN     FN
+   104    31    12    12
+
+Precision / Recall
+    0.7704    0.8966
+
+Number of bins: 7
+Average bin size: 50
+Eliminated 66 points
+Sample indices for node 3: 450, 709
+  TP  /  FP  /  TN  /  FN  :
+  19      8      0      0
+
+Sample indices for node 10: 33, 10
+  TP  /  FP  /  TN  /  FN  :
+  26      4      0      3
+
+ 
+Best Nodes = 
+                         3           10
+     NodeSize     27.00000     33.00000
+    PointArng    138.12112 -3.26142e-13
+    Extension    333.05497 -6.32298e-13
+       Spread   -206.10032 -5.33218e-13
+        Limit    -28.61247 -6.30143e-13
+      PerpSym     37.06937 -1.75591e-12
+  ParallelSym   -146.45686  1.02768e-12
+    OrthoNorm     -9.09601 -5.70808e-13
+       Volume     21.40359 -2.34291e-13
+ GraspIt_Volu   -242.79532  1.59683e-13
+ GraspIt_Epsi     30.15749 -2.58914e-13
+    Precision      0.86667      0.70370
+ 
+Completed iteration:16
+Prediction points:178
+  TP     FP     TN     FN
+   113    35    16    14
+
+Precision / Recall
+    0.7635    0.8898
+
+Number of bins: 7
+Average bin size: 4.785714e+01
+Eliminated 32 points
+Sample indices for node 9: 528, 685
+  TP  /  FP  /  TN  /  FN  :
+  19      12      1      1
+
+Sample indices for node 10: 159, 10
+  TP  /  FP  /  TN  /  FN  :
+  18      5      0      3
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     33.00000     26.00000
+    PointArng -1.29323e-12    285.36950
+    Extension  6.39709e-15    985.28665
+       Spread  6.02387e-13   -449.12313
+        Limit -5.57810e-13   -255.55619
+      PerpSym -1.87931e-13   -170.38591
+  ParallelSym  6.24939e-13   1136.68790
+    OrthoNorm  4.92925e-13   -124.79468
+       Volume  1.13549e-12    384.34622
+ GraspIt_Volu -3.47441e-12  -2553.26923
+ GraspIt_Epsi  7.73043e-15     76.91823
+    Precision      0.86667      0.78261
+ 
+Completed iteration:17
+Prediction points:212
+  TP     FP     TN     FN
+   136    49    14    13
+
+Precision / Recall
+    0.7351    0.9128
+
+Number of bins: 8
+Average bin size: 4.387500e+01
+Eliminated 15 points
+Sample indices for node 3: 213, 185
+  TP  /  FP  /  TN  /  FN  :
+  18      13      0      0
+
+Sample indices for node 9: 629, 602
+  TP  /  FP  /  TN  /  FN  :
+  21      15      1      1
+
+Sample indices for node 10: 3, 23
+  TP  /  FP  /  TN  /  FN  :
+  19      5      1      5
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     31.00000     38.00000     30.00000
+    PointArng   -474.97679   -558.00545    -76.05427
+    Extension    961.56837    -44.95496    -46.76401
+       Spread   -980.82866    453.85086   -252.51526
+        Limit     76.43799     14.89795      8.07031
+      PerpSym    138.18172     86.65162     80.32059
+  ParallelSym   -100.03821   -133.06231   -138.14412
+    OrthoNorm    271.43105    -12.32609   -256.25513
+       Volume    198.13864     15.19480    165.77049
+ GraspIt_Volu      8.04168     60.64441   -305.56225
+ GraspIt_Epsi     71.18507    -74.58997    -60.72866
+    Precision      1.00000      0.90909      0.89130
+ 
+Completed iteration:18
+Prediction points:229
+  TP     FP     TN     FN
+   156    47    15    11
+
+Precision / Recall
+    0.7685    0.9341
+
+Number of bins: 8
+Average bin size: 4.137500e+01
+Eliminated 53 points
+Sample indices for node 3: 92, 42
+  TP  /  FP  /  TN  /  FN  :
+  19      16      0      0
+
+Sample indices for node 9: 569, 742
+  TP  /  FP  /  TN  /  FN  :
+  20      14      0      1
+
+Sample indices for node 10: 303, 256
+  TP  /  FP  /  TN  /  FN  :
+  22      6      1      3
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     35.00000     35.00000     32.00000
+    PointArng   -544.13900    -85.54573    125.80311
+    Extension    634.54219    -31.62179   -104.88724
+       Spread   -751.89498    438.47850   -684.24168
+        Limit   -203.61065     27.27781    279.11952
+      PerpSym    104.62797     45.56649     73.61948
+  ParallelSym   -177.70585   -115.10153    113.82965
+    OrthoNorm    146.54611    -11.02622    108.23683
+       Volume  -1147.60165     31.16010    603.34587
+ GraspIt_Volu   1250.82483     36.28024    406.91341
+ GraspIt_Epsi    291.31367    -86.78361     69.56709
+    Precision      0.97143      0.94118      0.78571
+ 
+Completed iteration:19
+Prediction points:191
+  TP     FP     TN     FN
+   123    42    15    11
+
+Precision / Recall
+    0.7455    0.9179
+
+Number of bins: 8
+Average bin size: 4.175000e+01
+Eliminated 28 points
+Sample indices for node 9: 604, 567
+  TP  /  FP  /  TN  /  FN  :
+  21      9      0      0
+
+Sample indices for node 10: 228, 108
+  TP  /  FP  /  TN  /  FN  :
+  28      7      1      5
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     30.00000     41.00000
+    PointArng     -7.01909     -0.30924
+    Extension    -16.61683    -75.14326
+       Spread    161.28783    134.50390
+        Limit     73.99138    -19.82494
+      PerpSym     48.25058      3.89795
+  ParallelSym    -85.79983    -51.85670
+    OrthoNorm   -199.91772     26.83449
+       Volume     66.42920    -20.44016
+ GraspIt_Volu   -474.08937   -486.45695
+ GraspIt_Epsi   -138.57291      5.20975
+    Precision      0.86667      0.80000
+ 
+Completed iteration:20
+Prediction points:216
+  TP     FP     TN     FN
+   143    43    19    11
+
+Precision / Recall
+    0.7688    0.9286
+
+Number of bins: 7
+Average bin size: 47
+Eliminated 0 points
+Sample indices for node 3: 350, 134
+  TP  /  FP  /  TN  /  FN  :
+  15      16      0      0
+
+Sample indices for node 9: 694, 530
+  TP  /  FP  /  TN  /  FN  :
+  19      9      0      0
+
+Sample indices for node 10: 200, 15
+  TP  /  FP  /  TN  /  FN  :
+  21      6      2      4
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     31.00000     28.00000     33.00000
+    PointArng     25.51327    178.22406   -229.62221
+    Extension    322.72356    806.67292    -81.22564
+       Spread    -24.47863   -854.00776    -84.37720
+        Limit      9.66284     77.97837    136.60822
+      PerpSym     -4.34165    186.13138  -1174.01113
+  ParallelSym    -47.75846    -59.20841    527.06098
+    OrthoNorm    -75.57732    689.69049   -162.46343
+       Volume     59.18484   1882.94506    187.17583
+ GraspIt_Volu    -62.44265    259.53529   -522.45851
+ GraspIt_Epsi    -14.65747    119.67401   -324.35451
+    Precision      0.88235      0.82353      0.81818
+ 
+Completed iteration:21
+Prediction points:244
+  TP     FP     TN     FN
+   152    59    18    15
+
+Precision / Recall
+    0.7204    0.9102
+
+Number of bins: 8
+Average bin size: 42
+Eliminated 36 points
+Sample indices for node 9: 681, 729
+  TP  /  FP  /  TN  /  FN  :
+  25      14      0      0
+
+Sample indices for node 10: 28, 225
+  TP  /  FP  /  TN  /  FN  :
+  25      6      0      2
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     39.00000     33.00000
+    PointArng   -201.37983    -22.39298
+    Extension     93.23173    -38.72367
+       Spread   -502.90208     82.29580
+        Limit     44.47468    -77.39324
+      PerpSym    213.64288    121.44122
+  ParallelSym    154.56461   -252.00209
+    OrthoNorm   -570.99077   -129.00864
+       Volume    200.28080    -79.69192
+ GraspIt_Volu     18.03378   -195.06470
+ GraspIt_Epsi     86.63059     51.08263
+    Precision      0.84615      0.80645
+ 
+Completed iteration:22
+Prediction points:208
+  TP     FP     TN     FN
+   145    50     6     7
+
+Precision / Recall
+    0.7436    0.9539
+
+Number of bins: 8
+Average bin size: 4.187500e+01
+Eliminated 0 points
+Sample indices for node 3: 204, 433
+  TP  /  FP  /  TN  /  FN  :
+  17      7      0      0
+
+Sample indices for node 9: 685, 678
+  TP  /  FP  /  TN  /  FN  :
+  22      16      0      0
+
+Sample indices for node 10: 3, 468
+  TP  /  FP  /  TN  /  FN  :
+  27      8      0      2
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     24.00000     38.00000     37.00000
+    PointArng     23.22682    -45.59272    141.58467
+    Extension    -17.91888    -41.48600    916.13834
+       Spread     11.44444    463.02757   -263.42741
+        Limit     -5.41502     15.48515   -201.18380
+      PerpSym      8.64694     29.97049   -151.45182
+  ParallelSym    -63.26214    -93.64264   -131.99345
+    OrthoNorm      0.70153    -13.42965   -187.12899
+       Volume    -84.36213     12.11671     59.93091
+ GraspIt_Volu     26.77435     23.57630   -800.95141
+ GraspIt_Epsi      4.96088    -76.34294    182.30759
+    Precision      0.88889      0.82759      0.77143
+ 
+Completed iteration:23
+Prediction points:244
+  TP     FP     TN     FN
+   160    58    13    13
+
+Precision / Recall
+    0.7339    0.9249
+
+Number of bins: 8
+Average bin size: 4.337500e+01
+Eliminated 39 points
+Sample indices for node 3: 191, 124
+  TP  /  FP  /  TN  /  FN  :
+  20      9      0      0
+
+Sample indices for node 9: 566, 569
+  TP  /  FP  /  TN  /  FN  :
+  25      13      0      0
+
+Sample indices for node 10: 12, 74
+  TP  /  FP  /  TN  /  FN  :
+  21      6      0      1
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     29.00000     38.00000     28.00000
+    PointArng   -195.20686   -504.09184    -34.39132
+    Extension   1308.51945     -3.39698    -36.83626
+       Spread   -683.86036   -290.54496    274.80661
+        Limit    359.38233   -119.90601     20.48184
+      PerpSym     45.47181     91.93340     -2.66321
+  ParallelSym    362.48527   -130.61500    -46.94865
+    OrthoNorm   -377.70017    145.13632    -43.54238
+       Volume   2637.37272    -80.12349     15.91092
+ GraspIt_Volu      1.83793    -67.88722     -7.43526
+ GraspIt_Epsi     15.69905     51.26328    -34.03849
+    Precision      1.00000      0.91892      0.89474
+ 
+Completed iteration:24
+Prediction points:205
+  TP     FP     TN     FN
+   131    39    24    11
+
+Precision / Recall
+    0.7706    0.9225
+
+Number of bins: 7
+Average bin size: 4.785714e+01
+Eliminated 35 points
+Sample indices for node 3: 201, 449
+  TP  /  FP  /  TN  /  FN  :
+  15      10      0      0
+
+Sample indices for node 10: 218, 395
+  TP  /  FP  /  TN  /  FN  :
+  24      12      2      2
+
+ 
+Best Nodes = 
+                         3           10
+     NodeSize     25.00000     40.00000
+    PointArng     90.73118    -32.54249
+    Extension     11.54663    -43.34269
+       Spread     70.12541    -47.14837
+        Limit     22.36912    -24.82861
+      PerpSym     -4.89282      2.35579
+  ParallelSym    -32.07777    -58.29579
+    OrthoNorm   -137.73249    -39.47427
+       Volume   -429.13177    -55.47267
+ GraspIt_Volu    -95.45710    -22.69314
+ GraspIt_Epsi    -99.45829     21.66040
+    Precision      0.92105      0.74074
+ 
+Completed iteration:25
+Prediction points:209
+  TP     FP     TN     FN
+   130    45    20    14
+
+Precision / Recall
+    0.7429    0.9028
+
+Number of bins: 8
+Average bin size: 4.262500e+01
+Eliminated 35 points
+Sample indices for node 9: 669, 671
+  TP  /  FP  /  TN  /  FN  :
+  27      13      2      2
+
+Sample indices for node 10: 268, 205
+  TP  /  FP  /  TN  /  FN  :
+  17      6      1      4
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     44.00000     28.00000
+    PointArng -2.33161e+15    490.09710
+    Extension  1.53823e+16    -80.58956
+       Spread  2.75035e+15    868.88058
+        Limit  1.32522e+15    -65.19178
+      PerpSym  3.00173e+15    -27.67953
+  ParallelSym -1.33538e+15    -84.91270
+    OrthoNorm -5.42868e+15   -470.80350
+       Volume  2.39474e+15   -231.75276
+ GraspIt_Volu  9.69091e+14    294.99834
+ GraspIt_Epsi  1.23963e+14   -249.26725
+    Precision      0.78947      0.76471
+ 
+Completed iteration:26
+Prediction points:209
+  TP     FP     TN     FN
+   131    44    15    19
+
+Precision / Recall
+    0.7486    0.8733
+
+Number of bins: 8
+Average bin size: 4.137500e+01
+Eliminated 24 points
+Sample indices for node 9: 619, 646
+  TP  /  FP  /  TN  /  FN  :
+  24      11      0      0
+
+Sample indices for node 10: 159, 120
+  TP  /  FP  /  TN  /  FN  :
+  20      6      1      5
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     35.00000     32.00000
+    PointArng -6.37672e-13     34.81073
+    Extension  6.36289e-12    -65.24068
+       Spread  4.72925e-12    232.84257
+        Limit  2.20650e-14     78.18170
+      PerpSym -4.19861e-13      4.34696
+  ParallelSym -7.43560e-13    -55.68303
+    OrthoNorm -6.87688e-14   -225.23046
+       Volume  6.36418e-12    311.39079
+ GraspIt_Volu -9.68358e-13   -430.17804
+ GraspIt_Epsi  1.24013e-13   -142.44437
+    Precision      0.86364      0.83333
+ 
+Completed iteration:27
+Prediction points:220
+  TP     FP     TN     FN
+   137    48    21    14
+
+Precision / Recall
+    0.7405    0.9073
+
+Number of bins: 9
+Average bin size: 3.788889e+01
+Eliminated 60 points
+Sample indices for node 3: 466, 709
+  TP  /  FP  /  TN  /  FN  :
+  21      9      0      0
+
+Sample indices for node 10: 54, 77
+  TP  /  FP  /  TN  /  FN  :
+  25      5      1      9
+
+ 
+Best Nodes = 
+                         3           10
+     NodeSize     30.00000     40.00000
+    PointArng     -0.60929    163.72441
+    Extension    146.02557    518.57673
+       Spread    181.21124     42.12472
+        Limit     51.50493     -0.41158
+      PerpSym    -64.73994    -27.15463
+  ParallelSym      1.49270     84.26825
+    OrthoNorm   -170.61831    -56.48017
+       Volume    174.36855    122.25137
+ GraspIt_Volu   -888.44889   -405.99208
+ GraspIt_Epsi   -147.14030     10.47770
+    Precision      0.91667      0.83333
+ 
+Completed iteration:28
+Prediction points:184
+  TP     FP     TN     FN
+   119    35    14    16
+
+Precision / Recall
+    0.7727    0.8815
+
+Number of bins: 7
+Average bin size: 4.771429e+01
+Eliminated 32 points
+Sample indices for node 3: 465, 433
+  TP  /  FP  /  TN  /  FN  :
+  19      13      0      0
+
+Sample indices for node 9: 691, 584
+  TP  /  FP  /  TN  /  FN  :
+  16      11      0      0
+
+Sample indices for node 10: 47, 106
+  TP  /  FP  /  TN  /  FN  :
+  24      9      1      6
+
+ 
+Best Nodes = 
+                         3            9           10
+     NodeSize     32.00000     27.00000     40.00000
+    PointArng    -10.24775 -4.73868e+15    166.52734
+    Extension     -8.60471  2.18742e+15   -203.27699
+       Spread     -7.10905  2.33457e+14    475.96560
+        Limit     -0.19560  1.23582e+15   -162.56344
+      PerpSym      1.91878  2.74112e+15   -210.77381
+  ParallelSym     -3.48962 -2.13494e+15     -8.24130
+    OrthoNorm     -5.33924  1.28459e+14   -263.66567
+       Volume     10.54189  9.90580e+14    129.69819
+ GraspIt_Volu     -7.23300  5.56253e+14  -1933.96942
+ GraspIt_Epsi     -1.86432  2.85854e+14    -99.45601
+    Precision      0.88571      0.77778      0.72727
+ 
+Completed iteration:29
+Prediction points:212
+  TP     FP     TN     FN
+   125    58    15    14
+
+Precision / Recall
+    0.6831    0.8993
+
+Number of bins: 7
+Average bin size: 48
+Eliminated 66 points
+Sample indices for node 10: 83, 468
+  TP  /  FP  /  TN  /  FN  :
+  23      2      4      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     32.00000
+    PointArng  12606.70811
+    Extension   -646.57189
+       Spread   -472.39027
+        Limit     82.18230
+      PerpSym   3867.24163
+  ParallelSym  -4370.00300
+    OrthoNorm  -2649.68026
+       Volume   -356.73356
+ GraspIt_Volu   2219.31386
+ GraspIt_Epsi  -1093.20848
+    Precision      0.82927
+ 
+Completed iteration:30
+Prediction points:178
+  TP     FP     TN     FN
+   126    25    18     9
+
+Precision / Recall
+    0.8344    0.9333
+
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+AUC ave err std
+    0.6006
+
+    0.0563
+
+    0.0563
+
+Precision / Recall macro
+    0.7459    0.9120
+
+Precision / Recall micro
+    0.7443    0.9122
+
+Number of bins: 7
+Average bin size: 4.785714e+01
+Eliminated 165 points
+Sample indices for node 10: 25, 343
+  TP  /  FP  /  TN  /  FN  :
+  26      6      2      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     37.00000
+    PointArng -3.97879e-14
+    Extension -2.70486e-15
+       Spread  1.47836e-13
+        Limit -2.76922e-13
+      PerpSym -2.08564e-13
+  ParallelSym  1.71439e-13
+    OrthoNorm -1.35598e-13
+       Volume -5.94768e-14
+ GraspIt_Volu -1.21525e-12
+ GraspIt_Epsi  1.82362e-13
+    Precision          NaN
+ 
+Completed iteration:1
+Prediction points:79
+  TP     FP     TN     FN
+    58    11     5     5
+
+Precision / Recall
+    0.8406    0.9206
+
+Number of bins: 7
+Average bin size: 4.828571e+01
+Eliminated 122 points
+Sample indices for node 10: 282, 80
+  TP  /  FP  /  TN  /  FN  :
+  24      0      1      4
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     29.00000
+    PointArng   -295.08269
+    Extension    757.13590
+       Spread   -968.07307
+        Limit    146.55344
+      PerpSym    469.84616
+  ParallelSym   -463.39059
+    OrthoNorm   -411.29535
+       Volume    219.94321
+ GraspIt_Volu    321.03741
+ GraspIt_Epsi     53.30321
+    Precision      0.78571
+ 
+Completed iteration:2
+Prediction points:122
+  TP     FP     TN     FN
+    87    24     4     7
+
+Precision / Recall
+    0.7838    0.9255
+
+Number of bins: 7
+Average bin size: 4.714286e+01
+Eliminated 141 points
+Sample indices for node 10: 179, 82
+  TP  /  FP  /  TN  /  FN  :
+  26      5      3      7
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     41.00000
+    PointArng     29.01375
+    Extension   -633.43037
+       Spread   -172.82725
+        Limit    117.16342
+      PerpSym   -101.88390
+  ParallelSym    175.93274
+    OrthoNorm    132.16332
+       Volume    365.76008
+ GraspIt_Volu   -891.59919
+ GraspIt_Epsi     25.41982
+    Precision      0.83871
+ 
+Completed iteration:3
+Prediction points:103
+  TP     FP     TN     FN
+    65     9    12    17
+
+Precision / Recall
+    0.8784    0.7927
+
+Number of bins: 8
+Average bin size: 4.162500e+01
+Eliminated 108 points
+Sample indices for node 9: 565, 695
+  TP  /  FP  /  TN  /  FN  :
+  17      18      0      0
+
+ 
+Best Nodes = 
+                         9
+     NodeSize     35.00000
+    PointArng   -229.97766
+    Extension   1136.63577
+       Spread   -936.78081
+        Limit    499.52673
+      PerpSym    207.56308
+  ParallelSym    -55.44759
+    OrthoNorm    266.23129
+       Volume   3811.16569
+ GraspIt_Volu    260.12723
+ GraspIt_Epsi      6.38533
+    Precision      0.75000
+ 
+Completed iteration:4
+Prediction points:136
+  TP     FP     TN     FN
+    85    42     8     1
+
+Precision / Recall
+    0.6693    0.9884
+
+Number of bins: 8
+Average bin size: 41
+Eliminated 139 points
+Sample indices for node 9: 619, 671
+  TP  /  FP  /  TN  /  FN  :
+  25      14      0      2
+
+Sample indices for node 10: 268, 15
+  TP  /  FP  /  TN  /  FN  :
+  18      3      1      2
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     41.00000     24.00000
+    PointArng     40.21774     33.38889
+    Extension    223.58461    336.18708
+       Spread   -206.43005     39.76563
+        Limit    -16.05344     42.16845
+      PerpSym     21.07751     29.38951
+  ParallelSym   -158.38534    -83.14915
+    OrthoNorm    -77.78949   -141.23046
+       Volume     85.17193    243.05508
+ GraspIt_Volu   -269.46688   -425.16821
+ GraspIt_Epsi      5.15949    -46.16608
+    Precision      0.85714      0.80000
+ 
+Completed iteration:5
+Prediction points:105
+  TP     FP     TN     FN
+    77    21     3     4
+
+Precision / Recall
+    0.7857    0.9506
+
+Number of bins: 7
+Average bin size: 4.714286e+01
+Eliminated 93 points
+Sample indices for node 10: 494, 75
+  TP  /  FP  /  TN  /  FN  :
+  23      7      4      4
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     38.00000
+    PointArng   -516.30857
+    Extension   4926.34199
+       Spread  -2698.16174
+        Limit      6.84959
+      PerpSym    210.94363
+  ParallelSym    -46.35713
+    OrthoNorm  -1390.42619
+       Volume   1257.61416
+ GraspIt_Volu    -11.18131
+ GraspIt_Epsi    -41.50446
+    Precision      0.69231
+ 
+Completed iteration:6
+Prediction points:151
+  TP     FP     TN     FN
+    90    24    21    16
+
+Precision / Recall
+    0.7895    0.8491
+
+Number of bins: 8
+Average bin size: 4.237500e+01
+Eliminated 61 points
+Sample indices for node 9: 581, 547
+  TP  /  FP  /  TN  /  FN  :
+  23      11      0      0
+
+Sample indices for node 10: 15, 62
+  TP  /  FP  /  TN  /  FN  :
+  21      3      1      5
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     34.00000     30.00000
+    PointArng    -15.05569   -591.07857
+    Extension   -266.62203    343.37343
+       Spread     95.13011   -846.36386
+        Limit    -17.75294    173.95934
+      PerpSym     29.42810    173.61175
+  ParallelSym     34.63647   -189.73241
+    OrthoNorm     71.59516   -344.11489
+       Volume    -33.98956    788.57796
+ GraspIt_Volu   -366.90807    377.37807
+ GraspIt_Epsi     18.59953     15.52622
+    Precision      0.87500      0.80000
+ 
+Completed iteration:7
+Prediction points:183
+  TP     FP     TN     FN
+   114    29    23    17
+
+Precision / Recall
+    0.7972    0.8702
+
+Number of bins: 8
+Average bin size: 4.112500e+01
+Eliminated 79 points
+Sample indices for node 3: 512, 185
+  TP  /  FP  /  TN  /  FN  :
+  19      11      0      0
+
+Sample indices for node 10: 179, 43
+  TP  /  FP  /  TN  /  FN  :
+  28      7      2      5
+
+ 
+Best Nodes = 
+                         3           10
+     NodeSize     30.00000     42.00000
+    PointArng   -129.45648     97.06601
+    Extension    -14.68322    598.73099
+       Spread      1.12778   -175.33810
+        Limit     57.82703     87.97937
+      PerpSym     33.29195     12.10288
+  ParallelSym    -95.59116    186.76333
+    OrthoNorm     52.64141   -119.42705
+       Volume     84.07913    118.28661
+ GraspIt_Volu     23.25299   -265.31419
+ GraspIt_Epsi    -11.13242     18.93527
+    Precision      0.88235      0.80000
+ 
+Completed iteration:8
+Prediction points:165
+  TP     FP     TN     FN
+   108    31    17     9
+
+Precision / Recall
+    0.7770    0.9231
+
+Number of bins: 8
+Average bin size: 4.225000e+01
+Eliminated 90 points
+Sample indices for node 10: 186, 306
+  TP  /  FP  /  TN  /  FN  :
+  22      6      4      9
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     41.00000
+    PointArng   -553.20935
+    Extension   -124.06652
+       Spread   -627.74015
+        Limit   -163.61755
+      PerpSym     42.96160
+  ParallelSym    -40.25272
+    OrthoNorm     24.10887
+       Volume    332.11250
+ GraspIt_Volu   -124.60496
+ GraspIt_Epsi    130.96778
+    Precision      0.82353
+ 
+Completed iteration:9
+Prediction points:154
+  TP     FP     TN     FN
+    92    25    17    20
+
+Precision / Recall
+    0.7863    0.8214
+
+Number of bins: 8
+Average bin size: 4.125000e+01
+Eliminated 130 points
+Sample indices for node 10: 451, 19
+  TP  /  FP  /  TN  /  FN  :
+  23      6      1      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     33.00000
+    PointArng     86.51163
+    Extension    511.85088
+       Spread   -194.50063
+        Limit    106.46683
+      PerpSym     99.40183
+  ParallelSym   -193.03290
+    OrthoNorm    -44.69404
+       Volume     80.94943
+ GraspIt_Volu    -77.42892
+ GraspIt_Epsi     33.29129
+    Precision      0.79310
+ 
+Completed iteration:10
+Prediction points:114
+  TP     FP     TN     FN
+    71    17    20     6
+
+Precision / Recall
+    0.8068    0.9221
+
+Number of bins: 7
+Average bin size: 4.785714e+01
+Eliminated 118 points
+Sample indices for node 10: 62, 12
+  TP  /  FP  /  TN  /  FN  :
+  19      6      1      2
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     28.00000
+    PointArng    259.50500
+    Extension    -24.04059
+       Spread    -47.70735
+        Limit     62.80935
+      PerpSym    -17.80591
+  ParallelSym    -45.77496
+    OrthoNorm    -15.66957
+       Volume     97.78200
+ GraspIt_Volu     53.55135
+ GraspIt_Epsi   -147.67717
+    Precision      0.72973
+ 
+Completed iteration:11
+Prediction points:126
+  TP     FP     TN     FN
+    87    20     9    10
+
+Precision / Recall
+    0.8131    0.8969
+
+Number of bins: 7
+Average bin size: 4.785714e+01
+Eliminated 89 points
+Sample indices for node 10: 415, 274
+  TP  /  FP  /  TN  /  FN  :
+  27      2      2      6
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     37.00000
+    PointArng    -65.34304
+    Extension   1122.61100
+       Spread   -449.81945
+        Limit    471.22877
+      PerpSym    120.21339
+  ParallelSym    573.88023
+    OrthoNorm   -483.50340
+       Volume   1461.27688
+ GraspIt_Volu    121.89889
+ GraspIt_Epsi     17.86358
+    Precision      0.86667
+ 
+Completed iteration:12
+Prediction points:155
+  TP     FP     TN     FN
+    99    19    21    16
+
+Precision / Recall
+    0.8390    0.8609
+
+Number of bins: 8
+Average bin size: 4.162500e+01
+Eliminated 23 points
+Sample indices for node 9: 686, 680
+  TP  /  FP  /  TN  /  FN  :
+  16      12      1      0
+
+Sample indices for node 10: 391, 82
+  TP  /  FP  /  TN  /  FN  :
+  20      8      1      3
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     29.00000     32.00000
+    PointArng    -98.40898    -40.51540
+    Extension    -17.04064      3.08085
+       Spread    -13.05167    -84.86596
+        Limit     46.06415    -35.67485
+      PerpSym     33.89269     29.12772
+  ParallelSym    -92.32163    -81.20885
+    OrthoNorm    -25.34393     11.46365
+       Volume      5.79904    -32.72108
+ GraspIt_Volu     29.45280    -18.04048
+ GraspIt_Epsi    -18.11917      5.73798
+    Precision      0.78261      0.75000
+ 
+Completed iteration:13
+Prediction points:221
+  TP     FP     TN     FN
+   140    51    18    12
+
+Precision / Recall
+    0.7330    0.9211
+
+Number of bins: 7
+Average bin size: 48
+Eliminated 112 points
+Sample indices for node 10: 25, 200
+  TP  /  FP  /  TN  /  FN  :
+  18      5      1      6
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     30.00000
+    PointArng    117.24787
+    Extension    366.29880
+       Spread     -9.54800
+        Limit     42.86627
+      PerpSym    -29.02709
+  ParallelSym   -128.09485
+    OrthoNorm    -51.23299
+       Volume    177.41084
+ GraspIt_Volu   -622.14397
+ GraspIt_Epsi     24.49991
+    Precision      0.78261
+ 
+Completed iteration:14
+Prediction points:132
+  TP     FP     TN     FN
+    87    30     4    11
+
+Precision / Recall
+    0.7436    0.8878
+
+Number of bins: 8
+Average bin size: 4.237500e+01
+Eliminated 70 points
+Sample indices for node 10: 83, 14
+  TP  /  FP  /  TN  /  FN  :
+  19      6      2      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     30.00000
+    PointArng   -465.53288
+    Extension   -364.19556
+       Spread   -594.60871
+        Limit    115.55944
+      PerpSym     92.45141
+  ParallelSym    -76.42166
+    OrthoNorm    184.44637
+       Volume    215.95349
+ GraspIt_Volu     95.26369
+ GraspIt_Epsi     60.15189
+    Precision      0.82353
+ 
+Completed iteration:15
+Prediction points:174
+  TP     FP     TN     FN
+   117    28    19    10
+
+Precision / Recall
+    0.8069    0.9213
+
+Number of bins: 8
+Average bin size: 4.250000e+01
+Eliminated 145 points
+Sample indices for node 10: 211, 96
+  TP  /  FP  /  TN  /  FN  :
+  17      3      1      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     24.00000
+    PointArng    455.54827
+    Extension     16.78590
+       Spread    293.26694
+        Limit     90.02381
+      PerpSym    132.83716
+  ParallelSym   -223.83619
+    OrthoNorm      0.68203
+       Volume    127.59929
+ GraspIt_Volu    114.95405
+ GraspIt_Epsi   -183.09830
+    Precision      0.84615
+ 
+Completed iteration:16
+Prediction points:99
+  TP     FP     TN     FN
+    72    11     8     8
+
+Precision / Recall
+    0.8675    0.9000
+
+Number of bins: 8
+Average bin size: 4.037500e+01
+Eliminated 70 points
+Sample indices for node 9: 640, 696
+  TP  /  FP  /  TN  /  FN  :
+  16      15      2      1
+
+Sample indices for node 10: 80, 19
+  TP  /  FP  /  TN  /  FN  :
+  25      5      1      7
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     34.00000     38.00000
+    PointArng    209.00450     19.61215
+    Extension   -448.36834    -80.25557
+       Spread   -610.31686    155.36953
+        Limit    134.83245     58.92790
+      PerpSym     64.22747    -47.32459
+  ParallelSym    -28.62446     -8.66044
+    OrthoNorm   -192.96858   -123.83443
+       Volume    403.19133    170.43898
+ GraspIt_Volu     23.41785   -367.55631
+ GraspIt_Epsi    111.59742   -132.67877
+    Precision      0.83333      0.75000
+ 
+Completed iteration:17
+Prediction points:174
+  TP     FP     TN     FN
+   103    42    16    13
+
+Precision / Recall
+    0.7103    0.8879
+
+Number of bins: 8
+Average bin size: 42
+Eliminated 82 points
+Sample indices for node 3: 51, 390
+  TP  /  FP  /  TN  /  FN  :
+  14      10      0      0
+
+Sample indices for node 10: 219, 268
+  TP  /  FP  /  TN  /  FN  :
+  30      7      3      3
+
+ 
+Best Nodes = 
+                         3           10
+     NodeSize     24.00000     43.00000
+    PointArng     49.72970    -26.56908
+    Extension   -253.77439    134.79635
+       Spread   -128.33156     18.11914
+        Limit     46.83179      6.25184
+      PerpSym     93.13381    100.18687
+  ParallelSym   -146.01785    -22.57640
+    OrthoNorm   -145.65213    -16.09149
+       Volume    -63.79301     -5.82722
+ GraspIt_Volu    -37.23203   -282.28992
+ GraspIt_Epsi     -4.96757     17.78283
+    Precision      0.85294      0.81081
+ 
+Completed iteration:18
+Prediction points:162
+  TP     FP     TN     FN
+   100    28    19    15
+
+Precision / Recall
+    0.7813    0.8696
+
+Number of bins: 8
+Average bin size: 4.112500e+01
+Eliminated 108 points
+Sample indices for node 10: 415, 188
+  TP  /  FP  /  TN  /  FN  :
+  29      10      0      2
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     41.00000
+    PointArng    -62.46957
+    Extension     12.08031
+       Spread    571.41651
+        Limit    116.15854
+      PerpSym     91.79425
+  ParallelSym   -205.06803
+    OrthoNorm    -21.26834
+       Volume    176.64408
+ GraspIt_Volu     70.21037
+ GraspIt_Epsi   -146.64627
+    Precision      0.84211
+ 
+Completed iteration:19
+Prediction points:136
+  TP     FP     TN     FN
+    99    19    11     7
+
+Precision / Recall
+    0.8390    0.9340
+
+Number of bins: 7
+Average bin size: 4.842857e+01
+Eliminated 100 points
+Sample indices for node 10: 82, 47
+  TP  /  FP  /  TN  /  FN  :
+  23      10      0      2
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     35.00000
+    PointArng   -266.91384
+    Extension   1360.12289
+       Spread   -646.19755
+        Limit    -50.46091
+      PerpSym     83.71385
+  ParallelSym    -48.95445
+    OrthoNorm    975.03395
+       Volume    155.86395
+ GraspIt_Volu    -31.23890
+ GraspIt_Epsi     26.93396
+    Precision      0.71429
+ 
+Completed iteration:20
+Prediction points:144
+  TP     FP     TN     FN
+    86    26    20    12
+
+Precision / Recall
+    0.7679    0.8776
+
+Number of bins: 8
+Average bin size: 4.162500e+01
+Eliminated 119 points
+Sample indices for node 10: 488, 371
+  TP  /  FP  /  TN  /  FN  :
+  18      5      1      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     27.00000
+    PointArng   -336.69155
+    Extension  -2507.76547
+       Spread  -1875.29551
+        Limit    282.24807
+      PerpSym    493.20023
+  ParallelSym   -402.54218
+    OrthoNorm    343.41722
+       Volume    348.53099
+ GraspIt_Volu     18.15606
+ GraspIt_Epsi    202.91546
+    Precision      0.84211
+ 
+Completed iteration:21
+Prediction points:125
+  TP     FP     TN     FN
+    81    13    12    19
+
+Precision / Recall
+    0.8617    0.8100
+
+Number of bins: 7
+Average bin size: 47
+Eliminated 56 points
+Sample indices for node 9: 648, 728
+  TP  /  FP  /  TN  /  FN  :
+  21      13      0      1
+
+Sample indices for node 10: 75, 96
+  TP  /  FP  /  TN  /  FN  :
+  28      12      0      0
+
+ 
+Best Nodes = 
+                         9           10
+     NodeSize     35.00000     40.00000
+    PointArng    -13.01621     18.65204
+    Extension     -1.23279    -68.63276
+       Spread     -2.33116    -43.43274
+        Limit      2.02560    -10.69685
+      PerpSym      0.72136    134.69713
+  ParallelSym    -30.31143   -245.98704
+    OrthoNorm      0.02907    -86.12336
+       Volume      1.99988    -42.01313
+ GraspIt_Volu      8.88025   -116.47244
+ GraspIt_Epsi     -0.70267     56.97687
+    Precision      0.75000      0.70000
+ 
+Completed iteration:22
+Prediction points:188
+  TP     FP     TN     FN
+   118    44    18     8
+
+Precision / Recall
+    0.7284    0.9365
+
+Number of bins: 8
+Average bin size: 4.262500e+01
+Eliminated 99 points
+Sample indices for node 10: 2, 33
+  TP  /  FP  /  TN  /  FN  :
+  20      8      0      2
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     30.00000
+    PointArng   -302.88663
+    Extension   1658.18551
+       Spread   -473.09322
+        Limit     41.79847
+      PerpSym     54.81818
+  ParallelSym    -47.24185
+    OrthoNorm   -525.79883
+       Volume    979.53505
+ GraspIt_Volu     25.19889
+ GraspIt_Epsi   -113.06969
+    Precision      0.80952
+ 
+Completed iteration:23
+Prediction points:145
+  TP     FP     TN     FN
+    99    20    10    16
+
+Precision / Recall
+    0.8319    0.8609
+
+Number of bins: 7
+Average bin size: 4.842857e+01
+Eliminated 90 points
+Sample indices for node 10: 107, 228
+  TP  /  FP  /  TN  /  FN  :
+  24      6      3      1
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     34.00000
+    PointArng     -7.52028
+    Extension   -855.38650
+       Spread   -412.64376
+        Limit    130.79347
+      PerpSym    367.81378
+  ParallelSym   -267.39645
+    OrthoNorm   -125.91349
+       Volume     29.24265
+ GraspIt_Volu    163.92699
+ GraspIt_Epsi     38.48406
+    Precision      0.80000
+ 
+Completed iteration:24
+Prediction points:154
+  TP     FP     TN     FN
+   104    20    23     7
+
+Precision / Recall
+    0.8387    0.9369
+
+Number of bins: 8
+Average bin size: 41
+Eliminated 98 points
+Sample indices for node 10: 244, 485
+  TP  /  FP  /  TN  /  FN  :
+  26      6      0      0
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     32.00000
+    PointArng   -372.87282
+    Extension    942.34639
+       Spread  -1128.91787
+        Limit    243.50540
+      PerpSym    220.66327
+  ParallelSym   -273.87129
+    OrthoNorm   -389.46139
+       Volume   1304.13402
+ GraspIt_Volu     40.49047
+ GraspIt_Epsi    138.83902
+    Precision      0.81250
+ 
+Completed iteration:25
+Prediction points:146
+  TP     FP     TN     FN
+    99    18    14    15
+
+Precision / Recall
+    0.8462    0.8684
+
+Number of bins: 8
+Average bin size: 42
+Eliminated 81 points
+Sample indices for node 10: 439, 483
+  TP  /  FP  /  TN  /  FN  :
+  32      5      0      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     40.00000
+    PointArng   -648.21232
+    Extension   -593.60565
+       Spread  -1071.70101
+        Limit    169.41544
+      PerpSym    287.62424
+  ParallelSym   -270.76440
+    OrthoNorm    -87.02371
+       Volume    293.57140
+ GraspIt_Volu    178.34877
+ GraspIt_Epsi     69.14358
+    Precision      0.82353
+ 
+Completed iteration:26
+Prediction points:163
+  TP     FP     TN     FN
+   118    30     5    10
+
+Precision / Recall
+    0.7973    0.9219
+
+Number of bins: 8
+Average bin size: 4.137500e+01
+Eliminated 137 points
+Sample indices for node 10: 455, 269
+  TP  /  FP  /  TN  /  FN  :
+  24      6      1      5
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     36.00000
+    PointArng    -46.59483
+    Extension    -13.00902
+       Spread   -118.33588
+        Limit     59.72182
+      PerpSym     36.20967
+  ParallelSym    -93.82180
+    OrthoNorm     66.17702
+       Volume     55.48715
+ GraspIt_Volu     33.53574
+ GraspIt_Epsi    -17.68234
+    Precision      0.77778
+ 
+Completed iteration:27
+Prediction points:107
+  TP     FP     TN     FN
+    76    12     9    10
+
+Precision / Recall
+    0.8636    0.8837
+
+Number of bins: 7
+Average bin size: 4.742857e+01
+Eliminated 100 points
+Sample indices for node 10: 196, 105
+  TP  /  FP  /  TN  /  FN  :
+  25      7      2      5
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     39.00000
+    PointArng -8.05875e+14
+    Extension -1.07929e+14
+       Spread -2.88149e+14
+        Limit  9.66232e+14
+      PerpSym  5.97174e+13
+  ParallelSym -1.11294e+15
+    OrthoNorm -5.65177e+12
+       Volume  6.01447e+14
+ GraspIt_Volu  3.85988e+14
+ GraspIt_Epsi -7.58011e+14
+    Precision      0.77500
+ 
+Completed iteration:28
+Prediction points:144
+  TP     FP     TN     FN
+    91    27    11    15
+
+Precision / Recall
+    0.7712    0.8585
+
+Number of bins: 7
+Average bin size: 4.742857e+01
+Eliminated 92 points
+Sample indices for node 10: 159, 205
+  TP  /  FP  /  TN  /  FN  :
+  17      8      4      4
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     33.00000
+    PointArng    -43.81184
+    Extension  -1820.19536
+       Spread    471.71685
+        Limit    -15.96542
+      PerpSym    -47.65443
+  ParallelSym    553.87247
+    OrthoNorm   -157.42728
+       Volume    121.93692
+ GraspIt_Volu   -610.32349
+ GraspIt_Epsi     93.89219
+    Precision      0.68000
+ 
+Completed iteration:29
+Prediction points:152
+  TP     FP     TN     FN
+    99    24    17    12
+
+Precision / Recall
+    0.8049    0.8919
+
+Number of bins: 7
+Average bin size: 4.814286e+01
+Eliminated 131 points
+Sample indices for node 10: 202, 225
+  TP  /  FP  /  TN  /  FN  :
+  27      8      0      4
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     39.00000
+    PointArng  2.26272e-12
+    Extension  2.21893e-13
+       Spread  9.84352e-14
+        Limit  1.86500e-13
+      PerpSym  3.72797e-14
+  ParallelSym -5.96439e-14
+    OrthoNorm  2.81154e-13
+       Volume  2.15733e-13
+ GraspIt_Volu  1.17061e-13
+ GraspIt_Epsi -4.97642e-14
+    Precision      0.57895
+ 
+Completed iteration:30
+Prediction points:113
+  TP     FP     TN     FN
+    76    30     3     4
+
+Precision / Recall
+    0.7170    0.9500
+
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+AUC ave err std
+    0.6260
+
+    0.0693
+
+    0.0693
+
+Precision / Recall macro
+    0.7959    0.8946
+
+Precision / Recall micro
+    0.7897    0.8939
+
+Number of bins: 8
+Average bin size: 4.237500e+01
+Eliminated 158 points
+Sample indices for node 10: 88, 106
+  TP  /  FP  /  TN  /  FN  :
+  24      8      0      6
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     38.00000
+    PointArng  1.37795e-13
+    Extension -3.09296e-13
+       Spread  1.32324e-16
+        Limit -4.43983e-13
+      PerpSym  2.93556e-13
+  ParallelSym -6.96412e-13
+    OrthoNorm  1.22704e-13
+       Volume -6.96821e-13
+ GraspIt_Volu -6.19417e-14
+ GraspIt_Epsi -9.04834e-14
+    Precision          NaN
+ 
+Completed iteration:1
+Prediction points:86
+  TP     FP     TN     FN
+    66    14     0     6
+
+Precision / Recall
+    0.8250    0.9167
+
+Number of bins: 7
+Average bin size: 49
+Eliminated 174 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:2
+Prediction points:70
+  TP     FP     TN     FN
+    48    14     5     3
+
+Precision / Recall
+    0.7742    0.9412
+
+Number of bins: 8
+Average bin size: 4.187500e+01
+Eliminated 167 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:3
+Prediction points:77
+  TP     FP     TN     FN
+    49    10    13     5
+
+Precision / Recall
+    0.8305    0.9074
+
+Number of bins: 8
+Average bin size: 4.162500e+01
+Eliminated 130 points
+Sample indices for node 10: 88, 17
+  TP  /  FP  /  TN  /  FN  :
+  25      7      1      1
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     34.00000
+    PointArng    -51.27123
+    Extension     -1.67608
+       Spread     -4.80021
+        Limit      0.97143
+      PerpSym     -3.67073
+  ParallelSym    -59.26563
+    OrthoNorm     -0.20822
+       Volume     -0.01486
+ GraspIt_Volu      3.86373
+ GraspIt_Epsi     -2.52034
+    Precision      0.75000
+ 
+Completed iteration:4
+Prediction points:114
+  TP     FP     TN     FN
+    83    15     9     7
+
+Precision / Recall
+    0.8469    0.9222
+
+Number of bins: 7
+Average bin size: 4.771429e+01
+Eliminated 215 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:5
+Prediction points:29
+  TP     FP     TN     FN
+    15     7     5     2
+
+Precision / Recall
+    0.6818    0.8824
+
+Number of bins: 7
+Average bin size: 4.814286e+01
+Eliminated 170 points
+Sample indices for node 10: 27, 43
+  TP  /  FP  /  TN  /  FN  :
+  20      6      2      4
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     32.00000
+    PointArng  3.62428e-14
+    Extension -9.57645e-14
+       Spread -7.53097e-14
+        Limit  2.56471e-13
+      PerpSym -6.72373e-13
+  ParallelSym  4.14060e-13
+    OrthoNorm  1.84930e-13
+       Volume  5.04280e-13
+ GraspIt_Volu -4.19456e-14
+ GraspIt_Epsi  2.19333e-14
+    Precision          NaN
+ 
+Completed iteration:6
+Prediction points:74
+  TP     FP     TN     FN
+    54    10     6     4
+
+Precision / Recall
+    0.8438    0.9310
+
+Number of bins: 7
+Average bin size: 4.785714e+01
+Eliminated 173 points
+Sample indices for node 10: 220, 200
+  TP  /  FP  /  TN  /  FN  :
+  25      3      2      2
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     32.00000
+    PointArng -3.51968e-13
+    Extension -1.33172e-14
+       Spread  4.73069e-13
+        Limit -6.50702e-13
+      PerpSym  9.94661e-13
+  ParallelSym  7.75989e-13
+    OrthoNorm -5.14958e-14
+       Volume  4.52331e-13
+ GraspIt_Volu  9.75144e-14
+ GraspIt_Epsi -2.68531e-13
+    Precision          NaN
+ 
+Completed iteration:7
+Prediction points:71
+  TP     FP     TN     FN
+    60     7     2     2
+
+Precision / Recall
+    0.8955    0.9677
+
+Number of bins: 7
+Average bin size: 4.714286e+01
+Eliminated 203 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:8
+Prediction points:41
+  TP     FP     TN     FN
+    33     4     0     4
+
+Precision / Recall
+    0.8919    0.8919
+
+Number of bins: 7
+Average bin size: 4.757143e+01
+Eliminated 133 points
+Sample indices for node 10: 196, 20
+  TP  /  FP  /  TN  /  FN  :
+  27      9      0      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     39.00000
+    PointArng   -339.73713
+    Extension   -219.34162
+       Spread  -1322.34483
+        Limit    231.68047
+      PerpSym    406.96336
+  ParallelSym   -413.42002
+    OrthoNorm   -239.59638
+       Volume    243.67170
+ GraspIt_Volu     67.54079
+ GraspIt_Epsi     61.62166
+    Precision      0.73684
+ 
+Completed iteration:9
+Prediction points:111
+  TP     FP     TN     FN
+    77    20     5     9
+
+Precision / Recall
+    0.7938    0.8953
+
+Number of bins: 7
+Average bin size: 4.771429e+01
+Eliminated 139 points
+Sample indices for node 10: 33, 244
+  TP  /  FP  /  TN  /  FN  :
+  19      6      5      8
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     38.00000
+    PointArng    129.21403
+    Extension     85.54620
+       Spread   1095.78981
+        Limit     73.11630
+      PerpSym    -49.97270
+  ParallelSym     13.94613
+    OrthoNorm    474.58851
+       Volume   -132.04108
+ GraspIt_Volu  -1928.44790
+ GraspIt_Epsi     95.63959
+    Precision      0.76000
+ 
+Completed iteration:10
+Prediction points:105
+  TP     FP     TN     FN
+    64    14    12    15
+
+Precision / Recall
+    0.8205    0.8101
+
+Number of bins: 7
+Average bin size: 49
+Eliminated 207 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:11
+Prediction points:37
+  TP     FP     TN     FN
+    31     2     1     3
+
+Precision / Recall
+    0.9394    0.9118
+
+Number of bins: 7
+Average bin size: 4.842857e+01
+Eliminated 200 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:12
+Prediction points:44
+  TP     FP     TN     FN
+    34     3     2     5
+
+Precision / Recall
+    0.9189    0.8718
+
+Number of bins: 8
+Average bin size: 4.162500e+01
+Eliminated 173 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:13
+Prediction points:71
+  TP     FP     TN     FN
+    52     4     8     7
+
+Precision / Recall
+    0.9286    0.8814
+
+Number of bins: 8
+Average bin size: 42
+Eliminated 205 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:14
+Prediction points:39
+  TP     FP     TN     FN
+    31     4     3     1
+
+Precision / Recall
+    0.8857    0.9688
+
+Number of bins: 8
+Average bin size: 4.225000e+01
+Eliminated 103 points
+Sample indices for node 10: 483, 343
+  TP  /  FP  /  TN  /  FN  :
+  20      6      5      5
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     36.00000
+    PointArng     86.58523
+    Extension  -2037.98924
+       Spread    330.05945
+        Limit    -11.47712
+      PerpSym    -78.31436
+  ParallelSym     84.83691
+    OrthoNorm    148.28418
+       Volume    -31.40100
+ GraspIt_Volu   -656.59532
+ GraspIt_Epsi     36.36475
+    Precision      0.76923
+ 
+Completed iteration:15
+Prediction points:141
+  TP     FP     TN     FN
+    90    21    16    14
+
+Precision / Recall
+    0.8108    0.8654
+
+Number of bins: 7
+Average bin size: 4.771429e+01
+Eliminated 161 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:16
+Prediction points:83
+  TP     FP     TN     FN
+    58     7     6    12
+
+Precision / Recall
+    0.8923    0.8286
+
+Number of bins: 8
+Average bin size: 4.237500e+01
+Eliminated 142 points
+Sample indices for node 10: 488, 268
+  TP  /  FP  /  TN  /  FN  :
+  16      4      1      4
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     25.00000
+    PointArng    266.80139
+    Extension   -190.53144
+       Spread   -117.12282
+        Limit      3.99440
+      PerpSym     85.87440
+  ParallelSym   -126.11742
+    OrthoNorm     22.04773
+       Volume    -49.00196
+ GraspIt_Volu   -390.40538
+ GraspIt_Epsi     54.80650
+    Precision      0.80000
+ 
+Completed iteration:17
+Prediction points:102
+  TP     FP     TN     FN
+    75     9     8    10
+
+Precision / Recall
+    0.8929    0.8824
+
+Number of bins: 8
+Average bin size: 4.262500e+01
+Eliminated 102 points
+Sample indices for node 10: 225, 14
+  TP  /  FP  /  TN  /  FN  :
+  18      11      2      4
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     35.00000
+    PointArng   -353.12158
+    Extension    -72.03719
+       Spread   -162.51180
+        Limit    -53.90140
+      PerpSym     51.95247
+  ParallelSym      0.01439
+    OrthoNorm    312.82315
+       Volume    265.19923
+ GraspIt_Volu    -93.41102
+ GraspIt_Epsi     11.62951
+    Precision      0.76190
+ 
+Completed iteration:18
+Prediction points:142
+  TP     FP     TN     FN
+    83    26    13    20
+
+Precision / Recall
+    0.7615    0.8058
+
+Number of bins: 8
+Average bin size: 4.212500e+01
+Eliminated 189 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:19
+Prediction points:55
+  TP     FP     TN     FN
+    28    10    11     6
+
+Precision / Recall
+    0.7368    0.8235
+
+Number of bins: 8
+Average bin size: 42
+Eliminated 194 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:20
+Prediction points:50
+  TP     FP     TN     FN
+    31     4     7     8
+
+Precision / Recall
+    0.8857    0.7949
+
+Number of bins: 9
+Average bin size: 3.744444e+01
+Eliminated 116 points
+Sample indices for node 10: 69, 19
+  TP  /  FP  /  TN  /  FN  :
+  30      5      1      0
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     36.00000
+    PointArng     98.36183
+    Extension    268.74106
+       Spread   -156.87248
+        Limit     62.30534
+      PerpSym     -3.94261
+  ParallelSym    110.01221
+    OrthoNorm   -123.19580
+       Volume    115.27381
+ GraspIt_Volu   -326.24000
+ GraspIt_Epsi    107.71553
+    Precision      0.85714
+ 
+Completed iteration:21
+Prediction points:128
+  TP     FP     TN     FN
+    94    13    15     6
+
+Precision / Recall
+    0.8785    0.9400
+
+Number of bins: 8
+Average bin size: 4.237500e+01
+Eliminated 147 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:22
+Prediction points:97
+  TP     FP     TN     FN
+    57     9    20    11
+
+Precision / Recall
+    0.8636    0.8382
+
+Number of bins: 8
+Average bin size: 4.212500e+01
+Eliminated 138 points
+Sample indices for node 10: 455, 485
+  TP  /  FP  /  TN  /  FN  :
+  22      8      2      4
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     36.00000
+    PointArng     89.47680
+    Extension    448.24129
+       Spread   -194.36637
+        Limit     31.46501
+      PerpSym    -32.34344
+  ParallelSym      6.21045
+    OrthoNorm   -120.13944
+       Volume    111.26626
+ GraspIt_Volu   -361.36209
+ GraspIt_Epsi     -1.01728
+    Precision      0.73333
+ 
+Completed iteration:23
+Prediction points:106
+  TP     FP     TN     FN
+    69    18     8    11
+
+Precision / Recall
+    0.7931    0.8625
+
+Number of bins: 8
+Average bin size: 4.237500e+01
+Eliminated 199 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:24
+Prediction points:45
+  TP     FP     TN     FN
+    33     6     3     3
+
+Precision / Recall
+    0.8462    0.9167
+
+Number of bins: 8
+Average bin size: 4.175000e+01
+Eliminated 161 points
+Sample indices for node 10: 62, 219
+  TP  /  FP  /  TN  /  FN  :
+  29      7      0      3
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     39.00000
+    PointArng  1.02524e-13
+    Extension -2.31925e-13
+       Spread -7.17000e-13
+        Limit -8.44029e-13
+      PerpSym  4.40411e-13
+  ParallelSym -1.30683e-12
+    OrthoNorm  1.34956e-13
+       Volume -4.21872e-12
+ GraspIt_Volu -4.50909e-13
+ GraspIt_Epsi  3.33348e-13
+    Precision          NaN
+ 
+Completed iteration:25
+Prediction points:83
+  TP     FP     TN     FN
+    64    15     1     3
+
+Precision / Recall
+    0.8101    0.9552
+
+Number of bins: 9
+Average bin size: 3.688889e+01
+Eliminated 176 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:26
+Prediction points:68
+  TP     FP     TN     FN
+    49     8     7     4
+
+Precision / Recall
+    0.8596    0.9245
+
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 204 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:27
+Prediction points:40
+  TP     FP     TN     FN
+    34     4     2     0
+
+Precision / Recall
+    0.8947    1.0000
+
+Number of bins: 7
+Average bin size: 4.714286e+01
+Eliminated 171 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:28
+Prediction points:73
+  TP     FP     TN     FN
+    57     8     4     4
+
+Precision / Recall
+    0.8769    0.9344
+
+Number of bins: 9
+Average bin size: 3.866667e+01
+Eliminated 168 points
+Sample indices for node 10: 188, 211
+  TP  /  FP  /  TN  /  FN  :
+  23      6      3      1
+
+ 
+Best Nodes = 
+                        10
+     NodeSize     33.00000
+    PointArng     76.34328
+    Extension   -659.34191
+       Spread    300.31756
+        Limit     12.47126
+      PerpSym     99.53879
+  ParallelSym      8.34737
+    OrthoNorm     19.78707
+       Volume     -9.79467
+ GraspIt_Volu   -324.05400
+ GraspIt_Epsi     11.18315
+    Precision      0.79310
+ 
+Completed iteration:29
+Prediction points:76
+  TP     FP     TN     FN
+    60    10     4     2
+
+Precision / Recall
+    0.8571    0.9677
+
+Number of bins: 7
+Average bin size: 4.728571e+01
+Eliminated 123 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:30
+Prediction points:121
+  TP     FP     TN     FN
+    64    21    17    19
+
+Precision / Recall
+    0.7529    0.7711
+
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+AUC ave err std
+    0.6550
+
+    0.0986
+
+    0.0986
+
+Precision / Recall macro
+    0.8430    0.8937
+
+Precision / Recall micro
+    0.8383    0.8886
+
+Number of bins: 7
+Average bin size: 4.614286e+01
+Eliminated 231 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:1
+Prediction points:13
+  TP     FP     TN     FN
+     8     2     3     0
+
+Precision / Recall
+    0.8000    1.0000
+
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 198 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:2
+Prediction points:46
+  TP     FP     TN     FN
+    39     1     1     5
+
+Precision / Recall
+    0.9750    0.8864
+
+Number of bins: 8
+Average bin size: 4.237500e+01
+Eliminated 199 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:3
+Prediction points:45
+  TP     FP     TN     FN
+    41     2     1     1
+
+Precision / Recall
+    0.9535    0.9762
+
+Number of bins: 8
+Average bin size: 4.162500e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 7
+Average bin size: 4.685714e+01
+Eliminated 203 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:5
+Prediction points:41
+  TP     FP     TN     FN
+    34     5     1     1
+
+Precision / Recall
+    0.8718    0.9714
+
+Number of bins: 8
+Average bin size: 4.350000e+01
+Eliminated 194 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:6
+Prediction points:50
+  TP     FP     TN     FN
+    43     4     3     0
+
+Precision / Recall
+    0.9149    1.0000
+
+Number of bins: 8
+Average bin size: 4.187500e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 7
+Average bin size: 4.942857e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 8
+Average bin size: 4.137500e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 8
+Average bin size: 4.125000e+01
+Eliminated 160 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:10
+Prediction points:84
+  TP     FP     TN     FN
+    53     9    12    10
+
+Precision / Recall
+    0.8548    0.8413
+
+Number of bins: 8
+Average bin size: 4.212500e+01
+Eliminated 193 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:11
+Prediction points:51
+  TP     FP     TN     FN
+    40     3     6     2
+
+Precision / Recall
+    0.9302    0.9524
+
+Number of bins: 8
+Average bin size: 4.112500e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 7
+Average bin size: 46
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 192 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:14
+Prediction points:52
+  TP     FP     TN     FN
+    44     5     1     2
+
+Precision / Recall
+    0.8980    0.9565
+
+Number of bins: 8
+Average bin size: 4.175000e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 8
+Average bin size: 4.225000e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 211 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:17
+Prediction points:33
+  TP     FP     TN     FN
+    24     3     5     1
+
+Precision / Recall
+    0.8889    0.9600
+
+Number of bins: 8
+Average bin size: 4.162500e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 7
+Average bin size: 4.771429e+01
+Eliminated 202 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:19
+Prediction points:42
+  TP     FP     TN     FN
+    33     5     2     2
+
+Precision / Recall
+    0.8684    0.9429
+
+Number of bins: 7
+Average bin size: 47
+Eliminated 200 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:20
+Prediction points:44
+  TP     FP     TN     FN
+    38     3     3     0
+
+Precision / Recall
+    0.9268    1.0000
+
+Number of bins: 7
+Average bin size: 48
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 8
+Average bin size: 4.125000e+01
+Eliminated 195 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:22
+Prediction points:49
+  TP     FP     TN     FN
+    35     4     4     6
+
+Precision / Recall
+    0.8974    0.8537
+
+Number of bins: 8
+Average bin size: 4.150000e+01
+Eliminated 236 points
+Not enough valid test points; skipping iteration.
+Number of bins: 8
+Average bin size: 4.225000e+01
+Eliminated 227 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:24
+Prediction points:17
+  TP     FP     TN     FN
+    10     4     1     2
+
+Precision / Recall
+    0.7143    0.8333
+
+Number of bins: 8
+Average bin size: 4.137500e+01
+Eliminated 173 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:25
+Prediction points:71
+  TP     FP     TN     FN
+    51     6     7     7
+
+Precision / Recall
+    0.8947    0.8793
+
+Number of bins: 7
+Average bin size: 4.742857e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 8
+Average bin size: 4.212500e+01
+Eliminated 199 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:27
+Prediction points:45
+  TP     FP     TN     FN
+    38     4     0     3
+
+Precision / Recall
+    0.9048    0.9268
+
+Number of bins: 7
+Average bin size: 4.785714e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 7
+Average bin size: 4.642857e+01
+Eliminated 200 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:29
+Prediction points:44
+  TP     FP     TN     FN
+    36     3     4     1
+
+Precision / Recall
+    0.9231    0.9730
+
+Number of bins: 8
+Average bin size: 4.250000e+01
+Eliminated 203 points
+ 
+Best Nodes = 
+ 
+     []
+ 
+Completed iteration:30
+Prediction points:41
+  TP     FP     TN     FN
+    25     4     4     8
+
+Precision / Recall
+    0.8621    0.7576
+
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+AUC ave err std
+    0.6969
+
+    0.1143
+
+    0.1143
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.8983    0.9207
+
+computation time (s)
+   33.6480
+

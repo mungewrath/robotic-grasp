@@ -1,0 +1,875 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+
+Completed iteration:1
+Prediction points:244
+  TP     FP     TN     FN
+   178    51     7     8
+
+Precision / Recall
+    0.7773    0.9570
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+     1     0     0     0
+    83    30     0     0
+    10     3     0     0
+     0     1     0     0
+     2     0     0     3
+     9     1     0     0
+     4     1     0     0
+     3     3     0     0
+     1     0     0     0
+    29     9     0     0
+     2     1     0     0
+    17     8     0     0
+     2     0     0     0
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+     1     0     0     0
+     1     1     0     0
+     1     0     0     0
+
+
+Completed iteration:2
+Prediction points:244
+  TP     FP     TN     FN
+   169    61    11     3
+
+Precision / Recall
+    0.7348    0.9826
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    80    24     0     0
+    10     4     0     0
+     1     0     0     0
+     7     1     0     0
+    11     2     0     0
+     6     2     0     0
+     2     2     0     0
+     1     1     0     0
+    28     6     0     0
+     2     3     0     0
+    20     9     0     0
+     0     2     0     0
+     2     0     0     0
+     3     0     0     0
+     1     0     0     0
+     2     0     0     0
+
+
+Completed iteration:3
+Prediction points:244
+  TP     FP     TN     FN
+   168    57    13     6
+
+Precision / Recall
+    0.7467    0.9655
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    86    33     0     0
+    14     2     0     0
+     1     1     0     0
+     8     5     0     0
+     5     1     0     0
+     3     1     0     0
+    21     7     0     0
+     1     3     0     0
+    23     4     0     0
+     0     1     0     0
+     2     0     0     0
+     2     0     0     0
+     1     0     0     0
+
+
+Completed iteration:4
+Prediction points:244
+  TP     FP     TN     FN
+   159    64    10    11
+
+Precision / Recall
+    0.7130    0.9353
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+     1     0     0     0
+    83    25     0     0
+     9     5     0     0
+     1     0     0     0
+     7     1     0     0
+     6     2     0     0
+     2     0     0     0
+    23     4     0     0
+     4     3     0     0
+     1     0     0     0
+    17    11     0     0
+     2     0     0     0
+     1     0     0     0
+     2     3     0     0
+     2     0     0     0
+     2     0     0     0
+     3     0     0     0
+
+
+Completed iteration:5
+Prediction points:244
+  TP     FP     TN     FN
+   157    72     9     6
+
+Precision / Recall
+    0.6856    0.9632
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    84    24     0     0
+     7     4     0     0
+     3     1     0     0
+     6     0     0     0
+     4     4     0     0
+     9     3     0     0
+     2     1     0     0
+     3     2     0     0
+    29     8     0     0
+     1     2     0     0
+     1     0     0     0
+    17     7     0     0
+     0     1     0     0
+     1     1     0     0
+     4     0     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+Completed iteration:6
+Prediction points:244
+  TP     FP     TN     FN
+   155    56    16    17
+
+Precision / Recall
+    0.7346    0.9012
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    62    25     5    14
+    11     3     0     0
+     2     0     0     0
+     3     4     0     0
+     7     3     0     0
+     2     2     0     0
+     3     1     0     0
+     0     1     0     0
+    22     6     0     0
+     5     2     0     0
+     1     0     0     0
+     1     0     0     0
+    18     6     0     0
+     1     0     0     0
+     2     0     0     0
+     5     0     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+Completed iteration:7
+Prediction points:244
+  TP     FP     TN     FN
+   168    50    18     8
+
+Precision / Recall
+    0.7706    0.9545
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+     1     0     0     0
+    89    29     0     0
+     7     3     0     0
+    10     1     0     0
+     3     4     0     0
+     1     0     0     0
+     2     1     0     0
+    20    10     0     0
+     3     1     0     0
+     1     0     0     0
+    18     8     0     0
+     1     0     0     0
+     2     0     0     0
+     3     1     0     0
+     1     0     1     1
+
+
+Completed iteration:8
+Prediction points:244
+  TP     FP     TN     FN
+   164    52    17    11
+
+Precision / Recall
+    0.7593    0.9371
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    35     9    18    49
+    12     2     0     0
+     1     0     0     0
+     8     1     0     0
+     5     0     0     0
+     1     6     0     0
+     1     0     2     1
+    17     5     0     0
+     6     1     0     0
+    19     3     0     0
+     2     1     0     0
+     1     2     0     0
+     3     0     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     1     0
+
+
+Completed iteration:9
+Prediction points:244
+  TP     FP     TN     FN
+   157    72    13     2
+
+Precision / Recall
+    0.6856    0.9874
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    84    31     0     0
+     7     3     0     0
+     1     0     0     0
+     2     2     0     0
+     2     2     0     0
+     8     2     0     0
+     3     2     0     0
+     1     0     0     0
+    27     6     0     0
+     3     1     0     0
+     1     0     0     0
+    22     7     0     0
+     0     1     0     0
+     2     1     0     0
+     0     1     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+Completed iteration:10
+Prediction points:244
+  TP     FP     TN     FN
+   161    64    12     7
+
+Precision / Recall
+    0.7156    0.9583
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    75    32     0     0
+    10     3     0     0
+     2     0     0     0
+     6     0     0     0
+     1     2     0     0
+     2     1     0     0
+    29     7     0     0
+     4     1     0     0
+     1     0     0     0
+    20    11     0     0
+     2     0     0     0
+     1     0     0     0
+     4     0     0     0
+     3     0     0     0
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+     2     0     0     0
+     0     1     0     0
+
+
+Completed iteration:11
+Prediction points:244
+  TP     FP     TN     FN
+   163    64    12     5
+
+Precision / Recall
+    0.7181    0.9702
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    84    28     0     0
+    12     6     0     0
+     1     0     0     0
+     4     2     0     0
+     7     1     0     0
+     4     0     0     0
+     2     0     0     0
+    29     8     0     0
+     5     1     0     0
+     1     0     0     0
+    19     8     0     0
+     1     2     0     0
+     1     0     0     0
+     2     0     0     0
+     2     1     0     0
+     0     1     0     0
+
+
+Completed iteration:12
+Prediction points:244
+  TP     FP     TN     FN
+   135    49    22    38
+
+Precision / Recall
+    0.7337    0.7803
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    53    20     7    32
+     7     7     0     0
+     1     0     0     0
+     1     0     0     3
+     8     5     0     0
+     3     0     0     0
+     2     0     0     0
+     3     2     0     0
+     1     0     0     0
+    19    10     0     0
+     2     1     0     0
+     1     0     0     0
+    25     6     0     0
+     1     0     0     0
+     0     1     0     0
+     1     1     1     1
+     1     0     0     0
+     0     1     0     0
+
+
+Completed iteration:13
+Prediction points:244
+  TP     FP     TN     FN
+   157    65    14     8
+
+Precision / Recall
+    0.7072    0.9515
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    85    28     0     0
+    17     1     0     0
+     2     0     0     0
+     6     3     0     0
+     4     2     0     0
+     4     2     0     0
+     2     0     0     0
+    18     8     0     0
+     3     2     0     0
+     1     0     0     0
+    16    10     0     0
+     1     0     0     0
+     1     0     0     0
+     3     0     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+Completed iteration:14
+Prediction points:244
+  TP     FP     TN     FN
+   165    58    13     8
+
+Precision / Recall
+    0.7399    0.9538
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    92    25     0     0
+    11     1     0     0
+     1     1     0     0
+     7     3     0     0
+     6     0     0     0
+     1     2     0     0
+     1     1     2     0
+    21     6     0     0
+     2     1     0     0
+     0     1     0     0
+    21     8     0     0
+     0     1     0     0
+     1     1     0     0
+     1     2     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+Completed iteration:15
+Prediction points:244
+  TP     FP     TN     FN
+   174    56    12     2
+
+Precision / Recall
+    0.7565    0.9886
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+     1     0     0     0
+    86    31     0     0
+    10     2     0     0
+     1     0     0     0
+     8     1     0     0
+     9     3     0     0
+     3     3     0     0
+     2     0     0     0
+    19     6     0     0
+     3     2     0     0
+    20     6     0     0
+     2     1     0     0
+     2     0     0     0
+     1     0     0     0
+     0     1     0     0
+     1     0     0     0
+     1     1     0     0
+
+
+Completed iteration:16
+Prediction points:244
+  TP     FP     TN     FN
+   150    58    12    24
+
+Precision / Recall
+    0.7212    0.8621
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    53    24     7    24
+    11     3     0     0
+     2     1     0     0
+     3     1     0     0
+     8     2     0     0
+     3     1     0     0
+     2     0     0     0
+     6     0     0     0
+    33     8     0     0
+     2     0     0     0
+     0     1     0     0
+    16     6     0     0
+     1     0     0     0
+     0     1     0     1
+     2     2     0     0
+     3     0     0     0
+     0     1     0     0
+     2     0     0     0
+
+
+Completed iteration:17
+Prediction points:244
+  TP     FP     TN     FN
+   161    66    12     5
+
+Precision / Recall
+    0.7093    0.9699
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    89    25     0     0
+     8     4     0     0
+     0     1     0     0
+     5     4     0     0
+     5     1     0     0
+     3     0     0     0
+     1     1     1     0
+    21     7     0     0
+     2     0     0     0
+     1     0     0     0
+    21    13     0     0
+     1     2     0     0
+     1     1     0     0
+     1     0     0     0
+     2     0     0     0
+     1     0     0     0
+     3     0     0     0
+
+
+Completed iteration:18
+Prediction points:244
+  TP     FP     TN     FN
+   140    49    21    34
+
+Precision / Recall
+    0.7407    0.8046
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    13    14    17    79
+    12     3     0     0
+     1     0     0     0
+    10     1     0     1
+     1     1     0     2
+     2     0     0     0
+     1     0     0     0
+    20     9     0     0
+     1     0     0     1
+     0     1     0     0
+    20     9     0     0
+     1     1     0     0
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+Completed iteration:19
+Prediction points:244
+  TP     FP     TN     FN
+   170    62     8     4
+
+Precision / Recall
+    0.7328    0.9770
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    82    31     0     0
+    10     2     0     0
+     0     2     0     0
+     6     2     0     0
+     3     1     0     0
+     4     2     0     0
+     3     1     0     0
+     4     0     0     0
+    17     5     0     0
+     2     2     0     0
+     1     0     0     0
+    29     9     0     0
+     0     1     0     0
+     1     0     0     0
+     1     0     0     0
+     1     1     0     0
+     2     0     0     0
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+Completed iteration:20
+Prediction points:244
+  TP     FP     TN     FN
+   170    57    11     6
+
+Precision / Recall
+    0.7489    0.9659
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+     1     0     0     0
+    80    28     0     0
+     6     2     0     0
+     4     0     0     0
+     6     3     0     0
+     5     1     0     0
+     1     2     0     0
+     1     2     0     0
+    22     6     0     0
+     2     0     0     0
+    28     6     0     0
+     1     1     0     0
+     4     1     0     0
+     1     0     0     0
+     1     0     0     0
+     1     0     0     0
+     0     1     0     0
+
+
+Completed iteration:21
+Prediction points:244
+  TP     FP     TN     FN
+   159    64    16     5
+
+Precision / Recall
+    0.7130    0.9695
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    90    23     0     0
+     7     3     0     0
+     2     0     0     0
+     7     4     0     0
+     6     2     0     0
+     4     3     0     0
+     1     0     0     0
+    23    10     0     0
+     4     0     0     0
+    16     6     0     0
+     1     1     0     0
+     2     0     0     0
+     2     1     0     0
+     0     1     0     0
+     1     0     0     0
+     1     1     0     0
+     1     0     0     0
+
+
+Completed iteration:22
+Prediction points:244
+  TP     FP     TN     FN
+   161    63    14     6
+
+Precision / Recall
+    0.7188    0.9641
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    77    29     0     0
+     6     4     0     0
+     1     1     0     0
+    10     2     0     0
+     4     2     0     0
+     4     0     0     0
+     0     1     0     1
+    26     6     0     0
+     1     2     0     0
+     1     0     0     0
+    28     9     0     0
+     3     0     0     0
+     2     0     0     0
+     1     1     0     0
+     0     1     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+Completed iteration:23
+Prediction points:244
+  TP     FP     TN     FN
+   160    65    13     6
+
+Precision / Recall
+    0.7111    0.9639
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    86    37     0     0
+     9     0     0     0
+     2     0     0     0
+     5     0     0     0
+     6     2     0     0
+     0     1     0     0
+     1     1     0     0
+    23     6     0     0
+     4     1     0     0
+    18     8     0     0
+     1     1     0     0
+     1     0     0     0
+     1     1     0     0
+     3     0     0     0
+     1     0     0     0
+     0     1     0     0
+     3     0     0     0
+
+
+Completed iteration:24
+Prediction points:244
+  TP     FP     TN     FN
+   152    50    15    27
+
+Precision / Recall
+    0.7525    0.8492
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    77    21     5     6
+     8     4     0     0
+     1     1     0     0
+     9     5     0     0
+     5     2     0     0
+     2     1     0     0
+     2     2     0     0
+    19     4     0     0
+     3     2     0     0
+    24     5     0     0
+     3     0     0     0
+     3     1     0     0
+     2     0     1     0
+     1     1     0     0
+     1     1     0     0
+
+
+Completed iteration:25
+Prediction points:244
+  TP     FP     TN     FN
+   133    60    14    37
+
+Precision / Recall
+    0.6891    0.7824
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    69    17     7    18
+     8     4     0     0
+     1     1     0     0
+     5     1     0     0
+    10     2     0     0
+     4     1     0     0
+     3     1     0     0
+     1     0     0     1
+    24     9     0     0
+     4     3     0     0
+     1     0     0     0
+    16     8     0     0
+     0     1     0     0
+     4     0     0     0
+     2     0     0     0
+     0     1     0     0
+     1     0     0     0
+     0     1     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+Completed iteration:26
+Prediction points:244
+  TP     FP     TN     FN
+   160    64    14     6
+
+Precision / Recall
+    0.7143    0.9639
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    88    25     0     0
+    10     4     0     0
+     2     1     0     0
+     2     1     1     4
+     6     2     0     0
+     7     2     0     0
+     1     2     0     0
+    23     2     0     0
+     3     3     0     0
+     1     0     0     0
+    17    11     0     0
+     1     1     0     0
+     2     3     0     0
+     1     0     0     0
+     0     1     0     0
+     1     0     0     0
+
+
+Completed iteration:27
+Prediction points:244
+  TP     FP     TN     FN
+   168    58    13     5
+
+Precision / Recall
+    0.7434    0.9711
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    89    32     0     0
+    11     3     0     0
+     1     0     0     0
+     4     0     0     0
+     3     4     0     0
+     5     0     0     0
+     1     1     0     0
+     2     1     0     0
+    25    10     0     0
+     3     1     0     0
+     1     0     0     0
+    20     7     0     0
+     1     0     0     0
+     3     0     0     0
+     1     1     0     0
+     1     0     0     0
+     1     0     0     0
+
+
+Completed iteration:28
+Prediction points:244
+  TP     FP     TN     FN
+   155    64    13    12
+
+Precision / Recall
+    0.7078    0.9281
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    88    32     0     0
+     6     4     0     0
+     1     0     0     0
+     6     1     0     0
+     6     0     0     0
+     3     2     0     0
+     1     0     0     1
+    21     9     0     0
+     3     0     0     0
+     1     0     0     0
+    17     4     0     0
+     3     0     0     0
+     1     1     0     0
+     2     0     0     0
+     1     0     0     0
+     1     0     0     0
+     1     1     0     0
+     1     0     0     0
+
+
+Completed iteration:29
+Prediction points:244
+  TP     FP     TN     FN
+   163    68     8     5
+
+Precision / Recall
+    0.7056    0.9702
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+    76    33     0     0
+     8     4     0     0
+     1     0     0     0
+     8     2     0     0
+     9     0     0     0
+     1     1     0     0
+     4     0     0     0
+     1     0     0     0
+    24     8     0     0
+     3     2     0     0
+    19     4     0     0
+     1     1     0     0
+     1     1     0     0
+     3     2     0     0
+     0     1     0     0
+     3     0     0     0
+
+
+Completed iteration:30
+Prediction points:244
+  TP     FP     TN     FN
+   172    53    12     7
+
+Precision / Recall
+    0.7644    0.9609
+
+Passing bin stats (TPR/FPR/TNR/FNR)
+     1     0     0     0
+    83    27     0     0
+     8     1     0     0
+     2     0     0     0
+    10     2     0     0
+     2     0     0     0
+     2     2     0     0
+     1     3     0     0
+     1     0     0     0
+    17     7     0     0
+     4     2     0     0
+     1     0     0     0
+    26     9     0     0
+     2     1     0     0
+     3     0     0     0
+     1     1     0     0
+     0     1     0     1
+     0     1     0     0
+     1     1     0     0
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+Average number of confident bins (out of 100): 17.166667
+if system_dependent('IsDebugMode')==1, dbquit; end

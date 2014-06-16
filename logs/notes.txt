@@ -1,0 +1,17 @@
+4/16/14
+Talked with Ryan about normalizeer, realized it wasn't needed (and would skew the results).
+Removed it, and changed mf to treat success as >= gpCutoff (.5 by default).
+
+4/23/14
+Team suspects there may be a bug, since higher confidence thresholds go down in precision
+Bad iterations (30 energy 3d, .8 conf): 7, 13, 14, 18, 20, 21, 23, 27, 29, 30
+(30 energy 2d, .5 conf): >1< (only lost 4 TP, no FP), 3
+
+4/24/14
+Found a bug in confidence filtering code - was not comparing train2 predictions with the right ground truth indices.
+
+4/26
+Found a bug in prediction recording: if an iteration is skipped, the array still holds the value from the last run-through (i.e. if we're at 40 energy, .9 conf, it keeps the value for run x from 40 energy, .8 conf).
+
+5/7
+Produced more detailed results on LR kdtree hybrid. Precision values should be the same as 4-28-14_LR.

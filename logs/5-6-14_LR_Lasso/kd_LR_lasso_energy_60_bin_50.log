@@ -1,0 +1,1711 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+binThreshold:50
+energy base:60
+using confidence:1
+Number of bins: 16
+Average bin size: 2.075000e+01
+Eliminated 81 points
+Completed iteration:1
+Prediction points:163
+  TP     FP     TN     FN
+   115    28     5    15
+
+Precision / Recall
+    0.8042    0.8846
+
+Number of bins: 15
+Average bin size: 2.293333e+01
+Eliminated 58 points
+Completed iteration:2
+Prediction points:186
+  TP     FP     TN     FN
+    86    16    33    51
+
+Precision / Recall
+    0.8431    0.6277
+
+Number of bins: 18
+Average bin size: 1.805556e+01
+Eliminated 65 points
+Completed iteration:3
+Prediction points:179
+  TP     FP     TN     FN
+    92    28    19    40
+
+Precision / Recall
+    0.7667    0.6970
+
+Number of bins: 18
+Average bin size: 1.872222e+01
+Eliminated 15 points
+Completed iteration:4
+Prediction points:229
+  TP     FP     TN     FN
+   114    52    14    49
+
+Precision / Recall
+    0.6867    0.6994
+
+Number of bins: 20
+Average bin size: 1.645000e+01
+Eliminated 67 points
+Completed iteration:5
+Prediction points:177
+  TP     FP     TN     FN
+   107    44    12    14
+
+Precision / Recall
+    0.7086    0.8843
+
+Number of bins: 17
+Average bin size: 2.023529e+01
+Eliminated 76 points
+Completed iteration:6
+Prediction points:168
+  TP     FP     TN     FN
+    63    23    20    62
+
+Precision / Recall
+    0.7326    0.5040
+
+Number of bins: 18
+Average bin size: 1.894444e+01
+Eliminated 134 points
+Completed iteration:7
+Prediction points:110
+  TP     FP     TN     FN
+    73    18     7    12
+
+Precision / Recall
+    0.8022    0.8588
+
+Number of bins: 17
+Average bin size: 1.970588e+01
+Eliminated 126 points
+Completed iteration:8
+Prediction points:118
+  TP     FP     TN     FN
+    68    22    10    18
+
+Precision / Recall
+    0.7556    0.7907
+
+Number of bins: 19
+Average bin size: 1.742105e+01
+Eliminated 48 points
+Completed iteration:9
+Prediction points:196
+  TP     FP     TN     FN
+    79    37    26    54
+
+Precision / Recall
+    0.6810    0.5940
+
+Number of bins: 20
+Average bin size: 17
+Eliminated 39 points
+Completed iteration:10
+Prediction points:205
+  TP     FP     TN     FN
+   113    44    13    35
+
+Precision / Recall
+    0.7197    0.7635
+
+Number of bins: 19
+Average bin size: 1.778947e+01
+Eliminated 68 points
+Completed iteration:11
+Prediction points:176
+  TP     FP     TN     FN
+    95    22    24    35
+
+Precision / Recall
+    0.8120    0.7308
+
+Number of bins: 19
+Average bin size: 1.747368e+01
+Eliminated 53 points
+Completed iteration:12
+Prediction points:191
+  TP     FP     TN     FN
+    88    22    24    57
+
+Precision / Recall
+    0.8000    0.6069
+
+Number of bins: 19
+Average bin size: 1.742105e+01
+Eliminated 32 points
+Completed iteration:13
+Prediction points:212
+  TP     FP     TN     FN
+   105    48    16    43
+
+Precision / Recall
+    0.6863    0.7095
+
+Number of bins: 22
+Average bin size: 1.563636e+01
+Eliminated 79 points
+Completed iteration:14
+Prediction points:165
+  TP     FP     TN     FN
+    92    34    13    26
+
+Precision / Recall
+    0.7302    0.7797
+
+Number of bins: 18
+Average bin size: 1.838889e+01
+Eliminated 30 points
+Completed iteration:15
+Prediction points:214
+  TP     FP     TN     FN
+   138    39    17    20
+
+Precision / Recall
+    0.7797    0.8734
+
+Number of bins: 21
+Average bin size: 1.614286e+01
+Eliminated 83 points
+Completed iteration:16
+Prediction points:161
+  TP     FP     TN     FN
+    82    28    20    31
+
+Precision / Recall
+    0.7455    0.7257
+
+Number of bins: 22
+Average bin size: 1.536364e+01
+Eliminated 47 points
+Completed iteration:17
+Prediction points:197
+  TP     FP     TN     FN
+   113    43    14    27
+
+Precision / Recall
+    0.7244    0.8071
+
+Number of bins: 23
+Average bin size: 1.421739e+01
+Eliminated 46 points
+Completed iteration:18
+Prediction points:198
+  TP     FP     TN     FN
+   100    38    23    37
+
+Precision / Recall
+    0.7246    0.7299
+
+Number of bins: 19
+Average bin size: 1.789474e+01
+Eliminated 35 points
+Completed iteration:19
+Prediction points:209
+  TP     FP     TN     FN
+    86    32    30    61
+
+Precision / Recall
+    0.7288    0.5850
+
+Number of bins: 20
+Average bin size: 1.645000e+01
+Eliminated 99 points
+Completed iteration:20
+Prediction points:145
+  TP     FP     TN     FN
+   101    37     2     5
+
+Precision / Recall
+    0.7319    0.9528
+
+Number of bins: 17
+Average bin size: 1.888235e+01
+Eliminated 62 points
+Completed iteration:21
+Prediction points:182
+  TP     FP     TN     FN
+   103    34    28    17
+
+Precision / Recall
+    0.7518    0.8583
+
+Number of bins: 20
+Average bin size: 1.710000e+01
+Eliminated 48 points
+Completed iteration:22
+Prediction points:196
+  TP     FP     TN     FN
+    96    29    31    40
+
+Precision / Recall
+    0.7680    0.7059
+
+Number of bins: 17
+Average bin size: 1.941176e+01
+Eliminated 41 points
+Completed iteration:23
+Prediction points:203
+  TP     FP     TN     FN
+    82    27    26    68
+
+Precision / Recall
+    0.7523    0.5467
+
+Number of bins: 20
+Average bin size: 1.710000e+01
+Eliminated 23 points
+Completed iteration:24
+Prediction points:221
+  TP     FP     TN     FN
+   110    37    21    53
+
+Precision / Recall
+    0.7483    0.6748
+
+Number of bins: 17
+Average bin size: 1.935294e+01
+Eliminated 61 points
+Completed iteration:25
+Prediction points:183
+  TP     FP     TN     FN
+   109    45     7    22
+
+Precision / Recall
+    0.7078    0.8321
+
+Number of bins: 21
+Average bin size: 16
+Eliminated 28 points
+Completed iteration:26
+Prediction points:216
+  TP     FP     TN     FN
+    79    38    28    71
+
+Precision / Recall
+    0.6752    0.5267
+
+Number of bins: 15
+Average bin size: 22
+Eliminated 19 points
+Completed iteration:27
+Prediction points:225
+  TP     FP     TN     FN
+   101    23    38    63
+
+Precision / Recall
+    0.8145    0.6159
+
+Number of bins: 21
+Average bin size: 1.561905e+01
+Eliminated 66 points
+Completed iteration:28
+Prediction points:178
+  TP     FP     TN     FN
+   110    37    10    21
+
+Precision / Recall
+    0.7483    0.8397
+
+Number of bins: 20
+Average bin size: 1.680000e+01
+Eliminated 24 points
+Completed iteration:29
+Prediction points:220
+  TP     FP     TN     FN
+   103    48    19    50
+
+Precision / Recall
+    0.6821    0.6732
+
+Number of bins: 19
+Average bin size: 1.763158e+01
+Eliminated 23 points
+Completed iteration:30
+Prediction points:221
+  TP     FP     TN     FN
+   120    39    17    45
+
+Precision / Recall
+    0.7547    0.7273
+
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+AUC ave err std
+    0.5478
+
+    0.0680
+
+    0.0680
+
+Precision / Recall macro
+    0.7456    0.7268
+
+Precision / Recall micro
+    0.7428    0.7191
+
+Number of bins: 20
+Average bin size: 1.660000e+01
+Eliminated 135 points
+Completed iteration:1
+Prediction points:109
+  TP     FP     TN     FN
+    45    14    11    39
+
+Precision / Recall
+    0.7627    0.5357
+
+Number of bins: 20
+Average bin size: 1.715000e+01
+Eliminated 101 points
+Completed iteration:2
+Prediction points:143
+  TP     FP     TN     FN
+    79    26    15    23
+
+Precision / Recall
+    0.7524    0.7745
+
+Number of bins: 22
+Average bin size: 1.495455e+01
+Eliminated 89 points
+Completed iteration:3
+Prediction points:155
+  TP     FP     TN     FN
+    88    28    10    29
+
+Precision / Recall
+    0.7586    0.7521
+
+Number of bins: 17
+Average bin size: 1.952941e+01
+Eliminated 111 points
+Completed iteration:4
+Prediction points:133
+  TP     FP     TN     FN
+    93    24     6    10
+
+Precision / Recall
+    0.7949    0.9029
+
+Number of bins: 19
+Average bin size: 1.763158e+01
+Eliminated 74 points
+Completed iteration:5
+Prediction points:170
+  TP     FP     TN     FN
+   110    20    20    20
+
+Precision / Recall
+    0.8462    0.8462
+
+Number of bins: 22
+Average bin size: 1.490909e+01
+Eliminated 70 points
+Completed iteration:6
+Prediction points:174
+  TP     FP     TN     FN
+    80    30    22    42
+
+Precision / Recall
+    0.7273    0.6557
+
+Number of bins: 20
+Average bin size: 1.690000e+01
+Eliminated 85 points
+Completed iteration:7
+Prediction points:159
+  TP     FP     TN     FN
+    86    23    24    26
+
+Precision / Recall
+    0.7890    0.7679
+
+Number of bins: 19
+Average bin size: 1.747368e+01
+Eliminated 87 points
+Completed iteration:8
+Prediction points:157
+  TP     FP     TN     FN
+    90    22    11    34
+
+Precision / Recall
+    0.8036    0.7258
+
+Number of bins: 21
+Average bin size: 1.585714e+01
+Eliminated 145 points
+Completed iteration:9
+Prediction points:99
+  TP     FP     TN     FN
+    51    23    10    15
+
+Precision / Recall
+    0.6892    0.7727
+
+Number of bins: 18
+Average bin size: 1.788889e+01
+Eliminated 134 points
+Completed iteration:10
+Prediction points:110
+  TP     FP     TN     FN
+    75    28     3     4
+
+Precision / Recall
+    0.7282    0.9494
+
+Number of bins: 17
+Average bin size: 1.917647e+01
+Eliminated 55 points
+Completed iteration:11
+Prediction points:189
+  TP     FP     TN     FN
+    82    37    22    48
+
+Precision / Recall
+    0.6891    0.6308
+
+Number of bins: 17
+Average bin size: 1.947059e+01
+Eliminated 60 points
+Completed iteration:12
+Prediction points:184
+  TP     FP     TN     FN
+    79    22    29    54
+
+Precision / Recall
+    0.7822    0.5940
+
+Number of bins: 16
+Average bin size: 2.093750e+01
+Eliminated 93 points
+Completed iteration:13
+Prediction points:151
+  TP     FP     TN     FN
+    99    20    15    17
+
+Precision / Recall
+    0.8319    0.8534
+
+Number of bins: 22
+Average bin size: 1.504545e+01
+Eliminated 56 points
+Completed iteration:14
+Prediction points:188
+  TP     FP     TN     FN
+   120    32    11    25
+
+Precision / Recall
+    0.7895    0.8276
+
+Number of bins: 24
+Average bin size: 1.425000e+01
+Eliminated 69 points
+Completed iteration:15
+Prediction points:175
+  TP     FP     TN     FN
+    95    30    20    30
+
+Precision / Recall
+    0.7600    0.7600
+
+Number of bins: 19
+Average bin size: 1.842105e+01
+Eliminated 34 points
+Completed iteration:16
+Prediction points:210
+  TP     FP     TN     FN
+   126    29    19    36
+
+Precision / Recall
+    0.8129    0.7778
+
+Number of bins: 15
+Average bin size: 2.233333e+01
+Eliminated 51 points
+Completed iteration:17
+Prediction points:193
+  TP     FP     TN     FN
+    99    31    29    34
+
+Precision / Recall
+    0.7615    0.7444
+
+Number of bins: 20
+Average bin size: 1.755000e+01
+Eliminated 109 points
+Completed iteration:18
+Prediction points:135
+  TP     FP     TN     FN
+    69    28     6    32
+
+Precision / Recall
+    0.7113    0.6832
+
+Number of bins: 19
+Average bin size: 1.742105e+01
+Eliminated 34 points
+Completed iteration:19
+Prediction points:210
+  TP     FP     TN     FN
+   113    29    28    40
+
+Precision / Recall
+    0.7958    0.7386
+
+Number of bins: 22
+Average bin size: 1.518182e+01
+Eliminated 135 points
+Completed iteration:20
+Prediction points:109
+  TP     FP     TN     FN
+    72    13     6    18
+
+Precision / Recall
+    0.8471    0.8000
+
+Number of bins: 18
+Average bin size: 1.827778e+01
+Eliminated 53 points
+Completed iteration:21
+Prediction points:191
+  TP     FP     TN     FN
+   102    43    12    34
+
+Precision / Recall
+    0.7034    0.7500
+
+Number of bins: 23
+Average bin size: 1.460870e+01
+Eliminated 82 points
+Completed iteration:22
+Prediction points:162
+  TP     FP     TN     FN
+    70    26    13    53
+
+Precision / Recall
+    0.7292    0.5691
+
+Number of bins: 17
+Average bin size: 1.970588e+01
+Eliminated 129 points
+Completed iteration:23
+Prediction points:115
+  TP     FP     TN     FN
+    84    18     6     7
+
+Precision / Recall
+    0.8235    0.9231
+
+Number of bins: 20
+Average bin size: 1.735000e+01
+Eliminated 67 points
+Completed iteration:24
+Prediction points:177
+  TP     FP     TN     FN
+   107    32    11    27
+
+Precision / Recall
+    0.7698    0.7985
+
+Number of bins: 23
+Average bin size: 1.456522e+01
+Eliminated 106 points
+Completed iteration:25
+Prediction points:138
+  TP     FP     TN     FN
+    64    31    11    32
+
+Precision / Recall
+    0.6737    0.6667
+
+Number of bins: 20
+Average bin size: 1.705000e+01
+Eliminated 77 points
+Completed iteration:26
+Prediction points:167
+  TP     FP     TN     FN
+   108    29    11    19
+
+Precision / Recall
+    0.7883    0.8504
+
+Number of bins: 16
+Average bin size: 2.068750e+01
+Eliminated 127 points
+Completed iteration:27
+Prediction points:117
+  TP     FP     TN     FN
+    63    10    22    22
+
+Precision / Recall
+    0.8630    0.7412
+
+Number of bins: 23
+Average bin size: 1.482609e+01
+Eliminated 132 points
+Completed iteration:28
+Prediction points:112
+  TP     FP     TN     FN
+    77    12    10    13
+
+Precision / Recall
+    0.8652    0.8556
+
+Number of bins: 20
+Average bin size: 1.670000e+01
+Eliminated 40 points
+Completed iteration:29
+Prediction points:204
+  TP     FP     TN     FN
+   109    29    34    32
+
+Precision / Recall
+    0.7899    0.7730
+
+Number of bins: 23
+Average bin size: 1.460870e+01
+Eliminated 109 points
+Completed iteration:30
+Prediction points:135
+  TP     FP     TN     FN
+    54    21     8    52
+
+Precision / Recall
+    0.7200    0.5094
+
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+AUC ave err std
+    0.5598
+
+    0.0800
+
+    0.0800
+
+Precision / Recall macro
+    0.7720    0.7510
+
+Precision / Recall micro
+    0.7731    0.7491
+
+Number of bins: 22
+Average bin size: 1.522727e+01
+Eliminated 142 points
+Completed iteration:1
+Prediction points:102
+  TP     FP     TN     FN
+    77    24     1     0
+
+Precision / Recall
+    0.7624    1.0000
+
+Number of bins: 17
+Average bin size: 1.988235e+01
+Eliminated 112 points
+Completed iteration:2
+Prediction points:132
+  TP     FP     TN     FN
+    80    28     7    17
+
+Precision / Recall
+    0.7407    0.8247
+
+Number of bins: 20
+Average bin size: 1.650000e+01
+Eliminated 107 points
+Completed iteration:3
+Prediction points:137
+  TP     FP     TN     FN
+    76    15     7    39
+
+Precision / Recall
+    0.8352    0.6609
+
+Number of bins: 19
+Average bin size: 1.752632e+01
+Eliminated 101 points
+Completed iteration:4
+Prediction points:143
+  TP     FP     TN     FN
+   104    27     5     7
+
+Precision / Recall
+    0.7939    0.9369
+
+Number of bins: 18
+Average bin size: 1.822222e+01
+Eliminated 152 points
+Completed iteration:5
+Prediction points:92
+  TP     FP     TN     FN
+    70    16     0     6
+
+Precision / Recall
+    0.8140    0.9211
+
+Number of bins: 20
+Average bin size: 1.650000e+01
+Eliminated 112 points
+Completed iteration:6
+Prediction points:132
+  TP     FP     TN     FN
+    81    14    16    21
+
+Precision / Recall
+    0.8526    0.7941
+
+Number of bins: 21
+Average bin size: 1.614286e+01
+Eliminated 102 points
+Completed iteration:7
+Prediction points:142
+  TP     FP     TN     FN
+    87    27     4    24
+
+Precision / Recall
+    0.7632    0.7838
+
+Number of bins: 18
+Average bin size: 1.827778e+01
+Eliminated 101 points
+Completed iteration:8
+Prediction points:143
+  TP     FP     TN     FN
+    81    21    18    23
+
+Precision / Recall
+    0.7941    0.7788
+
+Number of bins: 20
+Average bin size: 1.690000e+01
+Eliminated 84 points
+Completed iteration:9
+Prediction points:160
+  TP     FP     TN     FN
+    56     7    32    65
+
+Precision / Recall
+    0.8889    0.4628
+
+Number of bins: 18
+Average bin size: 1.833333e+01
+Eliminated 181 points
+Completed iteration:10
+Prediction points:63
+  TP     FP     TN     FN
+    48    15     0     0
+
+Precision / Recall
+    0.7619    1.0000
+
+Number of bins: 20
+Average bin size: 1.675000e+01
+Eliminated 134 points
+Completed iteration:11
+Prediction points:110
+  TP     FP     TN     FN
+    88    20     0     2
+
+Precision / Recall
+    0.8148    0.9778
+
+Number of bins: 23
+Average bin size: 1.456522e+01
+Eliminated 103 points
+Completed iteration:12
+Prediction points:141
+  TP     FP     TN     FN
+    80    20    11    30
+
+Precision / Recall
+    0.8000    0.7273
+
+Number of bins: 19
+Average bin size: 1.752632e+01
+Eliminated 111 points
+Completed iteration:13
+Prediction points:133
+  TP     FP     TN     FN
+    77    18    12    26
+
+Precision / Recall
+    0.8105    0.7476
+
+Number of bins: 22
+Average bin size: 1.527273e+01
+Eliminated 122 points
+Completed iteration:14
+Prediction points:122
+  TP     FP     TN     FN
+    56    22     9    35
+
+Precision / Recall
+    0.7179    0.6154
+
+Number of bins: 22
+Average bin size: 1.540909e+01
+Eliminated 82 points
+Completed iteration:15
+Prediction points:162
+  TP     FP     TN     FN
+   101    24    19    18
+
+Precision / Recall
+    0.8080    0.8487
+
+Number of bins: 17
+Average bin size: 20
+Eliminated 124 points
+Completed iteration:16
+Prediction points:120
+  TP     FP     TN     FN
+    98    21     1     0
+
+Precision / Recall
+    0.8235    1.0000
+
+Number of bins: 17
+Average bin size: 19
+Eliminated 169 points
+Completed iteration:17
+Prediction points:75
+  TP     FP     TN     FN
+    53    12     5     5
+
+Precision / Recall
+    0.8154    0.9138
+
+Number of bins: 22
+Average bin size: 1.527273e+01
+Eliminated 153 points
+Completed iteration:18
+Prediction points:91
+  TP     FP     TN     FN
+    50    20     9    12
+
+Precision / Recall
+    0.7143    0.8065
+
+Number of bins: 21
+Average bin size: 1.566667e+01
+Eliminated 94 points
+Completed iteration:19
+Prediction points:150
+  TP     FP     TN     FN
+    75    13    21    41
+
+Precision / Recall
+    0.8523    0.6466
+
+Number of bins: 19
+Average bin size: 1.784211e+01
+Eliminated 95 points
+Completed iteration:20
+Prediction points:149
+  TP     FP     TN     FN
+    81    24    12    32
+
+Precision / Recall
+    0.7714    0.7168
+
+Number of bins: 19
+Average bin size: 1.752632e+01
+Eliminated 154 points
+Completed iteration:21
+Prediction points:90
+  TP     FP     TN     FN
+    61    20     3     6
+
+Precision / Recall
+    0.7531    0.9104
+
+Number of bins: 18
+Average bin size: 1.827778e+01
+Eliminated 170 points
+Completed iteration:22
+Prediction points:74
+  TP     FP     TN     FN
+    51     5     7    11
+
+Precision / Recall
+    0.9107    0.8226
+
+Number of bins: 20
+Average bin size: 1.705000e+01
+Eliminated 148 points
+Completed iteration:23
+Prediction points:96
+  TP     FP     TN     FN
+    69    24     3     0
+
+Precision / Recall
+    0.7419    1.0000
+
+Number of bins: 24
+Average bin size: 1.412500e+01
+Eliminated 103 points
+Completed iteration:24
+Prediction points:141
+  TP     FP     TN     FN
+    85    26    11    19
+
+Precision / Recall
+    0.7658    0.8173
+
+Number of bins: 19
+Average bin size: 1.726316e+01
+Eliminated 101 points
+Completed iteration:25
+Prediction points:143
+  TP     FP     TN     FN
+    81    22     5    35
+
+Precision / Recall
+    0.7864    0.6983
+
+Number of bins: 18
+Average bin size: 1.866667e+01
+Eliminated 143 points
+Completed iteration:26
+Prediction points:101
+  TP     FP     TN     FN
+    65    13     4    19
+
+Precision / Recall
+    0.8333    0.7738
+
+Number of bins: 18
+Average bin size: 1.838889e+01
+Eliminated 122 points
+Completed iteration:27
+Prediction points:122
+  TP     FP     TN     FN
+    76    17    11    18
+
+Precision / Recall
+    0.8172    0.8085
+
+Number of bins: 20
+Average bin size: 1.660000e+01
+Eliminated 100 points
+Completed iteration:28
+Prediction points:144
+  TP     FP     TN     FN
+    56    22    26    40
+
+Precision / Recall
+    0.7179    0.5833
+
+Number of bins: 21
+Average bin size: 1.580952e+01
+Eliminated 90 points
+Completed iteration:29
+Prediction points:154
+  TP     FP     TN     FN
+    73    22    17    42
+
+Precision / Recall
+    0.7684    0.6348
+
+Number of bins: 18
+Average bin size: 1.872222e+01
+Eliminated 132 points
+Completed iteration:30
+Prediction points:112
+  TP     FP     TN     FN
+    67    20     6    19
+
+Precision / Recall
+    0.7701    0.7791
+
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+AUC ave err std
+    0.5550
+
+    0.0915
+
+    0.0915
+
+Precision / Recall macro
+    0.7933    0.7997
+
+Precision / Recall micro
+    0.7919    0.7826
+
+Number of bins: 19
+Average bin size: 1.784211e+01
+Eliminated 118 points
+Completed iteration:1
+Prediction points:126
+  TP     FP     TN     FN
+    57    15    12    42
+
+Precision / Recall
+    0.7917    0.5758
+
+Number of bins: 21
+Average bin size: 1.633333e+01
+Eliminated 220 points
+Completed iteration:2
+Prediction points:24
+  TP     FP     TN     FN
+    11     2     2     9
+
+Precision / Recall
+    0.8462    0.5500
+
+Number of bins: 18
+Average bin size: 1.861111e+01
+Eliminated 165 points
+Completed iteration:3
+Prediction points:79
+  TP     FP     TN     FN
+    43     7    10    19
+
+Precision / Recall
+    0.8600    0.6935
+
+Number of bins: 18
+Average bin size: 1.850000e+01
+Eliminated 145 points
+Completed iteration:4
+Prediction points:99
+  TP     FP     TN     FN
+    42     6    12    39
+
+Precision / Recall
+    0.8750    0.5185
+
+Number of bins: 19
+Average bin size: 1.757895e+01
+Eliminated 185 points
+Completed iteration:5
+Prediction points:59
+  TP     FP     TN     FN
+    37     1     7    14
+
+Precision / Recall
+    0.9737    0.7255
+
+Number of bins: 19
+Average bin size: 1.773684e+01
+Eliminated 178 points
+Completed iteration:6
+Prediction points:66
+  TP     FP     TN     FN
+    51    13     1     1
+
+Precision / Recall
+    0.7969    0.9808
+
+Number of bins: 21
+Average bin size: 1.595238e+01
+Eliminated 152 points
+Completed iteration:7
+Prediction points:92
+  TP     FP     TN     FN
+    62    11     7    12
+
+Precision / Recall
+    0.8493    0.8378
+
+Number of bins: 20
+Average bin size: 1.650000e+01
+Eliminated 176 points
+Completed iteration:8
+Prediction points:68
+  TP     FP     TN     FN
+    20     6     9    33
+
+Precision / Recall
+    0.7692    0.3774
+
+Number of bins: 17
+Average bin size: 1.958824e+01
+Eliminated 148 points
+Completed iteration:9
+Prediction points:96
+  TP     FP     TN     FN
+    44     4    10    38
+
+Precision / Recall
+    0.9167    0.5366
+
+Number of bins: 23
+Average bin size: 1.452174e+01
+Eliminated 124 points
+Completed iteration:10
+Prediction points:120
+  TP     FP     TN     FN
+    59    10    23    28
+
+Precision / Recall
+    0.8551    0.6782
+
+Number of bins: 17
+Average bin size: 2.017647e+01
+Eliminated 167 points
+Completed iteration:11
+Prediction points:77
+  TP     FP     TN     FN
+    58     9     4     6
+
+Precision / Recall
+    0.8657    0.9063
+
+Number of bins: 17
+Average bin size: 1.994118e+01
+Eliminated 208 points
+Completed iteration:12
+Prediction points:36
+  TP     FP     TN     FN
+    33     3     0     0
+
+Precision / Recall
+    0.9167    1.0000
+
+Number of bins: 19
+Average bin size: 1.752632e+01
+Eliminated 210 points
+Completed iteration:13
+Prediction points:34
+  TP     FP     TN     FN
+    22    12     0     0
+
+Precision / Recall
+    0.6471    1.0000
+
+Number of bins: 21
+Average bin size: 16
+Eliminated 204 points
+Completed iteration:14
+Prediction points:40
+  TP     FP     TN     FN
+    35     5     0     0
+
+Precision / Recall
+    0.8750    1.0000
+
+Number of bins: 22
+Average bin size: 1.536364e+01
+Eliminated 129 points
+Completed iteration:15
+Prediction points:115
+  TP     FP     TN     FN
+    65    11    14    25
+
+Precision / Recall
+    0.8553    0.7222
+
+Number of bins: 21
+Average bin size: 1.590476e+01
+Eliminated 94 points
+Completed iteration:16
+Prediction points:150
+  TP     FP     TN     FN
+    49     7    29    65
+
+Precision / Recall
+    0.8750    0.4298
+
+Number of bins: 20
+Average bin size: 1.695000e+01
+Eliminated 188 points
+Completed iteration:17
+Prediction points:56
+  TP     FP     TN     FN
+    24     2     8    22
+
+Precision / Recall
+    0.9231    0.5217
+
+Number of bins: 15
+Average bin size: 2.273333e+01
+Eliminated 177 points
+Completed iteration:18
+Prediction points:67
+  TP     FP     TN     FN
+    30     6     8    23
+
+Precision / Recall
+    0.8333    0.5660
+
+Number of bins: 16
+Average bin size: 2.106250e+01
+Eliminated 202 points
+Completed iteration:19
+Prediction points:42
+  TP     FP     TN     FN
+    36     6     0     0
+
+Precision / Recall
+    0.8571    1.0000
+
+Number of bins: 20
+Average bin size: 1.680000e+01
+Eliminated 212 points
+Completed iteration:20
+Prediction points:32
+  TP     FP     TN     FN
+    19     9     3     1
+
+Precision / Recall
+    0.6786    0.9500
+
+Number of bins: 16
+Average bin size: 2.106250e+01
+Eliminated 154 points
+Completed iteration:21
+Prediction points:90
+  TP     FP     TN     FN
+    37     4    17    32
+
+Precision / Recall
+    0.9024    0.5362
+
+Number of bins: 18
+Average bin size: 1.883333e+01
+Eliminated 164 points
+Completed iteration:22
+Prediction points:80
+  TP     FP     TN     FN
+    66    13     1     0
+
+Precision / Recall
+    0.8354    1.0000
+
+Number of bins: 18
+Average bin size: 1.872222e+01
+Eliminated 164 points
+Completed iteration:23
+Prediction points:80
+  TP     FP     TN     FN
+    43    15     6    16
+
+Precision / Recall
+    0.7414    0.7288
+
+Number of bins: 23
+Average bin size: 1.473913e+01
+Eliminated 163 points
+Completed iteration:24
+Prediction points:81
+  TP     FP     TN     FN
+    26     3    12    40
+
+Precision / Recall
+    0.8966    0.3939
+
+Number of bins: 17
+Average bin size: 1.964706e+01
+Eliminated 158 points
+Completed iteration:25
+Prediction points:86
+  TP     FP     TN     FN
+    52    13     5    16
+
+Precision / Recall
+    0.8000    0.7647
+
+Number of bins: 19
+Average bin size: 1.747368e+01
+Eliminated 192 points
+Completed iteration:26
+Prediction points:52
+  TP     FP     TN     FN
+    48     4     0     0
+
+Precision / Recall
+    0.9231    1.0000
+
+Number of bins: 18
+Average bin size: 1.844444e+01
+Eliminated 141 points
+Completed iteration:27
+Prediction points:103
+  TP     FP     TN     FN
+    65    11    14    13
+
+Precision / Recall
+    0.8553    0.8333
+
+Number of bins: 17
+Average bin size: 1.941176e+01
+Eliminated 167 points
+Completed iteration:28
+Prediction points:77
+  TP     FP     TN     FN
+    53     6     6    12
+
+Precision / Recall
+    0.8983    0.8154
+
+Number of bins: 21
+Average bin size: 1.657143e+01
+Eliminated 180 points
+Completed iteration:29
+Prediction points:64
+  TP     FP     TN     FN
+    36     7     5    16
+
+Precision / Recall
+    0.8372    0.6923
+
+Number of bins: 17
+Average bin size: 1.947059e+01
+Eliminated 154 points
+Completed iteration:30
+Prediction points:90
+  TP     FP     TN     FN
+    42    11    10    27
+
+Precision / Recall
+    0.7925    0.6087
+
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+AUC ave err std
+   NaN
+
+   NaN
+
+   NaN
+
+Precision / Recall macro
+    0.8448    0.7315
+
+Precision / Recall micro
+    0.8450    0.6974
+
+Number of bins: 17
+Average bin size: 19
+Eliminated 204 points
+Completed iteration:1
+Prediction points:40
+  TP     FP     TN     FN
+    33     7     0     0
+
+Precision / Recall
+    0.8250    1.0000
+
+Number of bins: 19
+Average bin size: 1.747368e+01
+Eliminated 238 points
+Not enough valid test points; skipping iteration.
+Number of bins: 20
+Average bin size: 1.695000e+01
+Eliminated 176 points
+Completed iteration:3
+Prediction points:68
+  TP     FP     TN     FN
+    58    10     0     0
+
+Precision / Recall
+    0.8529    1.0000
+
+Number of bins: 17
+Average bin size: 1.958824e+01
+Eliminated 221 points
+Completed iteration:4
+Prediction points:23
+  TP     FP     TN     FN
+    21     2     0     0
+
+Precision / Recall
+    0.9130    1.0000
+
+Number of bins: 19
+Average bin size: 1.726316e+01
+Eliminated 235 points
+Not enough valid test points; skipping iteration.
+Number of bins: 23
+Average bin size: 1.513043e+01
+Eliminated 164 points
+Completed iteration:6
+Prediction points:80
+  TP     FP     TN     FN
+    39     7    16    18
+
+Precision / Recall
+    0.8478    0.6842
+
+Number of bins: 17
+Average bin size: 1.970588e+01
+Eliminated 210 points
+Completed iteration:7
+Prediction points:34
+  TP     FP     TN     FN
+    18     2     2    12
+
+Precision / Recall
+    0.9000    0.6000
+
+Number of bins: 22
+Average bin size: 1.572727e+01
+Eliminated 204 points
+Completed iteration:8
+Prediction points:40
+  TP     FP     TN     FN
+    14     1     7    18
+
+Precision / Recall
+    0.9333    0.4375
+
+Number of bins: 17
+Average bin size: 1.947059e+01
+Eliminated 229 points
+Completed iteration:9
+Prediction points:15
+  TP     FP     TN     FN
+    11     2     1     1
+
+Precision / Recall
+    0.8462    0.9167
+
+Number of bins: 21
+Average bin size: 1.571429e+01
+Eliminated 226 points
+Completed iteration:10
+Prediction points:18
+  TP     FP     TN     FN
+    14     4     0     0
+
+Precision / Recall
+    0.7778    1.0000
+
+Number of bins: 18
+Average bin size: 1.872222e+01
+Eliminated 172 points
+Completed iteration:11
+Prediction points:72
+  TP     FP     TN     FN
+    59     8     1     4
+
+Precision / Recall
+    0.8806    0.9365
+
+Number of bins: 20
+Average bin size: 1.645000e+01
+Eliminated 244 points
+Not enough valid test points; skipping iteration.
+Number of bins: 15
+Average bin size: 2.146667e+01
+Eliminated 211 points
+Completed iteration:13
+Prediction points:33
+  TP     FP     TN     FN
+    23     4     1     5
+
+Precision / Recall
+    0.8519    0.8214
+
+Number of bins: 21
+Average bin size: 1.580952e+01
+Eliminated 221 points
+Completed iteration:14
+Prediction points:23
+  TP     FP     TN     FN
+    23     0     0     0
+
+Precision / Recall
+     1     1
+
+Number of bins: 17
+Average bin size: 1.964706e+01
+Eliminated 203 points
+Completed iteration:15
+Prediction points:41
+  TP     FP     TN     FN
+    36     2     1     2
+
+Precision / Recall
+    0.9474    0.9474
+
+Number of bins: 20
+Average bin size: 1.690000e+01
+Eliminated 195 points
+Completed iteration:16
+Prediction points:49
+  TP     FP     TN     FN
+     9     0     8    32
+
+Precision / Recall
+    1.0000    0.2195
+
+Number of bins: 22
+Average bin size: 1.509091e+01
+Eliminated 181 points
+Completed iteration:17
+Prediction points:63
+  TP     FP     TN     FN
+    32     0    14    17
+
+Precision / Recall
+    1.0000    0.6531
+
+Number of bins: 17
+Average bin size: 1.958824e+01
+Eliminated 183 points
+Completed iteration:18
+Prediction points:61
+  TP     FP     TN     FN
+    31     8     9    13
+
+Precision / Recall
+    0.7949    0.7045
+
+Number of bins: 19
+Average bin size: 1.757895e+01
+Eliminated 211 points
+Completed iteration:19
+Prediction points:33
+  TP     FP     TN     FN
+    32     1     0     0
+
+Precision / Recall
+    0.9697    1.0000
+
+Number of bins: 20
+Average bin size: 1.645000e+01
+Eliminated 227 points
+Completed iteration:20
+Prediction points:17
+  TP     FP     TN     FN
+    17     0     0     0
+
+Precision / Recall
+     1     1
+
+Number of bins: 19
+Average bin size: 1.768421e+01
+Eliminated 207 points
+Completed iteration:21
+Prediction points:37
+  TP     FP     TN     FN
+     9     2     6    20
+
+Precision / Recall
+    0.8182    0.3103
+
+Number of bins: 21
+Average bin size: 1.571429e+01
+Eliminated 199 points
+Completed iteration:22
+Prediction points:45
+  TP     FP     TN     FN
+     6     0     8    31
+
+Precision / Recall
+    1.0000    0.1622
+
+Number of bins: 19
+Average bin size: 1.747368e+01
+Eliminated 218 points
+Completed iteration:23
+Prediction points:26
+  TP     FP     TN     FN
+     7     4     3    12
+
+Precision / Recall
+    0.6364    0.3684
+
+Number of bins: 23
+Average bin size: 1.469565e+01
+Eliminated 189 points
+Completed iteration:24
+Prediction points:55
+  TP     FP     TN     FN
+    48     6     0     1
+
+Precision / Recall
+    0.8889    0.9796
+
+Number of bins: 16
+Average bin size: 2.068750e+01
+Eliminated 162 points
+Completed iteration:25
+Prediction points:82
+  TP     FP     TN     FN
+    45    10     7    20
+
+Precision / Recall
+    0.8182    0.6923
+
+Number of bins: 19
+Average bin size: 1.747368e+01
+Eliminated 199 points
+Completed iteration:26
+Prediction points:45
+  TP     FP     TN     FN
+    28     5     2    10
+
+Precision / Recall
+    0.8485    0.7368
+
+Number of bins: 20
+Average bin size: 1.685000e+01
+Eliminated 176 points
+Completed iteration:27
+Prediction points:68
+  TP     FP     TN     FN
+    22     2     8    36
+
+Precision / Recall
+    0.9167    0.3793
+
+Number of bins: 18
+Average bin size: 1.861111e+01
+Eliminated 218 points
+Completed iteration:28
+Prediction points:26
+  TP     FP     TN     FN
+    26     0     0     0
+
+Precision / Recall
+     1     1
+
+Number of bins: 17
+Average bin size: 1.911765e+01
+Eliminated 192 points
+Completed iteration:29
+Prediction points:52
+  TP     FP     TN     FN
+    47     5     0     0
+
+Precision / Recall
+    0.9038    1.0000
+
+Number of bins: 16
+Average bin size: 2.125000e+01
+Eliminated 237 points
+Not enough valid test points; skipping iteration.
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+AUC ave err std
+   NaN
+
+   NaN
+
+   NaN
+
+Precision / Recall macro
+   NaN   NaN
+
+Precision / Recall micro
+    0.8850    0.7375
+
+computation time (s)
+   4.9611e+03
+

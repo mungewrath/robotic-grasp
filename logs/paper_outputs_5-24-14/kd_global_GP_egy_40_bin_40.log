@@ -1,0 +1,1982 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:40
+energy base:40
+using confidence:1
+Number of bins: 16
+Average bin size: 3.262500e+01
+
+Eliminated 0 points
+Completed iteration 1
+
+Eliminated 0 points
+Completed iteration 2
+
+Eliminated 0 points
+Completed iteration 3
+
+Eliminated 0 points
+Completed iteration 4
+
+Eliminated 0 points
+Completed iteration 5
+
+Eliminated 0 points
+Completed iteration 6
+
+Eliminated 0 points
+Completed iteration 7
+
+Eliminated 0 points
+Completed iteration 8
+
+Eliminated 0 points
+Completed iteration 9
+
+Eliminated 0 points
+Completed iteration 10
+
+Eliminated 0 points
+Completed iteration 11
+
+Eliminated 0 points
+Completed iteration 12
+
+Eliminated 0 points
+Completed iteration 13
+
+Eliminated 0 points
+Completed iteration 14
+
+Eliminated 0 points
+Completed iteration 15
+
+Eliminated 0 points
+Completed iteration 16
+
+Eliminated 0 points
+Completed iteration 17
+
+Eliminated 0 points
+Completed iteration 18
+
+Eliminated 0 points
+Completed iteration 19
+
+Eliminated 0 points
+Completed iteration 20
+
+Eliminated 0 points
+Completed iteration 21
+
+Eliminated 0 points
+Completed iteration 22
+
+Eliminated 0 points
+Completed iteration 23
+
+Eliminated 0 points
+Completed iteration 24
+
+Eliminated 0 points
+Completed iteration 25
+
+Eliminated 0 points
+Completed iteration 26
+
+Eliminated 0 points
+Completed iteration 27
+
+Eliminated 0 points
+Completed iteration 28
+
+Eliminated 0 points
+Completed iteration 29
+
+Eliminated 0 points
+Completed iteration 30
+
+Eliminated 0 points
+Completed iteration 31
+
+Eliminated 0 points
+Completed iteration 32
+
+Eliminated 0 points
+Completed iteration 33
+
+Eliminated 0 points
+Completed iteration 34
+
+Eliminated 0 points
+Completed iteration 35
+
+Eliminated 0 points
+Completed iteration 36
+
+Eliminated 0 points
+Completed iteration 37
+
+Eliminated 0 points
+Completed iteration 38
+
+Eliminated 0 points
+Completed iteration 39
+
+Eliminated 0 points
+Completed iteration 40
+
+Eliminated 0 points
+Completed iteration 41
+
+Eliminated 0 points
+Completed iteration 42
+
+Eliminated 0 points
+Completed iteration 43
+
+Eliminated 0 points
+Completed iteration 44
+
+Eliminated 0 points
+Completed iteration 45
+
+Eliminated 0 points
+Completed iteration 46
+
+Eliminated 0 points
+Completed iteration 47
+
+Eliminated 0 points
+Completed iteration 48
+
+Eliminated 0 points
+Completed iteration 49
+
+Eliminated 0 points
+Completed iteration 50
+
+Eliminated 0 points
+Completed iteration 51
+
+Eliminated 0 points
+Completed iteration 52
+
+Eliminated 0 points
+Completed iteration 53
+
+Eliminated 0 points
+Completed iteration 54
+
+Eliminated 0 points
+Completed iteration 55
+
+Eliminated 0 points
+Completed iteration 56
+
+Eliminated 0 points
+Completed iteration 57
+
+Eliminated 0 points
+Completed iteration 58
+
+Eliminated 0 points
+Completed iteration 59
+
+Eliminated 0 points
+Completed iteration 60
+
+Eliminated 0 points
+Completed iteration 61
+
+Eliminated 0 points
+Completed iteration 62
+
+Eliminated 0 points
+Completed iteration 63
+
+Eliminated 0 points
+Completed iteration 64
+
+Eliminated 0 points
+Completed iteration 65
+
+Eliminated 0 points
+Completed iteration 66
+
+Eliminated 0 points
+Completed iteration 67
+
+Eliminated 0 points
+Completed iteration 68
+
+Eliminated 0 points
+Completed iteration 69
+
+Eliminated 0 points
+Completed iteration 70
+
+Eliminated 0 points
+Completed iteration 71
+
+Eliminated 0 points
+Completed iteration 72
+
+Eliminated 0 points
+Completed iteration 73
+
+Eliminated 0 points
+Completed iteration 74
+
+Eliminated 0 points
+Completed iteration 75
+
+Eliminated 0 points
+Completed iteration 76
+
+Eliminated 0 points
+Completed iteration 77
+
+Eliminated 0 points
+Completed iteration 78
+
+Eliminated 0 points
+Completed iteration 79
+
+Eliminated 0 points
+Completed iteration 80
+
+Eliminated 0 points
+Completed iteration 81
+
+Eliminated 0 points
+Completed iteration 82
+
+Eliminated 0 points
+Completed iteration 83
+
+Eliminated 0 points
+Completed iteration 84
+
+Eliminated 0 points
+Completed iteration 85
+
+Eliminated 0 points
+Completed iteration 86
+
+Eliminated 0 points
+Completed iteration 87
+
+Eliminated 0 points
+Completed iteration 88
+
+Eliminated 0 points
+Completed iteration 89
+
+Eliminated 0 points
+Completed iteration 90
+
+Eliminated 0 points
+Completed iteration 91
+
+Eliminated 0 points
+Completed iteration 92
+
+Eliminated 0 points
+Completed iteration 93
+
+Eliminated 0 points
+Completed iteration 94
+
+Eliminated 0 points
+Completed iteration 95
+
+Eliminated 0 points
+Completed iteration 96
+
+Eliminated 0 points
+Completed iteration 97
+
+Eliminated 0 points
+Completed iteration 98
+
+Eliminated 0 points
+Completed iteration 99
+
+Eliminated 0 points
+Completed iteration 100
+Overall results (hybrid)
+Confidence threshold=0
+Filtered datapoints
+Prediction points: 172.000000 (stddev 0.000000)
+AUC ave err std
+    0.7242
+
+    0.0547
+
+    0.0547
+
+Precision / Recall macro
+    0.7813    0.9582
+
+Precision / Recall micro
+    0.7808    0.9581
+
+
+Eliminated 7 points
+Completed iteration 1
+
+Eliminated 0 points
+Completed iteration 2
+
+Eliminated 6 points
+Completed iteration 3
+
+Eliminated 21 points
+Completed iteration 4
+
+Eliminated 9 points
+Completed iteration 5
+
+Eliminated 12 points
+Completed iteration 6
+
+Eliminated 18 points
+Completed iteration 7
+
+Eliminated 9 points
+Completed iteration 8
+
+Eliminated 3 points
+Completed iteration 9
+
+Eliminated 19 points
+Completed iteration 10
+
+Eliminated 2 points
+Completed iteration 11
+
+Eliminated 8 points
+Completed iteration 12
+
+Eliminated 9 points
+Completed iteration 13
+
+Eliminated 11 points
+Completed iteration 14
+
+Eliminated 4 points
+Completed iteration 15
+
+Eliminated 6 points
+Completed iteration 16
+
+Eliminated 9 points
+Completed iteration 17
+
+Eliminated 1 points
+Completed iteration 18
+
+Eliminated 1 points
+Completed iteration 19
+
+Eliminated 2 points
+Completed iteration 20
+
+Eliminated 11 points
+Completed iteration 21
+
+Eliminated 6 points
+Completed iteration 22
+
+Eliminated 13 points
+Completed iteration 23
+
+Eliminated 2 points
+Completed iteration 24
+
+Eliminated 3 points
+Completed iteration 25
+
+Eliminated 8 points
+Completed iteration 26
+
+Eliminated 8 points
+Completed iteration 27
+
+Eliminated 17 points
+Completed iteration 28
+
+Eliminated 12 points
+Completed iteration 29
+
+Eliminated 8 points
+Completed iteration 30
+
+Eliminated 14 points
+Completed iteration 31
+
+Eliminated 8 points
+Completed iteration 32
+
+Eliminated 24 points
+Completed iteration 33
+
+Eliminated 2 points
+Completed iteration 34
+
+Eliminated 20 points
+Completed iteration 35
+
+Eliminated 9 points
+Completed iteration 36
+
+Eliminated 0 points
+Completed iteration 37
+
+Eliminated 1 points
+Completed iteration 38
+
+Eliminated 13 points
+Completed iteration 39
+
+Eliminated 18 points
+Completed iteration 40
+
+Eliminated 13 points
+Completed iteration 41
+
+Eliminated 2 points
+Completed iteration 42
+
+Eliminated 9 points
+Completed iteration 43
+
+Eliminated 0 points
+Completed iteration 44
+
+Eliminated 12 points
+Completed iteration 45
+
+Eliminated 10 points
+Completed iteration 46
+
+Eliminated 6 points
+Completed iteration 47
+
+Eliminated 13 points
+Completed iteration 48
+
+Eliminated 19 points
+Completed iteration 49
+
+Eliminated 10 points
+Completed iteration 50
+
+Eliminated 20 points
+Completed iteration 51
+
+Eliminated 3 points
+Completed iteration 52
+
+Eliminated 10 points
+Completed iteration 53
+
+Eliminated 17 points
+Completed iteration 54
+
+Eliminated 20 points
+Completed iteration 55
+
+Eliminated 10 points
+Completed iteration 56
+
+Eliminated 4 points
+Completed iteration 57
+
+Eliminated 30 points
+Completed iteration 58
+
+Eliminated 4 points
+Completed iteration 59
+
+Eliminated 2 points
+Completed iteration 60
+
+Eliminated 17 points
+Completed iteration 61
+
+Eliminated 5 points
+Completed iteration 62
+
+Eliminated 21 points
+Completed iteration 63
+
+Eliminated 7 points
+Completed iteration 64
+
+Eliminated 25 points
+Completed iteration 65
+
+Eliminated 8 points
+Completed iteration 66
+
+Eliminated 2 points
+Completed iteration 67
+
+Eliminated 14 points
+Completed iteration 68
+
+Eliminated 5 points
+Completed iteration 69
+
+Eliminated 11 points
+Completed iteration 70
+
+Eliminated 15 points
+Completed iteration 71
+
+Eliminated 6 points
+Completed iteration 72
+
+Eliminated 3 points
+Completed iteration 73
+
+Eliminated 10 points
+Completed iteration 74
+
+Eliminated 3 points
+Completed iteration 75
+
+Eliminated 6 points
+Completed iteration 76
+
+Eliminated 18 points
+Completed iteration 77
+
+Eliminated 0 points
+Completed iteration 78
+
+Eliminated 4 points
+Completed iteration 79
+
+Eliminated 4 points
+Completed iteration 80
+
+Eliminated 7 points
+Completed iteration 81
+
+Eliminated 5 points
+Completed iteration 82
+
+Eliminated 2 points
+Completed iteration 83
+
+Eliminated 15 points
+Completed iteration 84
+
+Eliminated 11 points
+Completed iteration 85
+
+Eliminated 10 points
+Completed iteration 86
+
+Eliminated 10 points
+Completed iteration 87
+
+Eliminated 12 points
+Completed iteration 88
+
+Eliminated 19 points
+Completed iteration 89
+
+Eliminated 0 points
+Completed iteration 90
+
+Eliminated 1 points
+Completed iteration 91
+
+Eliminated 2 points
+Completed iteration 92
+
+Eliminated 16 points
+Completed iteration 93
+
+Eliminated 6 points
+Completed iteration 94
+
+Eliminated 7 points
+Completed iteration 95
+
+Eliminated 15 points
+Completed iteration 96
+
+Eliminated 21 points
+Completed iteration 97
+
+Eliminated 11 points
+Completed iteration 98
+
+Eliminated 19 points
+Completed iteration 99
+
+Eliminated 0 points
+Completed iteration 100
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+Prediction points: 162.590000 (stddev 6.734646)
+AUC ave err std
+    0.7389
+
+    0.0531
+
+    0.0531
+
+Precision / Recall macro
+    0.7903    0.9584
+
+Precision / Recall micro
+    0.7896    0.9582
+
+
+Eliminated 22 points
+Completed iteration 1
+
+Eliminated 41 points
+Completed iteration 2
+
+Eliminated 7 points
+Completed iteration 3
+
+Eliminated 8 points
+Completed iteration 4
+
+Eliminated 13 points
+Completed iteration 5
+
+Eliminated 7 points
+Completed iteration 6
+
+Eliminated 18 points
+Completed iteration 7
+
+Eliminated 9 points
+Completed iteration 8
+
+Eliminated 36 points
+Completed iteration 9
+
+Eliminated 16 points
+Completed iteration 10
+
+Eliminated 5 points
+Completed iteration 11
+
+Eliminated 28 points
+Completed iteration 12
+
+Eliminated 23 points
+Completed iteration 13
+
+Eliminated 18 points
+Completed iteration 14
+
+Eliminated 42 points
+Completed iteration 15
+
+Eliminated 14 points
+Completed iteration 16
+
+Eliminated 30 points
+Completed iteration 17
+
+Eliminated 30 points
+Completed iteration 18
+
+Eliminated 22 points
+Completed iteration 19
+
+Eliminated 35 points
+Completed iteration 20
+
+Eliminated 25 points
+Completed iteration 21
+
+Eliminated 56 points
+Completed iteration 22
+
+Eliminated 35 points
+Completed iteration 23
+
+Eliminated 44 points
+Completed iteration 24
+
+Eliminated 18 points
+Completed iteration 25
+
+Eliminated 34 points
+Completed iteration 26
+
+Eliminated 12 points
+Completed iteration 27
+
+Eliminated 28 points
+Completed iteration 28
+
+Eliminated 12 points
+Completed iteration 29
+
+Eliminated 12 points
+Completed iteration 30
+
+Eliminated 19 points
+Completed iteration 31
+
+Eliminated 23 points
+Completed iteration 32
+
+Eliminated 35 points
+Completed iteration 33
+
+Eliminated 26 points
+Completed iteration 34
+
+Eliminated 18 points
+Completed iteration 35
+
+Eliminated 22 points
+Completed iteration 36
+
+Eliminated 26 points
+Completed iteration 37
+
+Eliminated 17 points
+Completed iteration 38
+
+Eliminated 38 points
+Completed iteration 39
+
+Eliminated 38 points
+Completed iteration 40
+
+Eliminated 20 points
+Completed iteration 41
+
+Eliminated 37 points
+Completed iteration 42
+
+Eliminated 15 points
+Completed iteration 43
+
+Eliminated 54 points
+Completed iteration 44
+
+Eliminated 17 points
+Completed iteration 45
+
+Eliminated 9 points
+Completed iteration 46
+
+Eliminated 48 points
+Completed iteration 47
+
+Eliminated 20 points
+Completed iteration 48
+
+Eliminated 22 points
+Completed iteration 49
+
+Eliminated 18 points
+Completed iteration 50
+
+Eliminated 39 points
+Completed iteration 51
+
+Eliminated 16 points
+Completed iteration 52
+
+Eliminated 7 points
+Completed iteration 53
+
+Eliminated 27 points
+Completed iteration 54
+
+Eliminated 26 points
+Completed iteration 55
+
+Eliminated 41 points
+Completed iteration 56
+
+Eliminated 20 points
+Completed iteration 57
+
+Eliminated 12 points
+Completed iteration 58
+
+Eliminated 12 points
+Completed iteration 59
+
+Eliminated 24 points
+Completed iteration 60
+
+Eliminated 10 points
+Completed iteration 61
+
+Eliminated 15 points
+Completed iteration 62
+
+Eliminated 13 points
+Completed iteration 63
+
+Eliminated 9 points
+Completed iteration 64
+
+Eliminated 11 points
+Completed iteration 65
+
+Eliminated 42 points
+Completed iteration 66
+
+Eliminated 26 points
+Completed iteration 67
+
+Eliminated 19 points
+Completed iteration 68
+
+Eliminated 35 points
+Completed iteration 69
+
+Eliminated 38 points
+Completed iteration 70
+
+Eliminated 31 points
+Completed iteration 71
+
+Eliminated 32 points
+Completed iteration 72
+
+Eliminated 19 points
+Completed iteration 73
+
+Eliminated 18 points
+Completed iteration 74
+
+Eliminated 32 points
+Completed iteration 75
+
+Eliminated 17 points
+Completed iteration 76
+
+Eliminated 11 points
+Completed iteration 77
+
+Eliminated 14 points
+Completed iteration 78
+
+Eliminated 11 points
+Completed iteration 79
+
+Eliminated 20 points
+Completed iteration 80
+
+Eliminated 17 points
+Completed iteration 81
+
+Eliminated 25 points
+Completed iteration 82
+
+Eliminated 19 points
+Completed iteration 83
+
+Eliminated 34 points
+Completed iteration 84
+
+Eliminated 12 points
+Completed iteration 85
+
+Eliminated 10 points
+Completed iteration 86
+
+Eliminated 39 points
+Completed iteration 87
+
+Eliminated 21 points
+Completed iteration 88
+
+Eliminated 35 points
+Completed iteration 89
+
+Eliminated 27 points
+Completed iteration 90
+
+Eliminated 26 points
+Completed iteration 91
+
+Eliminated 37 points
+Completed iteration 92
+
+Eliminated 14 points
+Completed iteration 93
+
+Eliminated 27 points
+Completed iteration 94
+
+Eliminated 24 points
+Completed iteration 95
+
+Eliminated 22 points
+Completed iteration 96
+
+Eliminated 20 points
+Completed iteration 97
+
+Eliminated 7 points
+Completed iteration 98
+
+Eliminated 10 points
+Completed iteration 99
+
+Eliminated 18 points
+Completed iteration 100
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+Prediction points: 148.870000 (stddev 11.283003)
+AUC ave err std
+    0.7372
+
+    0.0523
+
+    0.0523
+
+Precision / Recall macro
+    0.7934    0.9641
+
+Precision / Recall micro
+    0.7918    0.9641
+
+
+Eliminated 64 points
+Completed iteration 1
+
+Eliminated 67 points
+Completed iteration 2
+
+Eliminated 48 points
+Completed iteration 3
+
+Eliminated 101 points
+Completed iteration 4
+
+Eliminated 23 points
+Completed iteration 5
+
+Eliminated 31 points
+Completed iteration 6
+
+Eliminated 50 points
+Completed iteration 7
+
+Eliminated 19 points
+Completed iteration 8
+
+Eliminated 38 points
+Completed iteration 9
+
+Eliminated 33 points
+Completed iteration 10
+
+Eliminated 21 points
+Completed iteration 11
+
+Eliminated 37 points
+Completed iteration 12
+
+Eliminated 38 points
+Completed iteration 13
+
+Eliminated 41 points
+Completed iteration 14
+
+Eliminated 31 points
+Completed iteration 15
+
+Eliminated 91 points
+Completed iteration 16
+
+Eliminated 16 points
+Completed iteration 17
+
+Eliminated 34 points
+Completed iteration 18
+
+Eliminated 107 points
+Completed iteration 19
+
+Eliminated 51 points
+Completed iteration 20
+
+Eliminated 42 points
+Completed iteration 21
+
+Eliminated 37 points
+Completed iteration 22
+
+Eliminated 37 points
+Completed iteration 23
+
+Eliminated 31 points
+Completed iteration 24
+
+Eliminated 25 points
+Completed iteration 25
+
+Eliminated 51 points
+Completed iteration 26
+
+Eliminated 72 points
+Completed iteration 27
+
+Eliminated 43 points
+Completed iteration 28
+
+Eliminated 31 points
+Completed iteration 29
+
+Eliminated 35 points
+Completed iteration 30
+
+Eliminated 46 points
+Completed iteration 31
+
+Eliminated 25 points
+Completed iteration 32
+
+Eliminated 90 points
+Completed iteration 33
+
+Eliminated 39 points
+Completed iteration 34
+
+Eliminated 67 points
+Completed iteration 35
+
+Eliminated 43 points
+Completed iteration 36
+
+Eliminated 37 points
+Completed iteration 37
+
+Eliminated 21 points
+Completed iteration 38
+
+Eliminated 5 points
+Completed iteration 39
+
+Eliminated 76 points
+Completed iteration 40
+
+Eliminated 49 points
+Completed iteration 41
+
+Eliminated 22 points
+Completed iteration 42
+
+Eliminated 43 points
+Completed iteration 43
+
+Eliminated 41 points
+Completed iteration 44
+
+Eliminated 30 points
+Completed iteration 45
+
+Eliminated 82 points
+Completed iteration 46
+
+Eliminated 92 points
+Completed iteration 47
+
+Eliminated 37 points
+Completed iteration 48
+
+Eliminated 35 points
+Completed iteration 49
+
+Eliminated 23 points
+Completed iteration 50
+
+Eliminated 28 points
+Completed iteration 51
+
+Eliminated 24 points
+Completed iteration 52
+
+Eliminated 45 points
+Completed iteration 53
+
+Eliminated 26 points
+Completed iteration 54
+
+Eliminated 61 points
+Completed iteration 55
+
+Eliminated 27 points
+Completed iteration 56
+
+Eliminated 53 points
+Completed iteration 57
+
+Eliminated 44 points
+Completed iteration 58
+
+Eliminated 15 points
+Completed iteration 59
+
+Eliminated 46 points
+Completed iteration 60
+
+Eliminated 44 points
+Completed iteration 61
+
+Eliminated 35 points
+Completed iteration 62
+
+Eliminated 8 points
+Completed iteration 63
+
+Eliminated 26 points
+Completed iteration 64
+
+Eliminated 26 points
+Completed iteration 65
+
+Eliminated 50 points
+Completed iteration 66
+
+Eliminated 17 points
+Completed iteration 67
+
+Eliminated 33 points
+Completed iteration 68
+
+Eliminated 30 points
+Completed iteration 69
+
+Eliminated 43 points
+Completed iteration 70
+
+Eliminated 27 points
+Completed iteration 71
+
+Eliminated 33 points
+Completed iteration 72
+
+Eliminated 10 points
+Completed iteration 73
+
+Eliminated 42 points
+Completed iteration 74
+
+Eliminated 92 points
+Completed iteration 75
+
+Eliminated 39 points
+Completed iteration 76
+
+Eliminated 80 points
+Completed iteration 77
+
+Eliminated 30 points
+Completed iteration 78
+
+Eliminated 38 points
+Completed iteration 79
+
+Eliminated 36 points
+Completed iteration 80
+
+Eliminated 79 points
+Completed iteration 81
+
+Eliminated 16 points
+Completed iteration 82
+
+Eliminated 41 points
+Completed iteration 83
+
+Eliminated 35 points
+Completed iteration 84
+
+Eliminated 34 points
+Completed iteration 85
+
+Eliminated 27 points
+Completed iteration 86
+
+Eliminated 29 points
+Completed iteration 87
+
+Eliminated 34 points
+Completed iteration 88
+
+Eliminated 81 points
+Completed iteration 89
+
+Eliminated 47 points
+Completed iteration 90
+
+Eliminated 26 points
+Completed iteration 91
+
+Eliminated 38 points
+Completed iteration 92
+
+Eliminated 35 points
+Completed iteration 93
+
+Eliminated 25 points
+Completed iteration 94
+
+Eliminated 25 points
+Completed iteration 95
+
+Eliminated 25 points
+Completed iteration 96
+
+Eliminated 36 points
+Completed iteration 97
+
+Eliminated 56 points
+Completed iteration 98
+
+Eliminated 89 points
+Completed iteration 99
+
+Eliminated 109 points
+Completed iteration 100
+index 44: -0.136970, 0.052680
+index 84: -0.485327, 0.482469
+index 93: 0.136320, 0.718982
+index 98: 0.010207, 0.616454
+index 123: -1.286012, -1.103101
+index 126: -1.386119, -1.134917
+index 129: -1.276321, -1.098237
+index 131: -0.949541, -1.164423
+index 135: -1.250809, -1.063940
+index 136: -1.042996, -1.075127
+index 140: -1.128468, -1.120816
+index 141: -1.193948, -1.144144
+index 142: -1.146417, -1.099074
+index 143: -1.103512, -1.181596
+index 144: -1.126458, -1.201077
+index 145: -0.944932, -1.056272
+index 146: -0.541017, -0.789709
+index 148: -0.751847, -1.083688
+index 154: -1.129444, -1.148398
+index 155: -0.947082, -1.132953
+index 156: -0.965784, -1.109754
+index 158: -1.326341, -1.142790
+index 161: -1.023142, -1.100964
+index 165: -1.125796, -1.083487
+index 166: -1.130412, -1.030786
+index 169: -1.351438, -0.958782
+index 171: -0.415313, -0.734486
+index 174: -1.233745, -1.007385
+index 183: -0.007381, -0.340177
+index 187: 0.419478, -0.081951
+index 203: 0.412045, -0.073475
+index 221: -0.159020, -0.387640
+index 234: -6.829649, 5.932283
+index 247: -5.993256, 8.320657
+index 253: -5.598406, 7.901531
+index 283: -5.937676, 8.154026
+index 284: -0.546917, 0.775019
+index 288: -6.829649, 5.932283
+index 308: -0.876082, -0.610554
+index 349: 0.015452, -0.804719
+index 359: 0.154335, -1.045792
+index 362: 0.099808, -0.915471
+index 363: 0.093325, -0.966153
+index 364: 0.167403, -0.866064
+index 367: 0.147970, -0.939631
+index 372: 0.144624, -0.928034
+index 373: -0.117469, -0.900169
+index 380: 0.015444, -0.987143
+index 381: -0.007965, -0.977824
+index 382: 0.048045, -0.978256
+index 384: 0.192055, -0.819327
+index 389: 0.276863, -0.813190
+index 392: 0.090475, -0.905511
+index 404: 0.560708, -0.347423
+index 422: -0.002932, -0.763330
+index 441: -0.006808, -0.728974
+index 462: -1.230404, -1.003526
+index 492: -0.981164, -0.752083
+index 503: -1.566423, -1.393328
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+Prediction points: 129.570000 (stddev 22.348143)
+AUC ave err std
+    0.7394
+
+    0.0619
+
+    0.0619
+
+Precision / Recall macro
+    0.8020    0.9599
+
+Precision / Recall micro
+    0.7997    0.9580
+
+
+Eliminated 100 points
+Completed iteration 1
+
+Eliminated 107 points
+Completed iteration 2
+
+Eliminated 94 points
+Completed iteration 3
+
+Eliminated 92 points
+Completed iteration 4
+
+Eliminated 46 points
+Completed iteration 5
+
+Eliminated 52 points
+Completed iteration 6
+
+Eliminated 90 points
+Completed iteration 7
+
+Eliminated 52 points
+Completed iteration 8
+
+Eliminated 25 points
+Completed iteration 9
+
+Eliminated 95 points
+Completed iteration 10
+
+Eliminated 98 points
+Completed iteration 11
+
+Eliminated 51 points
+Completed iteration 12
+
+Eliminated 130 points
+Completed iteration 13
+
+Eliminated 25 points
+Completed iteration 14
+
+Eliminated 99 points
+Completed iteration 15
+
+Eliminated 79 points
+Completed iteration 16
+
+Eliminated 114 points
+Completed iteration 17
+
+Eliminated 64 points
+Completed iteration 18
+
+Eliminated 89 points
+Completed iteration 19
+
+Eliminated 81 points
+Completed iteration 20
+
+Eliminated 114 points
+Completed iteration 21
+
+Eliminated 90 points
+Completed iteration 22
+
+Eliminated 41 points
+Completed iteration 23
+
+Eliminated 70 points
+Completed iteration 24
+
+Eliminated 105 points
+Completed iteration 25
+
+Eliminated 71 points
+Completed iteration 26
+
+Eliminated 101 points
+Completed iteration 27
+
+Eliminated 81 points
+Completed iteration 28
+
+Eliminated 84 points
+Completed iteration 29
+
+Eliminated 115 points
+Completed iteration 30
+
+Eliminated 49 points
+Completed iteration 31
+
+Eliminated 90 points
+Completed iteration 32
+
+Eliminated 106 points
+Completed iteration 33
+
+Eliminated 63 points
+Completed iteration 34
+
+Eliminated 90 points
+Completed iteration 35
+
+Eliminated 63 points
+Completed iteration 36
+
+Eliminated 58 points
+Completed iteration 37
+
+Eliminated 91 points
+Completed iteration 38
+
+Eliminated 83 points
+Completed iteration 39
+
+Eliminated 72 points
+Completed iteration 40
+
+Eliminated 99 points
+Completed iteration 41
+
+Eliminated 39 points
+Completed iteration 42
+
+Eliminated 115 points
+Completed iteration 43
+
+Eliminated 124 points
+Completed iteration 44
+
+Eliminated 87 points
+Completed iteration 45
+
+Eliminated 54 points
+Completed iteration 46
+
+Eliminated 92 points
+Completed iteration 47
+
+Eliminated 121 points
+Completed iteration 48
+
+Eliminated 43 points
+Completed iteration 49
+
+Eliminated 113 points
+Completed iteration 50
+
+Eliminated 89 points
+Completed iteration 51
+
+Eliminated 102 points
+Completed iteration 52
+
+Eliminated 50 points
+Completed iteration 53
+
+Eliminated 116 points
+Completed iteration 54
+
+Eliminated 74 points
+Completed iteration 55
+
+Eliminated 68 points
+Completed iteration 56
+
+Eliminated 86 points
+Completed iteration 57
+
+Eliminated 72 points
+Completed iteration 58
+
+Eliminated 44 points
+Completed iteration 59
+
+Eliminated 84 points
+Completed iteration 60
+
+Eliminated 96 points
+Completed iteration 61
+
+Eliminated 65 points
+Completed iteration 62
+
+Eliminated 41 points
+Completed iteration 63
+
+Eliminated 87 points
+Completed iteration 64
+
+Eliminated 65 points
+Completed iteration 65
+
+Eliminated 54 points
+Completed iteration 66
+
+Eliminated 94 points
+Completed iteration 67
+
+Eliminated 80 points
+Completed iteration 68
+
+Eliminated 108 points
+Completed iteration 69
+
+Eliminated 45 points
+Completed iteration 70
+
+Eliminated 44 points
+Completed iteration 71
+
+Eliminated 108 points
+Completed iteration 72
+
+Eliminated 113 points
+Completed iteration 73
+
+Eliminated 65 points
+Completed iteration 74
+
+Eliminated 92 points
+Completed iteration 75
+
+Eliminated 21 points
+Completed iteration 76
+
+Eliminated 106 points
+Completed iteration 77
+
+Eliminated 99 points
+Completed iteration 78
+
+Eliminated 127 points
+Completed iteration 79
+
+Eliminated 101 points
+Completed iteration 80
+
+Eliminated 65 points
+Completed iteration 81
+
+Eliminated 58 points
+Completed iteration 82
+
+Eliminated 33 points
+Completed iteration 83
+
+Eliminated 81 points
+Completed iteration 84
+
+Eliminated 94 points
+Completed iteration 85
+
+Eliminated 105 points
+Completed iteration 86
+
+Eliminated 92 points
+Completed iteration 87
+
+Eliminated 100 points
+Completed iteration 88
+
+Eliminated 58 points
+Completed iteration 89
+
+Eliminated 60 points
+Completed iteration 90
+
+Eliminated 23 points
+Completed iteration 91
+
+Eliminated 70 points
+Completed iteration 92
+
+Eliminated 108 points
+Completed iteration 93
+
+Eliminated 54 points
+Completed iteration 94
+
+Eliminated 88 points
+Completed iteration 95
+
+Eliminated 126 points
+Completed iteration 96
+
+Eliminated 52 points
+Completed iteration 97
+
+Eliminated 81 points
+Completed iteration 98
+
+Eliminated 113 points
+Completed iteration 99
+
+Eliminated 53 points
+Completed iteration 100
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+Prediction points: 91.830000 (stddev 26.520834)
+AUC ave err std
+    0.7456
+
+    0.0786
+
+    0.0786
+
+Precision / Recall macro
+    0.8217    0.9671
+
+Precision / Recall micro
+    0.8179    0.9652
+
+
+Eliminated 115 points
+Completed iteration 1
+
+Eliminated 145 points
+Completed iteration 2
+
+Eliminated 113 points
+Completed iteration 3
+
+Eliminated 122 points
+Completed iteration 4
+
+Eliminated 82 points
+Completed iteration 5
+
+Eliminated 143 points
+Completed iteration 6
+
+Eliminated 129 points
+Completed iteration 7
+
+Eliminated 114 points
+Completed iteration 8
+
+Eliminated 160 points
+Completed iteration 9
+
+Eliminated 122 points
+Completed iteration 10
+
+Eliminated 127 points
+Completed iteration 11
+
+Eliminated 124 points
+Completed iteration 12
+
+Eliminated 107 points
+Completed iteration 13
+
+Eliminated 172 points
+Not enough valid test points; skipping iteration.
+
+Eliminated 110 points
+Completed iteration 14
+
+Eliminated 144 points
+Completed iteration 15
+
+Eliminated 141 points
+Completed iteration 16
+
+Eliminated 143 points
+Completed iteration 17
+
+Eliminated 130 points
+Completed iteration 18
+
+Eliminated 137 points
+Completed iteration 19
+
+Eliminated 128 points
+Completed iteration 20
+
+Eliminated 127 points
+Completed iteration 21
+
+Eliminated 134 points
+Completed iteration 22
+
+Eliminated 130 points
+Completed iteration 23
+
+Eliminated 124 points
+Completed iteration 24
+
+Eliminated 120 points
+Completed iteration 25
+
+Eliminated 104 points
+Completed iteration 26
+
+Eliminated 132 points
+Completed iteration 27
+
+Eliminated 161 points
+Completed iteration 28
+
+Eliminated 123 points
+Completed iteration 29
+
+Eliminated 139 points
+Completed iteration 30
+
+Eliminated 106 points
+Completed iteration 31
+
+Eliminated 150 points
+Completed iteration 32
+
+Eliminated 121 points
+Completed iteration 33
+
+Eliminated 149 points
+Completed iteration 34
+
+Eliminated 146 points
+Completed iteration 35
+
+Eliminated 136 points
+Completed iteration 36
+
+Eliminated 172 points
+Not enough valid test points; skipping iteration.
+
+Eliminated 157 points
+Completed iteration 37
+
+Eliminated 126 points
+Completed iteration 38
+
+Eliminated 131 points
+Completed iteration 39
+
+Eliminated 138 points
+Completed iteration 40
+
+Eliminated 129 points
+Completed iteration 41
+
+Eliminated 136 points
+Completed iteration 42
+
+Eliminated 126 points
+Completed iteration 43
+
+Eliminated 124 points
+Completed iteration 44
+
+Eliminated 124 points
+Completed iteration 45
+
+Eliminated 131 points
+Completed iteration 46
+
+Eliminated 131 points
+Completed iteration 47
+
+Eliminated 148 points
+Completed iteration 48
+
+Eliminated 105 points
+Completed iteration 49
+
+Eliminated 144 points
+Completed iteration 50
+
+Eliminated 113 points
+Completed iteration 51
+
+Eliminated 154 points
+Completed iteration 52
+
+Eliminated 172 points
+Not enough valid test points; skipping iteration.
+
+Eliminated 151 points
+Completed iteration 53
+
+Eliminated 132 points
+Completed iteration 54
+
+Eliminated 126 points
+Completed iteration 55
+
+Eliminated 146 points
+Completed iteration 56
+
+Eliminated 156 points
+Completed iteration 57
+
+Eliminated 128 points
+Completed iteration 58
+
+Eliminated 122 points
+Completed iteration 59
+
+Eliminated 113 points
+Completed iteration 60
+
+Eliminated 132 points
+Completed iteration 61
+
+Eliminated 132 points
+Completed iteration 62
+
+Eliminated 112 points
+Completed iteration 63
+
+Eliminated 141 points
+Completed iteration 64
+
+Eliminated 139 points
+Completed iteration 65
+
+Eliminated 111 points
+Completed iteration 66
+
+Eliminated 137 points
+Completed iteration 67
+
+Eliminated 152 points
+Completed iteration 68
+
+Eliminated 133 points
+Completed iteration 69
+
+Eliminated 118 points
+Completed iteration 70
+
+Eliminated 107 points
+Completed iteration 71
+
+Eliminated 141 points
+Completed iteration 72
+
+Eliminated 105 points
+Completed iteration 73
+
+Eliminated 156 points
+Completed iteration 74
+
+Eliminated 120 points
+Completed iteration 75
+
+Eliminated 125 points
+Completed iteration 76
+
+Eliminated 125 points
+Completed iteration 77
+
+Eliminated 114 points
+Completed iteration 78
+
+Eliminated 111 points
+Completed iteration 79
+
+Eliminated 145 points
+Completed iteration 80
+
+Eliminated 132 points
+Completed iteration 81
+
+Eliminated 146 points
+Completed iteration 82
+
+Eliminated 141 points
+Completed iteration 83
+
+Eliminated 149 points
+Completed iteration 84
+
+Eliminated 136 points
+Completed iteration 85
+
+Eliminated 135 points
+Completed iteration 86
+
+Eliminated 142 points
+Completed iteration 87
+
+Eliminated 145 points
+Completed iteration 88
+
+Eliminated 122 points
+Completed iteration 89
+
+Eliminated 134 points
+Completed iteration 90
+
+Eliminated 121 points
+Completed iteration 91
+
+Eliminated 163 points
+Not enough valid test points; skipping iteration.
+
+Eliminated 127 points
+Completed iteration 92
+
+Eliminated 129 points
+Completed iteration 93
+
+Eliminated 136 points
+Completed iteration 94
+
+Eliminated 131 points
+Completed iteration 95
+
+Eliminated 120 points
+Completed iteration 96
+
+Eliminated 114 points
+Completed iteration 97
+
+Eliminated 77 points
+Completed iteration 98
+
+Eliminated 132 points
+Completed iteration 99
+
+Eliminated 117 points
+Completed iteration 100
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+Prediction points: 42.290000 (stddev 15.433988)
+AUC ave err std
+    0.7768
+
+    0.1308
+
+    0.1308
+
+Precision / Recall macro
+    0.8413    0.9781
+
+Precision / Recall micro
+    0.8356    0.9790
+
+computation time (s)
+  639.3770
+

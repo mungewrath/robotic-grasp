@@ -1,0 +1,1 @@
+../../export_GraspIt_kd_LR_results.py

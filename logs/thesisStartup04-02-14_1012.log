@@ -1,0 +1,316 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+
+Completed iteration:1
+Prediction points:244
+  TP     FP     TN     FN
+   178    51     7     8
+
+Precision / Recall
+    0.7773    0.9570
+
+
+Completed iteration:2
+Prediction points:244
+  TP     FP     TN     FN
+   169    61    11     3
+
+Precision / Recall
+    0.7348    0.9826
+
+
+Completed iteration:3
+Prediction points:244
+  TP     FP     TN     FN
+   168    57    13     6
+
+Precision / Recall
+    0.7467    0.9655
+
+
+Completed iteration:4
+Prediction points:244
+  TP     FP     TN     FN
+   159    64    10    11
+
+Precision / Recall
+    0.7130    0.9353
+
+
+Completed iteration:5
+Prediction points:244
+  TP     FP     TN     FN
+   157    72     9     6
+
+Precision / Recall
+    0.6856    0.9632
+
+
+Completed iteration:6
+Prediction points:244
+  TP     FP     TN     FN
+   155    56    16    17
+
+Precision / Recall
+    0.7346    0.9012
+
+
+Completed iteration:7
+Prediction points:244
+  TP     FP     TN     FN
+   168    50    18     8
+
+Precision / Recall
+    0.7706    0.9545
+
+
+Completed iteration:8
+Prediction points:244
+  TP     FP     TN     FN
+   164    52    17    11
+
+Precision / Recall
+    0.7593    0.9371
+
+
+Completed iteration:9
+Prediction points:244
+  TP     FP     TN     FN
+   157    72    13     2
+
+Precision / Recall
+    0.6856    0.9874
+
+
+Completed iteration:10
+Prediction points:244
+  TP     FP     TN     FN
+   161    64    12     7
+
+Precision / Recall
+    0.7156    0.9583
+
+
+Completed iteration:11
+Prediction points:244
+  TP     FP     TN     FN
+   163    64    12     5
+
+Precision / Recall
+    0.7181    0.9702
+
+
+Completed iteration:12
+Prediction points:244
+  TP     FP     TN     FN
+   135    49    22    38
+
+Precision / Recall
+    0.7337    0.7803
+
+
+Completed iteration:13
+Prediction points:244
+  TP     FP     TN     FN
+   157    65    14     8
+
+Precision / Recall
+    0.7072    0.9515
+
+
+Completed iteration:14
+Prediction points:244
+  TP     FP     TN     FN
+   165    58    13     8
+
+Precision / Recall
+    0.7399    0.9538
+
+
+Completed iteration:15
+Prediction points:244
+  TP     FP     TN     FN
+   174    56    12     2
+
+Precision / Recall
+    0.7565    0.9886
+
+
+Completed iteration:16
+Prediction points:244
+  TP     FP     TN     FN
+   150    58    12    24
+
+Precision / Recall
+    0.7212    0.8621
+
+
+Completed iteration:17
+Prediction points:244
+  TP     FP     TN     FN
+   161    66    12     5
+
+Precision / Recall
+    0.7093    0.9699
+
+
+Completed iteration:18
+Prediction points:244
+  TP     FP     TN     FN
+   140    49    21    34
+
+Precision / Recall
+    0.7407    0.8046
+
+
+Completed iteration:19
+Prediction points:244
+  TP     FP     TN     FN
+   170    62     8     4
+
+Precision / Recall
+    0.7328    0.9770
+
+
+Completed iteration:20
+Prediction points:244
+  TP     FP     TN     FN
+   170    57    11     6
+
+Precision / Recall
+    0.7489    0.9659
+
+
+Completed iteration:21
+Prediction points:244
+  TP     FP     TN     FN
+   159    64    16     5
+
+Precision / Recall
+    0.7130    0.9695
+
+
+Completed iteration:22
+Prediction points:244
+  TP     FP     TN     FN
+   161    63    14     6
+
+Precision / Recall
+    0.7188    0.9641
+
+
+Completed iteration:23
+Prediction points:244
+  TP     FP     TN     FN
+   160    65    13     6
+
+Precision / Recall
+    0.7111    0.9639
+
+
+Completed iteration:24
+Prediction points:244
+  TP     FP     TN     FN
+   152    50    15    27
+
+Precision / Recall
+    0.7525    0.8492
+
+
+Completed iteration:25
+Prediction points:244
+  TP     FP     TN     FN
+   133    60    14    37
+
+Precision / Recall
+    0.6891    0.7824
+
+
+Completed iteration:26
+Prediction points:244
+  TP     FP     TN     FN
+   160    64    14     6
+
+Precision / Recall
+    0.7143    0.9639
+
+
+Completed iteration:27
+Prediction points:244
+  TP     FP     TN     FN
+   168    58    13     5
+
+Precision / Recall
+    0.7434    0.9711
+
+
+Completed iteration:28
+Prediction points:244
+  TP     FP     TN     FN
+   155    64    13    12
+
+Precision / Recall
+    0.7078    0.9281
+
+
+Completed iteration:29
+Prediction points:244
+  TP     FP     TN     FN
+   163    68     8     5
+
+Precision / Recall
+    0.7056    0.9702
+
+
+Completed iteration:30
+Prediction points:244
+  TP     FP     TN     FN
+   172    53    12     7
+
+Precision / Recall
+    0.7644    0.9609
+
+Overall results (hybrid)
+All datapoints used
+AUC ave err std
+    0.5589
+
+    0.0238
+
+    0.0238
+
+Precision / Recall macro
+    0.7284    0.9363
+
+Precision / Recall micro
+    0.7283    0.9359
+
+    TPR       FPR       TNR       FNR       cutoff
+computation time (s)
+   64.4320
+

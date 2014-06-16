@@ -1,0 +1,2907 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+
+
+Completed iteration:1
+Prediction points:148
+  TP     FP     TN     FN
+    84    30    20    14
+
+Precision / Recall
+    0.7368    0.8571
+
+
+
+Completed iteration:2
+Prediction points:148
+  TP     FP     TN     FN
+    78    22    14    34
+
+Precision / Recall
+    0.7800    0.6964
+
+
+
+Completed iteration:3
+Prediction points:148
+  TP     FP     TN     FN
+    86    23    24    15
+
+Precision / Recall
+    0.7890    0.8515
+
+
+
+Completed iteration:4
+Prediction points:148
+  TP     FP     TN     FN
+    92    18    16    22
+
+Precision / Recall
+    0.8364    0.8070
+
+
+
+Completed iteration:5
+Prediction points:148
+  TP     FP     TN     FN
+    89    23    18    18
+
+Precision / Recall
+    0.7946    0.8318
+
+
+
+Completed iteration:6
+Prediction points:148
+  TP     FP     TN     FN
+    74    14    22    38
+
+Precision / Recall
+    0.8409    0.6607
+
+
+
+Completed iteration:7
+Prediction points:148
+  TP     FP     TN     FN
+    87    35    10    16
+
+Precision / Recall
+    0.7131    0.8447
+
+
+
+Completed iteration:8
+Prediction points:148
+  TP     FP     TN     FN
+    94    24    16    14
+
+Precision / Recall
+    0.7966    0.8704
+
+
+
+Completed iteration:9
+Prediction points:148
+  TP     FP     TN     FN
+    75    33    22    18
+
+Precision / Recall
+    0.6944    0.8065
+
+
+
+Completed iteration:10
+Prediction points:148
+  TP     FP     TN     FN
+    92    23    18    15
+
+Precision / Recall
+    0.8000    0.8598
+
+
+
+Completed iteration:11
+Prediction points:148
+  TP     FP     TN     FN
+    54    10    34    50
+
+Precision / Recall
+    0.8438    0.5192
+
+
+
+Completed iteration:12
+Prediction points:148
+  TP     FP     TN     FN
+    85    21    18    24
+
+Precision / Recall
+    0.8019    0.7798
+
+
+
+Completed iteration:13
+Prediction points:148
+  TP     FP     TN     FN
+    29    10    41    68
+
+Precision / Recall
+    0.7436    0.2990
+
+
+
+Completed iteration:14
+Prediction points:148
+  TP     FP     TN     FN
+    80    20    23    25
+
+Precision / Recall
+    0.8000    0.7619
+
+
+
+Completed iteration:15
+Prediction points:148
+  TP     FP     TN     FN
+    80    19    28    21
+
+Precision / Recall
+    0.8081    0.7921
+
+
+
+Completed iteration:16
+Prediction points:148
+  TP     FP     TN     FN
+    49    22    33    44
+
+Precision / Recall
+    0.6901    0.5269
+
+
+
+Completed iteration:17
+Prediction points:148
+  TP     FP     TN     FN
+    67    20    30    31
+
+Precision / Recall
+    0.7701    0.6837
+
+
+
+Completed iteration:18
+Prediction points:148
+  TP     FP     TN     FN
+    86    16    22    24
+
+Precision / Recall
+    0.8431    0.7818
+
+
+
+Completed iteration:19
+Prediction points:148
+  TP     FP     TN     FN
+    87    25    18    18
+
+Precision / Recall
+    0.7768    0.8286
+
+
+
+Completed iteration:20
+Prediction points:148
+  TP     FP     TN     FN
+    71    23    28    26
+
+Precision / Recall
+    0.7553    0.7320
+
+
+
+Completed iteration:21
+Prediction points:148
+  TP     FP     TN     FN
+    83    27    20    18
+
+Precision / Recall
+    0.7545    0.8218
+
+
+
+Completed iteration:22
+Prediction points:148
+  TP     FP     TN     FN
+    83    28    24    13
+
+Precision / Recall
+    0.7477    0.8646
+
+
+
+Completed iteration:23
+Prediction points:148
+  TP     FP     TN     FN
+    77    25    26    20
+
+Precision / Recall
+    0.7549    0.7938
+
+
+
+Completed iteration:24
+Prediction points:148
+  TP     FP     TN     FN
+    87    25    21    15
+
+Precision / Recall
+    0.7768    0.8529
+
+
+
+Completed iteration:25
+Prediction points:148
+  TP     FP     TN     FN
+    80    17    21    30
+
+Precision / Recall
+    0.8247    0.7273
+
+
+
+Completed iteration:26
+Prediction points:148
+  TP     FP     TN     FN
+    70    23    22    33
+
+Precision / Recall
+    0.7527    0.6796
+
+
+
+Completed iteration:27
+Prediction points:148
+  TP     FP     TN     FN
+    67    23    24    34
+
+Precision / Recall
+    0.7444    0.6634
+
+
+
+Completed iteration:28
+Prediction points:148
+  TP     FP     TN     FN
+    73    22    20    33
+
+Precision / Recall
+    0.7684    0.6887
+
+
+
+Completed iteration:29
+Prediction points:148
+  TP     FP     TN     FN
+    74    26    18    30
+
+Precision / Recall
+    0.7400    0.7115
+
+
+
+Completed iteration:30
+Prediction points:148
+  TP     FP     TN     FN
+    85    17    27    19
+
+Precision / Recall
+    0.8333    0.8173
+
+    60
+
+Baseline
+AUC ave err std
+    0.6630
+
+    0.0447
+
+    0.0447
+
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1483    0.2105    0.2800
+    0.0314    0.0325    0.0294
+    0.0314    0.0325    0.0294
+
+Overall results
+Precision / Recall macro
+    0.7771    0.7471
+
+Precision / Recall micro
+    0.7773    0.7482
+
+
+
+Completed iteration:1
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    41   106
+
+Precision / Recall
+    1.0000    0.0093
+
+
+
+Completed iteration:2
+Prediction points:148
+  TP     FP     TN     FN
+    20     3    42    83
+
+Precision / Recall
+    0.8696    0.1942
+
+
+
+Completed iteration:3
+Prediction points:148
+  TP     FP     TN     FN
+    85    12    25    26
+
+Precision / Recall
+    0.8763    0.7658
+
+
+
+Completed iteration:4
+Prediction points:148
+  TP     FP     TN     FN
+     4     2    48    94
+
+Precision / Recall
+    0.6667    0.0408
+
+
+
+Completed iteration:5
+Prediction points:148
+  TP     FP     TN     FN
+    56    11    36    45
+
+Precision / Recall
+    0.8358    0.5545
+
+
+
+Completed iteration:6
+Prediction points:148
+  TP     FP     TN     FN
+    30     4    43    71
+
+Precision / Recall
+    0.8824    0.2970
+
+
+
+Completed iteration:7
+Prediction points:148
+  TP     FP     TN     FN
+    37    12    36    63
+
+Precision / Recall
+    0.7551    0.3700
+
+
+
+Completed iteration:8
+Prediction points:148
+  TP     FP     TN     FN
+    73    17    26    32
+
+Precision / Recall
+    0.8111    0.6952
+
+
+
+Completed iteration:9
+Prediction points:148
+  TP     FP     TN     FN
+    52    20    26    50
+
+Precision / Recall
+    0.7222    0.5098
+
+
+
+Completed iteration:10
+Prediction points:148
+  TP     FP     TN     FN
+    50    10    35    53
+
+Precision / Recall
+    0.8333    0.4854
+
+
+
+Completed iteration:11
+Prediction points:148
+  TP     FP     TN     FN
+    48     9    34    57
+
+Precision / Recall
+    0.8421    0.4571
+
+
+
+Completed iteration:12
+Prediction points:148
+  TP     FP     TN     FN
+    39     6    37    66
+
+Precision / Recall
+    0.8667    0.3714
+
+
+
+Completed iteration:13
+Prediction points:148
+  TP     FP     TN     FN
+    77    16    25    30
+
+Precision / Recall
+    0.8280    0.7196
+
+
+
+Completed iteration:14
+Prediction points:148
+  TP     FP     TN     FN
+    54    14    25    55
+
+Precision / Recall
+    0.7941    0.4954
+
+
+
+Completed iteration:15
+Prediction points:148
+  TP     FP     TN     FN
+    80    15    29    24
+
+Precision / Recall
+    0.8421    0.7692
+
+
+
+Completed iteration:16
+Prediction points:148
+  TP     FP     TN     FN
+    11     2    30   105
+
+Precision / Recall
+    0.8462    0.0948
+
+
+
+Completed iteration:17
+Prediction points:148
+  TP     FP     TN     FN
+    71    18    26    33
+
+Precision / Recall
+    0.7978    0.6827
+
+
+
+Completed iteration:18
+Prediction points:148
+  TP     FP     TN     FN
+    50    12    33    53
+
+Precision / Recall
+    0.8065    0.4854
+
+
+
+Completed iteration:19
+Prediction points:148
+  TP     FP     TN     FN
+    53     9    34    52
+
+Precision / Recall
+    0.8548    0.5048
+
+
+
+Completed iteration:20
+Prediction points:148
+  TP     FP     TN     FN
+    32     4    43    69
+
+Precision / Recall
+    0.8889    0.3168
+
+
+
+Completed iteration:21
+Prediction points:148
+  TP     FP     TN     FN
+    36    11    34    67
+
+Precision / Recall
+    0.7660    0.3495
+
+
+
+Completed iteration:22
+Prediction points:148
+  TP     FP     TN     FN
+    54    16    33    45
+
+Precision / Recall
+    0.7714    0.5455
+
+
+
+Completed iteration:23
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    47   100
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:24
+Prediction points:148
+  TP     FP     TN     FN
+    76    15    25    32
+
+Precision / Recall
+    0.8352    0.7037
+
+
+
+Completed iteration:25
+Prediction points:148
+  TP     FP     TN     FN
+    76    26    26    20
+
+Precision / Recall
+    0.7451    0.7917
+
+
+
+Completed iteration:26
+Prediction points:148
+  TP     FP     TN     FN
+    72    27    24    25
+
+Precision / Recall
+    0.7273    0.7423
+
+
+
+Completed iteration:27
+Prediction points:148
+  TP     FP     TN     FN
+    80    22    24    22
+
+Precision / Recall
+    0.7843    0.7843
+
+
+
+Completed iteration:28
+Prediction points:148
+  TP     FP     TN     FN
+    44    12    34    58
+
+Precision / Recall
+    0.7857    0.4314
+
+
+
+Completed iteration:29
+Prediction points:148
+  TP     FP     TN     FN
+    69    16    32    31
+
+Precision / Recall
+    0.8118    0.6900
+
+
+
+Completed iteration:30
+Prediction points:148
+  TP     FP     TN     FN
+    70    17    26    35
+
+Precision / Recall
+    0.8046    0.6667
+
+    70
+
+Baseline
+AUC ave err std
+    0.6838
+
+    0.0425
+
+    0.0425
+
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1570    0.2547    0.3359
+    0.0196    0.0315    0.0439
+    0.0196    0.0315    0.0439
+
+Overall results
+Precision / Recall macro
+    0.7884    0.4841
+
+Precision / Recall micro
+    0.8069    0.4836
+
+
+
+Completed iteration:1
+Prediction points:148
+  TP     FP     TN     FN
+    66    24    19    39
+
+Precision / Recall
+    0.7333    0.6286
+
+
+
+Completed iteration:2
+Prediction points:148
+  TP     FP     TN     FN
+     2     1    57    88
+
+Precision / Recall
+    0.6667    0.0222
+
+
+
+Completed iteration:3
+Prediction points:148
+  TP     FP     TN     FN
+     1     1    47    99
+
+Precision / Recall
+    0.5000    0.0100
+
+
+
+Completed iteration:4
+Prediction points:148
+  TP     FP     TN     FN
+     3     0    47    98
+
+Precision / Recall
+    1.0000    0.0297
+
+
+
+Completed iteration:5
+Prediction points:148
+  TP     FP     TN     FN
+    24     3    38    83
+
+Precision / Recall
+    0.8889    0.2243
+
+
+
+Completed iteration:6
+Prediction points:148
+  TP     FP     TN     FN
+     5     1    47    95
+
+Precision / Recall
+    0.8333    0.0500
+
+
+
+Completed iteration:7
+Prediction points:148
+  TP     FP     TN     FN
+    52    11    26    59
+
+Precision / Recall
+    0.8254    0.4685
+
+
+
+Completed iteration:8
+Prediction points:148
+  TP     FP     TN     FN
+    40     6    29    73
+
+Precision / Recall
+    0.8696    0.3540
+
+
+
+Completed iteration:9
+Prediction points:148
+  TP     FP     TN     FN
+    41     3    38    66
+
+Precision / Recall
+    0.9318    0.3832
+
+
+
+Completed iteration:10
+Prediction points:148
+  TP     FP     TN     FN
+     9     2    43    94
+
+Precision / Recall
+    0.8182    0.0874
+
+
+
+Completed iteration:11
+Prediction points:148
+  TP     FP     TN     FN
+    17     5    37    89
+
+Precision / Recall
+    0.7727    0.1604
+
+
+
+Completed iteration:12
+Prediction points:148
+  TP     FP     TN     FN
+    12     4    48    84
+
+Precision / Recall
+    0.7500    0.1250
+
+
+
+Completed iteration:13
+Prediction points:148
+  TP     FP     TN     FN
+    27     7    41    73
+
+Precision / Recall
+    0.7941    0.2700
+
+
+
+Completed iteration:14
+Prediction points:148
+  TP     FP     TN     FN
+     3     2    51    92
+
+Precision / Recall
+    0.6000    0.0316
+
+
+
+Completed iteration:15
+Prediction points:148
+  TP     FP     TN     FN
+     2     0    39   107
+
+Precision / Recall
+    1.0000    0.0183
+
+
+
+Completed iteration:16
+Prediction points:148
+  TP     FP     TN     FN
+    77    15    31    25
+
+Precision / Recall
+    0.8370    0.7549
+
+
+
+Completed iteration:17
+Prediction points:148
+  TP     FP     TN     FN
+    63    28    30    27
+
+Precision / Recall
+    0.6923    0.7000
+
+
+
+Completed iteration:18
+Prediction points:148
+  TP     FP     TN     FN
+     9     2    46    91
+
+Precision / Recall
+    0.8182    0.0900
+
+
+
+Completed iteration:19
+Prediction points:148
+  TP     FP     TN     FN
+     3     0    44   101
+
+Precision / Recall
+    1.0000    0.0288
+
+
+
+Completed iteration:20
+Prediction points:148
+  TP     FP     TN     FN
+    10     1    41    96
+
+Precision / Recall
+    0.9091    0.0943
+
+
+
+Completed iteration:21
+Prediction points:148
+  TP     FP     TN     FN
+     2     1    49    96
+
+Precision / Recall
+    0.6667    0.0204
+
+
+
+Completed iteration:22
+Prediction points:148
+  TP     FP     TN     FN
+     2     0    44   102
+
+Precision / Recall
+    1.0000    0.0192
+
+
+
+Completed iteration:23
+Prediction points:148
+  TP     FP     TN     FN
+     4     2    44    98
+
+Precision / Recall
+    0.6667    0.0392
+
+
+
+Completed iteration:24
+Prediction points:148
+  TP     FP     TN     FN
+    51    19    27    51
+
+Precision / Recall
+    0.7286    0.5000
+
+
+
+Completed iteration:25
+Prediction points:148
+  TP     FP     TN     FN
+     1     1    49    97
+
+Precision / Recall
+    0.5000    0.0102
+
+
+
+Completed iteration:26
+Prediction points:148
+  TP     FP     TN     FN
+    40     9    37    62
+
+Precision / Recall
+    0.8163    0.3922
+
+
+
+Completed iteration:27
+Prediction points:148
+  TP     FP     TN     FN
+    11     5    38    94
+
+Precision / Recall
+    0.6875    0.1048
+
+
+
+Completed iteration:28
+Prediction points:148
+  TP     FP     TN     FN
+    28    12    43    65
+
+Precision / Recall
+    0.7000    0.3011
+
+
+
+Completed iteration:29
+Prediction points:148
+  TP     FP     TN     FN
+     2     2    51    93
+
+Precision / Recall
+    0.5000    0.0211
+
+
+
+Completed iteration:30
+Prediction points:148
+  TP     FP     TN     FN
+     9     0    37   102
+
+Precision / Recall
+    1.0000    0.0811
+
+    80
+
+Baseline
+AUC ave err std
+    0.6415
+
+    0.0498
+
+    0.0498
+
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.0744    0.1883    0.2837
+    0.0153    0.0269    0.0337
+    0.0153    0.0269    0.0337
+
+Overall results
+Precision / Recall macro
+    0.7835    0.2007
+
+Precision / Recall micro
+    0.7867    0.2016
+
+
+
+Completed iteration:1
+Prediction points:148
+  TP     FP     TN     FN
+     6     3    46    93
+
+Precision / Recall
+    0.6667    0.0606
+
+
+
+Completed iteration:2
+Prediction points:148
+  TP     FP     TN     FN
+     7     2    49    90
+
+Precision / Recall
+    0.7778    0.0722
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:3
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    47   100
+
+Precision / Recall
+    1.0000    0.0099
+
+
+
+Completed iteration:4
+Prediction points:148
+  TP     FP     TN     FN
+     1     2    45   100
+
+Precision / Recall
+    0.3333    0.0099
+
+
+
+Completed iteration:5
+Prediction points:148
+  TP     FP     TN     FN
+     3     0    53    92
+
+Precision / Recall
+    1.0000    0.0316
+
+
+
+Completed iteration:6
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    48    99
+
+Precision / Recall
+    1.0000    0.0100
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:7
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    49    98
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:8
+Prediction points:148
+  TP     FP     TN     FN
+    11     3    43    91
+
+Precision / Recall
+    0.7857    0.1078
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:9
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    46   101
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:10
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    36   111
+
+Precision / Recall
+    1.0000    0.0089
+
+
+
+Completed iteration:11
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    40   107
+
+Precision / Recall
+    1.0000    0.0093
+
+
+
+Completed iteration:12
+Prediction points:148
+  TP     FP     TN     FN
+     5     2    35   106
+
+Precision / Recall
+    0.7143    0.0450
+
+
+
+Completed iteration:13
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    47   100
+
+Precision / Recall
+    1.0000    0.0099
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:14
+Prediction points:148
+  TP     FP     TN     FN
+     3     0    46    99
+
+Precision / Recall
+    1.0000    0.0294
+
+
+
+Completed iteration:15
+Prediction points:148
+  TP     FP     TN     FN
+    17     7    39    85
+
+Precision / Recall
+    0.7083    0.1667
+
+
+
+Completed iteration:16
+Prediction points:148
+  TP     FP     TN     FN
+    36     9    41    62
+
+Precision / Recall
+    0.8000    0.3673
+
+
+
+Completed iteration:17
+Prediction points:148
+  TP     FP     TN     FN
+     0     2    45   101
+
+Precision / Recall
+     0     0
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:18
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    39   108
+
+Precision / Recall
+    1.0000    0.0092
+
+
+
+Completed iteration:19
+Prediction points:148
+  TP     FP     TN     FN
+     4     2    49    93
+
+Precision / Recall
+    0.6667    0.0412
+
+
+
+Completed iteration:20
+Prediction points:148
+  TP     FP     TN     FN
+     0     4    50    94
+
+Precision / Recall
+     0     0
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:21
+Prediction points:148
+  TP     FP     TN     FN
+     2     1    45   100
+
+Precision / Recall
+    0.6667    0.0196
+
+
+
+Completed iteration:22
+Prediction points:148
+  TP     FP     TN     FN
+    25     8    43    72
+
+Precision / Recall
+    0.7576    0.2577
+
+
+
+Completed iteration:23
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    42   105
+
+Precision / Recall
+    1.0000    0.0094
+
+
+
+Completed iteration:24
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    36   111
+
+Precision / Recall
+    1.0000    0.0089
+
+
+
+Completed iteration:25
+Prediction points:148
+  TP     FP     TN     FN
+     0     2    54    92
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:26
+Prediction points:148
+  TP     FP     TN     FN
+     9     4    44    91
+
+Precision / Recall
+    0.6923    0.0900
+
+
+
+Completed iteration:27
+Prediction points:148
+  TP     FP     TN     FN
+     4     2    38   104
+
+Precision / Recall
+    0.6667    0.0370
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:28
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    51    96
+
+Precision / Recall
+    1.0000    0.0103
+
+
+
+Completed iteration:29
+Prediction points:148
+  TP     FP     TN     FN
+    26     7    39    76
+
+Precision / Recall
+    0.7879    0.2549
+
+
+
+Completed iteration:30
+Prediction points:148
+  TP     FP     TN     FN
+     2     1    39   106
+
+Precision / Recall
+    0.6667    0.0185
+
+    90
+
+Baseline
+AUC ave err std
+    0.5728
+
+    0.0659
+
+    0.0659
+
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.0390    0.1023    0.1647
+    0.0148    0.0261    0.0391
+    0.0148    0.0261    0.0391
+
+Overall results
+Precision / Recall macro
+    0.6897    0.0565
+
+Precision / Recall micro
+    0.7296    0.0557
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:1
+Prediction points:148
+  TP     FP     TN     FN
+   100    45     1     2
+
+Precision / Recall
+    0.6897    0.9804
+
+
+
+Completed iteration:2
+Prediction points:148
+  TP     FP     TN     FN
+    18     8    39    83
+
+Precision / Recall
+    0.6923    0.1782
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:3
+Prediction points:148
+  TP     FP     TN     FN
+    97    48     2     1
+
+Precision / Recall
+    0.6690    0.9898
+
+
+
+Completed iteration:4
+Prediction points:148
+  TP     FP     TN     FN
+     2     0    39   107
+
+Precision / Recall
+    1.0000    0.0183
+
+
+
+Completed iteration:5
+Prediction points:148
+  TP     FP     TN     FN
+     3     1    50    94
+
+Precision / Recall
+    0.7500    0.0309
+
+
+
+Completed iteration:6
+Prediction points:148
+  TP     FP     TN     FN
+     4     3    54    87
+
+Precision / Recall
+    0.5714    0.0440
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:7
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    45   102
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:8
+Prediction points:148
+  TP     FP     TN     FN
+    18     6    28    96
+
+Precision / Recall
+    0.7500    0.1579
+
+
+
+Completed iteration:9
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    47   100
+
+Precision / Recall
+    1.0000    0.0099
+
+
+
+Completed iteration:10
+Prediction points:148
+  TP     FP     TN     FN
+     3     1    38   106
+
+Precision / Recall
+    0.7500    0.0275
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:11
+Prediction points:148
+  TP     FP     TN     FN
+   101    39     2     6
+
+Precision / Recall
+    0.7214    0.9439
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:12
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    38   109
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:13
+Prediction points:148
+  TP     FP     TN     FN
+     5     2    42    99
+
+Precision / Recall
+    0.7143    0.0481
+
+
+
+Completed iteration:14
+Prediction points:148
+  TP     FP     TN     FN
+    35    12    31    70
+
+Precision / Recall
+    0.7447    0.3333
+
+
+
+Completed iteration:15
+Prediction points:148
+  TP     FP     TN     FN
+     6     3    40    99
+
+Precision / Recall
+    0.6667    0.0571
+
+
+
+Completed iteration:16
+Prediction points:148
+  TP     FP     TN     FN
+     3     1    44   100
+
+Precision / Recall
+    0.7500    0.0291
+
+
+
+Completed iteration:17
+Prediction points:148
+  TP     FP     TN     FN
+    16     5    37    90
+
+Precision / Recall
+    0.7619    0.1509
+
+
+
+Completed iteration:18
+Prediction points:148
+  TP     FP     TN     FN
+     2     1    43   102
+
+Precision / Recall
+    0.6667    0.0192
+
+
+
+Completed iteration:19
+Prediction points:148
+  TP     FP     TN     FN
+    11     2    45    90
+
+Precision / Recall
+    0.8462    0.1089
+
+
+
+Completed iteration:20
+Prediction points:148
+  TP     FP     TN     FN
+    16     3    42    87
+
+Precision / Recall
+    0.8421    0.1553
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:21
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    50    97
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:22
+Prediction points:148
+  TP     FP     TN     FN
+    42    12    30    64
+
+Precision / Recall
+    0.7778    0.3962
+
+
+
+Completed iteration:23
+Prediction points:148
+  TP     FP     TN     FN
+     5     2    38   103
+
+Precision / Recall
+    0.7143    0.0463
+
+
+
+Completed iteration:24
+Prediction points:148
+  TP     FP     TN     FN
+     5     0    47    96
+
+Precision / Recall
+    1.0000    0.0495
+
+
+
+Completed iteration:25
+Prediction points:148
+  TP     FP     TN     FN
+    20    10    38    80
+
+Precision / Recall
+    0.6667    0.2000
+
+
+
+Completed iteration:26
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    43   104
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:27
+Prediction points:148
+  TP     FP     TN     FN
+    19     8    41    80
+
+Precision / Recall
+    0.7037    0.1919
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:28
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    48    99
+
+Precision / Recall
+    1.0000    0.0100
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:29
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    43   104
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:30
+Prediction points:148
+  TP     FP     TN     FN
+    10     3    37    98
+
+Precision / Recall
+    0.7692    0.0926
+
+   100
+
+Baseline
+AUC ave err std
+    0.5783
+
+    0.0579
+
+    0.0579
+
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.0465    0.1145    0.1627
+    0.0156    0.0339    0.0441
+    0.0156    0.0339    0.0441
+
+Overall results
+Precision / Recall macro
+    0.6406    0.1757
+
+Precision / Recall micro
+    0.7117    0.1753
+
+
+
+Completed iteration:1
+Prediction points:148
+  TP     FP     TN     FN
+     1     1    47    99
+
+Precision / Recall
+    0.5000    0.0100
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:2
+Prediction points:148
+  TP     FP     TN     FN
+   101    45     1     1
+
+Precision / Recall
+    0.6918    0.9902
+
+
+
+Completed iteration:3
+Prediction points:148
+  TP     FP     TN     FN
+     6     4    35   103
+
+Precision / Recall
+    0.6000    0.0550
+
+
+
+Completed iteration:4
+Prediction points:148
+  TP     FP     TN     FN
+    12     2    39    95
+
+Precision / Recall
+    0.8571    0.1121
+
+
+
+Completed iteration:5
+Prediction points:148
+  TP     FP     TN     FN
+     3     1    41   103
+
+Precision / Recall
+    0.7500    0.0283
+
+
+
+Completed iteration:6
+Prediction points:148
+  TP     FP     TN     FN
+     2     2    44   100
+
+Precision / Recall
+    0.5000    0.0196
+
+
+
+Completed iteration:7
+Prediction points:148
+  TP     FP     TN     FN
+     2     0    43   103
+
+Precision / Recall
+    1.0000    0.0190
+
+
+
+Completed iteration:8
+Prediction points:148
+  TP     FP     TN     FN
+     5     2    52    89
+
+Precision / Recall
+    0.7143    0.0532
+
+
+
+Completed iteration:9
+Prediction points:148
+  TP     FP     TN     FN
+     4     0    35   109
+
+Precision / Recall
+    1.0000    0.0354
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:10
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    41   106
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:11
+Prediction points:148
+  TP     FP     TN     FN
+     3     0    48    97
+
+Precision / Recall
+    1.0000    0.0300
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:12
+Prediction points:148
+  TP     FP     TN     FN
+   101    46     1     0
+
+Precision / Recall
+    0.6871    1.0000
+
+
+
+Completed iteration:13
+Prediction points:148
+  TP     FP     TN     FN
+     4     1    51    92
+
+Precision / Recall
+    0.8000    0.0417
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:14
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    53    94
+
+Precision / Recall
+    1.0000    0.0105
+
+
+
+Completed iteration:15
+Prediction points:148
+  TP     FP     TN     FN
+    21     8    44    75
+
+Precision / Recall
+    0.7241    0.2188
+
+
+
+Completed iteration:16
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    41   106
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:17
+Prediction points:148
+  TP     FP     TN     FN
+     3     2    40   103
+
+Precision / Recall
+    0.6000    0.0283
+
+
+
+Completed iteration:18
+Prediction points:148
+  TP     FP     TN     FN
+     7     3    44    94
+
+Precision / Recall
+    0.7000    0.0693
+
+
+
+Completed iteration:19
+Prediction points:148
+  TP     FP     TN     FN
+     1     1    42   104
+
+Precision / Recall
+    0.5000    0.0095
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:20
+Prediction points:148
+  TP     FP     TN     FN
+    94    53     1     0
+
+Precision / Recall
+    0.6395    1.0000
+
+
+
+Completed iteration:21
+Prediction points:148
+  TP     FP     TN     FN
+     2     1    49    96
+
+Precision / Recall
+    0.6667    0.0204
+
+
+
+Completed iteration:22
+Prediction points:148
+  TP     FP     TN     FN
+     2     0    53    93
+
+Precision / Recall
+    1.0000    0.0211
+
+
+
+Completed iteration:23
+Prediction points:148
+  TP     FP     TN     FN
+     1     0    42   105
+
+Precision / Recall
+    1.0000    0.0094
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:24
+Prediction points:148
+  TP     FP     TN     FN
+     0     2    49    97
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:25
+Prediction points:148
+  TP     FP     TN     FN
+    30    10    32    76
+
+Precision / Recall
+    0.7500    0.2830
+
+
+
+Completed iteration:26
+Prediction points:148
+  TP     FP     TN     FN
+    18    13    35    82
+
+Precision / Recall
+    0.5806    0.1800
+
+
+
+Completed iteration:27
+Prediction points:148
+  TP     FP     TN     FN
+     7     1    41    99
+
+Precision / Recall
+    0.8750    0.0660
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:28
+Prediction points:148
+  TP     FP     TN     FN
+    98    49     1     0
+
+Precision / Recall
+    0.6667    1.0000
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:29
+Prediction points:148
+  TP     FP     TN     FN
+     1     1    41   105
+
+Precision / Recall
+    0.5000    0.0094
+
+
+
+Completed iteration:30
+Prediction points:148
+  TP     FP     TN     FN
+    16     6    42    84
+
+Precision / Recall
+    0.7273    0.1600
+
+   110
+
+Baseline
+AUC ave err std
+    0.5741
+
+    0.0635
+
+    0.0635
+
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.0530    0.1272    0.1786
+    0.0206    0.0331    0.0332
+    0.0206    0.0331    0.0332
+
+Overall results
+Precision / Recall macro
+    0.6677    0.1827
+
+Precision / Recall micro
+    0.6808    0.1787
+
+
+
+Completed iteration:1
+Prediction points:148
+  TP     FP     TN     FN
+    46    12    29    61
+
+Precision / Recall
+    0.7931    0.4299
+
+
+
+Completed iteration:2
+Prediction points:148
+  TP     FP     TN     FN
+    13     4    43    88
+
+Precision / Recall
+    0.7647    0.1287
+
+
+
+Completed iteration:3
+Prediction points:148
+  TP     FP     TN     FN
+     4     2    54    88
+
+Precision / Recall
+    0.6667    0.0435
+
+
+
+Completed iteration:4
+Prediction points:148
+  TP     FP     TN     FN
+     2     2    43   101
+
+Precision / Recall
+    0.5000    0.0194
+
+
+
+Completed iteration:5
+Prediction points:148
+  TP     FP     TN     FN
+     2     0    45   101
+
+Precision / Recall
+    1.0000    0.0194
+
+
+
+Completed iteration:6
+Prediction points:148
+  TP     FP     TN     FN
+     8     3    52    85
+
+Precision / Recall
+    0.7273    0.0860
+
+
+
+Completed iteration:7
+Prediction points:148
+  TP     FP     TN     FN
+    51    14    31    52
+
+Precision / Recall
+    0.7846    0.4951
+
+
+
+Completed iteration:8
+Prediction points:148
+  TP     FP     TN     FN
+     8     1    43    96
+
+Precision / Recall
+    0.8889    0.0769
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:9
+Prediction points:148
+  TP     FP     TN     FN
+   100    47     0     1
+
+Precision / Recall
+    0.6803    0.9901
+
+
+
+Completed iteration:10
+Prediction points:148
+  TP     FP     TN     FN
+    65    23    20    40
+
+Precision / Recall
+    0.7386    0.6190
+
+
+
+Completed iteration:11
+Prediction points:148
+  TP     FP     TN     FN
+     2     1    37   108
+
+Precision / Recall
+    0.6667    0.0182
+
+
+
+Completed iteration:12
+Prediction points:148
+  TP     FP     TN     FN
+     6     1    49    92
+
+Precision / Recall
+    0.8571    0.0612
+
+
+
+Completed iteration:13
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    40   107
+
+Precision / Recall
+     0     0
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:14
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    47   100
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:15
+Prediction points:148
+  TP     FP     TN     FN
+    45    13    32    58
+
+Precision / Recall
+    0.7759    0.4369
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:16
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    48    99
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:17
+Prediction points:148
+  TP     FP     TN     FN
+     1     2    50    95
+
+Precision / Recall
+    0.3333    0.0104
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',141,1)">minimize at 141</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:18
+Prediction points:148
+  TP     FP     TN     FN
+    93    54     1     0
+
+Precision / Recall
+    0.6327    1.0000
+
+
+
+Completed iteration:19
+Prediction points:148
+  TP     FP     TN     FN
+    13     8    32    95
+
+Precision / Recall
+    0.6190    0.1204
+
+
+
+Completed iteration:20
+Prediction points:148
+  TP     FP     TN     FN
+     9     3    38    98
+
+Precision / Recall
+    0.7500    0.0841
+
+
+
+Completed iteration:21
+Prediction points:148
+  TP     FP     TN     FN
+    41    13    32    62
+
+Precision / Recall
+    0.7593    0.3981
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:22
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    47   100
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:23
+Prediction points:148
+  TP     FP     TN     FN
+    22     7    49    70
+
+Precision / Recall
+    0.7586    0.2391
+
+
+
+Completed iteration:24
+Prediction points:148
+  TP     FP     TN     FN
+    42    13    29    64
+
+Precision / Recall
+    0.7636    0.3962
+
+
+
+Completed iteration:25
+Prediction points:148
+  TP     FP     TN     FN
+     8     4    35   101
+
+Precision / Recall
+    0.6667    0.0734
+
+
+
+Completed iteration:26
+Prediction points:148
+  TP     FP     TN     FN
+     1     3    46    98
+
+Precision / Recall
+    0.2500    0.0101
+
+
+
+Completed iteration:27
+Prediction points:148
+  TP     FP     TN     FN
+    24     5    40    79
+
+Precision / Recall
+    0.8276    0.2330
+
+
+
+Completed iteration:28
+Prediction points:148
+  TP     FP     TN     FN
+    25     5    37    81
+
+Precision / Recall
+    0.8333    0.2358
+
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+[Warning: Inference method failed [Error using chol
+Matrix must be positive definite.] .. attempting to continue] 
+[> In <a href="matlab: opentoline('Z:\RobotGrasp2\gp.m',118,1)">gp at 118</a>
+  In <a href="matlab: opentoline('Z:\RobotGrasp2\util\minimize.m',97,1)">minimize at 97</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_baseline.m',240,1)">GP_GraspIt_TP_baseline at 240</a>] 
+
+
+Completed iteration:29
+Prediction points:148
+  TP     FP     TN     FN
+     0     1    50    97
+
+Precision / Recall
+     0     0
+
+
+
+Completed iteration:30
+Prediction points:148
+  TP     FP     TN     FN
+     7     5    40    96
+
+Precision / Recall
+    0.5833    0.0680
+
+   120
+
+Baseline
+AUC ave err std
+    0.6019
+
+    0.0691
+
+    0.0691
+
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.0487    0.1099    0.1912
+    0.0179    0.0348    0.0474
+    0.0179    0.0348    0.0474
+
+Overall results
+Precision / Recall macro
+    0.5874    0.2098
+
+Precision / Recall micro
+    0.7185    0.2091
+
+    TPR       FPR       TNR       FNR       cutoff
+computation time (s)
+   3.9872e+03
+

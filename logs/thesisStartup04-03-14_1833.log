@@ -1,0 +1,332 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+    ' TriangleSize'
+
+Keeping QMs:
+name        p values
+    ' Spread'    '2.48e-07'
+
+    ' Limit'    '2.57e-07'
+
+    ' OrthoNorm'    '0.000358'
+
+Deleting QMs:
+name        p values
+    ' Extension'    '0.978'
+
+    'GraspIt_Epsilon'    '0.892'
+
+    ' Volume'    '0.537'
+
+    'GraspIt_Volume'    '0.376'
+
+    'GraspIt_ContactEnergy'    '0.0879'
+
+    ' PerpSym'    '0.0627'
+
+    ' ParallelSym'    '0.00685'
+
+
+TPR_binned
+
+TPR_binned =
+
+     1     9    29    17     1     0     1     1     0     0
+    83     4     2     2     0     1     0     0     0     0
+    10     3     0     1     0     0     0     0     0     0
+     0     1     0     0     0     0     0     0     0     0
+     2     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+
+TPR_binned ./ (TPR_binned + FPR_binned)
+
+ans =
+
+    1.0000    0.9000    0.7632    0.6800    1.0000       NaN    0.5000    1.0000       NaN       NaN
+    0.7345    0.8000    0.6667    1.0000         0    1.0000       NaN       NaN       NaN       NaN
+    0.7692    0.5000       NaN    1.0000       NaN       NaN       NaN       NaN       NaN       NaN
+         0    1.0000       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+    1.0000       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+
+sum(~isnan(TPR_binned ./ (TPR_binned + FPR_binned)))
+
+ans =
+
+     5     4     2     3     2     1     1     1     0     0
+
+sum(~isnan(TPR_binned ./ (TPR_binned + FPR_binned)),:)
+{Undefined function or variable "sum".
+} 
+sum((~isnan(TPR_binned ./ (TPR_binned + FPR_binned)))(:))
+ sum((~isnan(TPR_binned ./ (TPR_binned + FPR_binned)))(:))
+                                                      |
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+confidence = TPR_binned ./ (TPR_binned + FPR_binned)
+
+confidence =
+
+    1.0000    0.9000    0.7632    0.6800    1.0000       NaN    0.5000    1.0000       NaN       NaN
+    0.7345    0.8000    0.6667    1.0000         0    1.0000       NaN       NaN       NaN       NaN
+    0.7692    0.5000       NaN    1.0000       NaN       NaN       NaN       NaN       NaN       NaN
+         0    1.0000       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+    1.0000       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+
+sum(confidence(:))
+
+ans =
+
+   NaN
+
+passing_bins = (confidence > .6)
+
+passing_bins =
+
+     1     1     1     1     1     0     0     1     0     0
+     1     1     1     1     0     1     0     0     0     0
+     1     0     0     1     0     0     0     0     0     0
+     0     1     0     0     0     0     0     0     0     0
+     1     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+
+passing_bins = (confidence < .6)
+
+passing_bins =
+
+     0     0     0     0     0     0     1     0     0     0
+     0     0     0     0     1     0     0     0     0     0
+     0     1     0     0     0     0     0     0     0     0
+     1     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+
+passing_bins = (confidence > .6)
+
+passing_bins =
+
+     1     1     1     1     1     0     0     1     0     0
+     1     1     1     1     0     1     0     0     0     0
+     1     0     0     1     0     0     0     0     0     0
+     0     1     0     0     0     0     0     0     0     0
+     1     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+
+strcat(TPR_binned,FPR_binned)
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',84,1)">strcat at 84</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\strfun\strcat.m',92,1)">strcat at 92</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',278,1)">GP_GraspIt_TP_hybrid at 278</a>] 
+
+ans =
+
+	  	  
+S      
+
+          
+             
+              
+
+num2str(TPR_binned)
+
+ans =
+
+ 1   9  29  17   1   0   1   1   0   0
+83   4   2   2   0   1   0   0   0   0
+10   3   0   1   0   0   0   0   0   0
+ 0   1   0   0   0   0   0   0   0   0
+ 2   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0
+
+strcat(num2str(TPR_binned),num2str(FPR_binned))
+
+ans =
+
+ 1   9  29  17   1   0   1   1   0   0 0   1   9   8   0   0   1   0   0   0
+83   4   2   2   0   1   0   0   0   030   1   1   0   1   0   0   0   0   0
+10   3   0   1   0   0   0   0   0   0 3   3   0   0   0   0   0   0   0   0
+ 0   1   0   0   0   0   0   0   0   0 1   0   0   0   0   0   0   0   0   0
+ 2   0   0   0   0   0   0   0   0   0 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0 0   0   0   0   0   0   0   0   0   0
+ 0   0   0   0   0   0   0   0   0   0 0   0   0   0   0   0   0   0   0   0
+
+passing_bins = (confidence > .6)
+
+passing_bins =
+
+     1     1     1     1     1     0     0     1     0     0
+     1     1     1     1     0     1     0     0     0     0
+     1     0     0     1     0     0     0     0     0     0
+     0     1     0     0     0     0     0     0     0     0
+     1     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+
+passing_bins = (confidence >= .6)
+
+passing_bins =
+
+     1     1     1     1     1     0     0     1     0     0
+     1     1     1     1     0     1     0     0     0     0
+     1     0     0     1     0     0     0     0     0     0
+     0     1     0     0     0     0     0     0     0     0
+     1     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0
+
+['7/3' '8/3'; '4/2' '5/2']
+
+ans =
+
+7/38/3
+4/25/2
+
+['7/3 ' '8/3'; '4/2' '5/2']
+{Error using <a href="matlab:helpUtils.errorDocCallback('vertcat')" style="font-weight:bold">vertcat</a>
+Dimensions of matrices being concatenated are not consistent.
+} 
+['7/3 ' '8/3'; '4/2 ' '5/2']
+
+ans =
+
+7/3 8/3
+4/2 5/2
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+avg(x)
+{Undefined function or variable 'x'.
+} 
+x
+{Undefined function or variable 'x'.
+} 
+x = randi(15,15,1)
+
+x =
+
+     5
+     3
+     9
+     4
+    12
+     8
+    10
+     3
+    14
+    11
+     3
+    11
+     3
+    13
+     3
+
+avg(x)
+{Undefined function 'avg' for input arguments of type 'double'.
+} 
+mean(x)
+
+ans =
+
+    7.4667
+
+GP_GraspIt_TP_hybrid
+[Warning: Directory access failure: Z:\Thesis\thesisStartup.m] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',10,1)">GP_GraspIt_TP_hybrid at 10</a>] 
+[Warning: Directory access failure: Z:\Thesis\thesisCleanup.m] 
+[> In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('\\stak\apps\MatlabR2013b\toolbox\matlab\general\addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('Z:\Thesis\GP_GraspIt_TP_hybrid.m',11,1)">GP_GraspIt_TP_hybrid at 11</a>] 
