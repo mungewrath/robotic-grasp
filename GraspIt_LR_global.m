@@ -6,8 +6,8 @@
 %%
 function GraspIt_LR_global(energycutoff,binThreshold)
 
-addpath('Z:\Thesis\thesisStartup.m');
-addpath('Z:\Thesis\thesisCleanup.m');
+%addpath('.');
+%addpath('Z:\Thesis\thesisCleanup.m');
 %me = mfilename;
 me = sprintf('kd_global_LR_energy_%d_bin_%d',energycutoff,binThreshold);
 use_timestamp = false;
@@ -388,7 +388,7 @@ for confidence_cutoff = confidence_thresholds
     %%
     
     %generateCategorizedContour(data_pca,groundtruth,(1:length(point_precisions))',point_precisions,contour_file,sprintf('Areas of high test precision\nGlobal LR, confidence cutoff=%f',confidence_cutoff),[.5 .75 .9]);
-    save(sprintf('%s\\contourdumps\\%s_conf_%d.mat',savedir,me,confidence_cutoff*10),'data_pca','groundtruth','point_precisions','contour_file','confidence_cutoff');
+    save(sprintf('%scontourdumps\\%s_conf_%d.mat',savedir,me,confidence_cutoff*10),'data_pca','groundtruth','point_precisions','contour_file','confidence_cutoff');
 
     save(sprintf('%srocdumps\\%s_conf_%d.mat',savedir,me,confidence_cutoff*10),'uppererr','lowererr','ave');
 %     fig = figure;

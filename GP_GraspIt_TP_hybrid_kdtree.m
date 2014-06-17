@@ -11,8 +11,6 @@
 %%
 function GP_GraspIt_TP_hybrid_kdtree(energycutoff,binThreshold)
 
-addpath('Z:\Thesis\thesisStartup.m');
-addpath('Z:\Thesis\thesisCleanup.m');
 me = mfilename;
 thesisStartup;
 

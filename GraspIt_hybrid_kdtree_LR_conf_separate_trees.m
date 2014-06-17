@@ -14,8 +14,6 @@
 %%
 function GraspIt_hybrid_kdtree_LR_conf(energycutoff,binThreshold)
 
-addpath('Z:\Thesis\thesisStartup.m');
-addpath('Z:\Thesis\thesisCleanup.m');
 %me = mfilename;
 me = sprintf('kd_LR_energy_%d_bin_%d',energycutoff,binThreshold);
 use_timestamp = false;

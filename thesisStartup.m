@@ -12,8 +12,8 @@
     %me = callingFile;                                            % what is my filename
     %mydir = which(me); mydir = mydir(1:end-2-numel(me));        % where am I located
     % Hard-coded path for now
-    mydir = 'Z:\RobotGrasp2\';
-    savedir = 'Z:\Thesis\';
+    mydir = 'RobotGrasp2\';
+    savedir = '.\';
    
     if exist('me','var')
         f = me;

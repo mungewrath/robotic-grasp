@@ -1,9 +1,7 @@
 function loadContour(name,ctitle,dir)
-addpath('Z:\Thesis\thesisStartup.m');
-addpath('Z:\Thesis\thesisCleanup.m');
 
 if nargin < 3
-    dir = 'Z:\Thesis\contourdumps\';
+    dir = 'Thesis\contourdumps\';
 end
 
 load(strcat(dir,name),'-mat');

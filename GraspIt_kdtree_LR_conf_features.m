@@ -7,8 +7,6 @@
 %%
 function GraspIt_kdtree_LR_conf_features(energycutoff,binThreshold)
 
-addpath('Z:\Thesis\thesisStartup.m');
-addpath('Z:\Thesis\thesisCleanup.m');
 %me = mfilename;
 me = sprintf('kd_LR_features_energy_%d_bin_%d',energycutoff,binThreshold);
 %use_timestamp = false;

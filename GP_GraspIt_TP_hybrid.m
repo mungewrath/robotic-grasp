@@ -7,8 +7,6 @@
 %  performance than simple training-testing.
 %%
 
-addpath('Z:\Thesis\thesisStartup.m');
-addpath('Z:\Thesis\thesisCleanup.m');
 me = mfilename;
 thesisStartup;
 
