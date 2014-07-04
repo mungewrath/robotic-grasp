@@ -1,0 +1,1852 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:30
+crowdsource cutoff:0.8
+using confidence:1
+Number of bins: 31
+Average bin size: 1.683871e+01
+
+Using threshold of 0.141600
+Eliminated 0 points
+Completed iteration 1
+
+Using threshold of 0.098358
+Eliminated 0 points
+Completed iteration 2
+
+Using threshold of 0.120645
+Eliminated 0 points
+Completed iteration 3
+
+Using threshold of 0.091164
+Eliminated 0 points
+Completed iteration 4
+
+Using threshold of 0.076697
+Eliminated 0 points
+Completed iteration 5
+
+Using threshold of 0.062511
+Eliminated 0 points
+Completed iteration 6
+
+Using threshold of 0.085366
+Eliminated 0 points
+Completed iteration 7
+
+Using threshold of 0.115367
+Eliminated 0 points
+Completed iteration 8
+
+Using threshold of 0.087665
+Eliminated 0 points
+Completed iteration 9
+
+Using threshold of 0.082474
+Eliminated 0 points
+Completed iteration 10
+
+Using threshold of 0.078801
+Eliminated 0 points
+Completed iteration 11
+
+Using threshold of 0.104764
+Eliminated 0 points
+Completed iteration 12
+
+Using threshold of 0.100348
+Eliminated 0 points
+Completed iteration 13
+
+Using threshold of 0.085311
+Eliminated 0 points
+Completed iteration 14
+
+Using threshold of 0.132136
+Eliminated 0 points
+Completed iteration 15
+
+Using threshold of 0.106286
+Eliminated 0 points
+Completed iteration 16
+
+Using threshold of 0.086078
+Eliminated 0 points
+Completed iteration 17
+
+Using threshold of 0.084353
+Eliminated 0 points
+Completed iteration 18
+
+Using threshold of 0.131798
+Eliminated 0 points
+Completed iteration 19
+
+Using threshold of 0.094492
+Eliminated 0 points
+Completed iteration 20
+
+Using threshold of 0.093447
+Eliminated 0 points
+Completed iteration 21
+
+Using threshold of 0.124677
+Eliminated 0 points
+Completed iteration 22
+
+Using threshold of 0.090073
+Eliminated 0 points
+Completed iteration 23
+
+Using threshold of 0.121403
+Eliminated 0 points
+Completed iteration 24
+
+Using threshold of 0.084121
+Eliminated 0 points
+Completed iteration 25
+
+Using threshold of 0.111530
+Eliminated 0 points
+Completed iteration 26
+
+Using threshold of 0.097208
+Eliminated 0 points
+Completed iteration 27
+
+Using threshold of 0.089505
+Eliminated 0 points
+Completed iteration 28
+
+Using threshold of 0.115691
+Eliminated 0 points
+Completed iteration 29
+
+Using threshold of 0.124664
+Eliminated 0 points
+Completed iteration 30
+Printing all grasps falling into high-precision nodes. Conf=0.000000
+Node index 21
+  133.0000   -0.0972   -0.5695
+  137.0000   -0.0035   -0.4807
+  164.0000    0.1139    0.1288
+  222.0000   -0.2298   -0.6370
+  241.0000    0.6677    0.4557
+  251.0000    0.2939    0.2990
+  257.0000    0.2523    0.3165
+  262.0000    0.2294    0.3334
+  265.0000    0.4408    0.3647
+  272.0000   -0.2322   -0.0789
+  277.0000    0.1776    0.3277
+  289.0000    0.0411   -0.4544
+  313.0000   -0.0859   -0.4315
+  324.0000    0.3914   -0.7584
+  331.0000    0.1256   -0.4845
+  334.0000    0.2290   -0.8072
+  338.0000   -0.0110   -0.5117
+  352.0000    0.1040   -0.4730
+  357.0000    0.4987   -0.5761
+  368.0000    0.6070    0.1004
+  387.0000    0.3069   -0.8166
+  411.0000    0.3561   -0.6198
+  413.0000   -0.0145   -0.7294
+  418.0000   -0.0143   -0.7239
+  419.0000    0.2517   -0.6242
+  429.0000    0.3642   -0.3874
+  439.0000    0.6322   -0.3536
+  445.0000    0.2194    0.1792
+  447.0000    0.3458   -0.5330
+  460.0000    0.2466   -0.5846
+
+Node index 45
+  302.0000    0.0112   -0.5155
+  312.0000    0.3276   -0.6721
+  317.0000    0.4537   -0.6457
+  318.0000    0.3156   -0.4720
+  328.0000    0.7668   -0.2627
+  342.0000   -0.0541   -0.5214
+  358.0000    0.3223   -0.8622
+  361.0000    0.4764   -0.8169
+  385.0000    0.5816   -0.4596
+  394.0000    0.4076   -0.7946
+  416.0000    0.1682   -0.7233
+  417.0000    0.0546   -0.7203
+  425.0000    0.2748   -0.5124
+  426.0000    0.2563   -0.6375
+  432.0000    0.2119   -0.6607
+  437.0000    0.1376   -0.6311
+  453.0000    0.5616   -0.4939
+  456.0000    0.4009   -0.6149
+
+Node index 61
+  123.0000   -1.2860   -1.1031
+  126.0000   -1.3861   -1.1349
+  129.0000   -1.2763   -1.0982
+  131.0000   -0.9495   -1.1644
+  135.0000   -1.2508   -1.0639
+  136.0000   -1.0430   -1.0751
+  140.0000   -1.1285   -1.1208
+  141.0000   -1.1939   -1.1441
+  142.0000   -1.1464   -1.0991
+  143.0000   -1.1035   -1.1816
+  144.0000   -1.1265   -1.2011
+  145.0000   -0.9449   -1.0563
+  146.0000   -0.5410   -0.7897
+  148.0000   -0.7518   -1.0837
+  154.0000   -1.1294   -1.1484
+  155.0000   -0.9471   -1.1330
+  156.0000   -0.9658   -1.1098
+  158.0000   -1.3263   -1.1428
+  161.0000   -1.0231   -1.1010
+  165.0000   -1.1258   -1.0835
+  166.0000   -1.1304   -1.0308
+  169.0000   -1.3514   -0.9588
+  171.0000   -0.4153   -0.7345
+  174.0000   -1.2337   -1.0074
+  183.0000   -0.0074   -0.3402
+  187.0000    0.4195   -0.0820
+  203.0000    0.4120   -0.0735
+  221.0000   -0.1590   -0.3876
+  234.0000   -6.8296    5.9323
+  288.0000   -6.8296    5.9323
+  308.0000   -0.8761   -0.6106
+  349.0000    0.0155   -0.8047
+  359.0000    0.1543   -1.0458
+  362.0000    0.0998   -0.9155
+  363.0000    0.0933   -0.9662
+  364.0000    0.1674   -0.8661
+  367.0000    0.1480   -0.9396
+  372.0000    0.1446   -0.9280
+  373.0000   -0.1175   -0.9002
+  380.0000    0.0154   -0.9871
+  381.0000   -0.0080   -0.9778
+  382.0000    0.0480   -0.9783
+  384.0000    0.1921   -0.8193
+  389.0000    0.2769   -0.8132
+  392.0000    0.0905   -0.9055
+  404.0000    0.5607   -0.3474
+  422.0000   -0.0029   -0.7633
+  441.0000   -0.0068   -0.7290
+  462.0000   -1.2304   -1.0035
+  492.0000   -0.9812   -0.7521
+  503.0000   -1.5664   -1.3933
+
+99 points dumped in total
+index 123: -1.286012, -1.103101
+index 126: -1.386119, -1.134917
+index 129: -1.276321, -1.098237
+index 131: -0.949541, -1.164423
+index 133: -0.097228, -0.569516
+index 135: -1.250809, -1.063940
+index 136: -1.042996, -1.075127
+index 137: -0.003499, -0.480654
+index 140: -1.128468, -1.120816
+index 141: -1.193948, -1.144144
+index 142: -1.146417, -1.099074
+index 143: -1.103512, -1.181596
+index 144: -1.126458, -1.201077
+index 145: -0.944932, -1.056272
+index 146: -0.541017, -0.789709
+index 148: -0.751847, -1.083688
+index 154: -1.129444, -1.148398
+index 155: -0.947082, -1.132953
+index 156: -0.965784, -1.109754
+index 158: -1.326341, -1.142790
+index 161: -1.023142, -1.100964
+index 164: 0.113930, 0.128786
+index 165: -1.125796, -1.083487
+index 166: -1.130412, -1.030786
+index 169: -1.351438, -0.958782
+index 171: -0.415313, -0.734486
+index 174: -1.233745, -1.007385
+index 183: -0.007381, -0.340177
+index 187: 0.419478, -0.081951
+index 203: 0.412045, -0.073475
+index 221: -0.159020, -0.387640
+index 222: -0.229827, -0.637012
+index 234: -6.829649, 5.932283
+index 241: 0.667745, 0.455659
+index 251: 0.293945, 0.298972
+index 257: 0.252341, 0.316534
+index 262: 0.229431, 0.333448
+index 265: 0.440795, 0.364719
+index 272: -0.232181, -0.078949
+index 277: 0.177622, 0.327670
+index 288: -6.829649, 5.932283
+index 289: 0.041133, -0.454373
+index 302: 0.011193, -0.515459
+index 308: -0.876082, -0.610554
+index 312: 0.327552, -0.672094
+index 313: -0.085936, -0.431462
+index 317: 0.453667, -0.645690
+index 318: 0.315610, -0.472040
+index 324: 0.391450, -0.758403
+index 328: 0.766844, -0.262657
+index 331: 0.125569, -0.484463
+index 334: 0.229013, -0.807171
+index 338: -0.010998, -0.511679
+index 342: -0.054087, -0.521437
+index 349: 0.015452, -0.804719
+index 352: 0.104047, -0.473020
+index 357: 0.498666, -0.576095
+index 358: 0.322345, -0.862207
+index 359: 0.154335, -1.045792
+index 361: 0.476434, -0.816948
+index 362: 0.099808, -0.915471
+index 363: 0.093325, -0.966153
+index 364: 0.167403, -0.866064
+index 367: 0.147970, -0.939631
+index 368: 0.607005, 0.100438
+index 372: 0.144624, -0.928034
+index 373: -0.117469, -0.900169
+index 380: 0.015444, -0.987143
+index 381: -0.007965, -0.977824
+index 382: 0.048045, -0.978256
+index 384: 0.192055, -0.819327
+index 385: 0.581607, -0.459552
+index 387: 0.306900, -0.816591
+index 389: 0.276863, -0.813190
+index 392: 0.090475, -0.905511
+index 394: 0.407647, -0.794572
+index 404: 0.560708, -0.347423
+index 411: 0.356147, -0.619765
+index 413: -0.014482, -0.729398
+index 416: 0.168205, -0.723279
+index 417: 0.054628, -0.720293
+index 418: -0.014319, -0.723861
+index 419: 0.251748, -0.624211
+index 422: -0.002932, -0.763330
+index 425: 0.274810, -0.512404
+index 426: 0.256349, -0.637506
+index 429: 0.364166, -0.387402
+index 432: 0.211942, -0.660727
+index 437: 0.137557, -0.631084
+index 439: 0.632173, -0.353580
+index 441: -0.006808, -0.728974
+index 445: 0.219406, 0.179204
+index 447: 0.345808, -0.532963
+index 453: 0.561584, -0.493914
+index 456: 0.400858, -0.614878
+index 460: 0.246552, -0.584550
+index 462: -1.230404, -1.003526
+index 492: -0.981164, -0.752083
+index 503: -1.566423, -1.393328
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.3108    0.3773    0.4164
+    0.0360    0.0443    0.0446
+    0.0360    0.0443    0.0446
+
+Overall results (hybrid)
+Confidence threshold=0
+Filtered datapoints
+Prediction points: 130.000000 (stddev 0.000000)
+Individual AUCs:
+    0.5901
+    0.5813
+    0.6335
+    0.6568
+    0.6968
+    0.6300
+    0.6458
+    0.6470
+    0.6875
+    0.6508
+    0.6098
+    0.7213
+    0.6129
+    0.6419
+    0.6293
+    0.7128
+    0.6422
+    0.6082
+    0.6718
+    0.6445
+    0.7637
+    0.6254
+    0.6517
+    0.6279
+    0.4147
+    0.7029
+    0.6446
+    0.6717
+    0.6036
+    0.7179
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.6446
+
+    0.0605
+
+    0.0605
+
+Precision / Recall macro
+    0.8428    0.5046
+
+Precision / Recall micro
+    0.8391    0.5040
+
+Std devs
+    0.0467    0.0577
+
+
+Using threshold of 0.118394
+Eliminated 47 points
+Completed iteration 1
+
+Using threshold of 0.123923
+Eliminated 59 points
+Completed iteration 2
+
+Using threshold of 0.117070
+Eliminated 52 points
+Completed iteration 3
+
+Using threshold of 0.117788
+Eliminated 59 points
+Completed iteration 4
+
+Using threshold of 0.110557
+Eliminated 37 points
+Completed iteration 5
+
+Using threshold of 0.172475
+Eliminated 63 points
+Completed iteration 6
+
+Using threshold of 0.105371
+Eliminated 43 points
+Completed iteration 7
+
+Using threshold of 0.122643
+Eliminated 72 points
+Completed iteration 8
+
+Using threshold of 0.127845
+Eliminated 61 points
+Completed iteration 9
+
+Using threshold of 0.126858
+Eliminated 55 points
+Completed iteration 10
+
+Using threshold of 0.085409
+Eliminated 60 points
+Completed iteration 11
+
+Using threshold of 0.227721
+Eliminated 61 points
+Completed iteration 12
+
+Using threshold of 0.113238
+Eliminated 38 points
+Completed iteration 13
+
+Using threshold of 0.128552
+Eliminated 36 points
+Completed iteration 14
+
+Using threshold of 0.105540
+Eliminated 27 points
+Completed iteration 15
+
+Using threshold of 0.072811
+Eliminated 33 points
+Completed iteration 16
+
+Using threshold of 0.106263
+Eliminated 37 points
+Completed iteration 17
+
+Using threshold of 0.161321
+Eliminated 55 points
+Completed iteration 18
+
+Using threshold of 0.105654
+Eliminated 45 points
+Completed iteration 19
+
+Using threshold of 0.097755
+Eliminated 45 points
+Completed iteration 20
+
+Using threshold of 0.107536
+Eliminated 50 points
+Completed iteration 21
+
+Using threshold of 0.118108
+Eliminated 49 points
+Completed iteration 22
+
+Using threshold of 0.125545
+Eliminated 53 points
+Completed iteration 23
+
+Using threshold of 0.110756
+Eliminated 50 points
+Completed iteration 24
+
+Using threshold of 0.144073
+Eliminated 51 points
+Completed iteration 25
+
+Using threshold of 0.097896
+Eliminated 40 points
+Completed iteration 26
+
+Using threshold of 0.082982
+Eliminated 25 points
+Completed iteration 27
+
+Using threshold of 0.073326
+Eliminated 37 points
+Completed iteration 28
+
+Using threshold of 0.107418
+Eliminated 53 points
+Completed iteration 29
+
+Using threshold of 0.115700
+Eliminated 43 points
+Completed iteration 30
+Printing all grasps falling into high-precision nodes. Conf=0.500000
+Node index 21
+  133.0000   -0.0972   -0.5695
+  137.0000   -0.0035   -0.4807
+  164.0000    0.1139    0.1288
+  222.0000   -0.2298   -0.6370
+  241.0000    0.6677    0.4557
+  251.0000    0.2939    0.2990
+  257.0000    0.2523    0.3165
+  262.0000    0.2294    0.3334
+  265.0000    0.4408    0.3647
+  272.0000   -0.2322   -0.0789
+  277.0000    0.1776    0.3277
+  289.0000    0.0411   -0.4544
+  313.0000   -0.0859   -0.4315
+  324.0000    0.3914   -0.7584
+  331.0000    0.1256   -0.4845
+  334.0000    0.2290   -0.8072
+  338.0000   -0.0110   -0.5117
+  352.0000    0.1040   -0.4730
+  357.0000    0.4987   -0.5761
+  368.0000    0.6070    0.1004
+  387.0000    0.3069   -0.8166
+  411.0000    0.3561   -0.6198
+  413.0000   -0.0145   -0.7294
+  418.0000   -0.0143   -0.7239
+  419.0000    0.2517   -0.6242
+  429.0000    0.3642   -0.3874
+  439.0000    0.6322   -0.3536
+  445.0000    0.2194    0.1792
+  447.0000    0.3458   -0.5330
+  460.0000    0.2466   -0.5846
+
+Node index 45
+  302.0000    0.0112   -0.5155
+  312.0000    0.3276   -0.6721
+  317.0000    0.4537   -0.6457
+  318.0000    0.3156   -0.4720
+  328.0000    0.7668   -0.2627
+  342.0000   -0.0541   -0.5214
+  358.0000    0.3223   -0.8622
+  361.0000    0.4764   -0.8169
+  385.0000    0.5816   -0.4596
+  394.0000    0.4076   -0.7946
+  416.0000    0.1682   -0.7233
+  417.0000    0.0546   -0.7203
+  425.0000    0.2748   -0.5124
+  426.0000    0.2563   -0.6375
+  432.0000    0.2119   -0.6607
+  437.0000    0.1376   -0.6311
+  453.0000    0.5616   -0.4939
+  456.0000    0.4009   -0.6149
+
+Node index 61
+  123.0000   -1.2860   -1.1031
+  126.0000   -1.3861   -1.1349
+  129.0000   -1.2763   -1.0982
+  131.0000   -0.9495   -1.1644
+  135.0000   -1.2508   -1.0639
+  136.0000   -1.0430   -1.0751
+  140.0000   -1.1285   -1.1208
+  141.0000   -1.1939   -1.1441
+  142.0000   -1.1464   -1.0991
+  143.0000   -1.1035   -1.1816
+  144.0000   -1.1265   -1.2011
+  145.0000   -0.9449   -1.0563
+  146.0000   -0.5410   -0.7897
+  148.0000   -0.7518   -1.0837
+  154.0000   -1.1294   -1.1484
+  155.0000   -0.9471   -1.1330
+  156.0000   -0.9658   -1.1098
+  158.0000   -1.3263   -1.1428
+  161.0000   -1.0231   -1.1010
+  165.0000   -1.1258   -1.0835
+  166.0000   -1.1304   -1.0308
+  169.0000   -1.3514   -0.9588
+  171.0000   -0.4153   -0.7345
+  174.0000   -1.2337   -1.0074
+  183.0000   -0.0074   -0.3402
+  187.0000    0.4195   -0.0820
+  203.0000    0.4120   -0.0735
+  221.0000   -0.1590   -0.3876
+  234.0000   -6.8296    5.9323
+  288.0000   -6.8296    5.9323
+  308.0000   -0.8761   -0.6106
+  349.0000    0.0155   -0.8047
+  359.0000    0.1543   -1.0458
+  362.0000    0.0998   -0.9155
+  363.0000    0.0933   -0.9662
+  364.0000    0.1674   -0.8661
+  367.0000    0.1480   -0.9396
+  372.0000    0.1446   -0.9280
+  373.0000   -0.1175   -0.9002
+  380.0000    0.0154   -0.9871
+  381.0000   -0.0080   -0.9778
+  382.0000    0.0480   -0.9783
+  384.0000    0.1921   -0.8193
+  389.0000    0.2769   -0.8132
+  392.0000    0.0905   -0.9055
+  404.0000    0.5607   -0.3474
+  422.0000   -0.0029   -0.7633
+  441.0000   -0.0068   -0.7290
+  462.0000   -1.2304   -1.0035
+  492.0000   -0.9812   -0.7521
+  503.0000   -1.5664   -1.3933
+
+99 points dumped in total
+index 123: -1.286012, -1.103101
+index 126: -1.386119, -1.134917
+index 129: -1.276321, -1.098237
+index 131: -0.949541, -1.164423
+index 133: -0.097228, -0.569516
+index 135: -1.250809, -1.063940
+index 136: -1.042996, -1.075127
+index 137: -0.003499, -0.480654
+index 140: -1.128468, -1.120816
+index 141: -1.193948, -1.144144
+index 142: -1.146417, -1.099074
+index 143: -1.103512, -1.181596
+index 144: -1.126458, -1.201077
+index 145: -0.944932, -1.056272
+index 146: -0.541017, -0.789709
+index 148: -0.751847, -1.083688
+index 154: -1.129444, -1.148398
+index 155: -0.947082, -1.132953
+index 156: -0.965784, -1.109754
+index 158: -1.326341, -1.142790
+index 161: -1.023142, -1.100964
+index 164: 0.113930, 0.128786
+index 165: -1.125796, -1.083487
+index 166: -1.130412, -1.030786
+index 169: -1.351438, -0.958782
+index 171: -0.415313, -0.734486
+index 174: -1.233745, -1.007385
+index 183: -0.007381, -0.340177
+index 187: 0.419478, -0.081951
+index 203: 0.412045, -0.073475
+index 221: -0.159020, -0.387640
+index 222: -0.229827, -0.637012
+index 234: -6.829649, 5.932283
+index 241: 0.667745, 0.455659
+index 251: 0.293945, 0.298972
+index 257: 0.252341, 0.316534
+index 262: 0.229431, 0.333448
+index 265: 0.440795, 0.364719
+index 272: -0.232181, -0.078949
+index 277: 0.177622, 0.327670
+index 288: -6.829649, 5.932283
+index 289: 0.041133, -0.454373
+index 302: 0.011193, -0.515459
+index 308: -0.876082, -0.610554
+index 312: 0.327552, -0.672094
+index 313: -0.085936, -0.431462
+index 317: 0.453667, -0.645690
+index 318: 0.315610, -0.472040
+index 324: 0.391450, -0.758403
+index 328: 0.766844, -0.262657
+index 331: 0.125569, -0.484463
+index 334: 0.229013, -0.807171
+index 338: -0.010998, -0.511679
+index 342: -0.054087, -0.521437
+index 349: 0.015452, -0.804719
+index 352: 0.104047, -0.473020
+index 357: 0.498666, -0.576095
+index 358: 0.322345, -0.862207
+index 359: 0.154335, -1.045792
+index 361: 0.476434, -0.816948
+index 362: 0.099808, -0.915471
+index 363: 0.093325, -0.966153
+index 364: 0.167403, -0.866064
+index 367: 0.147970, -0.939631
+index 368: 0.607005, 0.100438
+index 372: 0.144624, -0.928034
+index 373: -0.117469, -0.900169
+index 380: 0.015444, -0.987143
+index 381: -0.007965, -0.977824
+index 382: 0.048045, -0.978256
+index 384: 0.192055, -0.819327
+index 385: 0.581607, -0.459552
+index 387: 0.306900, -0.816591
+index 389: 0.276863, -0.813190
+index 392: 0.090475, -0.905511
+index 394: 0.407647, -0.794572
+index 404: 0.560708, -0.347423
+index 411: 0.356147, -0.619765
+index 413: -0.014482, -0.729398
+index 416: 0.168205, -0.723279
+index 417: 0.054628, -0.720293
+index 418: -0.014319, -0.723861
+index 419: 0.251748, -0.624211
+index 422: -0.002932, -0.763330
+index 425: 0.274810, -0.512404
+index 426: 0.256349, -0.637506
+index 429: 0.364166, -0.387402
+index 432: 0.211942, -0.660727
+index 437: 0.137557, -0.631084
+index 439: 0.632173, -0.353580
+index 441: -0.006808, -0.728974
+index 445: 0.219406, 0.179204
+index 447: 0.345808, -0.532963
+index 453: 0.561584, -0.493914
+index 456: 0.400858, -0.614878
+index 460: 0.246552, -0.584550
+index 462: -1.230404, -1.003526
+index 492: -0.981164, -0.752083
+index 503: -1.566423, -1.393328
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+Interpolation failed - throwing out 3 points
+Interpolation failed - throwing out 4 points
+Interpolation failed - throwing out 5 points
+Interpolation failed - throwing out 6 points
+Interpolation failed - throwing out 7 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.3563    0.4462    0.5135
+    0.0469    0.0472    0.0573
+    0.0469    0.0472    0.0573
+
+Overall results (hybrid)
+Confidence threshold=0.5
+Filtered datapoints
+Prediction points: 82.133333 (stddev 11.205705)
+Individual AUCs:
+    0.7604
+    0.7010
+    0.7277
+    0.7211
+    0.6697
+    0.6786
+    0.6784
+    0.6612
+    0.6896
+    0.6600
+    0.7141
+    0.7363
+    0.7188
+    0.4211
+    0.5979
+    0.7443
+    0.7302
+    0.7500
+    0.7187
+    0.6602
+    0.7528
+    0.6951
+    0.6638
+    0.7550
+    0.7559
+    0.7454
+    0.7005
+    0.7717
+    0.6846
+    0.7322
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.6999
+
+    0.0659
+
+    0.0659
+
+Precision / Recall macro
+    0.8581    0.4143
+
+Precision / Recall micro
+    0.8560    0.4141
+
+Std devs
+    0.0534    0.0695
+
+
+Using threshold of 0.104153
+Eliminated 51 points
+Completed iteration 1
+
+Using threshold of 0.129121
+Eliminated 45 points
+Completed iteration 2
+
+Using threshold of 0.173072
+Eliminated 67 points
+Completed iteration 3
+
+Using threshold of 0.121690
+Eliminated 53 points
+Completed iteration 4
+
+Using threshold of 0.085022
+Eliminated 56 points
+Completed iteration 5
+
+Using threshold of 0.151330
+Eliminated 58 points
+Completed iteration 6
+
+Using threshold of 0.140572
+Eliminated 54 points
+Completed iteration 7
+
+Using threshold of 0.140825
+Eliminated 34 points
+Completed iteration 8
+
+Using threshold of 0.115709
+Eliminated 56 points
+Completed iteration 9
+
+Using threshold of 0.153821
+Eliminated 60 points
+Completed iteration 10
+
+Using threshold of 0.144413
+Eliminated 56 points
+Completed iteration 11
+
+Using threshold of 0.169276
+Eliminated 83 points
+Completed iteration 12
+
+Using threshold of 0.086330
+Eliminated 50 points
+Completed iteration 13
+
+Using threshold of 0.092266
+Eliminated 70 points
+Completed iteration 14
+
+Using threshold of 0.095253
+Eliminated 47 points
+Completed iteration 15
+
+Using threshold of 0.156408
+Eliminated 54 points
+Completed iteration 16
+
+Using threshold of 0.123268
+Eliminated 44 points
+Completed iteration 17
+
+Using threshold of 0.078304
+Eliminated 47 points
+Completed iteration 18
+
+Using threshold of 0.104901
+Eliminated 46 points
+Completed iteration 19
+
+Using threshold of 0.130215
+Eliminated 49 points
+Completed iteration 20
+
+Using threshold of 0.109927
+Eliminated 60 points
+Completed iteration 21
+
+Using threshold of 0.100055
+Eliminated 51 points
+Completed iteration 22
+
+Using threshold of 0.107323
+Eliminated 45 points
+Completed iteration 23
+
+Using threshold of 0.129010
+Eliminated 53 points
+Completed iteration 24
+
+Using threshold of 0.079744
+Eliminated 34 points
+Completed iteration 25
+
+Using threshold of 0.108360
+Eliminated 69 points
+Completed iteration 26
+
+Using threshold of 0.108044
+Eliminated 46 points
+Completed iteration 27
+
+Using threshold of 0.238726
+Eliminated 65 points
+Completed iteration 28
+
+Using threshold of 0.096715
+Eliminated 33 points
+Completed iteration 29
+
+Using threshold of 0.203100
+Eliminated 69 points
+Completed iteration 30
+Printing all grasps falling into high-precision nodes. Conf=0.600000
+Node index 61
+  123.0000   -1.2860   -1.1031
+  126.0000   -1.3861   -1.1349
+  129.0000   -1.2763   -1.0982
+  131.0000   -0.9495   -1.1644
+  135.0000   -1.2508   -1.0639
+  136.0000   -1.0430   -1.0751
+  140.0000   -1.1285   -1.1208
+  141.0000   -1.1939   -1.1441
+  142.0000   -1.1464   -1.0991
+  143.0000   -1.1035   -1.1816
+  144.0000   -1.1265   -1.2011
+  145.0000   -0.9449   -1.0563
+  146.0000   -0.5410   -0.7897
+  148.0000   -0.7518   -1.0837
+  154.0000   -1.1294   -1.1484
+  155.0000   -0.9471   -1.1330
+  156.0000   -0.9658   -1.1098
+  158.0000   -1.3263   -1.1428
+  161.0000   -1.0231   -1.1010
+  165.0000   -1.1258   -1.0835
+  166.0000   -1.1304   -1.0308
+  169.0000   -1.3514   -0.9588
+  171.0000   -0.4153   -0.7345
+  174.0000   -1.2337   -1.0074
+  183.0000   -0.0074   -0.3402
+  187.0000    0.4195   -0.0820
+  203.0000    0.4120   -0.0735
+  221.0000   -0.1590   -0.3876
+  234.0000   -6.8296    5.9323
+  288.0000   -6.8296    5.9323
+  308.0000   -0.8761   -0.6106
+  349.0000    0.0155   -0.8047
+  359.0000    0.1543   -1.0458
+  362.0000    0.0998   -0.9155
+  363.0000    0.0933   -0.9662
+  364.0000    0.1674   -0.8661
+  367.0000    0.1480   -0.9396
+  372.0000    0.1446   -0.9280
+  373.0000   -0.1175   -0.9002
+  380.0000    0.0154   -0.9871
+  381.0000   -0.0080   -0.9778
+  382.0000    0.0480   -0.9783
+  384.0000    0.1921   -0.8193
+  389.0000    0.2769   -0.8132
+  392.0000    0.0905   -0.9055
+  404.0000    0.5607   -0.3474
+  422.0000   -0.0029   -0.7633
+  441.0000   -0.0068   -0.7290
+  462.0000   -1.2304   -1.0035
+  492.0000   -0.9812   -0.7521
+  503.0000   -1.5664   -1.3933
+
+51 points dumped in total
+index 123: -1.286012, -1.103101
+index 126: -1.386119, -1.134917
+index 129: -1.276321, -1.098237
+index 131: -0.949541, -1.164423
+index 135: -1.250809, -1.063940
+index 136: -1.042996, -1.075127
+index 140: -1.128468, -1.120816
+index 141: -1.193948, -1.144144
+index 142: -1.146417, -1.099074
+index 143: -1.103512, -1.181596
+index 144: -1.126458, -1.201077
+index 145: -0.944932, -1.056272
+index 146: -0.541017, -0.789709
+index 148: -0.751847, -1.083688
+index 154: -1.129444, -1.148398
+index 155: -0.947082, -1.132953
+index 156: -0.965784, -1.109754
+index 158: -1.326341, -1.142790
+index 161: -1.023142, -1.100964
+index 165: -1.125796, -1.083487
+index 166: -1.130412, -1.030786
+index 169: -1.351438, -0.958782
+index 171: -0.415313, -0.734486
+index 174: -1.233745, -1.007385
+index 183: -0.007381, -0.340177
+index 187: 0.419478, -0.081951
+index 203: 0.412045, -0.073475
+index 221: -0.159020, -0.387640
+index 234: -6.829649, 5.932283
+index 288: -6.829649, 5.932283
+index 308: -0.876082, -0.610554
+index 349: 0.015452, -0.804719
+index 359: 0.154335, -1.045792
+index 362: 0.099808, -0.915471
+index 363: 0.093325, -0.966153
+index 364: 0.167403, -0.866064
+index 367: 0.147970, -0.939631
+index 372: 0.144624, -0.928034
+index 373: -0.117469, -0.900169
+index 380: 0.015444, -0.987143
+index 381: -0.007965, -0.977824
+index 382: 0.048045, -0.978256
+index 384: 0.192055, -0.819327
+index 389: 0.276863, -0.813190
+index 392: 0.090475, -0.905511
+index 404: 0.560708, -0.347423
+index 422: -0.002932, -0.763330
+index 441: -0.006808, -0.728974
+index 462: -1.230404, -1.003526
+index 492: -0.981164, -0.752083
+index 503: -1.566423, -1.393328
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+Interpolation failed - throwing out 3 points
+Interpolation failed - throwing out 4 points
+Interpolation failed - throwing out 5 points
+Interpolation failed - throwing out 6 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.3462    0.4779    0.5450
+    0.0432    0.0502    0.0564
+    0.0432    0.0502    0.0564
+
+Overall results (hybrid)
+Confidence threshold=0.6
+Filtered datapoints
+Prediction points: 76.500000 (stddev 11.325132)
+Individual AUCs:
+    0.6897
+    0.7623
+    0.8083
+    0.7785
+    0.6242
+    0.7115
+    0.6990
+    0.7521
+    0.6704
+    0.7457
+    0.7434
+    0.8324
+    0.6964
+    0.7774
+    0.6399
+    0.7384
+    0.6868
+    0.6488
+    0.7245
+    0.7666
+    0.8483
+    0.7670
+    0.8030
+    0.7177
+    0.7303
+    0.7415
+    0.6893
+    0.6798
+    0.6592
+    0.6811
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7271
+
+    0.0564
+
+    0.0564
+
+Precision / Recall macro
+    0.8716    0.4086
+
+Precision / Recall micro
+    0.8683    0.4085
+
+Std devs
+    0.0490    0.0658
+
+
+Using threshold of 0.107688
+Eliminated 58 points
+Completed iteration 1
+
+Using threshold of 0.118738
+Eliminated 45 points
+Completed iteration 2
+
+Using threshold of 0.156805
+Eliminated 82 points
+Completed iteration 3
+
+Using threshold of 0.155555
+Eliminated 69 points
+Completed iteration 4
+
+Using threshold of 0.070181
+Eliminated 32 points
+Completed iteration 5
+
+Using threshold of 0.119106
+Eliminated 40 points
+Completed iteration 6
+
+Using threshold of 0.058329
+Eliminated 32 points
+Completed iteration 7
+
+Using threshold of 0.085226
+Eliminated 60 points
+Completed iteration 8
+
+Using threshold of 0.090662
+Eliminated 86 points
+Completed iteration 9
+
+Using threshold of 0.189778
+Eliminated 64 points
+Completed iteration 10
+
+Using threshold of 0.113684
+Eliminated 51 points
+Completed iteration 11
+
+Using threshold of 0.194509
+Eliminated 92 points
+Completed iteration 12
+
+Using threshold of 0.059778
+Eliminated 36 points
+Completed iteration 13
+
+Using threshold of 0.098802
+Eliminated 50 points
+Completed iteration 14
+
+Using threshold of 0.058393
+Eliminated 58 points
+Completed iteration 15
+
+Using threshold of 0.089907
+Eliminated 77 points
+Completed iteration 16
+
+Using threshold of 0.079471
+Eliminated 58 points
+Completed iteration 17
+
+Using threshold of 0.112524
+Eliminated 59 points
+Completed iteration 18
+
+Using threshold of 0.075609
+Eliminated 68 points
+Completed iteration 19
+
+Using threshold of 0.078296
+Eliminated 77 points
+Completed iteration 20
+
+Using threshold of 0.151491
+Eliminated 58 points
+Completed iteration 21
+
+Using threshold of 0.094468
+Eliminated 62 points
+Completed iteration 22
+
+Using threshold of 0.115843
+Eliminated 68 points
+Completed iteration 23
+
+Using threshold of 0.085913
+Eliminated 35 points
+Completed iteration 24
+
+Using threshold of 0.115658
+Eliminated 66 points
+Completed iteration 25
+
+Using threshold of 0.120642
+Eliminated 97 points
+Completed iteration 26
+
+Using threshold of 0.116265
+Eliminated 69 points
+Completed iteration 27
+
+Using threshold of 0.085912
+Eliminated 48 points
+Completed iteration 28
+
+Using threshold of 0.121482
+Eliminated 63 points
+Completed iteration 29
+
+Using threshold of 0.104956
+Eliminated 67 points
+Completed iteration 30
+Printing all grasps falling into high-precision nodes. Conf=0.700000
+Node index 61
+  123.0000   -1.2860   -1.1031
+  126.0000   -1.3861   -1.1349
+  129.0000   -1.2763   -1.0982
+  131.0000   -0.9495   -1.1644
+  135.0000   -1.2508   -1.0639
+  136.0000   -1.0430   -1.0751
+  140.0000   -1.1285   -1.1208
+  141.0000   -1.1939   -1.1441
+  142.0000   -1.1464   -1.0991
+  143.0000   -1.1035   -1.1816
+  144.0000   -1.1265   -1.2011
+  145.0000   -0.9449   -1.0563
+  146.0000   -0.5410   -0.7897
+  148.0000   -0.7518   -1.0837
+  154.0000   -1.1294   -1.1484
+  155.0000   -0.9471   -1.1330
+  156.0000   -0.9658   -1.1098
+  158.0000   -1.3263   -1.1428
+  161.0000   -1.0231   -1.1010
+  165.0000   -1.1258   -1.0835
+  166.0000   -1.1304   -1.0308
+  169.0000   -1.3514   -0.9588
+  171.0000   -0.4153   -0.7345
+  174.0000   -1.2337   -1.0074
+  183.0000   -0.0074   -0.3402
+  187.0000    0.4195   -0.0820
+  203.0000    0.4120   -0.0735
+  221.0000   -0.1590   -0.3876
+  234.0000   -6.8296    5.9323
+  288.0000   -6.8296    5.9323
+  308.0000   -0.8761   -0.6106
+  349.0000    0.0155   -0.8047
+  359.0000    0.1543   -1.0458
+  362.0000    0.0998   -0.9155
+  363.0000    0.0933   -0.9662
+  364.0000    0.1674   -0.8661
+  367.0000    0.1480   -0.9396
+  372.0000    0.1446   -0.9280
+  373.0000   -0.1175   -0.9002
+  380.0000    0.0154   -0.9871
+  381.0000   -0.0080   -0.9778
+  382.0000    0.0480   -0.9783
+  384.0000    0.1921   -0.8193
+  389.0000    0.2769   -0.8132
+  392.0000    0.0905   -0.9055
+  404.0000    0.5607   -0.3474
+  422.0000   -0.0029   -0.7633
+  441.0000   -0.0068   -0.7290
+  462.0000   -1.2304   -1.0035
+  492.0000   -0.9812   -0.7521
+  503.0000   -1.5664   -1.3933
+
+51 points dumped in total
+index 123: -1.286012, -1.103101
+index 126: -1.386119, -1.134917
+index 129: -1.276321, -1.098237
+index 131: -0.949541, -1.164423
+index 135: -1.250809, -1.063940
+index 136: -1.042996, -1.075127
+index 140: -1.128468, -1.120816
+index 141: -1.193948, -1.144144
+index 142: -1.146417, -1.099074
+index 143: -1.103512, -1.181596
+index 144: -1.126458, -1.201077
+index 145: -0.944932, -1.056272
+index 146: -0.541017, -0.789709
+index 148: -0.751847, -1.083688
+index 154: -1.129444, -1.148398
+index 155: -0.947082, -1.132953
+index 156: -0.965784, -1.109754
+index 158: -1.326341, -1.142790
+index 161: -1.023142, -1.100964
+index 165: -1.125796, -1.083487
+index 166: -1.130412, -1.030786
+index 169: -1.351438, -0.958782
+index 171: -0.415313, -0.734486
+index 174: -1.233745, -1.007385
+index 183: -0.007381, -0.340177
+index 187: 0.419478, -0.081951
+index 203: 0.412045, -0.073475
+index 221: -0.159020, -0.387640
+index 234: -6.829649, 5.932283
+index 288: -6.829649, 5.932283
+index 308: -0.876082, -0.610554
+index 349: 0.015452, -0.804719
+index 359: 0.154335, -1.045792
+index 362: 0.099808, -0.915471
+index 363: 0.093325, -0.966153
+index 364: 0.167403, -0.866064
+index 367: 0.147970, -0.939631
+index 372: 0.144624, -0.928034
+index 373: -0.117469, -0.900169
+index 380: 0.015444, -0.987143
+index 381: -0.007965, -0.977824
+index 382: 0.048045, -0.978256
+index 384: 0.192055, -0.819327
+index 389: 0.276863, -0.813190
+index 392: 0.090475, -0.905511
+index 404: 0.560708, -0.347423
+index 422: -0.002932, -0.763330
+index 441: -0.006808, -0.728974
+index 462: -1.230404, -1.003526
+index 492: -0.981164, -0.752083
+index 503: -1.566423, -1.393328
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.3536    0.4397    0.5025
+    0.0493    0.0557    0.0672
+    0.0493    0.0557    0.0672
+
+Overall results (hybrid)
+Confidence threshold=0.7
+Filtered datapoints
+Prediction points: 69.100000 (stddev 16.863243)
+Individual AUCs:
+    0.7375
+    0.6935
+    0.6658
+    0.8294
+    0.7100
+    0.5376
+    0.5994
+    0.6300
+    0.5521
+    0.6938
+    0.6365
+    0.7281
+    0.7658
+    0.6865
+    0.7217
+    0.7488
+    0.7181
+    0.8083
+    0.7333
+    0.7121
+    0.6897
+    0.7321
+    0.7733
+    0.5846
+    0.8526
+    0.7840
+    0.7327
+    0.7229
+    0.6585
+    0.8692
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7103
+
+    0.0804
+
+    0.0804
+
+Precision / Recall macro
+    0.8610    0.3743
+
+Precision / Recall micro
+    0.8543    0.3752
+
+Std devs
+    0.0558    0.0927
+
+
+Using threshold of 0.087234
+Eliminated 74 points
+Completed iteration 1
+
+Using threshold of 0.081842
+Eliminated 54 points
+Completed iteration 2
+
+Using threshold of 0.109393
+Eliminated 72 points
+Completed iteration 3
+
+Using threshold of 0.160005
+Eliminated 95 points
+Completed iteration 4
+
+Using threshold of 0.116826
+Eliminated 80 points
+Completed iteration 5
+
+Using threshold of 0.081923
+Eliminated 53 points
+Completed iteration 6
+
+Using threshold of 0.111168
+Eliminated 65 points
+Completed iteration 7
+
+Using threshold of 0.161251
+Eliminated 96 points
+Completed iteration 8
+
+Using threshold of 0.085784
+Eliminated 90 points
+Completed iteration 9
+
+Using threshold of 0.078554
+Eliminated 77 points
+Completed iteration 10
+
+Using threshold of 0.134397
+Eliminated 51 points
+Completed iteration 11
+
+Using threshold of 0.116792
+Eliminated 74 points
+Completed iteration 12
+
+Using threshold of 0.090841
+Eliminated 75 points
+Completed iteration 13
+
+Using threshold of 0.078414
+Eliminated 33 points
+Completed iteration 14
+
+Using threshold of 0.244206
+Eliminated 82 points
+Completed iteration 15
+
+Using threshold of 0.142099
+Eliminated 81 points
+Completed iteration 16
+
+Using threshold of 0.074267
+Eliminated 86 points
+Completed iteration 17
+
+Using threshold of 0.147439
+Eliminated 86 points
+Completed iteration 18
+
+Using threshold of 0.128179
+Eliminated 96 points
+Completed iteration 19
+
+Using threshold of 0.088123
+Eliminated 66 points
+Completed iteration 20
+
+Using threshold of 0.093921
+Eliminated 62 points
+Completed iteration 21
+
+Using threshold of 0.140884
+Eliminated 75 points
+Completed iteration 22
+
+Using threshold of 0.108794
+Eliminated 56 points
+Completed iteration 23
+
+Using threshold of 0.084735
+Eliminated 65 points
+Completed iteration 24
+
+Using threshold of 0.106761
+Eliminated 88 points
+Completed iteration 25
+
+Using threshold of 0.101067
+Eliminated 55 points
+Completed iteration 26
+
+Using threshold of 0.100015
+Eliminated 53 points
+Completed iteration 27
+
+Using threshold of 0.109820
+Eliminated 77 points
+Completed iteration 28
+
+Using threshold of 0.116786
+Eliminated 68 points
+Completed iteration 29
+
+Using threshold of 0.088631
+Eliminated 67 points
+Completed iteration 30
+Printing all grasps falling into high-precision nodes. Conf=0.800000
+Node index 61
+  123.0000   -1.2860   -1.1031
+  126.0000   -1.3861   -1.1349
+  129.0000   -1.2763   -1.0982
+  131.0000   -0.9495   -1.1644
+  135.0000   -1.2508   -1.0639
+  136.0000   -1.0430   -1.0751
+  140.0000   -1.1285   -1.1208
+  141.0000   -1.1939   -1.1441
+  142.0000   -1.1464   -1.0991
+  143.0000   -1.1035   -1.1816
+  144.0000   -1.1265   -1.2011
+  145.0000   -0.9449   -1.0563
+  146.0000   -0.5410   -0.7897
+  148.0000   -0.7518   -1.0837
+  154.0000   -1.1294   -1.1484
+  155.0000   -0.9471   -1.1330
+  156.0000   -0.9658   -1.1098
+  158.0000   -1.3263   -1.1428
+  161.0000   -1.0231   -1.1010
+  165.0000   -1.1258   -1.0835
+  166.0000   -1.1304   -1.0308
+  169.0000   -1.3514   -0.9588
+  171.0000   -0.4153   -0.7345
+  174.0000   -1.2337   -1.0074
+  183.0000   -0.0074   -0.3402
+  187.0000    0.4195   -0.0820
+  203.0000    0.4120   -0.0735
+  221.0000   -0.1590   -0.3876
+  234.0000   -6.8296    5.9323
+  288.0000   -6.8296    5.9323
+  308.0000   -0.8761   -0.6106
+  349.0000    0.0155   -0.8047
+  359.0000    0.1543   -1.0458
+  362.0000    0.0998   -0.9155
+  363.0000    0.0933   -0.9662
+  364.0000    0.1674   -0.8661
+  367.0000    0.1480   -0.9396
+  372.0000    0.1446   -0.9280
+  373.0000   -0.1175   -0.9002
+  380.0000    0.0154   -0.9871
+  381.0000   -0.0080   -0.9778
+  382.0000    0.0480   -0.9783
+  384.0000    0.1921   -0.8193
+  389.0000    0.2769   -0.8132
+  392.0000    0.0905   -0.9055
+  404.0000    0.5607   -0.3474
+  422.0000   -0.0029   -0.7633
+  441.0000   -0.0068   -0.7290
+  462.0000   -1.2304   -1.0035
+  492.0000   -0.9812   -0.7521
+  503.0000   -1.5664   -1.3933
+
+51 points dumped in total
+index 123: -1.286012, -1.103101
+index 126: -1.386119, -1.134917
+index 129: -1.276321, -1.098237
+index 131: -0.949541, -1.164423
+index 135: -1.250809, -1.063940
+index 136: -1.042996, -1.075127
+index 140: -1.128468, -1.120816
+index 141: -1.193948, -1.144144
+index 142: -1.146417, -1.099074
+index 143: -1.103512, -1.181596
+index 144: -1.126458, -1.201077
+index 145: -0.944932, -1.056272
+index 146: -0.541017, -0.789709
+index 148: -0.751847, -1.083688
+index 154: -1.129444, -1.148398
+index 155: -0.947082, -1.132953
+index 156: -0.965784, -1.109754
+index 158: -1.326341, -1.142790
+index 161: -1.023142, -1.100964
+index 165: -1.125796, -1.083487
+index 166: -1.130412, -1.030786
+index 169: -1.351438, -0.958782
+index 171: -0.415313, -0.734486
+index 174: -1.233745, -1.007385
+index 183: -0.007381, -0.340177
+index 187: 0.419478, -0.081951
+index 203: 0.412045, -0.073475
+index 221: -0.159020, -0.387640
+index 234: -6.829649, 5.932283
+index 288: -6.829649, 5.932283
+index 308: -0.876082, -0.610554
+index 349: 0.015452, -0.804719
+index 359: 0.154335, -1.045792
+index 362: 0.099808, -0.915471
+index 363: 0.093325, -0.966153
+index 364: 0.167403, -0.866064
+index 367: 0.147970, -0.939631
+index 372: 0.144624, -0.928034
+index 373: -0.117469, -0.900169
+index 380: 0.015444, -0.987143
+index 381: -0.007965, -0.977824
+index 382: 0.048045, -0.978256
+index 384: 0.192055, -0.819327
+index 389: 0.276863, -0.813190
+index 392: 0.090475, -0.905511
+index 404: 0.560708, -0.347423
+index 422: -0.002932, -0.763330
+index 441: -0.006808, -0.728974
+index 462: -1.230404, -1.003526
+index 492: -0.981164, -0.752083
+index 503: -1.566423, -1.393328
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+Interpolation failed - throwing out 3 points
+Interpolation failed - throwing out 4 points
+Interpolation failed - throwing out 5 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.3627    0.4851    0.5334
+    0.0561    0.0674    0.0736
+    0.0561    0.0674    0.0736
+
+Overall results (hybrid)
+Confidence threshold=0.8
+Filtered datapoints
+Prediction points: 58.266667 (stddev 15.312680)
+Individual AUCs:
+    0.8909
+    0.6490
+    0.7729
+    0.8125
+    0.7734
+    0.7456
+    0.6732
+    0.5952
+    0.8857
+    0.6017
+    0.7381
+    0.7889
+    0.7912
+    0.6927
+    0.8034
+    0.7102
+    0.6564
+    0.7375
+    0.5862
+    0.7187
+    0.6176
+    0.8529
+    0.6545
+    0.7222
+    0.6449
+    0.6768
+    0.6996
+    0.7556
+    0.6369
+    0.6132
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7166
+
+    0.0847
+
+    0.0847
+
+Precision / Recall macro
+    0.8843    0.3082
+
+Precision / Recall micro
+    0.8773    0.3080
+
+Std devs
+    0.0636    0.0827
+
+
+Using threshold of 0.100275
+Eliminated 96 points
+Completed iteration 1
+
+Using threshold of 0.068113
+Eliminated 79 points
+Completed iteration 2
+
+Using threshold of 0.062661
+Eliminated 81 points
+Completed iteration 3
+
+Using threshold of 0.105490
+Eliminated 97 points
+Completed iteration 4
+
+Using threshold of 0.133325
+Eliminated 82 points
+Completed iteration 5
+
+Using threshold of 0.084883
+Eliminated 73 points
+Completed iteration 6
+
+Using threshold of 0.094636
+Eliminated 101 points
+Completed iteration 7
+
+Using threshold of 0.221781
+Eliminated 68 points
+Completed iteration 8
+
+Using threshold of 0.052383
+Eliminated 59 points
+Completed iteration 9
+
+Using threshold of 0.076972
+Eliminated 91 points
+Completed iteration 10
+
+Using threshold of 0.121372
+Eliminated 95 points
+Completed iteration 11
+
+Using threshold of 0.092328
+Eliminated 87 points
+Completed iteration 12
+
+Using threshold of 0.097969
+Eliminated 88 points
+Completed iteration 13
+
+Using threshold of 0.143745
+Eliminated 91 points
+Completed iteration 14
+
+Using threshold of 0.117302
+Eliminated 67 points
+Completed iteration 15
+
+Using threshold of 0.148405
+Eliminated 111 points
+Completed iteration 16
+
+Using threshold of 0.061194
+Eliminated 83 points
+Completed iteration 17
+
+Using threshold of 0.127293
+Eliminated 75 points
+Completed iteration 18
+
+Using threshold of 0.106644
+Eliminated 54 points
+Completed iteration 19
+
+Using threshold of 0.101522
+Eliminated 84 points
+Completed iteration 20
+
+Using threshold of 0.103841
+Eliminated 75 points
+Completed iteration 21
+
+Using threshold of 0.104220
+Eliminated 81 points
+Completed iteration 22
+
+Using threshold of 0.087610
+Eliminated 103 points
+Completed iteration 23
+
+Using threshold of 0.161042
+Eliminated 71 points
+Completed iteration 24
+
+Using threshold of 0.079819
+Eliminated 90 points
+Completed iteration 25
+
+Using threshold of 0.122294
+Eliminated 79 points
+Completed iteration 26
+
+Using threshold of 0.151648
+Eliminated 104 points
+Completed iteration 27
+
+Using threshold of 0.096132
+Eliminated 74 points
+Completed iteration 28
+
+Using threshold of 0.088905
+Eliminated 83 points
+Completed iteration 29
+
+Using threshold of 0.094412
+Eliminated 80 points
+Completed iteration 30
+Printing all grasps falling into high-precision nodes. Conf=0.900000
+0 points dumped in total
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+Interpolation failed - throwing out 3 points
+Interpolation failed - throwing out 4 points
+Interpolation failed - throwing out 5 points
+Interpolation failed - throwing out 6 points
+Interpolation failed - throwing out 7 points
+Interpolation failed - throwing out 8 points
+Interpolation failed - throwing out 9 points
+Interpolation failed - throwing out 10 points
+Interpolation failed - throwing out 11 points
+Interpolation failed - throwing out 12 points
+Interpolation failed - throwing out 13 points
+Interpolation failed - throwing out 14 points
+Interpolation failed - throwing out 15 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.4648    0.5314    0.5575
+    0.0608    0.0751    0.0742
+    0.0608    0.0751    0.0742
+
+Overall results (hybrid)
+Confidence threshold=0.9
+Filtered datapoints
+Prediction points: 46.600000 (stddev 13.226410)
+Individual AUCs:
+    0.8221
+    0.6744
+    0.8446
+    0.7840
+    0.7187
+    0.7558
+    0.7500
+    0.7296
+    0.5816
+    0.7621
+    0.8426
+    0.7162
+    0.7066
+    0.7824
+    0.5997
+    0.7000
+    0.7222
+    0.8760
+    0.6650
+    0.6887
+    0.5956
+    0.7287
+    0.6087
+    0.6956
+    0.7879
+    0.7244
+    0.7429
+    0.6953
+    0.7626
+    0.7366
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7267
+
+    0.0726
+
+    0.0726
+
+Precision / Recall macro
+    0.8930    0.2442
+
+Precision / Recall micro
+    0.8804    0.2434
+
+Std devs
+    0.0785    0.0713
+
+computation time (s)
+  211.8320
+

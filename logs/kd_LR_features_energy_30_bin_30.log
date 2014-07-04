@@ -1,0 +1,18 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:30
+energy base:30
+using confidence:1
+Number of bins: 16
+Average bin size: 2.187500e+01
+
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('precisionAndRecall', 'Z:\Thesis\robotic-grasp\precisionAndRecall.m', 14)" style="font-weight:bold">precisionAndRecall</a> (<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\precisionAndRecall.m',14,0)">line 14</a>)
+Not enough input arguments.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('GraspIt_kdtree_LR_conf_features', 'Z:\Thesis\robotic-grasp\GraspIt_kdtree_LR_conf_features.m', 202)" style="font-weight:bold">GraspIt_kdtree_LR_conf_features</a> (<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\GraspIt_kdtree_LR_conf_features.m',202,0)">line 202</a>)
+        [base_precision, ~] = precisionAndRecall({mf > lrCutoff},{res > physicalCutoff},true);
+} 
+dbup
+In workspace belonging to <a href="matlab: opentoline('Z:\Thesis\robotic-grasp\GraspIt_kdtree_LR_conf_features.m',202,1)">GraspIt_kdtree_LR_conf_features at 202</a>
+if system_dependent('IsDebugMode')==1, dbquit; end
+GP_precision_baseline(30,30)

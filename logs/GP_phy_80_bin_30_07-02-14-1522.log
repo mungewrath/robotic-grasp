@@ -1,0 +1,496 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:30
+crowdsource cutoff:0.8
+using confidence:1
+Number of bins: 31
+Average bin size: 1.683871e+01
+
+Eliminated 0 points
+mf_unfiltered > .5
+
+ans =
+
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+
+mf_unfiltered > .14
+
+ans =
+
+     0
+     0
+     1
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     1
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     1
+     0
+     0
+     1
+     0
+     1
+     0
+     1
+     0
+     1
+     0
+     0
+     1
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+
+isomapPredictions(data(testIndices),res_unfiltered,mf_unfiltered,'Visualizating Crowdsource');
+<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\isomapPredictions.m',6,1)">6   </a>    distances = L2_distance(data',data',1);
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 6
+  Embedding component 1 with 49 points.
+if system_dependent('IsDebugMode')==1, dbstep out; end
+Constructing low-dimensional embeddings (Classical MDS)...
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+isomapPredictions(data(testIndices),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource');
+<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\isomapPredictions.m',6,1)">6   </a>    distances = L2_distance(data',data',1);
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 6
+  Embedding component 1 with 49 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+isomapPredictions(data(testIndices),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource');
+<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\isomapPredictions.m',6,1)">6   </a>    distances = L2_distance(data',data',1);
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 6
+  Embedding component 1 with 49 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Y.coords
+
+ans = 
+
+    [2x49 double]
+
+Y.coords{1}
+
+ans =
+
+  Columns 1 through 6
+
+   -0.1466   -0.1466    0.3836   -0.1466   -0.1466   -0.1466
+    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000
+
+  Columns 7 through 12
+
+    0.0231   -0.1466   -0.1466    0.8382   -0.1466    0.5750
+    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000
+
+  Columns 13 through 18
+
+   -0.1466    0.9168   -0.1466    0.4727   -0.1466    0.1100
+    0.0000   -0.0000    0.0000    0.0000    0.0000    0.0000
+
+  Columns 19 through 24
+
+   -0.1466    0.1011   -0.1466   -0.1466   -0.1466    0.7564
+    0.0000    0.0000    0.0000    0.0000    0.0000   -0.0000
+
+  Columns 25 through 30
+
+   -0.1466   -0.1466   -0.1466   -0.1466   -0.1466   -0.1466
+    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000
+
+  Columns 31 through 36
+
+   -0.1466   -0.1466   -0.1466   -0.1466    0.2862   -0.1466
+    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000
+
+  Columns 37 through 42
+
+   -0.1466   -0.1466   -0.1466   -0.1466   -0.1466   -0.1466
+    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000
+
+  Columns 43 through 48
+
+   -0.1466    0.6020    0.3582   -0.1466   -0.1466   -0.1466
+    0.0000    0.0000    0.0000    0.0000    0.0000    0.0000
+
+  Column 49
+
+   -0.1466
+    0.0000
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource');
+<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\isomapPredictions.m',6,1)">6   </a>    distances = L2_distance(data',data',1);
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 1
+  Embedding component 1 with 130 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource',2);
+{Error using <a href="matlab:helpUtils.errorDocCallback('exist')" style="font-weight:bold">exist</a>
+The optional second input to exist must be 'var', 'builtin',
+'class', 'dir' or 'file'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('isomapPredictions', 'Z:\Thesis\robotic-grasp\isomapPredictions.m', 12)" style="font-weight:bold">isomapPredictions</a> (<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\isomapPredictions.m',12,0)">line 12</a>)
+    if ~exist('k',1)
+} 
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource');
+{Error using <a href="matlab:helpUtils.errorDocCallback('exist')" style="font-weight:bold">exist</a>
+The optional second input to exist must be 'var', 'builtin',
+'class', 'dir' or 'file'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('isomapPredictions', 'Z:\Thesis\robotic-grasp\isomapPredictions.m', 12)" style="font-weight:bold">isomapPredictions</a> (<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\isomapPredictions.m',12,0)">line 12</a>)
+    if ~exist('k',1)
+} 
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource');
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 1
+  Embedding component 1 with 130 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource',2);
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 3
+  Embedding component 1 with 65 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource',4);
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 1
+  Embedding component 1 with 130 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource',5);
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 1
+  Embedding component 1 with 130 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource',6);
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 1
+  Embedding component 1 with 130 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource',7);
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 1
+  Embedding component 1 with 130 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource',15);
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 1
+  Embedding component 1 with 130 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+isomapPredictions(data(testIndices,:),res_unfiltered,mf_unfiltered > .14,'Visualizating Crowdsource',6);
+Constructing neighborhood graph...
+Computing shortest paths...
+Checking for outliers...
+  Number of connected components in graph: 1
+  Embedding component 1 with 130 points.
+Constructing low-dimensional embeddings (Classical MDS)...
+if system_dependent('IsDebugMode')==1, dbquit; end
+GP_crowdsource(.8,30)

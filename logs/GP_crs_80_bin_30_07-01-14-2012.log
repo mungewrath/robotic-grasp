@@ -1,0 +1,221 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:30
+crowdsource cutoff:0.8
+using confidence:1
+Number of bins: 31
+Average bin size: 1.683871e+01
+
+
+Eliminated 0 points
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+Completed iteration 1
+
+
+Eliminated 0 points
+Completed iteration 2
+
+
+Eliminated 0 points
+Completed iteration 3
+
+
+Eliminated 0 points
+Completed iteration 4
+
+
+Eliminated 0 points
+Completed iteration 5
+
+
+Eliminated 0 points
+Completed iteration 6
+
+
+Eliminated 0 points
+Completed iteration 7
+
+
+Eliminated 0 points
+Completed iteration 8
+
+
+Eliminated 0 points
+Completed iteration 9
+
+
+Eliminated 0 points
+Completed iteration 10
+
+
+Eliminated 0 points
+Completed iteration 11
+
+
+Eliminated 0 points
+Completed iteration 12
+
+
+Eliminated 0 points
+Completed iteration 13
+
+
+Eliminated 0 points
+Completed iteration 14
+
+
+Eliminated 0 points
+Completed iteration 15
+
+
+Eliminated 0 points
+Completed iteration 16
+
+
+Eliminated 0 points
+Completed iteration 17
+
+
+Eliminated 0 points
+Completed iteration 18
+
+
+Eliminated 0 points
+Completed iteration 19
+
+
+Eliminated 0 points
+Completed iteration 20
+
+
+Eliminated 0 points
+Completed iteration 21
+
+
+Eliminated 0 points
+Completed iteration 22
+
+
+Eliminated 0 points
+Completed iteration 23
+
+
+Eliminated 0 points
+Completed iteration 24
+
+
+Eliminated 0 points
+Completed iteration 25
+
+
+Eliminated 0 points
+Completed iteration 26
+
+
+Eliminated 0 points
+Completed iteration 27
+
+
+Eliminated 0 points
+Completed iteration 28
+
+
+Eliminated 0 points
+Completed iteration 29
+
+
+Eliminated 0 points
+Completed iteration 30
+Confidence threshold=0
+Overall results (physical)
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+Interpolation failed - throwing out 3 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2654    0.3893    0.4644
+    0.0055    0.0083    0.0075
+    0.0299    0.0455    0.0412
+
+Prediction points: 130.000000 (stddev 0.000000)
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7557
+
+    0.0077
+
+    0.0422
+
+Precision / Recall macro
+    0.7434    0.9951
+
+Precision / Recall micro
+    0.7432    0.9951
+
+Std devs
+    0.0338    0.0089
+
+Overall results (crowdsource)
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.3108    0.3773    0.4164
+    0.0066    0.0081    0.0081
+    0.0360    0.0443    0.0446
+
+Prediction points: 130.000000 (stddev 0.000000)
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.6446
+
+    0.0110
+
+    0.0605
+
+Precision / Recall macro
+    0.9362    0.3265
+
+Precision / Recall micro
+    0.9336    0.3262
+
+Std devs
+    0.0464    0.0599
+
+Overall results (hybrid)
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1750    0.2544    0.3103
+    0.0319    0.0374    0.0390
+    0.0319    0.0374    0.0390
+
+Prediction points: 130.000000 (stddev 0.000000)
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.6295
+
+    0.0598
+
+    0.0598
+
+Precision / Recall macro
+    0.7756    0.8407
+
+Precision / Recall micro
+    0.7749    0.8408
+
+Std devs
+if system_dependent('IsDebugMode')==1, dbquit; end
+GP_crowdsource_hybrid(.8,30)

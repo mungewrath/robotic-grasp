@@ -1,0 +1,77 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:30
+crowdsource cutoff:0.8
+using confidence:1
+Number of bins: 31
+Average bin size: 1.683871e+01
+
+corr(+(groundtruth(validationIndices) >= physicalCutoff),mf)
+
+ans =
+
+    0.4484
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+corr(+(groundtruth(validationIndices) >= physicalCutoff),mf)
+
+ans =
+
+    0.2432
+
+getNodeCorrelations(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff, groundtruth(validationIndices) >= physicalCutoff)
+{Undefined function 'getNodeCorrelations' for input arguments of type 'double'.
+} 
+getNodeCorrelations(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff, groundtruth(validationIndices) >= physicalCutoff)
+{Error using <a href="matlab:helpUtils.errorDocCallback('corr', 'C:\Program Files\MATLAB\R2013b\toolbox\stats\stats\corr.m', 87)" style="font-weight:bold">corr</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\stats\stats\corr.m',87,0)">line 87</a>)
+Requires a data matrix X.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('getNodeCorrelations', 'Z:\Thesis\robotic-grasp\getNodeCorrelations.m', 16)" style="font-weight:bold">getNodeCorrelations</a> (<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\getNodeCorrelations.m',16,0)">line 16</a>)
+        correlations(i) = corr(preds,actuals_i);
+} 
+getNodeCorrelations(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff, groundtruth(validationIndices) >= physicalCutoff)
+<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\getNodeCorrelations.m',16,1)">16  </a>        correlations(i) = corr(preds,actuals_i);
+corr(+preds,+actuals_i)
+
+ans =
+
+   NaN
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+corr(+preds,+actuals_i)
+
+ans =
+
+   NaN
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Error using <a href="matlab:helpUtils.errorDocCallback('corr', 'C:\Program Files\MATLAB\R2013b\toolbox\stats\stats\corr.m', 87)" style="font-weight:bold">corr</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\stats\stats\corr.m',87,0)">line 87</a>)
+Requires a data matrix X.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('getNodeCorrelations', 'Z:\Thesis\robotic-grasp\getNodeCorrelations.m', 16)" style="font-weight:bold">getNodeCorrelations</a> (<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\getNodeCorrelations.m',16,0)">line 16</a>)
+        correlations(i) = corr(preds,actuals_i);
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+GP_crowdsource_hybrid(.8,30,30)

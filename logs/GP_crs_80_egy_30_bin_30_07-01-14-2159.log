@@ -1,0 +1,81 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:30
+crowdsource cutoff:0.8
+using confidence:1
+Number of bins: 31
+Average bin size: 1.683871e+01
+
+getNodeCorrelations(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff, groundtruth(validationIndices) >= physicalCutoff)
+
+ans =
+
+    1.0000
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+    0.5774
+       NaN
+       NaN
+    0.6455
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+    0.4889
+   -0.0000
+       NaN
+       NaN
+    0.6814
+   -0.5000
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+getNodeCorrelations(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff, groundtruth(validationIndices) >= physicalCutoff)
+
+ans =
+
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+   -0.4880
+       NaN
+    0.3162
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+       NaN
+    0.5046
+    0.3015
+       NaN
+       NaN
+    0.7845
+       NaN
+

@@ -1,0 +1,27 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:30
+crowdsource cutoff:0.8
+using confidence:1
+Number of bins: 31
+Average bin size: 1.683871e+01
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+Using threshold of 0.840677
+
+Using threshold of 0.141600
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('filterPredictionSet', 'Z:\Thesis\robotic-grasp\filterPredictionSet.m', 7)" style="font-weight:bold">filterPredictionSet</a> (<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\filterPredictionSet.m',7,0)">line 7</a>)
+        C = confidences(nodeIndices==idx);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('GP_crowdsource_hybrid', 'Z:\Thesis\robotic-grasp\GP_crowdsource_hybrid.m', 261)" style="font-weight:bold">GP_crowdsource_hybrid</a> (<a href="matlab: opentoline('Z:\Thesis\robotic-grasp\GP_crowdsource_hybrid.m',261,0)">line 261</a>)
+        [testx, eliminated, elimIndices] = filterPredictionSet(confidence_cutoff, nodeIndices, confidences(1), tree,
+        data(testIndices,:));
+} 
+dbup
+In workspace belonging to <a href="matlab: opentoline('Z:\Thesis\robotic-grasp\GP_crowdsource_hybrid.m',261,1)">GP_crowdsource_hybrid at 261</a>
+if system_dependent('IsDebugMode')==1, dbquit; end
+GP_crowdsource_hybrid(.8,30)
