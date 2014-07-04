@@ -2,7 +2,7 @@
     %//////////////////////////////////////////////////////////////////////////
     %------Start LOAD FILES---------------------------------------
     %//////////////////////////////////////////////////////////////////////////
-    clc, clearvars -except me energycutoff binThreshold
+    clc, clearvars -except me energycutoff crowdsourceCutoff binThreshold use_timestamp
     close all
 
     c = clock;
@@ -12,8 +12,10 @@
     %me = callingFile;                                            % what is my filename
     %mydir = which(me); mydir = mydir(1:end-2-numel(me));        % where am I located
     % Hard-coded path for now
-    mydir = 'RobotGrasp2\';
-    savedir = '.\';
+    [savedir, ~, ~] = fileparts(mfilename('fullpath'));
+    savedir = strcat(savedir,'\');
+    mydir = [savedir,'RobotGrasp2\'];
+    addpath(strcat(savedir,'logs'))
    
     if exist('me','var')
         f = me;
@@ -21,8 +23,8 @@
         f = mfilename;
     end
     
-    if exist('use_timestamp','var') && use_timestamp == false
-        diary(strcat(savedir,'logs/',f,'.log'));
+    if exist('use_timestamp','var') && use_timestamp == true
+        diary(strcat(savedir,'logs/',f,'_',datestr(now,'mm-dd-yy-HHMM'),'.log'));
     else
         diary(strcat(savedir,'logs/',f,'.log'));
     end
@@ -41,8 +43,8 @@
     addpath([savedir, 'toolbox_graph\toolbox_graph'])
     addpath([savedir, 'toolbox_graph\toolbox_graph\toolbox'])
 
-    addpath([mydir,'LDA'])
-    addpath([mydir,'roccurves'])
+%    addpath([mydir,'LDA'])
+%    addpath([mydir,'roccurves'])
 
     clear mydir
     %------------End Load Files----------------------------------------------

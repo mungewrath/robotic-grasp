@@ -112,7 +112,7 @@ data = sphereize(data);
 
 % Run PCA on a copy for plotting the contour
 finalDimensionNum = 2;
-[~,data_pca,latent] = pca(data);
+[~,data_pca,~] = pca(data);
 
 %Reduce components based on earlier specifications
 data_pca = data_pca(:,logical([ones(1,finalDimensionNum) zeros(1,size(data,2)-finalDimensionNum)]));
@@ -123,17 +123,17 @@ physicalCutoff = .8;
 % Linear regression prediction must be >= this value to be positive
 lrCutoff = .5;
 
+fprCutoff = .25;
+
 %------------End condition Data-----------------------------------------
 % ----- End copied code ----- %
 
-loopn = 100;
+loopn = 30;
 
 % Data to use as testing set. If < 1, it is interpreted as
 % a percentage; if >= 1, selects this many data points for the set.
 testProportion = .33;
 train2Proportion = .33;
-
-summaryStats = [];
 
 filter_with_confidence = 1;
 
@@ -224,7 +224,7 @@ for confidence_cutoff = confidence_thresholds
     
         trainData = data_pca;
         %trainy = (groundtruth >= physicalCutoff);
-        trainy = (results1 <= energycutoff);
+        %trainy = (results1 <= energycutoff);
         
         % Make testx vector of appropriate size
         if(train2Proportion >= 1)
@@ -262,7 +262,9 @@ for confidence_cutoff = confidence_thresholds
         end
         
         % Classify the train2 points
-        [mf, s2f, fmu, fs2] = gp(hyp, inffunc, meanfunc, covfunc, likfunc,trainData,trainy,train2x);
+        [mf, ~, ~, ~] = gp(hyp, inffunc, meanfunc, covfunc, likfunc,trainData,trainy,train2x);
+        lrCutoff = fprThreshold(+(groundtruth(train2Indices) >= physicalCutoff),mf,fprCutoff);
+        fprintf('Using threshold of %f\n',lrCutoff);
         
         % For every index in nodeIndices:
         % compute the confidence rating by looking at ground truth
