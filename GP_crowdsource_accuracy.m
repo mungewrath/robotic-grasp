@@ -1,12 +1,16 @@
 %% GP_precision_baseline.m
-%% 6/20/14
+%% 7/3/14
 %  Trains a GP and outputs predictions based on crowdsource. Used for
 %  the poster as a baseline for the LR hybrid classifier.
+%  Looks at classifier success at a number of thresholds, based on FPR
+%  cutoffs defined during validation.
+%  Also replaces the usual confidence filtering with accuracy (correct /
+%  total predictions)
 %%
-function GP_crowdsource(crowdsourceCutoff,binThreshold)
+function GP_crowdsource_accuracy(crowdsourceCutoff,binThreshold)
 
 %me = mfilename;
-me = sprintf('GP_phy_%d_bin_%d',crowdsourceCutoff*100,binThreshold);
+me = sprintf('GP_acc_phy_%d_bin_%d',crowdsourceCutoff*100,binThreshold);
 use_timestamp = true;
 thesisStartup;
 
@@ -19,9 +23,6 @@ warning('off','all');
 
 % Number of features to read
 dimensionCount = 11;
-
-%AUC Evaluation Parameters
-cutoff = .8;        %Anything >= this value is classified as a success
 
 %Data Storage
 data = [];          %X parameters for GP Classifier
@@ -122,10 +123,6 @@ data_pca = data_pca(:,logical([ones(1,finalDimensionNum) zeros(1,size(data,2)-fi
 % Testing only on physical testing successes
 physicalCutoff = .8;
 
-% Linear regression prediction must be >= this value to be positive
-lrCutoff = .5;
-fprCutoff = .25;
-
 %------------End condition Data-----------------------------------------
 % ----- End copied code ----- %
 
@@ -200,9 +197,10 @@ for confidence_cutoff = confidence_thresholds
     prediction_points = zeros(loopn,1);
     
     %auc = zeros(1,loopn);
-    auc = [];
-    rocx = [];
-    rocy = [];
+    fprCutoffs = [.05, .10, .15];
+    auc = cell(1,length(fprCutoffs));
+    rocx = cell(1,length(fprCutoffs));
+    rocy = cell(1,length(fprCutoffs));
     
     % Passed to contour3d - added to each iteration
     mfout = [];
@@ -224,12 +222,12 @@ for confidence_cutoff = confidence_thresholds
         hyp.cov(1:covdepth) = log(1);
         hyp.lik(1:1) = -.2;
     
-        datasetName = 'Physical testing';
-        y = (groundtruth >= physicalCutoff);
-        %datasetName = 'Crowdsource';
-        %y = (results_voting >= crowdsourceCutoff);
+        %datasetName = 'Physical testing';
+        %y = (groundtruth >= physicalCutoff);
+        datasetName = 'Crowdsource';
+        y = (results_voting >= crowdsourceCutoff);
         %datasetName = 'Energy';
-        energycutoff = crowdsourceCutoff;
+        %energycutoff = crowdsourceCutoff;
         %y = (results1 <= energycutoff);
         
         % Make testx vector of appropriate size
@@ -248,7 +246,6 @@ for confidence_cutoff = confidence_thresholds
         % Classify the train2 points
         %[mf, s2f, fmu, fs2] = gp(hyp, inffunc, meanfunc, covfunc, likfunc,train2x,train2y,validationx);
         [mf, ~, ~, ~] = gp(hyp, inffunc, meanfunc, covfunc, likfunc,data_pca(train2Indices,:),y(train2Indices),data_pca(validationIndices,:));
-        fprCutoffs = [.05, .10, .15];
         lrCutoff = zeros(length(fprCutoffs),1);
         for k = 1:length(fprCutoffs)
             lrCutoff(k) = fprThreshold(+(groundtruth(validationIndices) >= physicalCutoff),mf,fprCutoffs(k));
@@ -258,6 +255,7 @@ for confidence_cutoff = confidence_thresholds
         
         %confidences = getNodeConfidences(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff, groundtruth(validationIndices) >= physicalCutoff);
         confidences = zeros(length(nodeIndices),length(fprCutoffs));
+        skipIteration = false;
         for k = 1:length(fprCutoffs)
             confidences(:,k) = getNodeAccuracies(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff(k), groundtruth(validationIndices) >= physicalCutoff);
 
@@ -266,13 +264,18 @@ for confidence_cutoff = confidence_thresholds
             % If confidence for the index is not high, remove from test set
             [~, ~, eliminateIndices(:,k)] = filterPredictionSet(confidence_cutoff, nodeIndices, confidences(:,k), tree, data(testIndices,:));
 
-            fprintf('Eliminated %d points for FPR=%f\n',sum(eliminateIndices(:,k)),fprCutoff(k));
-            testIndices_final(:,k) = testIndices(~eliminateIndices(:,k));
+            fprintf('Eliminated %d points for FPR=%f\n',sum(eliminateIndices(:,k)),fprCutoffs(k));
+            testIndices_final{k} = testIndices(~eliminateIndices(:,k));
 
-            if size(data_pca(testIndices_final(:,k),:),1) < 10
-                disp('Not enough valid test points; skipping iteration.');
-                continue;
+            if size(data_pca(testIndices_final{k},:),1) < 10
+                skipIteration = true;
+                break;
             end
+        end
+        
+        if skipIteration
+            disp('Not enough valid test points; skipping iteration.');
+            continue;
         end
         
         % Keeps track of which predictions were from which nodes
@@ -282,43 +285,58 @@ for confidence_cutoff = confidence_thresholds
             idx = kdGetBinIndex(tree,data(testIndices(i),:));
             test_containing_nodes(i) = idx;
         end
-        test_containing_nodes_filtered = test_containing_nodes(~eliminateIndices);
         
         % Classify the filtered points
         [mf_unfiltered, s2f, fmu, fs2] = gp(hyp, inffunc, meanfunc, covfunc, likfunc,data_pca(train2Indices,:),y(train2Indices),data_pca(testIndices,:));
        
-        res = +(groundtruth(testIndices_final) >= cutoff);
-        res_unfiltered = +(groundtruth(testIndices) >= cutoff);
-        mf = mf_unfiltered(~eliminateIndices);
-        mf_unfiltered = normalizeer(mf_unfiltered);
+        res_unfiltered = +(groundtruth(testIndices) >= physicalCutoff);
         
-        %% create isomap visualizations 
-%         filterFPRs = [.05, .10, .15];
-%         for filterLevel = filterFPRs
-%             threshold = fprThreshold(res_unfiltered,mf_unfiltered,filterLevel);
-%             for k = 2:7
-%                 visualizedPoints = isomapPredictions(data(testIndices,:),mf_unfiltered >= threshold,res_unfiltered,sprintf('Visualization for %s (FPR = %f, k = %d)\nBlue/Red = correct/incorrect prediction',datasetName,filterLevel,k),k);
-%                 fprintf('Displayed %d points\n',visualizedPoints);
-%                 fprintf('%d / %d points correct\n',sum((mf_unfiltered >= threshold) == res_unfiltered),length(res_unfiltered));
-%             end
-%         end
-        %%
-        
-        % Generate ROC curve
-        try
-            mf_unfiltered(eliminateIndices) = NaN;
-            [perfx,perfy,perft,auc(end+1)] = perfcurve(res_unfiltered',mf_unfiltered',1,'ProcessNaN','ignore');
-            %rocResults = [rocResults; [perfx perfy]];
-            [rocx(:,end+1),rocy(:,end+1)] = rotandproject(perfx,perfy,.01);
-        catch err
-            auc(l) = NaN;
+        for k = 1:length(fprCutoffs)
+            if sum(res_unfiltered(~eliminateIndices(:,k)) == 0) == 0 || sum(res_unfiltered(~eliminateIndices(:,k)) == 1) == 0
+                skipIteration = true;
+                break;
+            end
+        end
+        if skipIteration
+            disp('Filtered down to degenerate test set; skipping iteration.');
+            continue;
         end
         
-        
-        predictions{l} = (mf >= lrCutoff);
-        trueValues{l} = res;
-        trueValues_unfiltered{l} = res_unfiltered;
-        prediction_points(l) = length(testIndices_final);
+        for k = 1:length(fprCutoffs)
+            res = +(groundtruth(testIndices_final{k}) >= physicalCutoff);
+            mf = mf_unfiltered(~eliminateIndices(:,k));
+
+            %% create isomap visualizations 
+    %         filterFPRs = [.05, .10, .15];
+    %         for filterLevel = filterFPRs
+    %             threshold = fprThreshold(res_unfiltered,mf_unfiltered,filterLevel);
+    %             for k = 2:7
+    %                 visualizedPoints = isomapPredictions(data(testIndices,:),mf_unfiltered >= threshold,res_unfiltered,sprintf('Visualization for %s (FPR = %f, k = %d)\nBlue/Red = correct/incorrect prediction',datasetName,filterLevel,k),k);
+    %                 fprintf('Displayed %d points\n',visualizedPoints);
+    %                 fprintf('%d / %d points correct\n',sum((mf_unfiltered >= threshold) == res_unfiltered),length(res_unfiltered));
+    %             end
+    %         end
+            %%
+
+            % Generate ROC curve
+            try
+                mf_ufinal = mf_unfiltered;
+                % normalize only remaining points to massage the perfcurve
+                mf_ufinal(~eliminateIndices(:,k)) = normalizeer(mf_ufinal(~eliminateIndices(:,k)));
+                mf_ufinal(eliminateIndices(:,k)) = NaN;
+                [perfx,perfy,perft,auc{k}(end+1)] = perfcurve(res_unfiltered',mf_ufinal',1,'ProcessNaN','ignore');
+                %rocResults = [rocResults; [perfx perfy]];
+                [rocx{k}(:,end+1),rocy{k}(:,end+1)] = rotandproject(perfx,perfy,.01);
+            catch err
+                auc(l) = NaN;
+            end
+
+
+            predictions{l,k} = (mf >= lrCutoff(k));
+            trueValues{l,k} = res;
+            trueValues_unfiltered{l,k} = res_unfiltered;
+            prediction_points(l,k) = length(testIndices_final{k});
+        end
         
 %         node_precisions = zeros(size(nodeIndices));
 %         % Generate the precision of all bins/nodes
@@ -336,44 +354,13 @@ for confidence_cutoff = confidence_thresholds
     %% Generate overall-precision contour
     contour_file = strcat(savedir,'hybrid_contours\',sprintf('GP_crs_%d_conf_%d_bin_%d',crowdsourceCutoff*100,confidence_cutoff*10,binThreshold));
     averageBinPrecisions = mean(bin_precisions)';
-    
-    %% Dump all high-precision grasp nodes
-    fprintf('Printing all grasps falling into high-precision nodes. Conf=%f\n',confidence_cutoff);
-    pointInfos = [(1:size(data_pca,1))' data_pca];
-    totalPointsDumped = 0;
-    for i = 1:size(nodeIndices,1)
-        if isnan(averageBinPrecisions(i)) || averageBinPrecisions(i) < .9
-            continue;
-        end
-        nodeDump = pointInfos(dataNodes == nodeIndices(i),:);
-        totalPointsDumped = totalPointsDumped+size(nodeDump,1);
-        fprintf('Node index %d\n',nodeIndices(i));
-        disp(nodeDump);
-    end
-    fprintf('%d points dumped in total\n',totalPointsDumped);
-    clearvars pointInfos nodeDump totalPointsDumped
-    point_precisions = zeros(size(data_pca,1),1);
-    for i = 1:length(point_precisions)
-        point_precisions(i) = averageBinPrecisions(dataNodes(i) == nodeIndices);
-        if point_precisions(i) > .90
-            fprintf('index %d: %f, %f\n',i,data_pca(i,1),data_pca(i,2));
-        end
-    end
     %%
     
     %generateCategorizedContour(data_pca,groundtruth,(1:length(point_precisions))',point_precisions,contour_file,sprintf('Areas of high test precision\nGlobal GP, confidence cutoff=%f',confidence_cutoff),[.5 .75 .9]);
-    save(sprintf('%scontourdumps\\%s_conf_%d.mat',savedir,me,confidence_cutoff*100),'data_pca','groundtruth','point_precisions','contour_file','confidence_cutoff');
-    
-    %%
-    
-    [ave,uppererr,lowererr,upperstd,lowerstd,kstat,kstatsterr,kstatstd] = rotandextrap(rocx,rocy,size(auc,1));
-    
-    [ tpr,tprerr,tprstd ] = tprextfun( ave,upperstd,uppererr,fpr );
-    disp('TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD')
-    disp([fpr;tpr;tprerr;tprstd])
+    %save(sprintf('%scontourdumps\\%s_conf_%d.mat',savedir,me,confidence_cutoff*100),'data_pca','groundtruth','point_precisions','contour_file','confidence_cutoff');
     
     %% Generate AUC curve
-    save(sprintf('%srocdumps\\%s_conf_%d.mat',savedir,me,confidence_cutoff*100),'uppererr','lowererr','ave');
+    %save(sprintf('%srocdumps\\%s_conf_%d.mat',savedir,me,confidence_cutoff*100),'uppererr','lowererr','ave');
 %     fig = figure;
 %     set(fig, 'units', 'inches', 'pos', [8 5 3.25 3])
 %     set(gca,'FontSize',10)
@@ -395,37 +382,67 @@ for confidence_cutoff = confidence_thresholds
 %     text(10,8,'Random Guess','FontSize',10)
     %%
 
-    disp('Overall results (hybrid)');
-    if(filter_with_confidence)
-        disp(strcat('Confidence threshold=',num2str(confidence_cutoff)));
+    for k = 1:length(fprCutoffs)
+        fprintf('Overall results, FPR=%f\n',fprCutoffs(k));
+        if(filter_with_confidence)
+            disp(strcat('Confidence threshold=',num2str(confidence_cutoff)));
+        end
+        
+        [ave,uppererr,lowererr,upperstd,lowerstd,kstat,kstatsterr,kstatstd] = rotandextrap(rocx{k},rocy{k},size(auc{k},1));
+    
+        [ tpr,tprerr,tprstd ] = tprextfun( ave,upperstd,uppererr,fpr );
+        disp('TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD')
+        disp([fpr;tpr;tprerr;tprstd])
+        
+        %% Dump all high-precision grasp nodes
+%         fprintf('Printing all grasps falling into high-precision nodes. Conf=%f\n',confidence_cutoff);
+%         pointInfos = [(1:size(data_pca,1))' data_pca];
+%         totalPointsDumped = 0;
+%         for i = 1:size(nodeIndices,1)
+%             if isnan(averageBinPrecisions(i)) || averageBinPrecisions(i) < .9
+%                 continue;
+%             end
+%             nodeDump = pointInfos(dataNodes == nodeIndices(i),:);
+%             totalPointsDumped = totalPointsDumped+size(nodeDump,1);
+%             fprintf('Node index %d\n',nodeIndices(i));
+%             disp(nodeDump);
+%         end
+%         fprintf('%d points dumped in total\n',totalPointsDumped);
+%         clearvars pointInfos nodeDump totalPointsDumped
+%         point_precisions = zeros(size(data_pca,1),1);
+%         for i = 1:length(point_precisions)
+%             point_precisions(i) = averageBinPrecisions(dataNodes(i) == nodeIndices);
+%             if point_precisions(i) > .90
+%                 fprintf('index %d: %f, %f\n',i,data_pca(i,1),data_pca(i,2));
+%             end
+%         end
+        
+        %%
+
+        fprintf('Prediction points: %f (stddev %f)\n',mean(prediction_points(:,k)),std(prediction_points(:,k)));
+
+        %Display AUC Info
+        disp('Individual AUCs:');
+        auc_ = auc{k};
+        auc_ = auc_(~isnan(auc_)); % Clear any degenerate AUC points
+        disp(auc_');
+        fprintf('p-value (Wilcoxon signed ranked test): %f\n',signrank(auc_));
+        disp('AUC ave err std')
+        disp(mean(auc_))
+        disp(std(auc_)/(size(auc_,1))^.5)
+        disp(std(auc_))
+
+        [precision_macro, recall_macro, p_err, r_err] = precisionAndRecall(predictions(:,k),trueValues(:,k),true,trueValues_unfiltered(:,k));
+        disp('Precision / Recall macro');
+        disp([precision_macro recall_macro]);
+        disp('');
+        [precision_micro, recall_micro] = precisionAndRecall(predictions(:,k),trueValues(:,k),false,trueValues_unfiltered(:,k));
+        disp('Precision / Recall micro');
+        disp([precision_micro recall_micro]);
+
+        disp('Std devs');
+        disp([p_err r_err]);
     end
-    if(~filter_with_confidence)
-        disp('All datapoints used');
-    else
-        disp('Filtered datapoints');
-    end
-    fprintf('Prediction points: %f (stddev %f)\n',mean(prediction_points),std(prediction_points));
-    
-    %Display AUC Info
-    disp('Individual AUCs:');
-    auc = auc(~isnan(auc)); % Clear any degenerate AUC points
-    disp(auc');
-    fprintf('p-value (Wilcoxon signed ranked test): %f\n',signrank(auc));
-    disp('AUC ave err std')
-    disp(mean(auc))
-    disp(std(auc)/(size(auc,1))^.5)
-    disp(std(auc))
-    
-    [precision_macro, recall_macro, p_err, r_err] = precisionAndRecall(predictions,trueValues,true,trueValues_unfiltered);
-    disp('Precision / Recall macro');
-    disp([precision_macro recall_macro]);
-    disp('');
-    [precision_micro, recall_micro] = precisionAndRecall(predictions,trueValues,false,trueValues_unfiltered);
-    disp('Precision / Recall micro');
-    disp([precision_micro recall_micro]);
-    
-    disp('Std devs');
-    disp([p_err r_err]);
 end
 
 % disp('    TPR       FPR       TNR       FNR       cutoff');
