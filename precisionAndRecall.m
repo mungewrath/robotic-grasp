@@ -5,7 +5,7 @@
 % If filtering out prediction points (as with most of the kd hybrid
 % algorithms), pass in the unfiltered ground truth set as allTestPoints.
 
-function [precision, recall, p_err, r_err] = precisionAndRecall(predictions, groundtruth, macroAveraging, allTestPoints)
+function [precision, recall, p_err, r_err, recall_local, r_l_err] = precisionAndRecall(predictions, groundtruth, macroAveraging, allTestPoints)
     % Intentionally breaking backwards compatibility - Weng-Keen says
     % recall must be in terms of all test points
     %if nargin < 4
@@ -30,6 +30,8 @@ function [precision, recall, p_err, r_err] = precisionAndRecall(predictions, gro
         end
         recall = TP / sum(cellfun(@sum,allTestPoints));
         r_err = std(cellfun(@(a,b) sum(a==1 & b==1) / sum(b==1),predictions,groundtruth));
+        recall_local = TP / sum(cellfun(@sum,groundtruth));
+        r_l_err = std(cellfun(@(a,b) sum(a==1 & b==1) / sum(b==1),predictions,groundtruth));
         %recall = TP / (TP + FN);
         if(isnan(recall))
             recall = 0;
@@ -39,6 +41,7 @@ function [precision, recall, p_err, r_err] = precisionAndRecall(predictions, gro
         % Results in equal weighting even for different sized datasets.
         precision_iter = zeros(length(predictions),1);
         recall_iter = zeros(length(predictions),1);
+        recall_iter_local = zeros(length(predictions),1);
         for i = 1:length(predictions)
             TP = sum(predictions{i} == 1 & groundtruth{i} == 1);
             FP = sum(predictions{i} == 1 & groundtruth{i} == 0);
@@ -48,6 +51,7 @@ function [precision, recall, p_err, r_err] = precisionAndRecall(predictions, gro
                 precision_iter(i) = 0;
             end
             recall_iter(i) = TP / sum(allTestPoints{i});
+            recall_iter_local(i) = TP / sum(groundtruth{i});
             %recall_iter(i) = TP / (TP + FN);
             if(isnan(recall_iter(i)))
                 recall_iter(i) = 0;
@@ -57,5 +61,7 @@ function [precision, recall, p_err, r_err] = precisionAndRecall(predictions, gro
         p_err = std(precision_iter);
         recall = sum(recall_iter) / length(predictions);
         r_err = std(recall_iter);
+        recall_local = sum(recall_iter_local) / length(predictions);
+        r_l_err = std(recall_iter_local);
     end
 end
