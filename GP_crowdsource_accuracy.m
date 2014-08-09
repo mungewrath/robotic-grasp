@@ -215,6 +215,11 @@ for confidence_cutoff = confidence_thresholds
     % Remember precisions for every bin over all runs
     bin_precisions = zeros(loopn,size(bins,1));
     
+    isomap_testIndices = cell(1,length(fprCutoffs));
+    isomap_predictions = cell(1,length(fprCutoffs));
+    
+    hyps = {};
+    
     l = 1;
     while(l <= loopn)
         hyp = [];
@@ -223,10 +228,13 @@ for confidence_cutoff = confidence_thresholds
         hyp.lik(1:1) = -.2;
     
         %datasetName = 'Physical testing';
+        %fileName = 'phy';
         %y = (groundtruth >= physicalCutoff);
         datasetName = 'Crowdsource';
+        fileName = 'crs';
         y = (results_voting >= crowdsourceCutoff);
         %datasetName = 'Energy';
+        %fileName = 'egy';
         %energycutoff = crowdsourceCutoff;
         %y = (results1 <= energycutoff);
         
@@ -234,6 +242,7 @@ for confidence_cutoff = confidence_thresholds
         [train2Indices, validationIndices, testIndices, trainIndices] = partitionData([train2Proportion; validationProportion; testProportion],size(data_pca,1));
         
         hyp = minimize(hyp, @gp, -1000, inffunc, meanfunc, covfunc, likfunc, data_pca(trainIndices,:), y(trainIndices));
+        hyps{l} = hyp;
         
         % Keeps track of which predictions were from which nodes
         test_containing_nodes = zeros(size(testIndices,1),1);
@@ -258,6 +267,7 @@ for confidence_cutoff = confidence_thresholds
         skipIteration = false;
         for k = 1:length(fprCutoffs)
             confidences(:,k) = getNodeAccuracies(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff(k), groundtruth(validationIndices) >= physicalCutoff);
+            %confidences(:,k) = getNodeConfidences(dataNodes(validationIndices), nodeIndices, mf >= lrCutoff(k), groundtruth(validationIndices) >= physicalCutoff);
 
             % For every point in test set:
             % Find kdtree index
@@ -306,18 +316,6 @@ for confidence_cutoff = confidence_thresholds
             res = +(groundtruth(testIndices_final{k}) >= physicalCutoff);
             mf = mf_unfiltered(~eliminateIndices(:,k));
 
-            %% create isomap visualizations 
-    %         filterFPRs = [.05, .10, .15];
-    %         for filterLevel = filterFPRs
-    %             threshold = fprThreshold(res_unfiltered,mf_unfiltered,filterLevel);
-    %             for k = 2:7
-    %                 visualizedPoints = isomapPredictions(data(testIndices,:),mf_unfiltered >= threshold,res_unfiltered,sprintf('Visualization for %s (FPR = %f, k = %d)\nBlue/Red = correct/incorrect prediction',datasetName,filterLevel,k),k);
-    %                 fprintf('Displayed %d points\n',visualizedPoints);
-    %                 fprintf('%d / %d points correct\n',sum((mf_unfiltered >= threshold) == res_unfiltered),length(res_unfiltered));
-    %             end
-    %         end
-            %%
-
             % Generate ROC curve
             try
                 mf_ufinal = mf_unfiltered;
@@ -332,6 +330,8 @@ for confidence_cutoff = confidence_thresholds
             end
 
 
+            isomap_predictions{k} = [isomap_predictions{k}; (mf >= lrCutoff(k))];
+            isomap_testIndices{k} = [isomap_testIndices{k}; testIndices_final{k}];
             predictions{l,k} = (mf >= lrCutoff(k));
             trueValues{l,k} = res;
             trueValues_unfiltered{l,k} = res_unfiltered;
@@ -349,6 +349,26 @@ for confidence_cutoff = confidence_thresholds
         
         fprintf('Completed iteration %d\n',l);
         l = l+1;
+    end
+    
+    if confidence_cutoff == 0
+        %% create isomap visualizations
+        
+        % TODO: the cutoff for the predictions going into isomap is based on
+        % validation, not post-hoc testing. If we really want to know the
+        % accuracies for 5/10/15% FPR, the code needs to be modified.
+        for i = 1:length(fprCutoffs)
+            filterLevel = fprCutoffs(i);
+            threshold = fprThreshold(res_unfiltered,mf_unfiltered,filterLevel);
+            for k = 6:6
+                saveTitle = sprintf('%s/isomap_dumps/522_7-14-14/%s_fpr%02d_k%d',savedir,fileName,filterLevel*100,k);
+                graphTitle = sprintf('Visualization for %s (FPR = %f, k = %d)\nBlue/Red = correct/incorrect prediction',datasetName,filterLevel,k);
+                visualizedPoints = isomapAveragePredictions(data,isomap_predictions{i},isomap_testIndices{i},groundtruth >= physicalCutoff,graphTitle,k,saveTitle,filterLevel==.1,filterLevel==.15);
+                fprintf('Displayed %d points\n',visualizedPoints);
+                fprintf('%d / %d points correct\n',sum((mf_unfiltered >= threshold) == res_unfiltered),length(res_unfiltered));
+            end
+        end
+        %%
     end
     
     %% Generate overall-precision contour
@@ -429,7 +449,7 @@ for confidence_cutoff = confidence_thresholds
         fprintf('p-value (Wilcoxon signed ranked test): %f\n',signrank(auc_));
         disp('AUC ave err std')
         disp(mean(auc_))
-        disp(std(auc_)/(size(auc_,1))^.5)
+        disp(std(auc_)/(length(auc_)^.5))
         disp(std(auc_))
 
         [precision_macro, recall_macro, p_err, r_err] = precisionAndRecall(predictions(:,k),trueValues(:,k),true,trueValues_unfiltered(:,k));

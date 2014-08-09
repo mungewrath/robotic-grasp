@@ -52,15 +52,15 @@ FP = (groundtruth < .8 & averages(:,2) >= contour_values(1));
 TN = (groundtruth >= .8 & ~(averages(:,2) >= contour_values(1)));
 FN = (groundtruth < .8 & ~(averages(:,2) >= contour_values(1)));
 
-% if(nargin >= 8 && categorize)
-%     plot(x(TP),y(TP),'xb')
-%     plot(x(FP),y(FP),'ob')
-%     plot(x(TN),y(TN),'xr')
-%     plot(x(FN),y(FN),'or')
-% else
-%     plot(x(TP | FN),y(TP | FN),'x')
-%     plot(x(FP | TN),y(FP | TN),'o')
-% end
+if(nargin >= 8 && categorize)
+    plot(x(TP),y(TP),'xb')
+    plot(x(FP),y(FP),'ob')
+    plot(x(TN),y(TN),'xr')
+    plot(x(FN),y(FN),'or')
+else
+    plot(x(TP | FN),y(TP | FN),'x')
+    plot(x(FP | TN),y(FP | TN),'o')
+end
 xlabel('PC1')
 ylabel('PC2')
 
