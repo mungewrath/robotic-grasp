@@ -1,0 +1,2568 @@
+!!!!below quality measures have been removed due to insufficient data!!!!!!!!!!!!
+binThreshold:30
+crowdsource cutoff:30
+using confidence:1
+Number of bins: 31
+Average bin size: 1.683871e+01
+
+Using 0.050000 threshold of 0.842229
+Using 0.100000 threshold of 0.665645
+Using 0.150000 threshold of 0.617688
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 1
+
+Using 0.050000 threshold of 0.732808
+Using 0.100000 threshold of 0.648770
+Using 0.150000 threshold of 0.547239
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 2
+
+Using 0.050000 threshold of 0.931247
+Using 0.100000 threshold of 0.819526
+Using 0.150000 threshold of 0.700621
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 3
+
+Using 0.050000 threshold of 0.754323
+Using 0.100000 threshold of 0.683570
+Using 0.150000 threshold of 0.580601
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 4
+
+Using 0.050000 threshold of 0.812690
+Using 0.100000 threshold of 0.775933
+Using 0.150000 threshold of 0.717632
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 5
+
+Using 0.050000 threshold of 0.711540
+Using 0.100000 threshold of 0.675047
+Using 0.150000 threshold of 0.640554
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 6
+
+Using 0.050000 threshold of 0.985236
+Using 0.100000 threshold of 0.943384
+Using 0.150000 threshold of 0.874095
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 7
+
+Using 0.050000 threshold of 0.645207
+Using 0.100000 threshold of 0.574416
+Using 0.150000 threshold of 0.568375
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 8
+
+Using 0.050000 threshold of 0.742044
+Using 0.100000 threshold of 0.709619
+Using 0.150000 threshold of 0.685911
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 9
+
+Using 0.050000 threshold of 0.869545
+Using 0.100000 threshold of 0.673338
+Using 0.150000 threshold of 0.641523
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 10
+
+Using 0.050000 threshold of 0.782408
+Using 0.100000 threshold of 0.763341
+Using 0.150000 threshold of 0.699311
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 11
+
+Using 0.050000 threshold of 0.697464
+Using 0.100000 threshold of 0.677732
+Using 0.150000 threshold of 0.656123
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 12
+
+Using 0.050000 threshold of 0.912203
+Using 0.100000 threshold of 0.734227
+Using 0.150000 threshold of 0.680868
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 13
+
+Using 0.050000 threshold of 0.731868
+Using 0.100000 threshold of 0.668407
+Using 0.150000 threshold of 0.622842
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 14
+
+Using 0.050000 threshold of 0.753481
+Using 0.100000 threshold of 0.723849
+Using 0.150000 threshold of 0.652642
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 15
+
+Using 0.050000 threshold of 0.819803
+Using 0.100000 threshold of 0.788926
+Using 0.150000 threshold of 0.727868
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 16
+
+Using 0.050000 threshold of 0.774409
+Using 0.100000 threshold of 0.642416
+Using 0.150000 threshold of 0.538042
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 17
+
+Using 0.050000 threshold of 0.680586
+Using 0.100000 threshold of 0.630919
+Using 0.150000 threshold of 0.558213
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 18
+
+Using 0.050000 threshold of 0.768466
+Using 0.100000 threshold of 0.698619
+Using 0.150000 threshold of 0.678876
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 19
+
+Using 0.050000 threshold of 0.863329
+Using 0.100000 threshold of 0.811116
+Using 0.150000 threshold of 0.650079
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 20
+
+Using 0.050000 threshold of 0.825088
+Using 0.100000 threshold of 0.807104
+Using 0.150000 threshold of 0.751586
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 21
+
+Using 0.050000 threshold of 0.855283
+Using 0.100000 threshold of 0.847616
+Using 0.150000 threshold of 0.823734
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 22
+
+Using 0.050000 threshold of 0.658447
+Using 0.100000 threshold of 0.634378
+Using 0.150000 threshold of 0.621440
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 23
+
+Using 0.050000 threshold of 0.794436
+Using 0.100000 threshold of 0.643697
+Using 0.150000 threshold of 0.546057
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 24
+
+Using 0.050000 threshold of 0.723314
+Using 0.100000 threshold of 0.636822
+Using 0.150000 threshold of 0.580204
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 25
+
+Using 0.050000 threshold of 0.899646
+Using 0.100000 threshold of 0.819983
+Using 0.150000 threshold of 0.770177
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 26
+
+Using 0.050000 threshold of 0.656638
+Using 0.100000 threshold of 0.636654
+Using 0.150000 threshold of 0.615476
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 27
+
+Using 0.050000 threshold of 0.738520
+Using 0.100000 threshold of 0.611595
+Using 0.150000 threshold of 0.474468
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 28
+
+Using 0.050000 threshold of 0.889693
+Using 0.100000 threshold of 0.863509
+Using 0.150000 threshold of 0.789593
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 29
+
+Using 0.050000 threshold of 0.865132
+Using 0.100000 threshold of 0.675258
+Using 0.150000 threshold of 0.548010
+Eliminated 0 points for FPR=0.050000
+Eliminated 0 points for FPR=0.100000
+Eliminated 0 points for FPR=0.150000
+Completed iteration 30
+Overall results, FPR=0.050000
+Confidence threshold=0
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1364    0.2611    0.3593
+    0.0331    0.0314    0.0387
+    0.0331    0.0314    0.0387
+
+Prediction points: 130.000000 (stddev 0.000000)
+Individual AUCs:
+    0.6956
+    0.7420
+    0.7600
+    0.7050
+    0.6752
+    0.6742
+    0.7559
+    0.6802
+    0.8140
+    0.6502
+    0.7741
+    0.7137
+    0.7145
+    0.7044
+    0.6391
+    0.8066
+    0.6988
+    0.6699
+    0.6610
+    0.6916
+    0.6885
+    0.6898
+    0.6579
+    0.7414
+    0.6195
+    0.6797
+    0.7730
+    0.6687
+    0.7642
+    0.7257
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7078
+
+    0.0488
+
+    0.0488
+
+Precision / Recall macro
+    0.8528    0.1548
+
+Precision / Recall micro
+    0.8966    0.1554
+
+Std devs
+    0.1975    0.1036
+
+Overall results, FPR=0.100000
+Confidence threshold=0
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1364    0.2611    0.3593
+    0.0331    0.0314    0.0387
+    0.0331    0.0314    0.0387
+
+Prediction points: 130.000000 (stddev 0.000000)
+Individual AUCs:
+    0.6956
+    0.7420
+    0.7600
+    0.7050
+    0.6752
+    0.6742
+    0.7559
+    0.6802
+    0.8140
+    0.6502
+    0.7741
+    0.7137
+    0.7145
+    0.7044
+    0.6391
+    0.8066
+    0.6988
+    0.6699
+    0.6610
+    0.6916
+    0.6885
+    0.6898
+    0.6579
+    0.7414
+    0.6195
+    0.6797
+    0.7730
+    0.6687
+    0.7642
+    0.7257
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7078
+
+    0.0488
+
+    0.0488
+
+Precision / Recall macro
+    0.8610    0.2457
+
+Precision / Recall micro
+    0.8653    0.2460
+
+Std devs
+    0.0898    0.1258
+
+Overall results, FPR=0.150000
+Confidence threshold=0
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1364    0.2611    0.3593
+    0.0331    0.0314    0.0387
+    0.0331    0.0314    0.0387
+
+Prediction points: 130.000000 (stddev 0.000000)
+Individual AUCs:
+    0.6956
+    0.7420
+    0.7600
+    0.7050
+    0.6752
+    0.6742
+    0.7559
+    0.6802
+    0.8140
+    0.6502
+    0.7741
+    0.7137
+    0.7145
+    0.7044
+    0.6391
+    0.8066
+    0.6988
+    0.6699
+    0.6610
+    0.6916
+    0.6885
+    0.6898
+    0.6579
+    0.7414
+    0.6195
+    0.6797
+    0.7730
+    0.6687
+    0.7642
+    0.7257
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7078
+
+    0.0488
+
+    0.0488
+
+Precision / Recall macro
+    0.8632    0.3567
+
+Precision / Recall micro
+    0.8630    0.3564
+
+Std devs
+    0.0604    0.1605
+
+
+Using 0.050000 threshold of 0.702649
+Using 0.100000 threshold of 0.680574
+Using 0.150000 threshold of 0.633904
+Eliminated 94 points for FPR=0.050000
+Eliminated 68 points for FPR=0.100000
+Eliminated 44 points for FPR=0.150000
+Completed iteration 1
+
+Using 0.050000 threshold of 0.703582
+Using 0.100000 threshold of 0.685733
+Using 0.150000 threshold of 0.643883
+Eliminated 71 points for FPR=0.050000
+Eliminated 64 points for FPR=0.100000
+Eliminated 43 points for FPR=0.150000
+Completed iteration 2
+
+Using 0.050000 threshold of 0.887421
+Using 0.100000 threshold of 0.849170
+Using 0.150000 threshold of 0.813844
+Eliminated 118 points for FPR=0.050000
+Eliminated 91 points for FPR=0.100000
+Eliminated 86 points for FPR=0.150000
+Completed iteration 3
+
+Using 0.050000 threshold of 0.717717
+Using 0.100000 threshold of 0.650705
+Using 0.150000 threshold of 0.562377
+Eliminated 104 points for FPR=0.050000
+Eliminated 98 points for FPR=0.100000
+Eliminated 42 points for FPR=0.150000
+Completed iteration 4
+
+Using 0.050000 threshold of 0.879988
+Using 0.100000 threshold of 0.773446
+Using 0.150000 threshold of 0.698733
+Eliminated 100 points for FPR=0.050000
+Eliminated 71 points for FPR=0.100000
+Eliminated 45 points for FPR=0.150000
+Completed iteration 5
+
+Using 0.050000 threshold of 0.631821
+Using 0.100000 threshold of 0.596233
+Using 0.150000 threshold of 0.563824
+Eliminated 53 points for FPR=0.050000
+Eliminated 46 points for FPR=0.100000
+Eliminated 35 points for FPR=0.150000
+Completed iteration 6
+
+Using 0.050000 threshold of 0.724634
+Using 0.100000 threshold of 0.706054
+Using 0.150000 threshold of 0.683840
+Eliminated 57 points for FPR=0.050000
+Eliminated 62 points for FPR=0.100000
+Eliminated 62 points for FPR=0.150000
+Completed iteration 7
+
+Using 0.050000 threshold of 1.002000
+Using 0.100000 threshold of 0.984996
+Using 0.150000 threshold of 0.884273
+Eliminated 116 points for FPR=0.050000
+Eliminated 101 points for FPR=0.100000
+Eliminated 97 points for FPR=0.150000
+Completed iteration 8
+
+Using 0.050000 threshold of 0.842093
+Using 0.100000 threshold of 0.717028
+Using 0.150000 threshold of 0.697580
+Eliminated 87 points for FPR=0.050000
+Eliminated 68 points for FPR=0.100000
+Eliminated 70 points for FPR=0.150000
+Completed iteration 9
+
+Using 0.050000 threshold of 0.786957
+Using 0.100000 threshold of 0.658484
+Using 0.150000 threshold of 0.601226
+Eliminated 73 points for FPR=0.050000
+Eliminated 47 points for FPR=0.100000
+Eliminated 47 points for FPR=0.150000
+Completed iteration 10
+
+Using 0.050000 threshold of 0.653649
+Using 0.100000 threshold of 0.605199
+Using 0.150000 threshold of 0.568983
+Eliminated 71 points for FPR=0.050000
+Eliminated 56 points for FPR=0.100000
+Eliminated 50 points for FPR=0.150000
+Completed iteration 11
+
+Using 0.050000 threshold of 0.780570
+Using 0.100000 threshold of 0.706489
+Using 0.150000 threshold of 0.639246
+Eliminated 79 points for FPR=0.050000
+Eliminated 75 points for FPR=0.100000
+Eliminated 64 points for FPR=0.150000
+Completed iteration 12
+
+Using 0.050000 threshold of 0.653262
+Using 0.100000 threshold of 0.545493
+Using 0.150000 threshold of 0.527414
+Eliminated 27 points for FPR=0.050000
+Eliminated 23 points for FPR=0.100000
+Eliminated 23 points for FPR=0.150000
+Completed iteration 13
+
+Using 0.050000 threshold of 0.843085
+Using 0.100000 threshold of 0.764839
+Using 0.150000 threshold of 0.705075
+Eliminated 97 points for FPR=0.050000
+Eliminated 60 points for FPR=0.100000
+Eliminated 60 points for FPR=0.150000
+Completed iteration 14
+
+Using 0.050000 threshold of 0.811290
+Using 0.100000 threshold of 0.790576
+Using 0.150000 threshold of 0.731788
+Eliminated 65 points for FPR=0.050000
+Eliminated 63 points for FPR=0.100000
+Eliminated 52 points for FPR=0.150000
+Completed iteration 15
+
+Using 0.050000 threshold of 0.888839
+Using 0.100000 threshold of 0.858660
+Using 0.150000 threshold of 0.668792
+Eliminated 94 points for FPR=0.050000
+Eliminated 87 points for FPR=0.100000
+Eliminated 57 points for FPR=0.150000
+Completed iteration 16
+
+Using 0.050000 threshold of 0.794583
+Using 0.100000 threshold of 0.654265
+Using 0.150000 threshold of 0.614900
+Eliminated 68 points for FPR=0.050000
+Eliminated 34 points for FPR=0.100000
+Eliminated 30 points for FPR=0.150000
+Completed iteration 17
+
+Using 0.050000 threshold of 0.743126
+Using 0.100000 threshold of 0.724922
+Using 0.150000 threshold of 0.668131
+Eliminated 85 points for FPR=0.050000
+Eliminated 80 points for FPR=0.100000
+Eliminated 59 points for FPR=0.150000
+Completed iteration 18
+
+Using 0.050000 threshold of 0.853629
+Using 0.100000 threshold of 0.772869
+Using 0.150000 threshold of 0.700445
+Eliminated 91 points for FPR=0.050000
+Eliminated 85 points for FPR=0.100000
+Eliminated 76 points for FPR=0.150000
+Completed iteration 19
+
+Using 0.050000 threshold of 0.876316
+Using 0.100000 threshold of 0.793539
+Using 0.150000 threshold of 0.682982
+Eliminated 120 points for FPR=0.050000
+Eliminated 95 points for FPR=0.100000
+Eliminated 52 points for FPR=0.150000
+Completed iteration 20
+
+Using 0.050000 threshold of 0.811738
+Using 0.100000 threshold of 0.728694
+Using 0.150000 threshold of 0.707177
+Eliminated 47 points for FPR=0.050000
+Eliminated 22 points for FPR=0.100000
+Eliminated 18 points for FPR=0.150000
+Completed iteration 21
+
+Using 0.050000 threshold of 0.745363
+Using 0.100000 threshold of 0.603182
+Using 0.150000 threshold of 0.600574
+Eliminated 88 points for FPR=0.050000
+Eliminated 36 points for FPR=0.100000
+Eliminated 36 points for FPR=0.150000
+Completed iteration 22
+
+Using 0.050000 threshold of 0.765323
+Using 0.100000 threshold of 0.591175
+Using 0.150000 threshold of 0.561963
+Eliminated 66 points for FPR=0.050000
+Eliminated 22 points for FPR=0.100000
+Eliminated 12 points for FPR=0.150000
+Completed iteration 23
+
+Using 0.050000 threshold of 0.752641
+Using 0.100000 threshold of 0.727634
+Using 0.150000 threshold of 0.661171
+Eliminated 71 points for FPR=0.050000
+Eliminated 63 points for FPR=0.100000
+Eliminated 38 points for FPR=0.150000
+Completed iteration 24
+
+Using 0.050000 threshold of 0.766024
+Using 0.100000 threshold of 0.751363
+Using 0.150000 threshold of 0.664738
+Eliminated 78 points for FPR=0.050000
+Eliminated 60 points for FPR=0.100000
+Eliminated 54 points for FPR=0.150000
+Completed iteration 25
+
+Using 0.050000 threshold of 0.843102
+Using 0.100000 threshold of 0.782748
+Using 0.150000 threshold of 0.677884
+Eliminated 95 points for FPR=0.050000
+Eliminated 90 points for FPR=0.100000
+Eliminated 62 points for FPR=0.150000
+Completed iteration 26
+
+Using 0.050000 threshold of 0.610743
+Using 0.100000 threshold of 0.589682
+Using 0.150000 threshold of 0.577387
+Eliminated 31 points for FPR=0.050000
+Eliminated 31 points for FPR=0.100000
+Eliminated 29 points for FPR=0.150000
+Completed iteration 27
+
+Using 0.050000 threshold of 0.689567
+Using 0.100000 threshold of 0.647623
+Using 0.150000 threshold of 0.600900
+Eliminated 51 points for FPR=0.050000
+Eliminated 51 points for FPR=0.100000
+Eliminated 32 points for FPR=0.150000
+Completed iteration 28
+
+Using 0.050000 threshold of 0.820612
+Using 0.100000 threshold of 0.734448
+Using 0.150000 threshold of 0.720800
+Eliminated 70 points for FPR=0.050000
+Eliminated 50 points for FPR=0.100000
+Eliminated 50 points for FPR=0.150000
+Completed iteration 29
+
+Using 0.050000 threshold of 0.892124
+Using 0.100000 threshold of 0.778523
+Using 0.150000 threshold of 0.745681
+Eliminated 106 points for FPR=0.050000
+Eliminated 76 points for FPR=0.100000
+Eliminated 79 points for FPR=0.150000
+Completed iteration 30
+Overall results, FPR=0.050000
+Confidence threshold=0.5
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1583    0.2727    0.3776
+    0.0657    0.1050    0.1220
+    0.0657    0.1050    0.1220
+
+Prediction points: 50.900000 (stddev 23.847721)
+Individual AUCs:
+    0.9015
+    0.5540
+    0.5185
+    0.6090
+    0.9280
+    0.5419
+    0.7208
+    0.5500
+    0.8071
+    0.5714
+    0.5245
+    0.8955
+    0.6291
+    0.7963
+    0.7441
+    0.8154
+    0.5954
+    0.7696
+    0.8831
+    0.2800
+    0.7938
+    0.6471
+    0.8875
+    0.8889
+    0.8857
+    0.8214
+    0.7956
+    0.8864
+    0.5840
+    0.4000
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7075
+
+    0.1694
+
+    0.1694
+
+Precision / Recall macro
+    0.8575    0.1098
+
+Precision / Recall micro
+    0.9172    0.1102
+
+Std devs
+    0.2594    0.0911
+
+Overall results, FPR=0.100000
+Confidence threshold=0.5
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1638    0.2543    0.3924
+    0.0545    0.0664    0.0757
+    0.0545    0.0664    0.0757
+
+Prediction points: 67.500000 (stddev 23.087166)
+Individual AUCs:
+    0.8614
+    0.5569
+    0.7589
+    0.6510
+    0.8094
+    0.5449
+    0.7636
+    0.6234
+    0.6717
+    0.5986
+    0.5916
+    0.8884
+    0.6316
+    0.7309
+    0.7422
+    0.7667
+    0.6555
+    0.7410
+    0.7932
+    0.4028
+    0.7699
+    0.7595
+    0.8137
+    0.8821
+    0.8269
+    0.8874
+    0.7956
+    0.8864
+    0.6618
+    0.6775
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7248
+
+    0.1178
+
+    0.1178
+
+Precision / Recall macro
+    0.8807    0.1965
+
+Precision / Recall micro
+    0.8953    0.1977
+
+Std devs
+    0.1040    0.1285
+
+Overall results, FPR=0.150000
+Confidence threshold=0.5
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1754    0.2602    0.3601
+    0.0473    0.0579    0.0701
+    0.0473    0.0579    0.0701
+
+Prediction points: 79.866667 (stddev 19.712998)
+Individual AUCs:
+    0.8407
+    0.6157
+    0.7853
+    0.7231
+    0.6898
+    0.5281
+    0.7636
+    0.5934
+    0.6746
+    0.5986
+    0.5928
+    0.9059
+    0.6316
+    0.7309
+    0.8017
+    0.7330
+    0.6350
+    0.7255
+    0.7242
+    0.6593
+    0.7717
+    0.7595
+    0.7997
+    0.8116
+    0.8411
+    0.7897
+    0.7984
+    0.8000
+    0.6618
+    0.7266
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7238
+
+    0.0896
+
+    0.0896
+
+Precision / Recall macro
+    0.8868    0.2720
+
+Precision / Recall micro
+    0.8858    0.2730
+
+Std devs
+    0.0723    0.1402
+
+
+Using 0.050000 threshold of 0.619883
+Using 0.100000 threshold of 0.565928
+Using 0.150000 threshold of 0.511476
+Eliminated 113 points for FPR=0.050000
+Eliminated 106 points for FPR=0.100000
+Eliminated 90 points for FPR=0.150000
+Completed iteration 1
+
+Using 0.050000 threshold of 0.753057
+Using 0.100000 threshold of 0.674668
+Using 0.150000 threshold of 0.639803
+Eliminated 60 points for FPR=0.050000
+Eliminated 48 points for FPR=0.100000
+Eliminated 40 points for FPR=0.150000
+Completed iteration 2
+
+Using 0.050000 threshold of 0.753563
+Using 0.100000 threshold of 0.698232
+Using 0.150000 threshold of 0.573683
+Eliminated 66 points for FPR=0.050000
+Eliminated 62 points for FPR=0.100000
+Eliminated 49 points for FPR=0.150000
+Completed iteration 3
+
+Using 0.050000 threshold of 0.745240
+Using 0.100000 threshold of 0.603144
+Using 0.150000 threshold of 0.544892
+Eliminated 108 points for FPR=0.050000
+Eliminated 56 points for FPR=0.100000
+Eliminated 37 points for FPR=0.150000
+Completed iteration 4
+
+Using 0.050000 threshold of 0.833248
+Using 0.100000 threshold of 0.811378
+Using 0.150000 threshold of 0.802064
+Eliminated 113 points for FPR=0.050000
+Eliminated 108 points for FPR=0.100000
+Eliminated 108 points for FPR=0.150000
+Completed iteration 5
+
+Using 0.050000 threshold of 0.767467
+Using 0.100000 threshold of 0.748514
+Using 0.150000 threshold of 0.678198
+Eliminated 82 points for FPR=0.050000
+Eliminated 82 points for FPR=0.100000
+Eliminated 87 points for FPR=0.150000
+Completed iteration 6
+
+Using 0.050000 threshold of 0.658356
+Using 0.100000 threshold of 0.611994
+Using 0.150000 threshold of 0.599485
+Eliminated 37 points for FPR=0.050000
+Eliminated 33 points for FPR=0.100000
+Eliminated 26 points for FPR=0.150000
+Completed iteration 7
+
+Using 0.050000 threshold of 0.797114
+Using 0.100000 threshold of 0.780728
+Using 0.150000 threshold of 0.743187
+Eliminated 58 points for FPR=0.050000
+Eliminated 45 points for FPR=0.100000
+Eliminated 42 points for FPR=0.150000
+Completed iteration 8
+
+Using 0.050000 threshold of 0.741478
+Using 0.100000 threshold of 0.731977
+Using 0.150000 threshold of 0.633045
+Eliminated 91 points for FPR=0.050000
+Eliminated 88 points for FPR=0.100000
+Eliminated 51 points for FPR=0.150000
+Completed iteration 9
+
+Using 0.050000 threshold of 0.813889
+Using 0.100000 threshold of 0.773915
+Using 0.150000 threshold of 0.676107
+Eliminated 53 points for FPR=0.050000
+Eliminated 50 points for FPR=0.100000
+Eliminated 37 points for FPR=0.150000
+Completed iteration 10
+
+Using 0.050000 threshold of 0.930588
+Using 0.100000 threshold of 0.915555
+Using 0.150000 threshold of 0.857008
+Eliminated 112 points for FPR=0.050000
+Eliminated 102 points for FPR=0.100000
+Eliminated 95 points for FPR=0.150000
+Completed iteration 11
+
+Using 0.050000 threshold of 0.854798
+Using 0.100000 threshold of 0.814947
+Using 0.150000 threshold of 0.745407
+Eliminated 100 points for FPR=0.050000
+Eliminated 91 points for FPR=0.100000
+Eliminated 83 points for FPR=0.150000
+Completed iteration 12
+
+Using 0.050000 threshold of 0.791213
+Using 0.100000 threshold of 0.741151
+Using 0.150000 threshold of 0.684524
+Eliminated 95 points for FPR=0.050000
+Eliminated 87 points for FPR=0.100000
+Eliminated 54 points for FPR=0.150000
+Completed iteration 13
+
+Using 0.050000 threshold of 0.812602
+Using 0.100000 threshold of 0.779744
+Using 0.150000 threshold of 0.699724
+Eliminated 95 points for FPR=0.050000
+Eliminated 71 points for FPR=0.100000
+Eliminated 50 points for FPR=0.150000
+Completed iteration 14
+
+Using 0.050000 threshold of 0.853625
+Using 0.100000 threshold of 0.753895
+Using 0.150000 threshold of 0.705677
+Eliminated 73 points for FPR=0.050000
+Eliminated 64 points for FPR=0.100000
+Eliminated 35 points for FPR=0.150000
+Completed iteration 15
+
+Using 0.050000 threshold of 0.877219
+Using 0.100000 threshold of 0.766699
+Using 0.150000 threshold of 0.661884
+Eliminated 101 points for FPR=0.050000
+Eliminated 81 points for FPR=0.100000
+Eliminated 53 points for FPR=0.150000
+Completed iteration 16
+
+Using 0.050000 threshold of 0.816556
+Using 0.100000 threshold of 0.796549
+Using 0.150000 threshold of 0.746680
+Eliminated 60 points for FPR=0.050000
+Eliminated 60 points for FPR=0.100000
+Eliminated 55 points for FPR=0.150000
+Completed iteration 17
+
+Using 0.050000 threshold of 0.688335
+Using 0.100000 threshold of 0.651258
+Using 0.150000 threshold of 0.577202
+Eliminated 82 points for FPR=0.050000
+Eliminated 60 points for FPR=0.100000
+Eliminated 36 points for FPR=0.150000
+Completed iteration 18
+
+Using 0.050000 threshold of 0.614619
+Using 0.100000 threshold of 0.589235
+Using 0.150000 threshold of 0.557636
+Eliminated 77 points for FPR=0.050000
+Eliminated 48 points for FPR=0.100000
+Eliminated 44 points for FPR=0.150000
+Completed iteration 19
+
+Using 0.050000 threshold of 0.770250
+Using 0.100000 threshold of 0.722625
+Using 0.150000 threshold of 0.716154
+Eliminated 80 points for FPR=0.050000
+Eliminated 77 points for FPR=0.100000
+Eliminated 77 points for FPR=0.150000
+Completed iteration 20
+
+Using 0.050000 threshold of 0.845976
+Using 0.100000 threshold of 0.690924
+Using 0.150000 threshold of 0.661505
+Eliminated 75 points for FPR=0.050000
+Eliminated 39 points for FPR=0.100000
+Eliminated 39 points for FPR=0.150000
+Completed iteration 21
+
+Using 0.050000 threshold of 0.652967
+Using 0.100000 threshold of 0.620908
+Using 0.150000 threshold of 0.540214
+Eliminated 85 points for FPR=0.050000
+Eliminated 76 points for FPR=0.100000
+Eliminated 42 points for FPR=0.150000
+Completed iteration 22
+
+Using 0.050000 threshold of 0.859077
+Using 0.100000 threshold of 0.689282
+Using 0.150000 threshold of 0.627293
+Eliminated 105 points for FPR=0.050000
+Eliminated 71 points for FPR=0.100000
+Eliminated 45 points for FPR=0.150000
+Completed iteration 23
+
+Using 0.050000 threshold of 0.730042
+Using 0.100000 threshold of 0.664050
+Using 0.150000 threshold of 0.620794
+Eliminated 63 points for FPR=0.050000
+Eliminated 49 points for FPR=0.100000
+Eliminated 43 points for FPR=0.150000
+Completed iteration 24
+
+Using 0.050000 threshold of 0.942338
+Using 0.100000 threshold of 0.898821
+Using 0.150000 threshold of 0.879991
+Eliminated 62 points for FPR=0.050000
+Eliminated 57 points for FPR=0.100000
+Eliminated 57 points for FPR=0.150000
+Completed iteration 25
+
+Using 0.050000 threshold of 0.851676
+Using 0.100000 threshold of 0.786414
+Using 0.150000 threshold of 0.564241
+Eliminated 103 points for FPR=0.050000
+Eliminated 80 points for FPR=0.100000
+Eliminated 43 points for FPR=0.150000
+Completed iteration 26
+
+Using 0.050000 threshold of 0.719259
+Using 0.100000 threshold of 0.620550
+Using 0.150000 threshold of 0.609794
+Eliminated 83 points for FPR=0.050000
+Eliminated 59 points for FPR=0.100000
+Eliminated 59 points for FPR=0.150000
+Completed iteration 27
+
+Using 0.050000 threshold of 0.811376
+Using 0.100000 threshold of 0.752018
+Using 0.150000 threshold of 0.692479
+Eliminated 75 points for FPR=0.050000
+Eliminated 71 points for FPR=0.100000
+Eliminated 66 points for FPR=0.150000
+Completed iteration 28
+
+Using 0.050000 threshold of 0.928633
+Using 0.100000 threshold of 0.783878
+Using 0.150000 threshold of 0.742878
+Eliminated 108 points for FPR=0.050000
+Eliminated 56 points for FPR=0.100000
+Eliminated 60 points for FPR=0.150000
+Completed iteration 29
+
+Using 0.050000 threshold of 0.872548
+Using 0.100000 threshold of 0.618849
+Using 0.150000 threshold of 0.546461
+Eliminated 125 points for FPR=0.050000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.827698
+Using 0.100000 threshold of 0.804807
+Using 0.150000 threshold of 0.739006
+Eliminated 108 points for FPR=0.050000
+Eliminated 108 points for FPR=0.100000
+Eliminated 74 points for FPR=0.150000
+Completed iteration 30
+Overall results, FPR=0.050000
+Confidence threshold=0.6
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1870    0.3008    0.3875
+    0.0749    0.1171    0.1522
+    0.0749    0.1171    0.1522
+
+Prediction points: 45.900000 (stddev 20.708735)
+Individual AUCs:
+    0.5667
+    0.8436
+    0.7648
+    0.3333
+    0.2308
+    0.8034
+    0.7334
+    0.7319
+    0.5223
+    0.8330
+    0.7556
+    0.7600
+    0.9286
+    0.8391
+    0.8825
+    0.6667
+    0.8387
+    0.6125
+    0.5625
+    0.8858
+    0.7387
+    0.7317
+    0.7300
+    0.7790
+    0.8252
+    0.4891
+    0.6536
+    0.6522
+    0.5208
+    0.8471
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7021
+
+    0.1640
+
+    0.1640
+
+Precision / Recall macro
+    0.8788    0.1055
+
+Precision / Recall micro
+    0.9159    0.1048
+
+Std devs
+    0.2308    0.0808
+
+Overall results, FPR=0.100000
+Confidence threshold=0.6
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2209    0.3726    0.4608
+    0.0722    0.0989    0.1165
+    0.0722    0.0989    0.1165
+
+Prediction points: 60.500000 (stddev 20.722718)
+Individual AUCs:
+    0.4842
+    0.8304
+    0.7961
+    0.7649
+    0.2750
+    0.8034
+    0.7241
+    0.7293
+    0.5265
+    0.8638
+    0.7913
+    0.7588
+    0.9183
+    0.8980
+    0.8745
+    0.6103
+    0.8387
+    0.7211
+    0.7637
+    0.8680
+    0.7431
+    0.6474
+    0.8050
+    0.7964
+    0.8115
+    0.6369
+    0.7105
+    0.6714
+    0.6102
+    0.8471
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7373
+
+    0.1372
+
+    0.1372
+
+Precision / Recall macro
+    0.9215    0.1620
+
+Precision / Recall micro
+    0.9245    0.1614
+
+Std devs
+    0.1090    0.0951
+
+Overall results, FPR=0.150000
+Confidence threshold=0.6
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2121    0.3416    0.4518
+    0.0647    0.0897    0.1094
+    0.0647    0.0897    0.1094
+
+Prediction points: 74.100000 (stddev 20.416947)
+Individual AUCs:
+    0.5156
+    0.8450
+    0.7289
+    0.7176
+    0.2750
+    0.8770
+    0.7163
+    0.7213
+    0.6692
+    0.8503
+    0.8102
+    0.7195
+    0.9437
+    0.6505
+    0.8269
+    0.7228
+    0.8245
+    0.7144
+    0.7296
+    0.8680
+    0.7431
+    0.6554
+    0.8493
+    0.7799
+    0.8115
+    0.6731
+    0.7105
+    0.6930
+    0.6316
+    0.8764
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7383
+
+    0.1267
+
+    0.1267
+
+Precision / Recall macro
+    0.9124    0.2592
+
+Precision / Recall micro
+    0.9099    0.2591
+
+Std devs
+    0.1066    0.1244
+
+
+Using 0.050000 threshold of 0.644784
+Using 0.100000 threshold of 0.565421
+Using 0.150000 threshold of 0.522485
+Eliminated 76 points for FPR=0.050000
+Eliminated 49 points for FPR=0.100000
+Eliminated 31 points for FPR=0.150000
+Completed iteration 1
+
+Using 0.050000 threshold of 0.824765
+Using 0.100000 threshold of 0.818114
+Using 0.150000 threshold of 0.620641
+Eliminated 76 points for FPR=0.050000
+Eliminated 76 points for FPR=0.100000
+Eliminated 50 points for FPR=0.150000
+Completed iteration 2
+
+Using 0.050000 threshold of 0.814316
+Using 0.100000 threshold of 0.803710
+Using 0.150000 threshold of 0.762069
+Eliminated 76 points for FPR=0.050000
+Eliminated 78 points for FPR=0.100000
+Eliminated 60 points for FPR=0.150000
+Completed iteration 3
+
+Using 0.050000 threshold of 0.632209
+Using 0.100000 threshold of 0.549529
+Using 0.150000 threshold of 0.493180
+Eliminated 35 points for FPR=0.050000
+Eliminated 31 points for FPR=0.100000
+Eliminated 11 points for FPR=0.150000
+Completed iteration 4
+
+Using 0.050000 threshold of 0.806018
+Using 0.100000 threshold of 0.741739
+Using 0.150000 threshold of 0.705317
+Eliminated 79 points for FPR=0.050000
+Eliminated 79 points for FPR=0.100000
+Eliminated 55 points for FPR=0.150000
+Completed iteration 5
+
+Using 0.050000 threshold of 0.847409
+Using 0.100000 threshold of 0.710751
+Using 0.150000 threshold of 0.679356
+Eliminated 97 points for FPR=0.050000
+Eliminated 59 points for FPR=0.100000
+Eliminated 45 points for FPR=0.150000
+Completed iteration 6
+
+Using 0.050000 threshold of 0.782003
+Using 0.100000 threshold of 0.743810
+Using 0.150000 threshold of 0.673629
+Eliminated 91 points for FPR=0.050000
+Eliminated 91 points for FPR=0.100000
+Eliminated 72 points for FPR=0.150000
+Completed iteration 7
+
+Using 0.050000 threshold of 0.796129
+Using 0.100000 threshold of 0.679178
+Using 0.150000 threshold of 0.569374
+Eliminated 64 points for FPR=0.050000
+Eliminated 47 points for FPR=0.100000
+Eliminated 31 points for FPR=0.150000
+Completed iteration 8
+
+Using 0.050000 threshold of 0.672100
+Using 0.100000 threshold of 0.598262
+Using 0.150000 threshold of 0.567874
+Eliminated 71 points for FPR=0.050000
+Eliminated 58 points for FPR=0.100000
+Eliminated 48 points for FPR=0.150000
+Completed iteration 9
+
+Using 0.050000 threshold of 0.743724
+Using 0.100000 threshold of 0.685511
+Using 0.150000 threshold of 0.664721
+Eliminated 122 points for FPR=0.050000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.697820
+Using 0.100000 threshold of 0.649368
+Using 0.150000 threshold of 0.622341
+Eliminated 68 points for FPR=0.050000
+Eliminated 67 points for FPR=0.100000
+Eliminated 70 points for FPR=0.150000
+Completed iteration 10
+
+Using 0.050000 threshold of 0.929212
+Using 0.100000 threshold of 0.810545
+Using 0.150000 threshold of 0.762144
+Eliminated 130 points for FPR=0.050000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.874086
+Using 0.100000 threshold of 0.812518
+Using 0.150000 threshold of 0.767919
+Eliminated 106 points for FPR=0.050000
+Eliminated 89 points for FPR=0.100000
+Eliminated 89 points for FPR=0.150000
+Completed iteration 11
+
+Using 0.050000 threshold of 0.762278
+Using 0.100000 threshold of 0.680318
+Using 0.150000 threshold of 0.646367
+Eliminated 44 points for FPR=0.050000
+Eliminated 41 points for FPR=0.100000
+Eliminated 38 points for FPR=0.150000
+Completed iteration 12
+
+Using 0.050000 threshold of 0.885335
+Using 0.100000 threshold of 0.773998
+Using 0.150000 threshold of 0.677930
+Eliminated 103 points for FPR=0.050000
+Eliminated 103 points for FPR=0.100000
+Eliminated 93 points for FPR=0.150000
+Completed iteration 13
+
+Using 0.050000 threshold of 0.606417
+Using 0.100000 threshold of 0.521185
+Using 0.150000 threshold of 0.510512
+Eliminated 58 points for FPR=0.050000
+Eliminated 25 points for FPR=0.100000
+Eliminated 25 points for FPR=0.150000
+Completed iteration 14
+
+Using 0.050000 threshold of 0.698302
+Using 0.100000 threshold of 0.663175
+Using 0.150000 threshold of 0.650729
+Eliminated 34 points for FPR=0.050000
+Eliminated 35 points for FPR=0.100000
+Eliminated 40 points for FPR=0.150000
+Completed iteration 15
+
+Using 0.050000 threshold of 0.894272
+Using 0.100000 threshold of 0.860351
+Using 0.150000 threshold of 0.802779
+Eliminated 105 points for FPR=0.050000
+Eliminated 99 points for FPR=0.100000
+Eliminated 98 points for FPR=0.150000
+Completed iteration 16
+
+Using 0.050000 threshold of 0.900265
+Using 0.100000 threshold of 0.852491
+Using 0.150000 threshold of 0.643323
+Eliminated 120 points for FPR=0.050000
+Eliminated 120 points for FPR=0.100000
+Eliminated 48 points for FPR=0.150000
+Completed iteration 17
+
+Using 0.050000 threshold of 0.849529
+Using 0.100000 threshold of 0.751476
+Using 0.150000 threshold of 0.701402
+Eliminated 119 points for FPR=0.050000
+Eliminated 106 points for FPR=0.100000
+Eliminated 89 points for FPR=0.150000
+Completed iteration 18
+
+Using 0.050000 threshold of 0.892703
+Using 0.100000 threshold of 0.725031
+Using 0.150000 threshold of 0.693770
+Eliminated 97 points for FPR=0.050000
+Eliminated 68 points for FPR=0.100000
+Eliminated 72 points for FPR=0.150000
+Completed iteration 19
+
+Using 0.050000 threshold of 0.825677
+Using 0.100000 threshold of 0.779507
+Using 0.150000 threshold of 0.773941
+Eliminated 58 points for FPR=0.050000
+Eliminated 52 points for FPR=0.100000
+Eliminated 55 points for FPR=0.150000
+Completed iteration 20
+
+Using 0.050000 threshold of 0.890323
+Using 0.100000 threshold of 0.789830
+Using 0.150000 threshold of 0.713717
+Eliminated 96 points for FPR=0.050000
+Eliminated 86 points for FPR=0.100000
+Eliminated 74 points for FPR=0.150000
+Completed iteration 21
+
+Using 0.050000 threshold of 0.664245
+Using 0.100000 threshold of 0.652765
+Using 0.150000 threshold of 0.591234
+Eliminated 30 points for FPR=0.050000
+Eliminated 30 points for FPR=0.100000
+Eliminated 27 points for FPR=0.150000
+Completed iteration 22
+
+Using 0.050000 threshold of 0.850861
+Using 0.100000 threshold of 0.712946
+Using 0.150000 threshold of 0.678327
+Eliminated 83 points for FPR=0.050000
+Eliminated 42 points for FPR=0.100000
+Eliminated 55 points for FPR=0.150000
+Completed iteration 23
+
+Using 0.050000 threshold of 0.627919
+Using 0.100000 threshold of 0.607614
+Using 0.150000 threshold of 0.601367
+Eliminated 65 points for FPR=0.050000
+Eliminated 47 points for FPR=0.100000
+Eliminated 47 points for FPR=0.150000
+Completed iteration 24
+
+Using 0.050000 threshold of 0.781637
+Using 0.100000 threshold of 0.734394
+Using 0.150000 threshold of 0.684015
+Eliminated 83 points for FPR=0.050000
+Eliminated 73 points for FPR=0.100000
+Eliminated 55 points for FPR=0.150000
+Completed iteration 25
+
+Using 0.050000 threshold of 0.717146
+Using 0.100000 threshold of 0.698934
+Using 0.150000 threshold of 0.687521
+Eliminated 57 points for FPR=0.050000
+Eliminated 56 points for FPR=0.100000
+Eliminated 59 points for FPR=0.150000
+Completed iteration 26
+
+Using 0.050000 threshold of 0.761890
+Using 0.100000 threshold of 0.669092
+Using 0.150000 threshold of 0.655185
+Eliminated 91 points for FPR=0.050000
+Eliminated 79 points for FPR=0.100000
+Eliminated 79 points for FPR=0.150000
+Completed iteration 27
+
+Using 0.050000 threshold of 0.666004
+Using 0.100000 threshold of 0.592289
+Using 0.150000 threshold of 0.567723
+Eliminated 93 points for FPR=0.050000
+Eliminated 89 points for FPR=0.100000
+Eliminated 82 points for FPR=0.150000
+Completed iteration 28
+
+Using 0.050000 threshold of 0.827765
+Using 0.100000 threshold of 0.709190
+Using 0.150000 threshold of 0.667979
+Eliminated 106 points for FPR=0.050000
+Eliminated 76 points for FPR=0.100000
+Eliminated 65 points for FPR=0.150000
+Completed iteration 29
+
+Using 0.050000 threshold of 0.877723
+Using 0.100000 threshold of 0.740892
+Using 0.150000 threshold of 0.581030
+Eliminated 113 points for FPR=0.050000
+Eliminated 99 points for FPR=0.100000
+Eliminated 51 points for FPR=0.150000
+Completed iteration 30
+Overall results, FPR=0.050000
+Confidence threshold=0.7
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2202    0.3246    0.4254
+    0.0727    0.1004    0.1208
+    0.0727    0.1004    0.1208
+
+Prediction points: 50.200000 (stddev 25.028811)
+Individual AUCs:
+    0.7839
+    0.8537
+    0.9259
+    0.6320
+    0.7341
+    0.9143
+    0.5889
+    0.8117
+    0.6825
+    0.7044
+    0.9773
+    0.7273
+    0.8636
+    0.6339
+    0.7617
+    0.9167
+    0.3333
+    0.4167
+    0.8736
+    0.7567
+    0.4762
+    0.6691
+    0.6333
+    0.8506
+    0.6568
+    0.7443
+    0.6357
+    0.8048
+    0.4947
+    0.1364
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.6998
+
+    0.1878
+
+    0.1878
+
+Precision / Recall macro
+    0.8887    0.1191
+
+Precision / Recall micro
+    0.8987    0.1189
+
+Std devs
+    0.2042    0.1051
+
+Overall results, FPR=0.100000
+Confidence threshold=0.7
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2060    0.3481    0.4268
+    0.0585    0.0784    0.1042
+    0.0585    0.0784    0.1042
+
+Prediction points: 61.666667 (stddev 25.259117)
+Individual AUCs:
+    0.7683
+    0.8537
+    0.9545
+    0.6442
+    0.7341
+    0.8235
+    0.5889
+    0.7282
+    0.6770
+    0.6795
+    0.8649
+    0.7321
+    0.8636
+    0.6256
+    0.7542
+    0.9259
+    0.3333
+    0.2540
+    0.7817
+    0.7522
+    0.5353
+    0.6711
+    0.6126
+    0.8228
+    0.6521
+    0.7770
+    0.5942
+    0.8277
+    0.5962
+    0.4600
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.6963
+
+    0.1596
+
+    0.1596
+
+Precision / Recall macro
+    0.9191    0.1803
+
+Precision / Recall micro
+    0.8996    0.1803
+
+Std devs
+    0.0703    0.1144
+
+Overall results, FPR=0.150000
+Confidence threshold=0.7
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2310    0.3664    0.4531
+    0.0554    0.0703    0.0860
+    0.0554    0.0703    0.0860
+
+Prediction points: 72.866667 (stddev 21.709260)
+Individual AUCs:
+    0.7100
+    0.7938
+    0.8851
+    0.6728
+    0.6930
+    0.7969
+    0.6214
+    0.7551
+    0.6776
+    0.7412
+    0.8649
+    0.7302
+    0.7905
+    0.6256
+    0.7591
+    0.9271
+    0.8067
+    0.5758
+    0.8146
+    0.7659
+    0.6000
+    0.6827
+    0.6106
+    0.8228
+    0.6564
+    0.7715
+    0.5942
+    0.8079
+    0.6164
+    0.6212
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7264
+
+    0.0950
+
+    0.0950
+
+Precision / Recall macro
+    0.9179    0.2425
+
+Precision / Recall micro
+    0.8980    0.2424
+
+Std devs
+    0.0727    0.1190
+
+
+Using 0.050000 threshold of 0.856862
+Using 0.100000 threshold of 0.807470
+Using 0.150000 threshold of 0.719087
+Eliminated 106 points for FPR=0.050000
+Eliminated 106 points for FPR=0.100000
+Eliminated 87 points for FPR=0.150000
+Completed iteration 1
+
+Using 0.050000 threshold of 0.618728
+Using 0.100000 threshold of 0.549830
+Using 0.150000 threshold of 0.527037
+Eliminated 50 points for FPR=0.050000
+Eliminated 55 points for FPR=0.100000
+Eliminated 55 points for FPR=0.150000
+Completed iteration 2
+
+Using 0.050000 threshold of 0.689599
+Using 0.100000 threshold of 0.666934
+Using 0.150000 threshold of 0.648882
+Eliminated 57 points for FPR=0.050000
+Eliminated 44 points for FPR=0.100000
+Eliminated 51 points for FPR=0.150000
+Completed iteration 3
+
+Using 0.050000 threshold of 0.870872
+Using 0.100000 threshold of 0.680292
+Using 0.150000 threshold of 0.595895
+Eliminated 125 points for FPR=0.050000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.851309
+Using 0.100000 threshold of 0.738503
+Using 0.150000 threshold of 0.703848
+Eliminated 96 points for FPR=0.050000
+Eliminated 69 points for FPR=0.100000
+Eliminated 64 points for FPR=0.150000
+Completed iteration 4
+
+Using 0.050000 threshold of 0.742321
+Using 0.100000 threshold of 0.552176
+Using 0.150000 threshold of 0.531432
+Eliminated 89 points for FPR=0.050000
+Eliminated 48 points for FPR=0.100000
+Eliminated 48 points for FPR=0.150000
+Completed iteration 5
+
+Using 0.050000 threshold of 0.670645
+Using 0.100000 threshold of 0.565703
+Using 0.150000 threshold of 0.563118
+Eliminated 76 points for FPR=0.050000
+Eliminated 60 points for FPR=0.100000
+Eliminated 67 points for FPR=0.150000
+Completed iteration 6
+
+Using 0.050000 threshold of 0.796207
+Using 0.100000 threshold of 0.739349
+Using 0.150000 threshold of 0.716461
+Eliminated 72 points for FPR=0.050000
+Eliminated 50 points for FPR=0.100000
+Eliminated 50 points for FPR=0.150000
+Completed iteration 7
+
+Using 0.050000 threshold of 0.745698
+Using 0.100000 threshold of 0.720109
+Using 0.150000 threshold of 0.713881
+Eliminated 61 points for FPR=0.050000
+Eliminated 78 points for FPR=0.100000
+Eliminated 78 points for FPR=0.150000
+Completed iteration 8
+
+Using 0.050000 threshold of 0.801862
+Using 0.100000 threshold of 0.770468
+Using 0.150000 threshold of 0.721644
+Eliminated 79 points for FPR=0.050000
+Eliminated 80 points for FPR=0.100000
+Eliminated 80 points for FPR=0.150000
+Completed iteration 9
+
+Using 0.050000 threshold of 0.935514
+Using 0.100000 threshold of 0.804701
+Using 0.150000 threshold of 0.624762
+Eliminated 130 points for FPR=0.050000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.728693
+Using 0.100000 threshold of 0.563073
+Using 0.150000 threshold of 0.547695
+Eliminated 91 points for FPR=0.050000
+Eliminated 26 points for FPR=0.100000
+Eliminated 28 points for FPR=0.150000
+Completed iteration 10
+
+Using 0.050000 threshold of 0.781982
+Using 0.100000 threshold of 0.647157
+Using 0.150000 threshold of 0.619494
+Eliminated 81 points for FPR=0.050000
+Eliminated 47 points for FPR=0.100000
+Eliminated 47 points for FPR=0.150000
+Completed iteration 11
+
+Using 0.050000 threshold of 0.687058
+Using 0.100000 threshold of 0.679963
+Using 0.150000 threshold of 0.630013
+Eliminated 64 points for FPR=0.050000
+Eliminated 61 points for FPR=0.100000
+Eliminated 46 points for FPR=0.150000
+Completed iteration 12
+
+Using 0.050000 threshold of 0.851494
+Using 0.100000 threshold of 0.749659
+Using 0.150000 threshold of 0.728382
+Eliminated 124 points for FPR=0.050000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.799226
+Using 0.100000 threshold of 0.709652
+Using 0.150000 threshold of 0.653083
+Eliminated 70 points for FPR=0.050000
+Eliminated 73 points for FPR=0.100000
+Eliminated 61 points for FPR=0.150000
+Completed iteration 13
+
+Using 0.050000 threshold of 0.698821
+Using 0.100000 threshold of 0.577611
+Using 0.150000 threshold of 0.550982
+Eliminated 92 points for FPR=0.050000
+Eliminated 76 points for FPR=0.100000
+Eliminated 47 points for FPR=0.150000
+Completed iteration 14
+
+Using 0.050000 threshold of 0.711210
+Using 0.100000 threshold of 0.681492
+Using 0.150000 threshold of 0.661814
+Eliminated 79 points for FPR=0.050000
+Eliminated 54 points for FPR=0.100000
+Eliminated 54 points for FPR=0.150000
+Completed iteration 15
+
+Using 0.050000 threshold of 0.726571
+Using 0.100000 threshold of 0.618365
+Using 0.150000 threshold of 0.577930
+Eliminated 68 points for FPR=0.050000
+Eliminated 58 points for FPR=0.100000
+Eliminated 46 points for FPR=0.150000
+Completed iteration 16
+
+Using 0.050000 threshold of 0.732066
+Using 0.100000 threshold of 0.595722
+Using 0.150000 threshold of 0.546800
+Eliminated 50 points for FPR=0.050000
+Eliminated 19 points for FPR=0.100000
+Eliminated 23 points for FPR=0.150000
+Completed iteration 17
+
+Using 0.050000 threshold of 0.961861
+Using 0.100000 threshold of 0.930456
+Using 0.150000 threshold of 0.905662
+Eliminated 120 points for FPR=0.050000
+Eliminated 123 points for FPR=0.100000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.806939
+Using 0.100000 threshold of 0.696595
+Using 0.150000 threshold of 0.677116
+Eliminated 50 points for FPR=0.050000
+Eliminated 36 points for FPR=0.100000
+Eliminated 47 points for FPR=0.150000
+Completed iteration 18
+
+Using 0.050000 threshold of 0.628923
+Using 0.100000 threshold of 0.517215
+Using 0.150000 threshold of 0.493374
+Eliminated 52 points for FPR=0.050000
+Eliminated 39 points for FPR=0.100000
+Eliminated 35 points for FPR=0.150000
+Completed iteration 19
+
+Using 0.050000 threshold of 0.724754
+Using 0.100000 threshold of 0.712656
+Using 0.150000 threshold of 0.634837
+Eliminated 65 points for FPR=0.050000
+Eliminated 65 points for FPR=0.100000
+Eliminated 44 points for FPR=0.150000
+Completed iteration 20
+
+Using 0.050000 threshold of 0.780585
+Using 0.100000 threshold of 0.586188
+Using 0.150000 threshold of 0.548754
+Eliminated 97 points for FPR=0.050000
+Eliminated 49 points for FPR=0.100000
+Eliminated 52 points for FPR=0.150000
+Completed iteration 21
+
+Using 0.050000 threshold of 0.787753
+Using 0.100000 threshold of 0.629423
+Using 0.150000 threshold of 0.612471
+Eliminated 81 points for FPR=0.050000
+Eliminated 54 points for FPR=0.100000
+Eliminated 39 points for FPR=0.150000
+Completed iteration 22
+
+Using 0.050000 threshold of 0.710969
+Using 0.100000 threshold of 0.566667
+Using 0.150000 threshold of 0.559631
+Eliminated 62 points for FPR=0.050000
+Eliminated 39 points for FPR=0.100000
+Eliminated 43 points for FPR=0.150000
+Completed iteration 23
+
+Using 0.050000 threshold of 0.744929
+Using 0.100000 threshold of 0.682681
+Using 0.150000 threshold of 0.677289
+Eliminated 64 points for FPR=0.050000
+Eliminated 57 points for FPR=0.100000
+Eliminated 59 points for FPR=0.150000
+Completed iteration 24
+
+Using 0.050000 threshold of 0.791741
+Using 0.100000 threshold of 0.741769
+Using 0.150000 threshold of 0.711210
+Eliminated 37 points for FPR=0.050000
+Eliminated 52 points for FPR=0.100000
+Eliminated 50 points for FPR=0.150000
+Completed iteration 25
+
+Using 0.050000 threshold of 0.797516
+Using 0.100000 threshold of 0.601340
+Using 0.150000 threshold of 0.563050
+Eliminated 64 points for FPR=0.050000
+Eliminated 42 points for FPR=0.100000
+Eliminated 42 points for FPR=0.150000
+Completed iteration 26
+
+Using 0.050000 threshold of 0.900434
+Using 0.100000 threshold of 0.728484
+Using 0.150000 threshold of 0.691205
+Eliminated 106 points for FPR=0.050000
+Eliminated 76 points for FPR=0.100000
+Eliminated 98 points for FPR=0.150000
+Completed iteration 27
+
+Using 0.050000 threshold of 0.887501
+Using 0.100000 threshold of 0.849979
+Using 0.150000 threshold of 0.762890
+Eliminated 67 points for FPR=0.050000
+Eliminated 68 points for FPR=0.100000
+Eliminated 58 points for FPR=0.150000
+Completed iteration 28
+
+Using 0.050000 threshold of 0.692812
+Using 0.100000 threshold of 0.684453
+Using 0.150000 threshold of 0.660074
+Eliminated 46 points for FPR=0.050000
+Eliminated 34 points for FPR=0.100000
+Eliminated 38 points for FPR=0.150000
+Completed iteration 29
+
+Using 0.050000 threshold of 0.827758
+Using 0.100000 threshold of 0.621727
+Using 0.150000 threshold of 0.547738
+Eliminated 98 points for FPR=0.050000
+Eliminated 36 points for FPR=0.100000
+Eliminated 27 points for FPR=0.150000
+Completed iteration 30
+Overall results, FPR=0.050000
+Confidence threshold=0.8
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2274    0.3282    0.4195
+    0.0455    0.0586    0.0818
+    0.0455    0.0586    0.0818
+
+Prediction points: 57.666667 (stddev 18.566439)
+Individual AUCs:
+    0.7143
+    0.7900
+    0.8063
+    0.6138
+    0.8403
+    0.6938
+    0.8103
+    0.8710
+    0.6683
+    0.7172
+    0.7692
+    0.7037
+    0.7112
+    0.8021
+    0.7143
+    0.6574
+    0.8226
+    0.7724
+    0.6796
+    0.8346
+    0.5645
+    0.8256
+    0.6014
+    0.8075
+    0.7526
+    0.7958
+    0.8864
+    0.9318
+    0.6500
+    0.5143
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7441
+
+    0.0983
+
+    0.0983
+
+Precision / Recall macro
+    0.9414    0.1361
+
+Precision / Recall micro
+    0.9345    0.1357
+
+Std devs
+    0.0641    0.0717
+
+Overall results, FPR=0.100000
+Confidence threshold=0.8
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2314    0.3703    0.4332
+    0.0428    0.0543    0.0633
+    0.0428    0.0543    0.0633
+
+Prediction points: 74.966667 (stddev 18.370673)
+Individual AUCs:
+    0.7143
+    0.8264
+    0.7859
+    0.7564
+    0.6922
+    0.7242
+    0.8166
+    0.9712
+    0.7561
+    0.7201
+    0.6964
+    0.7222
+    0.7465
+    0.8000
+    0.7627
+    0.6438
+    0.7490
+    0.7405
+    0.6500
+    0.8346
+    0.7029
+    0.7517
+    0.6988
+    0.8498
+    0.7175
+    0.7988
+    0.7306
+    0.9200
+    0.6440
+    0.7369
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7553
+
+    0.0742
+
+    0.0742
+
+Precision / Recall macro
+    0.9254    0.2715
+
+Precision / Recall micro
+    0.9131    0.2704
+
+Std devs
+    0.0520    0.1208
+
+Overall results, FPR=0.150000
+Confidence threshold=0.8
+Interpolation failed - throwing out 1 points
+Interpolation failed - throwing out 2 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2521    0.3724    0.4784
+    0.0427    0.0519    0.0679
+    0.0427    0.0519    0.0679
+
+Prediction points: 77.866667 (stddev 17.081414)
+Individual AUCs:
+    0.8316
+    0.8264
+    0.7951
+    0.7307
+    0.6922
+    0.6943
+    0.8166
+    0.9712
+    0.7561
+    0.7080
+    0.7659
+    0.7328
+    0.7486
+    0.8226
+    0.7627
+    0.6923
+    0.7861
+    0.7704
+    0.6480
+    0.7663
+    0.7030
+    0.7500
+    0.7166
+    0.8466
+    0.6860
+    0.7988
+    1.0000
+    0.9097
+    0.6474
+    0.7130
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7696
+
+    0.0842
+
+    0.0842
+
+Precision / Recall macro
+    0.9116    0.3172
+
+Precision / Recall micro
+    0.9006    0.3162
+
+Std devs
+    0.0542    0.1310
+
+
+Using 0.050000 threshold of 0.748547
+Using 0.100000 threshold of 0.669712
+Using 0.150000 threshold of 0.653777
+Eliminated 83 points for FPR=0.050000
+Eliminated 54 points for FPR=0.100000
+Eliminated 49 points for FPR=0.150000
+Completed iteration 1
+
+Using 0.050000 threshold of 0.766258
+Using 0.100000 threshold of 0.684768
+Using 0.150000 threshold of 0.635952
+Eliminated 91 points for FPR=0.050000
+Eliminated 61 points for FPR=0.100000
+Eliminated 63 points for FPR=0.150000
+Completed iteration 2
+
+Using 0.050000 threshold of 0.843690
+Using 0.100000 threshold of 0.646747
+Using 0.150000 threshold of 0.590136
+Eliminated 77 points for FPR=0.050000
+Eliminated 56 points for FPR=0.100000
+Eliminated 36 points for FPR=0.150000
+Completed iteration 3
+
+Using 0.050000 threshold of 0.855099
+Using 0.100000 threshold of 0.732439
+Using 0.150000 threshold of 0.658308
+Eliminated 86 points for FPR=0.050000
+Eliminated 47 points for FPR=0.100000
+Eliminated 72 points for FPR=0.150000
+Completed iteration 4
+
+Using 0.050000 threshold of 0.752053
+Using 0.100000 threshold of 0.669325
+Using 0.150000 threshold of 0.631681
+Eliminated 87 points for FPR=0.050000
+Eliminated 46 points for FPR=0.100000
+Eliminated 46 points for FPR=0.150000
+Completed iteration 5
+
+Using 0.050000 threshold of 0.834859
+Using 0.100000 threshold of 0.735759
+Using 0.150000 threshold of 0.695614
+Eliminated 76 points for FPR=0.050000
+Eliminated 59 points for FPR=0.100000
+Eliminated 42 points for FPR=0.150000
+Completed iteration 6
+
+Using 0.050000 threshold of 0.816722
+Using 0.100000 threshold of 0.761980
+Using 0.150000 threshold of 0.702701
+Eliminated 77 points for FPR=0.050000
+Eliminated 82 points for FPR=0.100000
+Eliminated 75 points for FPR=0.150000
+Completed iteration 7
+
+Using 0.050000 threshold of 0.794873
+Using 0.100000 threshold of 0.696037
+Using 0.150000 threshold of 0.654451
+Eliminated 80 points for FPR=0.050000
+Eliminated 57 points for FPR=0.100000
+Eliminated 60 points for FPR=0.150000
+Completed iteration 8
+
+Using 0.050000 threshold of 0.791004
+Using 0.100000 threshold of 0.672555
+Using 0.150000 threshold of 0.660616
+Eliminated 105 points for FPR=0.050000
+Eliminated 67 points for FPR=0.100000
+Eliminated 71 points for FPR=0.150000
+Completed iteration 9
+
+Using 0.050000 threshold of 0.803257
+Using 0.100000 threshold of 0.733445
+Using 0.150000 threshold of 0.692022
+Eliminated 95 points for FPR=0.050000
+Eliminated 83 points for FPR=0.100000
+Eliminated 71 points for FPR=0.150000
+Completed iteration 10
+
+Using 0.050000 threshold of 0.861916
+Using 0.100000 threshold of 0.736651
+Using 0.150000 threshold of 0.627202
+Eliminated 113 points for FPR=0.050000
+Eliminated 71 points for FPR=0.100000
+Eliminated 52 points for FPR=0.150000
+Completed iteration 11
+
+Using 0.050000 threshold of 0.842805
+Using 0.100000 threshold of 0.792240
+Using 0.150000 threshold of 0.758912
+Eliminated 73 points for FPR=0.050000
+Eliminated 60 points for FPR=0.100000
+Eliminated 60 points for FPR=0.150000
+Completed iteration 12
+
+Using 0.050000 threshold of 0.686286
+Using 0.100000 threshold of 0.641745
+Using 0.150000 threshold of 0.623943
+Eliminated 43 points for FPR=0.050000
+Eliminated 43 points for FPR=0.100000
+Eliminated 61 points for FPR=0.150000
+Completed iteration 13
+
+Using 0.050000 threshold of 0.766457
+Using 0.100000 threshold of 0.679899
+Using 0.150000 threshold of 0.641648
+Eliminated 80 points for FPR=0.050000
+Eliminated 75 points for FPR=0.100000
+Eliminated 68 points for FPR=0.150000
+Completed iteration 14
+
+Using 0.050000 threshold of 0.836551
+Using 0.100000 threshold of 0.789272
+Using 0.150000 threshold of 0.711260
+Eliminated 94 points for FPR=0.050000
+Eliminated 91 points for FPR=0.100000
+Eliminated 67 points for FPR=0.150000
+Completed iteration 15
+
+Using 0.050000 threshold of 0.869604
+Using 0.100000 threshold of 0.646745
+Using 0.150000 threshold of 0.609016
+Eliminated 110 points for FPR=0.050000
+Eliminated 81 points for FPR=0.100000
+Eliminated 72 points for FPR=0.150000
+Completed iteration 16
+
+Using 0.050000 threshold of 0.819517
+Using 0.100000 threshold of 0.733778
+Using 0.150000 threshold of 0.652117
+Eliminated 93 points for FPR=0.050000
+Eliminated 63 points for FPR=0.100000
+Eliminated 68 points for FPR=0.150000
+Completed iteration 17
+
+Using 0.050000 threshold of 0.698397
+Using 0.100000 threshold of 0.628122
+Using 0.150000 threshold of 0.581790
+Eliminated 70 points for FPR=0.050000
+Eliminated 67 points for FPR=0.100000
+Eliminated 64 points for FPR=0.150000
+Completed iteration 18
+
+Using 0.050000 threshold of 0.851067
+Using 0.100000 threshold of 0.799411
+Using 0.150000 threshold of 0.771814
+Eliminated 95 points for FPR=0.050000
+Eliminated 92 points for FPR=0.100000
+Eliminated 92 points for FPR=0.150000
+Completed iteration 19
+
+Using 0.050000 threshold of 0.730552
+Using 0.100000 threshold of 0.627693
+Using 0.150000 threshold of 0.585377
+Eliminated 96 points for FPR=0.050000
+Eliminated 61 points for FPR=0.100000
+Eliminated 58 points for FPR=0.150000
+Completed iteration 20
+
+Using 0.050000 threshold of 0.650407
+Using 0.100000 threshold of 0.608082
+Using 0.150000 threshold of 0.574465
+Eliminated 70 points for FPR=0.050000
+Eliminated 62 points for FPR=0.100000
+Eliminated 69 points for FPR=0.150000
+Completed iteration 21
+
+Using 0.050000 threshold of 0.722195
+Using 0.100000 threshold of 0.618283
+Using 0.150000 threshold of 0.615070
+Eliminated 57 points for FPR=0.050000
+Eliminated 40 points for FPR=0.100000
+Eliminated 61 points for FPR=0.150000
+Completed iteration 22
+
+Using 0.050000 threshold of 0.778212
+Using 0.100000 threshold of 0.712940
+Using 0.150000 threshold of 0.636499
+Eliminated 63 points for FPR=0.050000
+Eliminated 73 points for FPR=0.100000
+Eliminated 42 points for FPR=0.150000
+Completed iteration 23
+
+Using 0.050000 threshold of 0.757706
+Using 0.100000 threshold of 0.657398
+Using 0.150000 threshold of 0.604047
+Eliminated 75 points for FPR=0.050000
+Eliminated 78 points for FPR=0.100000
+Eliminated 79 points for FPR=0.150000
+Completed iteration 24
+
+Using 0.050000 threshold of 0.730425
+Using 0.100000 threshold of 0.687242
+Using 0.150000 threshold of 0.651675
+Eliminated 68 points for FPR=0.050000
+Eliminated 64 points for FPR=0.100000
+Eliminated 76 points for FPR=0.150000
+Completed iteration 25
+
+Using 0.050000 threshold of 0.659786
+Using 0.100000 threshold of 0.625510
+Using 0.150000 threshold of 0.566933
+Eliminated 67 points for FPR=0.050000
+Eliminated 58 points for FPR=0.100000
+Eliminated 44 points for FPR=0.150000
+Completed iteration 26
+
+Using 0.050000 threshold of 0.808722
+Using 0.100000 threshold of 0.780101
+Using 0.150000 threshold of 0.764386
+Eliminated 105 points for FPR=0.050000
+Eliminated 102 points for FPR=0.100000
+Eliminated 102 points for FPR=0.150000
+Completed iteration 27
+
+Using 0.050000 threshold of 1.094704
+Using 0.100000 threshold of 0.916994
+Using 0.150000 threshold of 0.781117
+Eliminated 130 points for FPR=0.050000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.844854
+Using 0.100000 threshold of 0.783720
+Using 0.150000 threshold of 0.583301
+Eliminated 108 points for FPR=0.050000
+Eliminated 99 points for FPR=0.100000
+Eliminated 45 points for FPR=0.150000
+Completed iteration 28
+
+Using 0.050000 threshold of 0.766640
+Using 0.100000 threshold of 0.629216
+Using 0.150000 threshold of 0.585066
+Eliminated 105 points for FPR=0.050000
+Eliminated 77 points for FPR=0.100000
+Eliminated 64 points for FPR=0.150000
+Completed iteration 29
+
+Using 0.050000 threshold of 0.784641
+Using 0.100000 threshold of 0.759448
+Using 0.150000 threshold of 0.714723
+Eliminated 125 points for FPR=0.050000
+Not enough valid test points; skipping iteration.
+
+Using 0.050000 threshold of 0.850790
+Using 0.100000 threshold of 0.764081
+Using 0.150000 threshold of 0.718346
+Eliminated 82 points for FPR=0.050000
+Eliminated 82 points for FPR=0.100000
+Eliminated 69 points for FPR=0.150000
+Completed iteration 30
+Overall results, FPR=0.050000
+Confidence threshold=0.9
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.1947    0.3331    0.4504
+    0.0732    0.1015    0.0933
+    0.0732    0.1015    0.0933
+
+Prediction points: 45.866667 (stddev 16.849708)
+Individual AUCs:
+    0.7016
+    0.7370
+    0.7500
+    0.7097
+    0.6667
+    0.8308
+    0.7722
+    0.7173
+    0.7738
+    0.8851
+    0.5143
+    0.6136
+    0.6734
+    0.8274
+    0.9409
+    0.6800
+    0.6667
+    0.8341
+    0.8226
+    0.4904
+    0.5316
+    0.8031
+    0.7388
+    0.9058
+    0.8699
+    0.6643
+    0.6905
+    0.7544
+    0.4286
+    0.6732
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7223
+
+    0.1229
+
+    0.1229
+
+Precision / Recall macro
+    0.8871    0.1023
+
+Precision / Recall micro
+    0.9201    0.1026
+
+Std devs
+    0.1934    0.0621
+
+Overall results, FPR=0.100000
+Confidence threshold=0.9
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2104    0.3785    0.4921
+    0.0588    0.0743    0.0770
+    0.0588    0.0743    0.0770
+
+Prediction points: 61.633333 (stddev 16.065563)
+Individual AUCs:
+    0.6962
+    0.7779
+    0.6796
+    0.7022
+    0.7445
+    0.6307
+    0.6809
+    0.8148
+    0.8481
+    0.8357
+    0.6829
+    0.6424
+    0.7136
+    0.8218
+    0.9375
+    0.6590
+    0.6974
+    0.8298
+    0.8088
+    0.8126
+    0.5047
+    0.8128
+    0.7796
+    0.8707
+    0.8607
+    0.6832
+    0.6979
+    0.7381
+    0.5373
+    0.8184
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7440
+
+    0.0985
+
+    0.0985
+
+Precision / Recall macro
+    0.9190    0.1887
+
+Precision / Recall micro
+    0.9170    0.1888
+
+Std devs
+    0.0715    0.0842
+
+Overall results, FPR=0.150000
+Confidence threshold=0.9
+Interpolation failed - throwing out 1 points
+TPR Info by Lines: FPR Threshold/TPR/TPR STD ERR/TPR STD
+    0.0500    0.1000    0.1500
+    0.2256    0.3939    0.4955
+    0.0544    0.0719    0.0734
+    0.0544    0.0719    0.0734
+
+Prediction points: 66.733333 (stddev 14.752985)
+Individual AUCs:
+    0.6965
+    0.7697
+    0.6875
+    0.7418
+    0.7445
+    0.7083
+    0.7422
+    0.8057
+    0.8697
+    0.8523
+    0.6891
+    0.6424
+    0.6799
+    0.7005
+    0.9092
+    0.6915
+    0.6592
+    0.8241
+    0.8088
+    0.7973
+    0.4808
+    0.8559
+    0.7793
+    0.8750
+    0.8845
+    0.7431
+    0.6979
+    0.7684
+    0.7791
+    0.7891
+
+p-value (Wilcoxon signed ranked test): 0.000002
+AUC ave err std
+    0.7558
+
+    0.0892
+
+    0.0892
+
+Precision / Recall macro
+    0.9140    0.2519
+
+Precision / Recall micro
+    0.9085    0.2512
+
+Std devs
+    0.0559    0.0835
+
+computation time (s)
+  157.2640
+
